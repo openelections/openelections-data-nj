@@ -1,0 +1,375 @@
+county,office,district,party,candidate,votes
+Burlington,U.S. House,1,Democratic,Donald W. Norcross,3148
+Camden,U.S. House,1,Democratic,Donald W. Norcross,64152
+Gloucester,U.S. House,1,Democratic,Donald W. Norcross,26015
+Burlington,U.S. House,1,Republican,Garry W. Cobb,2244
+Camden,U.S. House,1,Republican,Garry W. Cobb,39668
+Gloucester,U.S. House,1,Republican,Garry W. Cobb,22161
+Burlington,U.S. House,1,Independent,Scot John Tomaszewski,40
+Camden,U.S. House,1,Independent,Scot John Tomaszewski,1507
+Gloucester,U.S. House,1,Independent,Scot John Tomaszewski,237
+Burlington,U.S. House,1,Independent,Robert Shapiro,21
+Camden,U.S. House,1,Independent,Robert Shapiro,920
+Gloucester,U.S. House,1,Independent,Robert Shapiro,193
+Burlington,U.S. House,1,Independent,Margaret M Chapman,20
+Camden,U.S. House,1,Independent,Margaret M Chapman,672
+Gloucester,U.S. House,1,Independent,Margaret M Chapman,411
+Burlington,U.S. House,1,Independent,Mike Berman,9
+Camden,U.S. House,1,Independent,Mike Berman,254
+Gloucester,U.S. House,1,Independent,Mike Berman,371
+Burlington,U.S. House,1,D-R Party,Donald E Letton,7
+Camden,U.S. House,1,D-R Party,Donald E Letton,368
+Gloucester,U.S. House,1,D-R Party,Donald E Letton,74
+Atlantic,U.S. House,2,Republican,Frank A. Lobiondo,36650
+Burlington,U.S. House,2,Republican,Frank A. Lobiondo,409
+Camden,U.S. House,2,Republican,Frank A. Lobiondo,1653
+Cape May,U.S. House,2,Republican,Frank A. Lobiondo,20165
+Cumberland,U.S. House,2,Republican,Frank A. Lobiondo,16344
+Gloucester,U.S. House,2,Republican,Frank A. Lobiondo,13651
+Ocean,U.S. House,2,Republican,Frank A. Lobiondo,8031
+Salem,U.S. House,2,Republican,Frank A. Lobiondo,11972
+Atlantic,U.S. House,2,Democratic,William J. Hughes Jr.,26697
+Burlington,U.S. House,2,Democratic,William J. Hughes Jr.,163
+Camden,U.S. House,2,Democratic,William J. Hughes Jr.,864
+Cape May,U.S. House,2,Democratic,William J. Hughes Jr.,9580
+Cumberland,U.S. House,2,Democratic,William J. Hughes Jr.,11892
+Gloucester,U.S. House,2,Democratic,William J. Hughes Jr.,7451
+Ocean,U.S. House,2,Democratic,William J. Hughes Jr.,3438
+Salem,U.S. House,2,Democratic,William J. Hughes Jr.,5941
+Atlantic,U.S. House,2,D-R Party,Alexander H Spano,274
+Burlington,U.S. House,2,D-R Party,Alexander H Spano,1
+Camden,U.S. House,2,D-R Party,Alexander H Spano,6
+Cape May,U.S. House,2,D-R Party,Alexander H Spano,70
+Cumberland,U.S. House,2,D-R Party,Alexander H Spano,86
+Gloucester,U.S. House,2,D-R Party,Alexander H Spano,114
+Ocean,U.S. House,2,D-R Party,Alexander H Spano,87
+Salem,U.S. House,2,D-R Party,Alexander H Spano,25
+Atlantic,U.S. House,2,Independent,Gary Stein,187
+Burlington,U.S. House,2,Independent,Gary Stein,0
+Camden,U.S. House,2,Independent,Gary Stein,5
+Cape May,U.S. House,2,Independent,Gary Stein,60
+Cumberland,U.S. House,2,Independent,Gary Stein,97
+Gloucester,U.S. House,2,Independent,Gary Stein,50
+Ocean,U.S. House,2,Independent,Gary Stein,30
+Salem,U.S. House,2,Independent,Gary Stein,183
+Atlantic,U.S. House,2,American Labor Party,Costantino Rozzo,222
+Burlington,U.S. House,2,American Labor Party,Costantino Rozzo,1
+Camden,U.S. House,2,American Labor Party,Costantino Rozzo,11
+Cape May,U.S. House,2,American Labor Party,Costantino Rozzo,59
+Cumberland,U.S. House,2,American Labor Party,Costantino Rozzo,77
+Gloucester,U.S. House,2,American Labor Party,Costantino Rozzo,60
+Ocean,U.S. House,2,American Labor Party,Costantino Rozzo,22
+Salem,U.S. House,2,American Labor Party,Costantino Rozzo,49
+Atlantic,U.S. House,2,Independent,Bayode Olabisi,131
+Burlington,U.S. House,2,Independent,Bayode Olabisi,1
+Camden,U.S. House,2,Independent,Bayode Olabisi,6
+Cape May,U.S. House,2,Independent,Bayode Olabisi,78
+Cumberland,U.S. House,2,Independent,Bayode Olabisi,61
+Gloucester,U.S. House,2,Independent,Bayode Olabisi,44
+Ocean,U.S. House,2,Independent,Bayode Olabisi,46
+Salem,U.S. House,2,Independent,Bayode Olabisi,104
+Burlington,U.S. House,3,Republican,Tom Macarthur,54953
+Ocean,U.S. House,3,Republican,Tom Macarthur,45518
+Burlington,U.S. House,3,Democratic,Aimee Belgard,55305
+Ocean,U.S. House,3,Democratic,Aimee Belgard,27232
+Burlington,U.S. House,3,D-R Party,Frederick John Lavergne,1015
+Ocean,U.S. House,3,D-R Party,Frederick John Lavergne,2080
+Mercer,U.S. House,4,Republican,Christopher H. Smith,15630
+Monmouth,U.S. House,4,Republican,Christopher H. Smith,66308
+Ocean,U.S. House,4,Republican,Christopher H. Smith,36888
+Mercer,U.S. House,4,Democratic,Ruben M. Scolavino,7948
+Monmouth,U.S. House,4,Democratic,Ruben M. Scolavino,34651
+Ocean,U.S. House,4,Democratic,Ruben M. Scolavino,11816
+Mercer,U.S. House,4,D-R Party,Scott Neuman,342
+Monmouth,U.S. House,4,D-R Party,Scott Neuman,549
+Ocean,U.S. House,4,D-R Party,Scott Neuman,717
+Bergen,U.S. House,5,Republican,Scott Garrett,71318
+Passaic,U.S. House,5,Republican,Scott Garrett,6387
+Sussex,U.S. House,5,Republican,Scott Garrett,16310
+Warren,U.S. House,5,Republican,Scott Garrett,10663
+Bergen,U.S. House,5,Democratic,Roy Cho,66771
+Passaic,U.S. House,5,Democratic,Roy Cho,3233
+Sussex,U.S. House,5,Democratic,Roy Cho,7128
+Warren,U.S. House,5,Democratic,Roy Cho,4676
+Bergen,U.S. House,5,Independent,Mark D Quick,1133
+Passaic,U.S. House,5,Independent,Mark D Quick,179
+Sussex,U.S. House,5,Independent,Mark D Quick,642
+Warren,U.S. House,5,Independent,Mark D Quick,481
+Middlesex,U.S. House,6,Democratic,Frank Pallone Jr. ,48471
+Monmouth,U.S. House,6,Democratic,Frank Pallone Jr. ,23719
+Middlesex,U.S. House,6,Republican,Anthony E. Wilkinson,25519
+Monmouth,U.S. House,6,Republican,Anthony E. Wilkinson,21372
+Middlesex,U.S. House,6,Libertarian Party,Dorit Goikhman,677
+Monmouth,U.S. House,6,Libertarian Party,Dorit Goikhman,699
+Essex,U.S. House,7,Republican,Leonard Lance,2396
+Hunterdon,U.S. House,7,Republican,Leonard Lance,23016
+Morris,U.S. House,7,Republican,Leonard Lance,15698
+Somerset,U.S. House,7,Republican,Leonard Lance,33693
+Union,U.S. House,7,Republican,Leonard Lance,24683
+Warren,U.S. House,7,Republican,Leonard Lance,4801
+Essex,U.S. House,7,Democratic,Janice Kovach,2431
+Hunterdon,U.S. House,7,Democratic,Janice Kovach,12707
+Morris,U.S. House,7,Democratic,Janice Kovach,8843
+Somerset,U.S. House,7,Democratic,Janice Kovach,22241
+Union,U.S. House,7,Democratic,Janice Kovach,19416
+Warren,U.S. House,7,Democratic,Janice Kovach,2594
+Essex,U.S. House,7,Libertarian Party,James Gawron,64
+Hunterdon,U.S. House,7,Libertarian Party,James Gawron,1033
+Morris,U.S. House,7,Libertarian Party,James Gawron,422
+Somerset,U.S. House,7,Libertarian Party,James Gawron,816
+Union,U.S. House,7,Libertarian Party,James Gawron,803
+Warren,U.S. House,7,Libertarian Party,James Gawron,340
+Bergen,U.S. House,8,Democratic,Albio Sires,1189
+Essex,U.S. House,8,Democratic,Albio Sires,9099
+Hudson,U.S. House,8,Democratic,Albio Sires,42889
+Union,U.S. House,8,Democratic,Albio Sires,8333
+Bergen,U.S. House,8,Republican,Jude Anthony Tiscornia,373
+Essex,U.S. House,8,Republican,Jude Anthony Tiscornia,2358
+Hudson,U.S. House,8,Republican,Jude Anthony Tiscornia,10671
+Union,U.S. House,8,Republican,Jude Anthony Tiscornia,1739
+Bergen,U.S. House,8,Independent,Herbert H Shaw,6
+Essex,U.S. House,8,Independent,Herbert H Shaw,88
+Hudson,U.S. House,8,Independent,Herbert H Shaw,1023
+Union,U.S. House,8,Independent,Herbert H Shaw,75
+Bergen,U.S. House,8,Independent,Pablo Olivera,27
+Essex,U.S. House,8,Independent,Pablo Olivera,282
+Hudson,U.S. House,8,Independent,Pablo Olivera,528
+Union,U.S. House,8,Independent,Pablo Olivera,185
+Bergen,U.S. House,8,Independent,Robert Thorne,11
+Essex,U.S. House,8,Independent,Robert Thorne,163
+Hudson,U.S. House,8,Independent,Robert Thorne,390
+Union,U.S. House,8,Independent,Robert Thorne,89
+Bergen,U.S. House,9,Democratic,Bill Pascrell Jr.,44410
+Hudson,U.S. House,9,Democratic,Bill Pascrell Jr.,3101
+Passaic,U.S. House,9,Democratic,Bill Pascrell Jr.,34987
+Bergen,U.S. House,9,Republican,Dierdre G. Paul,25635
+Hudson,U.S. House,9,Republican,Dierdre G. Paul,1791
+Passaic,U.S. House,9,Republican,Dierdre G. Paul,8820
+Bergen,U.S. House,9,Independent,Nestor Montilla,754
+Hudson,U.S. House,9,Independent,Nestor Montilla,207
+Passaic,U.S. House,9,Independent,Nestor Montilla,754
+Essex,U.S. House,10,Democratic,Donald M. Payne Jr.,59989
+Hudson,U.S. House,10,Democratic,Donald M. Payne Jr.,14866
+Union,U.S. House,10,Democratic,Donald M. Payne Jr.,20879
+Essex,U.S. House,10,Republican,Yolanda Dentley,5469
+Hudson,U.S. House,10,Republican,Yolanda Dentley,2748
+Union,U.S. House,10,Republican,Yolanda Dentley,5937
+Essex,U.S. House,10,Independent,Gwendolyn A. Franklin,703
+Hudson,U.S. House,10,Independent,Gwendolyn A. Franklin,273
+Union,U.S. House,10,Independent,Gwendolyn A. Franklin,261
+Essex,U.S. House,10,Independent,Dark Angel,391
+Hudson,U.S. House,10,Independent,Dark Angel,266
+Union,U.S. House,10,Independent,Dark Angel,341
+Essex,U.S. House,11,Republican,Rodney P. Frelinghuysen,22924
+Morris,U.S. House,11,Republican,Rodney P. Frelinghuysen,58640
+Passaic,U.S. House,11,Republican,Rodney P. Frelinghuysen,19525
+Sussex,U.S. House,11,Republican,Rodney P. Frelinghuysen,8366
+Essex,U.S. House,11,Democratic,Mark Dunec,21386
+Morris,U.S. House,11,Democratic,Mark Dunec,29778
+Passaic,U.S. House,11,Democratic,Mark Dunec,10938
+Sussex,U.S. House,11,Democratic,Mark Dunec,3375
+Mercer,U.S. House,12,Democratic,Bonnie Watson Coleman,38168
+Middlesex,U.S. House,12,Democratic,Bonnie Watson Coleman,30796
+Somerset,U.S. House,12,Democratic,Bonnie Watson Coleman,10699
+Union,U.S. House,12,Democratic,Bonnie Watson Coleman,10767
+Mercer,U.S. House,12,Republican,Alieta Eck,15739
+Middlesex,U.S. House,12,Republican,Alieta Eck,26917
+Somerset,U.S. House,12,Republican,Alieta Eck,7006
+Union,U.S. House,12,Republican,Alieta Eck,4506
+Mercer,U.S. House,12,Legalize Marijuana Party,Don Dezarn,380
+Middlesex,U.S. House,12,Legalize Marijuana Party,Don Dezarn,581
+Somerset,U.S. House,12,Legalize Marijuana Party,Don Dezarn,200
+Union,U.S. House,12,Legalize Marijuana Party,Don Dezarn,169
+Mercer,U.S. House,12,Green Party,Steven Welzer,388
+Middlesex,U.S. House,12,Green Party,Steven Welzer,267
+Somerset,U.S. House,12,Green Party,Steven Welzer,180
+Union,U.S. House,12,Green Party,Steven Welzer,55
+Mercer,U.S. House,12,Independent,Kenneth J. Cody,190
+Middlesex,U.S. House,12,Independent,Kenneth J. Cody,266
+Somerset,U.S. House,12,Independent,Kenneth J. Cody,70
+Union,U.S. House,12,Independent,Kenneth J. Cody,41
+Mercer,U.S. House,12,Independent,Jack Freudenheim,140
+Middlesex,U.S. House,12,Independent,Jack Freudenheim,306
+Somerset,U.S. House,12,Independent,Jack Freudenheim,39
+Union,U.S. House,12,Independent,Jack Freudenheim,46
+Mercer,U.S. House,12,D-R Party,Allen J Cannon,306
+Middlesex,U.S. House,12,D-R Party,Allen J Cannon,88
+Somerset,U.S. House,12,D-R Party,Allen J Cannon,30
+Union,U.S. House,12,D-R Party,Allen J Cannon,26
+Burlington,U.S. House,1,Democratic,Donald W. Norcross,3002
+Camden,U.S. House,1,Democratic,Donald W. Norcross,65010
+Gloucester,U.S. House,1,Democratic,Donald W. Norcross,24774
+Burlington,U.S. House,1,Republican,Garry W Cobb,2225
+Camden,U.S. House,1,Republican,Garry W Cobb,40097
+Gloucester,U.S. House,1,Republican,Garry W Cobb,21405
+Burlington,U.S. House,1,Independent,Scot John Tomaszewski,46
+Camden,U.S. House,1,Independent,Scot John Tomaszewski,1552
+Gloucester,U.S. House,1,Independent,Scot John Tomaszewski,775
+Burlington,U.S. House,1,Independent,Robert Shapiro,47
+Camden,U.S. House,1,Independent,Robert Shapiro,1171
+Gloucester,U.S. House,1,Independent,Robert Shapiro,429
+Burlington,U.S. House,1,D-R Party,Donald E Letton,10
+Camden,U.S. House,1,D-R Party,Donald E Letton,616
+Gloucester,U.S. House,1,D-R Party,Donald E Letton,116
+Atlantic,U.S. Senate,,Democratic,Cory Booker,32566
+Bergen,U.S. Senate,,Democratic,Cory Booker,124409
+Burlington,U.S. Senate,,Democratic,Cory Booker,64730
+Camden,U.S. Senate,,Democratic,Cory Booker,73881
+Cape May,U.S. Senate,,Democratic,Cory Booker,11572
+Cumberland,U.S. Senate,,Democratic,Cory Booker,14830
+Essex,U.S. Senate,,Democratic,Cory Booker,106472
+Gloucester,U.S. Senate,,Democratic,Cory Booker,37131
+Hudson,U.S. Senate,,Democratic,Cory Booker,68165
+Hunterdon,U.S. Senate,,Democratic,Cory Booker,14241
+Mercer,U.S. Senate,,Democratic,Cory Booker,52476
+Middlesex,U.S. Senate,,Democratic,Cory Booker,83732
+Monmouth,U.S. Senate,,Democratic,Cory Booker,67011
+Morris,U.S. Senate,,Democratic,Cory Booker,49920
+Ocean,U.S. Senate,,Democratic,Cory Booker,55631
+Passaic,U.S. Senate,,Democratic,Cory Booker,52533
+Salem,U.S. Senate,,Democratic,Cory Booker,8060
+Somerset,U.S. Senate,,Democratic,Cory Booker,37124
+Sussex,U.S. Senate,,Democratic,Cory Booker,12722
+Union,U.S. Senate,,Democratic,Cory Booker,68051
+Warren,U.S. Senate,,Democratic,Cory Booker,8609
+Atlantic,U.S. Senate,,Republican,Jeff Bell,29422
+Bergen,U.S. Senate,,Republican,Jeff Bell,89597
+Burlington,U.S. Senate,,Republican,Jeff Bell,52721
+Camden,U.S. Senate,,Republican,Jeff Bell,37543
+Cape May,U.S. Senate,,Republican,Jeff Bell,16178
+Cumberland,U.S. Senate,,Republican,Jeff Bell,12455
+Essex,U.S. Senate,,Republican,Jeff Bell,29527
+Gloucester,U.S. Senate,,Republican,Jeff Bell,31717
+Hudson,U.S. Senate,,Republican,Jeff Bell,16707
+Hunterdon,U.S. Senate,,Republican,Jeff Bell,21709
+Mercer,U.S. Senate,,Republican,Jeff Bell,25749
+Middlesex,U.S. Senate,,Republican,Jeff Bell,53679
+Monmouth,U.S. Senate,,Republican,Jeff Bell,79417
+Morris,U.S. Senate,,Republican,Jeff Bell,64688
+Ocean,U.S. Senate,,Republican,Jeff Bell,79254
+Passaic,U.S. Senate,,Republican,Jeff Bell,32612
+Salem,U.S. Senate,,Republican,Jeff Bell,9304
+Somerset,U.S. Senate,,Republican,Jeff Bell,37835
+Sussex,U.S. Senate,,Republican,Jeff Bell,22292
+Union,U.S. Senate,,Republican,Jeff Bell,34741
+Warren,U.S. Senate,,Republican,Jeff Bell,14150
+Atlantic,U.S. Senate,,Libertarian Party,Joseph Baratelli,572
+Bergen,U.S. Senate,,Libertarian Party,Joseph Baratelli,1828
+Burlington,U.S. Senate,,Libertarian Party,Joseph Baratelli,907
+Camden,U.S. Senate,,Libertarian Party,Joseph Baratelli,742
+Cape May,U.S. Senate,,Libertarian Party,Joseph Baratelli,106
+Cumberland,U.S. Senate,,Libertarian Party,Joseph Baratelli,199
+Essex,U.S. Senate,,Libertarian Party,Joseph Baratelli,826
+Gloucester,U.S. Senate,,Libertarian Party,Joseph Baratelli,900
+Hudson,U.S. Senate,,Libertarian Party,Joseph Baratelli,576
+Hunterdon,U.S. Senate,,Libertarian Party,Joseph Baratelli,472
+Mercer,U.S. Senate,,Libertarian Party,Joseph Baratelli,762
+Middlesex,U.S. Senate,,Libertarian Party,Joseph Baratelli,986
+Monmouth,U.S. Senate,,Libertarian Party,Joseph Baratelli,1561
+Morris,U.S. Senate,,Libertarian Party,Joseph Baratelli,1037
+Ocean,U.S. Senate,,Libertarian Party,Joseph Baratelli,1584
+Passaic,U.S. Senate,,Libertarian Party,Joseph Baratelli,525
+Salem,U.S. Senate,,Libertarian Party,Joseph Baratelli,260
+Somerset,U.S. Senate,,Libertarian Party,Joseph Baratelli,803
+Sussex,U.S. Senate,,Libertarian Party,Joseph Baratelli,599
+Union,U.S. Senate,,Libertarian Party,Joseph Baratelli,1128
+Warren,U.S. Senate,,Libertarian Party,Joseph Baratelli,348
+Atlantic,U.S. Senate,,Independent,Hank Schroeder,213
+Bergen,U.S. Senate,,Independent,Hank Schroeder,374
+Burlington,U.S. Senate,,Independent,Hank Schroeder,254
+Camden,U.S. Senate,,Independent,Hank Schroeder,293
+Cape May,U.S. Senate,,Independent,Hank Schroeder,62
+Cumberland,U.S. Senate,,Independent,Hank Schroeder,68
+Essex,U.S. Senate,,Independent,Hank Schroeder,253
+Gloucester,U.S. Senate,,Independent,Hank Schroeder,182
+Hudson,U.S. Senate,,Independent,Hank Schroeder,194
+Hunterdon,U.S. Senate,,Independent,Hank Schroeder,151
+Mercer,U.S. Senate,,Independent,Hank Schroeder,286
+Middlesex,U.S. Senate,,Independent,Hank Schroeder,629
+Monmouth,U.S. Senate,,Independent,Hank Schroeder,565
+Morris,U.S. Senate,,Independent,Hank Schroeder,275
+Ocean,U.S. Senate,,Independent,Hank Schroeder,428
+Passaic,U.S. Senate,,Independent,Hank Schroeder,510
+Salem,U.S. Senate,,Independent,Hank Schroeder,52
+Somerset,U.S. Senate,,Independent,Hank Schroeder,263
+Sussex,U.S. Senate,,Independent,Hank Schroeder,182
+Union,U.S. Senate,,Independent,Hank Schroeder,220
+Warren,U.S. Senate,,Independent,Hank Schroeder,250
+Atlantic,U.S. Senate,,Independent,Jeff Boss,178
+Bergen,U.S. Senate,,Independent,Jeff Boss,418
+Burlington,U.S. Senate,,Independent,Jeff Boss,262
+Camden,U.S. Senate,,Independent,Jeff Boss,129
+Cape May,U.S. Senate,,Independent,Jeff Boss,75
+Cumberland,U.S. Senate,,Independent,Jeff Boss,128
+Essex,U.S. Senate,,Independent,Jeff Boss,394
+Gloucester,U.S. Senate,,Independent,Jeff Boss,103
+Hudson,U.S. Senate,,Independent,Jeff Boss,411
+Hunterdon,U.S. Senate,,Independent,Jeff Boss,146
+Mercer,U.S. Senate,,Independent,Jeff Boss,116
+Middlesex,U.S. Senate,,Independent,Jeff Boss,323
+Monmouth,U.S. Senate,,Independent,Jeff Boss,324
+Morris,U.S. Senate,,Independent,Jeff Boss,262
+Ocean,U.S. Senate,,Independent,Jeff Boss,97
+Passaic,U.S. Senate,,Independent,Jeff Boss,222
+Salem,U.S. Senate,,Independent,Jeff Boss,326
+Somerset,U.S. Senate,,Independent,Jeff Boss,217
+Sussex,U.S. Senate,,Independent,Jeff Boss,88
+Union,U.S. Senate,,Independent,Jeff Boss,139
+Warren,U.S. Senate,,Independent,Jeff Boss,155
+Atlantic,U.S. Senate,,D-R Party,Eugene Martin Lavergne,256
+Bergen,U.S. Senate,,D-R Party,Eugene Martin Lavergne,161
+Burlington,U.S. Senate,,D-R Party,Eugene Martin Lavergne,238
+Camden,U.S. Senate,,D-R Party,Eugene Martin Lavergne,211
+Cape May,U.S. Senate,,D-R Party,Eugene Martin Lavergne,68
+Cumberland,U.S. Senate,,D-R Party,Eugene Martin Lavergne,83
+Essex,U.S. Senate,,D-R Party,Eugene Martin Lavergne,148
+Gloucester,U.S. Senate,,D-R Party,Eugene Martin Lavergne,86
+Hudson,U.S. Senate,,D-R Party,Eugene Martin Lavergne,716
+Hunterdon,U.S. Senate,,D-R Party,Eugene Martin Lavergne,34
+Mercer,U.S. Senate,,D-R Party,Eugene Martin Lavergne,222
+Middlesex,U.S. Senate,,D-R Party,Eugene Martin Lavergne,110
+Monmouth,U.S. Senate,,D-R Party,Eugene Martin Lavergne,228
+Morris,U.S. Senate,,D-R Party,Eugene Martin Lavergne,72
+Ocean,U.S. Senate,,D-R Party,Eugene Martin Lavergne,808
+Passaic,U.S. Senate,,D-R Party,Eugene Martin Lavergne,56
+Salem,U.S. Senate,,D-R Party,Eugene Martin Lavergne,32
+Somerset,U.S. Senate,,D-R Party,Eugene Martin Lavergne,58
+Sussex,U.S. Senate,,D-R Party,Eugene Martin Lavergne,58
+Union,U.S. Senate,,D-R Party,Eugene Martin Lavergne,174
+Warren,U.S. Senate,,D-R Party,Eugene Martin Lavergne,71
+Atlantic,U.S. Senate,,Independent,Antonio N. Sabas,100
+Bergen,U.S. Senate,,Independent,Antonio N. Sabas,423
+Burlington,U.S. Senate,,Independent,Antonio N. Sabas,94
+Camden,U.S. Senate,,Independent,Antonio N. Sabas,355
+Cape May,U.S. Senate,,Independent,Antonio N. Sabas,118
+Cumberland,U.S. Senate,,Independent,Antonio N. Sabas,59
+Essex,U.S. Senate,,Independent,Antonio N. Sabas,354
+Gloucester,U.S. Senate,,Independent,Antonio N. Sabas,185
+Hudson,U.S. Senate,,Independent,Antonio N. Sabas,212
+Hunterdon,U.S. Senate,,Independent,Antonio N. Sabas,61
+Mercer,U.S. Senate,,Independent,Antonio N. Sabas,138
+Middlesex,U.S. Senate,,Independent,Antonio N. Sabas,196
+Monmouth,U.S. Senate,,Independent,Antonio N. Sabas,185
+Morris,U.S. Senate,,Independent,Antonio N. Sabas,161
+Ocean,U.S. Senate,,Independent,Antonio N. Sabas,165
+Passaic,U.S. Senate,,Independent,Antonio N. Sabas,195
+Salem,U.S. Senate,,Independent,Antonio N. Sabas,63
+Somerset,U.S. Senate,,Independent,Antonio N. Sabas,107
+Sussex,U.S. Senate,,Independent,Antonio N. Sabas,119
+Union,U.S. Senate,,Independent,Antonio N. Sabas,194
+Warren,U.S. Senate,,Independent,Antonio N. Sabas,60
+Burlington,U.S. House,,Donald W. Norcross,Democratic,3002
+Camden,U.S. House,,Donald W. Norcross,Democratic,65010
+Gloucester,U.S. House,,Donald W. Norcross,Democratic,24774
+Burlington,U.S. House,,Garry W Cobb,Republican,2225
+Camden,U.S. House,,Garry W Cobb,Republican,40097
+Gloucester,U.S. House,,Garry W Cobb,Republican,21405
+Burlington,U.S. House,,Scot John Tomaszewski,Independent,46
+Camden,U.S. House,,Scot John Tomaszewski,Independent,1552
+Gloucester,U.S. House,,Scot John Tomaszewski,Independent,775
+Burlington,U.S. House,,Robert Shapiro,Independent,47
+Camden,U.S. House,,Robert Shapiro,Independent,1171
+Gloucester,U.S. House,,Robert Shapiro,Independent,429
+Burlington,U.S. House,,Donald E Letton,D-R Party,10
+Camden,U.S. House,,Donald E Letton,D-R Party,616
+Gloucester  D-R Party,U.S. House,,Donald E Letton,D-R Party,116
