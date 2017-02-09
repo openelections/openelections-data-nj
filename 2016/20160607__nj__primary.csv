@@ -1,0 +1,254 @@
+candidate,office,district,party,county ,votes
+Donald J. Trump,President,,Republican,Atlantic ,12238
+Donald J. Trump,President,,Republican,Bergen ,35622
+Donald J. Trump,President,,Republican,Burlington ,21175
+Donald J. Trump,President,,Republican,Camden ,13458
+Donald J. Trump,President,,Republican,Cape May ,8362
+Donald J. Trump,President,,Republican,Cumberland ,4957
+Donald J. Trump,President,,Republican,Essex ,11833
+Donald J. Trump,President,,Republican,Gloucester ,11888
+Donald J. Trump,President,,Republican,Hudson ,6619
+Donald J. Trump,President,,Republican,Hunterdon ,12473
+Donald J. Trump,President,,Republican,Mercer ,8704
+Donald J. Trump,President,,Republican,Middlesex ,21076
+Donald J. Trump,President,,Republican,Monmouth ,35351
+Donald J. Trump,President,,Republican,Morris ,38308
+Donald J. Trump,President,,Republican,Ocean ,44810
+Donald J. Trump,President,,Republican,Passaic ,16738
+Donald J. Trump,President,,Republican,Salem ,3006
+Donald J. Trump,President,,Republican,Somerset ,16978
+Donald J. Trump,President,,Republican,Sussex ,14055
+Donald J. Trump,President,,Republican,Union ,12506
+Donald J. Trump,President,,Republican,Warren ,10055
+John R. Kasich,President,,Republican,Atlantic ,1726
+John R. Kasich,President,,Republican,Bergen ,5432
+John R. Kasich,President,,Republican,Burlington ,4529
+John R. Kasich,President,,Republican,Camden ,2691
+John R. Kasich,President,,Republican,Cape May ,1451
+John R. Kasich,President,,Republican,Cumberland ,591
+John R. Kasich,President,,Republican,Essex ,2235
+John R. Kasich,President,,Republican,Gloucester ,1793
+John R. Kasich,President,,Republican,Hudson ,930
+John R. Kasich,President,,Republican,Hunterdon ,3052
+John R. Kasich,President,,Republican,Mercer ,2292
+John R. Kasich,President,,Republican,Middlesex ,2580
+John R. Kasich,President,,Republican,Monmouth ,4483
+John R. Kasich,President,,Republican,Morris ,9308
+John R. Kasich,President,,Republican,Ocean ,3749
+John R. Kasich,President,,Republican,Passaic ,1830
+John R. Kasich,President,,Republican,Salem ,463
+John R. Kasich,President,,Republican,Somerset ,4167
+John R. Kasich,President,,Republican,Sussex ,1990
+John R. Kasich,President,,Republican,Union ,3130
+John R. Kasich,President,,Republican,Warren ,1444
+Ted Cruz,President,,Republican,Atlantic ,1066
+Ted Cruz,President,,Republican,Bergen ,2532
+Ted Cruz,President,,Republican,Burlington ,2015
+Ted Cruz,President,,Republican,Camden ,1750
+Ted Cruz,President,,Republican,Cape May ,730
+Ted Cruz,President,,Republican,Cumberland ,441
+Ted Cruz,President,,Republican,Essex ,858
+Ted Cruz,President,,Republican,Gloucester ,1163
+Ted Cruz,President,,Republican,Hudson ,783
+Ted Cruz,President,,Republican,Hunterdon ,897
+Ted Cruz,President,,Republican,Mercer ,907
+Ted Cruz,President,,Republican,Middlesex ,1356
+Ted Cruz,President,,Republican,Monmouth ,1990
+Ted Cruz,President,,Republican,Morris ,3139
+Ted Cruz,President,,Republican,Ocean ,2369
+Ted Cruz,President,,Republican,Passaic ,1238
+Ted Cruz,President,,Republican,Salem ,381
+Ted Cruz,President,,Republican,Somerset ,1355
+Ted Cruz,President,,Republican,Sussex ,1180
+Ted Cruz,President,,Republican,Union ,955
+Ted Cruz,President,,Republican,Warren ,769
+Hillary Clinton,President,,Democratic,Atlantic ,13556
+Hillary Clinton,President,,Democratic,Bergen ,57319
+Hillary Clinton,President,,Democratic,Burlington ,33166
+Hillary Clinton,President,,Democratic,Camden ,44400
+Hillary Clinton,President,,Democratic,Cape May ,3969
+Hillary Clinton,President,,Democratic,Cumberland ,6894
+Hillary Clinton,President,,Democratic,Essex ,77836
+Hillary Clinton,President,,Democratic,Gloucester ,18011
+Hillary Clinton,President,,Democratic,Hudson ,50875
+Hillary Clinton,President,,Democratic,Hunterdon ,5794
+Hillary Clinton,President,,Democratic,Mercer ,29650
+Hillary Clinton,President,,Democratic,Middlesex ,48202
+Hillary Clinton,President,,Democratic,Monmouth ,30967
+Hillary Clinton,President,,Democratic,Morris ,24285
+Hillary Clinton,President,,Democratic,Ocean ,19663
+Hillary Clinton,President,,Democratic,Passaic ,29997
+Hillary Clinton,President,,Democratic,Salem ,2821
+Hillary Clinton,President,,Democratic,Somerset ,19838
+Hillary Clinton,President,,Democratic,Sussex ,3986
+Hillary Clinton,President,,Democratic,Union ,41605
+Hillary Clinton,President,,Democratic,Warren ,3413
+Bernie Sanders,President,,Democratic,Atlantic ,8805
+Bernie Sanders,President,,Democratic,Bergen ,32994
+Bernie Sanders,President,,Democratic,Burlington ,19461
+Bernie Sanders,President,,Democratic,Camden ,26905
+Bernie Sanders,President,,Democratic,Cape May ,3269
+Bernie Sanders,President,,Democratic,Cumberland ,3847
+Bernie Sanders,President,,Democratic,Essex ,28679
+Bernie Sanders,President,,Democratic,Gloucester ,14082
+Bernie Sanders,President,,Democratic,Hudson ,25815
+Bernie Sanders,President,,Democratic,Hunterdon ,5362
+Bernie Sanders,President,,Democratic,Mercer ,15276
+Bernie Sanders,President,,Democratic,Middlesex ,30800
+Bernie Sanders,President,,Democratic,Monmouth ,22360
+Bernie Sanders,President,,Democratic,Morris ,17355
+Bernie Sanders,President,,Democratic,Ocean ,16424
+Bernie Sanders,President,,Democratic,Passaic ,14356
+Bernie Sanders,President,,Democratic,Salem ,2175
+Bernie Sanders,President,,Democratic,Somerset ,12385
+Bernie Sanders,President,,Democratic,Sussex ,5303
+Bernie Sanders,President,,Democratic,Union ,18853
+Bernie Sanders,President,,Democratic,Warren ,3552
+Donald W. Norcross,U.S. House,1,Democratic,Burlington ,2234
+Donald W. Norcross,U.S. House,1,Democratic,Camden ,38693
+Donald W. Norcross,U.S. House,1,Democratic,Gloucester ,15826
+Alex Law,U.S. House,1,Democratic,Burlington ,758
+Alex Law,U.S. House,1,Democratic,Camden ,18822
+Alex Law,U.S. House,1,Democratic,Gloucester ,4406
+Bob Patterson,U.S. House,1,Republican,Burlington ,1034
+Bob Patterson,U.S. House,1,Republican,Camden ,14784
+Bob Patterson,U.S. House,1,Republican,Gloucester ,7995
+Frank A. Lobiondo,U.S. House,2,Republican,Atlantic ,13133
+Frank A. Lobiondo,U.S. House,2,Republican,Burlington ,199
+Frank A. Lobiondo,U.S. House,2,Republican,Camden ,528
+Frank A. Lobiondo,U.S. House,2,Republican,Cape May ,8565
+Frank A. Lobiondo,U.S. House,2,Republican,Cumberland ,4488
+Frank A. Lobiondo,U.S. House,2,Republican,Gloucester ,5204
+Frank A. Lobiondo,U.S. House,2,Republican,Ocean ,4097
+Frank A. Lobiondo,U.S. House,2,Republican,Salem ,3699
+David H. Cole,U.S. House,2,Democratic,Atlantic ,13973
+David H. Cole,U.S. House,2,Democratic,Burlington ,58
+David H. Cole,U.S. House,2,Democratic,Camden ,566
+David H. Cole,U.S. House,2,Democratic,Cape May ,4227
+David H. Cole,U.S. House,2,Democratic,Cumberland ,6297
+David H. Cole,U.S. House,2,Democratic,Gloucester ,5116
+David H. Cole,U.S. House,2,Democratic,Ocean ,1948
+David H. Cole,U.S. House,2,Democratic,Salem ,1776
+"Costantino ""Tino"" Rozzo",U.S. House,2,Democratic,Atlantic ,2165
+"Costantino ""Tino"" Rozzo",U.S. House,2,Democratic,Burlington ,21
+"Costantino ""Tino"" Rozzo",U.S. House,2,Democratic,Camden ,107
+"Costantino ""Tino"" Rozzo",U.S. House,2,Democratic,Cape May ,764
+"Costantino ""Tino"" Rozzo",U.S. House,2,Democratic,Cumberland ,1372
+"Costantino ""Tino"" Rozzo",U.S. House,2,Democratic,Gloucester ,463
+"Costantino ""Tino"" Rozzo",U.S. House,2,Democratic,Ocean ,275
+"Costantino ""Tino"" Rozzo",U.S. House,2,Democratic,Salem ,2765
+Tom MacArthur,U.S. House,3,Republican,Burlington ,22288
+Tom MacArthur,U.S. House,3,Republican,Ocean ,23976
+Frederick John Lavergne,U.S. House,3,Democratic,Burlington ,29621
+Frederick John Lavergne,U.S. House,3,Democratic,Ocean ,3342
+Jim Keady,U.S. House,3,Democratic,Burlington ,7634
+Jim Keady,U.S. House,3,Democratic,Ocean ,11892
+Christopher H. Smith,U.S. House,4,Republican,Mercer ,4307
+Christopher H. Smith,U.S. House,4,Republican,Monmouth ,23612
+Christopher H. Smith,U.S. House,4,Republican,Ocean ,13870
+Bruce C. MacDonald,U.S. House,4,Republican,Mercer ,329
+Bruce C. MacDonald,U.S. House,4,Republican,Monmouth ,2451
+Bruce C. MacDonald,U.S. House,4,Republican,Ocean ,865
+Lorna Phillipson,U.S. House,4,Democratic,Mercer ,6915
+Lorna Phillipson,U.S. House,4,Democratic,Monmouth ,24688
+Lorna Phillipson,U.S. House,4,Democratic,Ocean ,8925
+Scott Garrett,U.S. House,5,Republican,Bergen ,23239
+Scott Garrett,U.S. House,5,Republican,Passaic ,3464
+Scott Garrett,U.S. House,5,Republican,Sussex ,9095
+Scott Garrett,U.S. House,5,Republican,Warren ,6381
+Michael J. Cino,U.S. House,5,Republican,Bergen ,2552
+Michael J. Cino,U.S. House,5,Republican,Passaic ,142
+Michael J. Cino,U.S. House,5,Republican,Sussex ,1428
+Michael J. Cino,U.S. House,5,Republican,Warren ,762
+Peter Vallorosi,U.S. House,5,Republican,Bergen ,956
+Peter Vallorosi,U.S. House,5,Republican,Passaic ,247
+Peter Vallorosi,U.S. House,5,Republican,Sussex ,1714
+Peter Vallorosi,U.S. House,5,Republican,Warren ,1335
+Joshua S. Gottheimer,U.S. House,5,Democratic,Bergen ,32969
+Joshua S. Gottheimer,U.S. House,5,Democratic,Passaic ,1772
+Joshua S. Gottheimer,U.S. House,5,Democratic,Sussex ,5086
+Joshua S. Gottheimer,U.S. House,5,Democratic,Warren ,3423
+Frank Pallone Jr.,U.S. House,6,Democratic,Middlesex ,37010
+Frank Pallone Jr.,U.S. House,6,Democratic,Monmouth ,15221
+Brent Sonnek-Schmelz,U.S. House,6,Republican,Middlesex ,9289
+Brent Sonnek-Schmelz,U.S. House,6,Republican,Monmouth ,8567
+Leonard Lance,U.S. House,7,Republican,Essex ,584
+Leonard Lance,U.S. House,7,Republican,Hunterdon ,9007
+Leonard Lance,U.S. House,7,Republican,Morris ,3747
+Leonard Lance,U.S. House,7,Republican,Somerset ,11007
+Leonard Lance,U.S. House,7,Republican,Union ,5500
+Leonard Lance,U.S. House,7,Republican,Warren ,1962
+David Larsen,U.S. House,7,Republican,Essex ,214
+David Larsen,U.S. House,7,Republican,Hunterdon ,5282
+David Larsen,U.S. House,7,Republican,Morris ,3539
+David Larsen,U.S. House,7,Republican,Somerset ,6336
+David Larsen,U.S. House,7,Republican,Union ,2849
+David Larsen,U.S. House,7,Republican,Warren ,1205
+Craig P. Heard,U.S. House,7,Republican,Essex ,38
+Craig P. Heard,U.S. House,7,Republican,Hunterdon ,1823
+Craig P. Heard,U.S. House,7,Republican,Morris ,3567
+Craig P. Heard,U.S. House,7,Republican,Somerset ,1448
+Craig P. Heard,U.S. House,7,Republican,Union ,507
+Craig P. Heard,U.S. House,7,Republican,Warren ,391
+Peter Jacob,U.S. House,7,Democratic,Essex ,732
+Peter Jacob,U.S. House,7,Democratic,Hunterdon ,8505
+Peter Jacob,U.S. House,7,Democratic,Morris ,5735
+Peter Jacob,U.S. House,7,Democratic,Somerset ,16308
+Peter Jacob,U.S. House,7,Democratic,Union ,12744
+Peter Jacob,U.S. House,7,Democratic,Warren ,2128
+Albio Sires,U.S. House,8,Democratic,Bergen ,577
+Albio Sires,U.S. House,8,Democratic,Essex ,6725
+Albio Sires,U.S. House,8,Democratic,Hudson ,32806
+Albio Sires,U.S. House,8,Democratic,Union ,5880
+Eloy J. Delgado,U.S. House,8,Democratic,Bergen ,59
+Eloy J. Delgado,U.S. House,8,Democratic,Essex ,973
+Eloy J. Delgado,U.S. House,8,Democratic,Hudson ,5073
+Eloy J. Delgado,U.S. House,8,Democratic,Union ,828
+Agha Khan,U.S. House,8,Republican,Bergen ,103
+Agha Khan,U.S. House,8,Republican,Essex ,791
+Agha Khan,U.S. House,8,Republican,Hudson ,3723
+Agha Khan,U.S. House,8,Republican,Union ,62
+Bill Pascrell Jr.,U.S. House,9,Democratic,Bergen ,23236
+Bill Pascrell Jr.,U.S. House,9,Democratic,Hudson ,2573
+Bill Pascrell Jr.,U.S. House,9,Democratic,Passaic ,21862
+Hector L. Castillo,U.S. House,9,Republican,Bergen ,8209
+Hector L. Castillo,U.S. House,9,Republican,Hudson ,605
+Hector L. Castillo,U.S. House,9,Republican,Passaic ,3943
+Donald M. Payne Jr.,U.S. House,10,Democratic,Essex ,47944
+Donald M. Payne Jr.,U.S. House,10,Democratic,Hudson ,12682
+Donald M. Payne Jr.,U.S. House,10,Democratic,Union ,14549
+David H. Pinckney,U.S. House,10,Republican,Essex ,1545
+David H. Pinckney,U.S. House,10,Republican,Hudson ,1032
+David H. Pinckney,U.S. House,10,Republican,Union ,818
+Rodney P. Frelinghuysen,U.S. House,11,Republican,Essex ,7073
+Rodney P. Frelinghuysen,U.S. House,11,Republican,Morris ,26977
+Rodney P. Frelinghuysen,U.S. House,11,Republican,Passaic ,7198
+Rodney P. Frelinghuysen,U.S. House,11,Republican,Sussex ,3370
+Rick Van Glahn,U.S. House,11,Republican,Essex ,1407
+Rick Van Glahn,U.S. House,11,Republican,Morris ,9282
+Rick Van Glahn,U.S. House,11,Republican,Passaic ,1564
+Rick Van Glahn,U.S. House,11,Republican,Sussex ,1656
+Joseph M. Wenzel,U.S. House,11,Democratic,Essex ,13288
+Joseph M. Wenzel,U.S. House,11,Democratic,Morris ,15769
+Joseph M. Wenzel,U.S. House,11,Democratic,Passaic ,5132
+Joseph M. Wenzel,U.S. House,11,Democratic,Sussex ,499
+Richard Mcfarlane,U.S. House,11,Democratic,Essex ,2280
+Richard Mcfarlane,U.S. House,11,Democratic,Morris ,3381
+Richard Mcfarlane,U.S. House,11,Democratic,Passaic ,1546
+Richard Mcfarlane,U.S. House,11,Democratic,Sussex ,1544
+Lee Anne Brogowski,U.S. House,11,Democratic,Essex ,1333
+Lee Anne Brogowski,U.S. House,11,Democratic,Morris ,3132
+Lee Anne Brogowski,U.S. House,11,Democratic,Passaic ,354
+Lee Anne Brogowski,U.S. House,11,Democratic,Sussex ,980
+Bonnie Watson Coleman,U.S. House,12,Democratic,Mercer ,27931
+Bonnie Watson Coleman,U.S. House,12,Democratic,Middlesex ,22510
+Bonnie Watson Coleman,U.S. House,12,Democratic,Somerset ,8455
+Bonnie Watson Coleman,U.S. House,12,Democratic,Union ,7583
+Alexander J. Kucsma,U.S. House,12,Democratic,Mercer ,1680
+Alexander J. Kucsma,U.S. House,12,Democratic,Middlesex ,1491
+Alexander J. Kucsma,U.S. House,12,Democratic,Somerset ,649
+Alexander J. Kucsma,U.S. House,12,Democratic,Union ,705
+Steven J. Uccio,U.S. House,12,Republican,Mercer ,4729
+Steven J. Uccio,U.S. House,12,Republican,Middlesex ,10037
+Steven J. Uccio,U.S. House,12,Republican,Somerset ,2852
+Steven J. Uccio,U.S. House,12,Republican,Union ,1022
