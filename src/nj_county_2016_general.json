@@ -1,0 +1,11 @@
+{
+    "output_directory":"../../working/",
+    "output_file":"20161108__nj__general.csv",
+    "president": {
+        "input_directory":"../../openelections-sources-nj/2016/general/csv/",
+        "input_files": [
+            "tabula-2016-gen-elect-presidential-results-atlantic.csv",
+            "tabula-2016-gen-elect-presidential-results-bergen.csv"
+            ]
+        }
+}
