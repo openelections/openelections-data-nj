@@ -42,11 +42,29 @@ def doesJsonKeyExist( p_config, p_key ):
 def get_county_name(p_infile):
     return
 
+def clean_text_values(p_text):
+    clean_text = p_text.replace('"', '')
+    return clean_text
+
+def populate_candidate_party_lists( p_candidateList, p_partyList, p_header):
+    counter = 0
+    value0 = ""
+    value1 = ""
+    for value in p_header.split('|'):
+        if counter == 0:
+            value0 = clean_text_values(value)
+        elif counter == 1:
+            value1 = clean_text_values(value)
+        counter = counter + 1
+    if counter > 1:
+        p_candidateList.append(value0)
+        p_partyList.append(value1)
+    return
+
 def process_header_line( p_candidateList, p_partyList, p_line):
     working = p_line.replace('\r', '|')
     for header in working.split(","):
-        for value in header.split('|'):
-            print ' --Value: ' + value
+        populate_candidate_party_lists(p_candidateList, p_partyList, header)
     return
 
 def process_data_line():
