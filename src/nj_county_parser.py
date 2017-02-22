@@ -29,8 +29,65 @@ def openOutputFile( p_config ):
         sys.exit('ERROR: Could not open output file: ' + full_output_file)
     return f
 
+def print_header( p_outfile):
+    p_outfile.write('county,office,district,party,candidate,votes\n')
+    return
+
+def doesJsonKeyExist( p_config, p_key ):
+    key_exists = True
+    if p_key not in p_config:
+        key_exists = False
+    return key_exists
+
+def get_county_name(p_infile):
+    return
+
+def process_header_line( p_candidateList, p_partyList, p_line):
+    working = p_line.replace('\r', '|')
+    for header in working.split(","):
+        for value in header.split('|'):
+            print ' --Value: ' + value
+    return
+
+def process_data_line():
+    return
+
+def process_single_file(p_config, p_outfile, p_infile):
+    counter = 0
+    candidateList = []
+    partyList = []
+    if os.path.isfile(p_infile) != True:
+        print 'ERROR: Input File ' + p_infile + ' does not exist'
+    else:
+        with open(p_infile) as file_reader:
+            for line in file_reader:
+                counter = counter + 1
+                if counter == 1:
+                    process_header_line(candidateList, partyList, line)
+                else:
+                    process_data_line
+    return
+
+def process_input_files(p_config, p_outfile, p_config_key):
+    input_path = p_config[p_config_key]['input_directory']
+    race_data = p_config[p_config_key]
+    for input_file in race_data['input_files']:
+        full_input_file = os.path.join(input_path, input_file["file"])
+        process_single_file(input_file, p_outfile, full_input_file)
+    return
+
+def process_single_race( p_config, p_outfile, p_config_key):
+    if doesJsonKeyExist(p_config, p_config_key):
+        print ' Found data for ' + p_config_key + '. Processing this race.'
+        process_input_files(p_config, p_outfile, p_config_key)
+    else:
+        print ' Config file doesn\'t contain data for ' + p_config_key + '. Skipping this race.'
+    return
+
 def process_config_data(p_config, p_outfile):
-    print 'processing!'
+    print_header(p_outfile)
+    process_single_race(p_config, p_outfile, 'president')
+    #process_single_race(p_config, p_outfile, 'senate')
     return
 
 validateArgs( args )
@@ -39,6 +96,6 @@ out_file = openOutputFile(config)
 try:
     process_config_data(config, out_file)
 except:
-    print 'ERROR:' + sys.exc_info()[0]
+    print sys.exc_info()[0]
     out_file.close()
 
