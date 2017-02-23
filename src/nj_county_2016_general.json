@@ -131,5 +131,106 @@
                     "district":""
                }
             ]
+        },
+    "us_house":{
+        "input_directory":"../../openelections-sources-nj/2016/general/csv/",
+        "input_files": [
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district1-burlington.csv",
+                    "county":"Burlington",
+                    "district":"1"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district1-camden.csv",
+                    "county":"Camden",
+                    "district":"1"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district1-gloucester.csv",
+                    "county":"Gloucester",
+                    "district":"1"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district2-atlantic.csv",
+                    "county":"Atlantic",
+                    "district":"2"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district2-burlington.csv",
+                    "county":"Burlington",
+                    "district":"2"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district2-camden.csv",
+                    "county":"Camden",
+                    "district":"2"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district2-cape-may.csv",
+                    "county":"Cape May",
+                    "district":"2"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district2-Cumberland.csv",
+                    "county":"Cumberland",
+                    "district":"2"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district2-gloucester.csv",
+                    "county":"Gloucester",
+                    "district":"2"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district2-ocean.csv",
+                    "county":"Ocean",
+                    "district":"2"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district2-salem.csv",
+                    "county":"Salem",
+                    "district":"2"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district3-burlington.csv",
+                    "county":"Burlington",
+                    "district":"3"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district3-ocean.csv",
+                    "county":"Ocean",
+                    "district":"3"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district4-mercer.csv",
+                    "county":"Mercer",
+                    "district":"4"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district4-monmouth.csv",
+                    "county":"Monmouth",
+                    "district":"4"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district4-ocean.csv",
+                    "county":"Ocean",
+                    "district":"4"
+                }
+            ]
         }
 }

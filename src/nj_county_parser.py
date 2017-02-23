@@ -81,7 +81,7 @@ def process_header_line( p_candidateList, p_partyList, p_line):
     return
 
 def process_data_line( p_candidateList, p_partyList, p_line, p_outfile, p_config):
-    if "TOTAL" in p_line[0]:
+    if "TOTAL" in p_line[0].upper():
         print_county_totals(p_candidateList, p_partyList, p_line, p_outfile, p_config)
     return
 
@@ -121,7 +121,7 @@ def process_single_race( p_config, p_outfile, p_config_key):
 def process_config_data(p_config, p_outfile):
     print_header(p_outfile)
     process_single_race(p_config, p_outfile, 'president')
-    #process_single_race(p_config, p_outfile, 'senate')
+    process_single_race(p_config, p_outfile, 'us_house')
     return
 
 validateArgs( args )
