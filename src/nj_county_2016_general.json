@@ -230,6 +230,120 @@
                     "file":"tabula-2016-municipality-hor-district4-ocean.csv",
                     "county":"Ocean",
                     "district":"4"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district5-bergen.csv",
+                    "county":"Bergen",
+                    "district":"5"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district5-passaic.csv",
+                    "county":"Passaic",
+                    "district":"5"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district5-sussex.csv",
+                    "county":"Sussex",
+                    "district":"5"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district5-warren.csv",
+                    "county":"Warren",
+                    "district":"5"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district6-middlesex.csv",
+                    "county":"Middlesex",
+                    "district":"6"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district6-monmouth.csv",
+                    "county":"Monmouth",
+                    "district":"6"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district7-essex.csv",
+                    "county":"Essex",
+                    "district":"7"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district7-hunterdon.csv",
+                    "county":"Hunterdon",
+                    "district":"7"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district7-morris.csv",
+                    "county":"Morris",
+                    "district":"7"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district7-somerset.csv",
+                    "county":"Somerset",
+                    "district":"7"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district7-union.csv",
+                    "county":"Union",
+                    "district":"7"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district7-warren.csv",
+                    "county":"Warren",
+                    "district":"7"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district8-bergen.csv",
+                    "county":"Bergen",
+                    "district":"8"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district8-essex.csv",
+                    "county":"Essex",
+                    "district":"8"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district8-hudson.csv",
+                    "county":"Hudson",
+                    "district":"8"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district8-union.csv",
+                    "county":"Union",
+                    "district":"8"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district9-bergen.csv",
+                    "county":"Bergen",
+                    "district":"9"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district9-hudson.csv",
+                    "county":"Hudson",
+                    "district":"9"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district9-passaic.csv",
+                    "county":"Passaic",
+                    "district":"9"
                 }
             ]
         }
