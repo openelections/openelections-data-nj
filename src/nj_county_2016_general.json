@@ -344,6 +344,72 @@
                     "file":"tabula-2016-municipality-hor-district9-passaic.csv",
                     "county":"Passaic",
                     "district":"9"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district10-essex.csv",
+                    "county":"Essex",
+                    "district":"10"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district10-hudson.csv",
+                    "county":"Hudson",
+                    "district":"10"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district10-union.csv",
+                    "county":"Union",
+                    "district":"10"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district11-essex.csv",
+                    "county":"Essex",
+                    "district":"11"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district11-morris.csv",
+                    "county":"Morris",
+                    "district":"11"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district11-passaic.csv",
+                    "county":"Passaic",
+                    "district":"11"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district11-sussex.csv",
+                    "county":"Sussex",
+                    "district":"11"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district12-mercer.csv",
+                    "county":"Mercer",
+                    "district":"12"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district12-middlesex.csv",
+                    "county":"Middlesex",
+                    "district":"12"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district12-somerset.csv",
+                    "county":"Somerset",
+                    "district":"12"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district12-union.csv",
+                    "county":"Union",
+                    "district":"12"
                 }
             ]
         }
