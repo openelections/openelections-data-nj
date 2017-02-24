@@ -64,8 +64,16 @@ def populate_candidate_party_lists( p_candidateList, p_partyList, p_header):
     return
 
 def print_county_totals( p_candidateList, p_partyList, p_line, p_outfile, p_config):
+    valid_column = p_config['columns'].split(",")
     for i in range(len(p_line)):
+        print_value=False
         if i > 0:
+            if p_config['columns'] == '*':
+                print_value=True
+            else:   
+                if str(i) in valid_column:
+                    print_value=True
+        if print_value == True:
             p_outfile.writerow((p_config['county'], 
                                 p_config['office'],
                                 p_config['district'],
@@ -75,7 +83,7 @@ def print_county_totals( p_candidateList, p_partyList, p_line, p_outfile, p_conf
                                ))
     return
 
-def process_header_line( p_candidateList, p_partyList, p_line):
+def process_header_line( p_candidateList, p_partyList, p_line, p_config):
     for header in p_line:
         populate_candidate_party_lists(p_candidateList, p_partyList, header)
     return
@@ -97,7 +105,7 @@ def process_single_file(p_config, p_outfile, p_infile):
             for line in csvreader:
                 counter = counter + 1
                 if counter == 1:
-                    process_header_line(candidateList, partyList, line)
+                    process_header_line(candidateList, partyList, line, p_config)
                 else:
                     process_data_line(candidateList, partyList, line, p_outfile, p_config)
     return
@@ -122,6 +130,8 @@ def process_config_data(p_config, p_outfile):
     print_header(p_outfile)
     process_single_race(p_config, p_outfile, 'president')
     process_single_race(p_config, p_outfile, 'us_house')
+    process_single_race(p_config, p_outfile, 'nj_senate')
+    process_single_race(p_config, p_outfile, 'nj_assembly')
     return
 
 validateArgs( args )
