@@ -7,10 +7,13 @@ import json
 import csv
 
 arg_parser = argparse.ArgumentParser(description='Parse New Jersey Count data.')
-arg_parser.add_argument('configfile', type=str, nargs=1)
+arg_parser.add_argument('configfile', type=str, nargs=1) 
+arg_parser.add_argument('--muni', help='run in municipality mode', action='store_true')
 args = arg_parser.parse_args()
 
 def validateArgs( p_args ):
+    if args.muni:
+        print ' ***** Running in Municipality Mode *****'
     if os.path.isfile(args.configfile[0]) != True:
         sys.exit('ERROR: Config File ' + args.configfile[0] + ' does not exist')
     else:
@@ -26,13 +29,16 @@ def openOutputFile( p_config ):
     full_output_file = os.path.join(p_config['output_directory'], p_config['output_file'])
     try:
         f = open( full_output_file, 'w') 
-        writer = csv.writer(f, quoting=csv.QUOTE_NONE)
+        writer = csv.writer(f, quoting=csv.QUOTE_MINIMAL)
     except:
         sys.exit('ERROR: Could not open output file: ' + full_output_file)
     return writer
 
 def print_header( p_outfile):
-    p_outfile.writerow( ('county','office','district','party','candidate','votes') )
+    if args.muni:
+        p_outfile.writerow( ('county','municipality','office','district','party','candidate','votes') )
+    else:
+        p_outfile.writerow( ('county','office','district','party','candidate','votes') )
     return
 
 def doesJsonKeyExist( p_config, p_key ):
@@ -83,14 +89,40 @@ def print_county_totals( p_candidateList, p_partyList, p_line, p_outfile, p_conf
                                ))
     return
 
+def print_muni_totals( p_candidateList, p_partyList, p_line, p_outfile, p_config):
+    valid_column = p_config['columns'].split(",")
+    print 'Muni name is ' + p_line[0]
+    for i in range(len(p_line)):
+        print_value=False
+        if i > 0:
+            if p_config['columns'] == '*':
+                print_value=True
+            else:   
+                if str(i) in valid_column:
+                    print_value=True
+        if print_value == True:
+            p_outfile.writerow((p_config['county'], 
+                                p_line[0],
+                                p_config['office'],
+                                p_config['district'],
+                                p_partyList[i-1], 
+                                p_candidateList[i-1], 
+                                clean_text_values(p_line[i]) 
+                               ))
+    return
+
 def process_header_line( p_candidateList, p_partyList, p_line, p_config):
     for header in p_line:
         populate_candidate_party_lists(p_candidateList, p_partyList, header)
     return
 
 def process_data_line( p_candidateList, p_partyList, p_line, p_outfile, p_config):
-    if "TOTAL" in p_line[0].upper():
-        print_county_totals(p_candidateList, p_partyList, p_line, p_outfile, p_config)
+    if args.muni:
+        if "TOTAL" not in p_line[0].upper():
+            print_muni_totals(p_candidateList, p_partyList, p_line, p_outfile, p_config)
+    else:
+        if "TOTAL" in p_line[0].upper():
+            print_county_totals(p_candidateList, p_partyList, p_line, p_outfile, p_config)
     return
 
 def process_single_file(p_config, p_outfile, p_infile):
