@@ -5,13 +5,11 @@ import argparse
 import csv
 from nj_common import *
 
-c_file = None
-m_file = None
-
 def main():
 
     args = handle_arguments()
     process_county_file(args, '../2016/20161108__nj__general.csv')
+    process_muni_file(args, '../2016/20161108__nj__general__municipal.csv')
 
 def handle_arguments():
     arg_parser = argparse.ArgumentParser(description='Validate New Jersey 2016 county and muni data')
@@ -24,7 +22,7 @@ def process_county_file(args, in_file):
     error_count = 0;
 
     verifier = VerifyCounty(in_file, args.verbose, args.case)   
-    verifier.calc_column_indexes()
+    verifier.calc_county_column_indexes()
     error_count += verifier.verify_counties()
     error_count += verifier.verify_offices()
     error_count += verifier.verify_districts()
@@ -33,6 +31,23 @@ def process_county_file(args, in_file):
     error_count += verifier.verify_candidate_district_relationship()
 
     print 'There were ' + str(error_count) + ' invalid values in the County File.'
+
+    return
+
+def process_muni_file(args, in_file):
+
+    error_count = 0;
+
+    verifier = VerifyMuni(in_file, args.verbose, args.case)   
+    verifier.calc_muni_column_indexes()
+    error_count += verifier.verify_counties()
+    error_count += verifier.verify_offices()
+    error_count += verifier.verify_districts()
+    error_count += verifier.verify_candidate_party_relationship()
+    error_count += verifier.verify_candidate_office_relationship()
+    error_count += verifier.verify_candidate_district_relationship()
+
+    print 'There were ' + str(error_count) + ' invalid values in the Municipality File.'
 
     return
 
