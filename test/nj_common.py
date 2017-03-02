@@ -105,6 +105,7 @@ class VerifyBase:
         self.votes_index = -1
         self.c_file = open(self.file_name, 'rb')
         self.c_reader = csv.reader(self.c_file, delimiter = ',', quotechar = '"')
+        self.__calc_base_column_indexes()
 
     def get_candidate_index(self):
         return self.candidate_index
@@ -121,7 +122,7 @@ class VerifyBase:
     def get_votes_index(self):
         return self.votes_index
 
-    def find_header_index(self, header_value, input_row):
+    def __find_header_index(self, header_value, input_row):
         return_value = -1
         index = 0
         for value in input_row:
@@ -133,6 +134,20 @@ class VerifyBase:
                     return_value = index
             index += 1
         return return_value
+
+    def __calc_base_column_indexes(self):
+    
+        for row in self.c_reader:
+            if self.candidate_index == -1:
+                self.candidate_index = self.__find_header_index("candidate", row)
+            if self.office_index == -1:
+                self.office_index = self.__find_header_index("office", row)
+            if self.district_index == -1:
+                self.district_index = self.__find_header_index("district", row)
+            if self.party_index == -1:
+                self.party_index = self.__find_header_index("party", row)
+            if self.votes_index == -1:
+                self.votes_index = self.__find_header_index("votes", row)
 
     def __verify_office_value(self, office_value):
         return_value = False
@@ -234,7 +249,8 @@ class VerifyBase:
             if len(cand_district_dict[candidate]) > 1:
                 error_count += 1
                 if self.verbose:
-                    print candidate + ' is associated to multiple districts: ' + str(cand_district_dict[candidate])
+                    print candidate + ' is associated to multiple districts: ' + \
+                                      str(cand_district_dict[candidate])
         return error_count
 
     def verify_candidate_office_relationship(self):
@@ -257,7 +273,8 @@ class VerifyBase:
             if len(cand_office_dict[candidate]) > 1:
                 error_count += 1
                 if self.verbose:
-                    print candidate + ' is associated to multiple offices: ' + str(cand_office_dict[candidate])
+                    print candidate + ' is associated to multiple offices: ' + \
+                                      str(cand_office_dict[candidate])
         return error_count
 
     def verify_candidate_party_relationship(self):
@@ -280,7 +297,8 @@ class VerifyBase:
             if len(cand_party_dict[candidate]) > 1:
                 error_count += 1
                 if self.verbose:
-                    print candidate + ' is associated to multiple parties: ' + str(cand_party_dict[candidate])
+                    print candidate + ' is associated to multiple parties: ' + 
+                                      str(cand_party_dict[candidate])
         return error_count
 
 class VerifyCounty(VerifyBase):
@@ -288,6 +306,13 @@ class VerifyCounty(VerifyBase):
     def __init__ (self, file_name, verbose, ignore_case):
         VerifyBase.__init__(self, file_name, verbose, ignore_case)
         self.county_index = -1
+        self.__calc_county_column_indexes()
+
+    def __calc_county_column_indexes(self):
+    
+        for row in self.c_reader:
+            if self.county_index == -1:
+                self.county_index = self.__find_header_index("county", row)
 
     def __verify_county_value(self, county_value):
         return_value = False
@@ -302,22 +327,6 @@ class VerifyCounty(VerifyBase):
                 print county_value + ' is not in the list of valid NJ Counties'
         return return_value
 
-    def calc_county_column_indexes(self):
-    
-        for row in self.c_reader:
-            if self.county_index == -1:
-                self.county_index = self.find_header_index("county", row)
-            if self.candidate_index == -1:
-                self.candidate_index = self.find_header_index("candidate", row)
-            if self.office_index == -1:
-                self.office_index = self.find_header_index("office", row)
-            if self.district_index == -1:
-                self.district_index = self.find_header_index("district", row)
-            if self.party_index == -1:
-                self.party_index = self.find_header_index("party", row)
-            if self.votes_index == -1:
-                self.votes_index = self.find_header_index("votes", row)
-        
     def get_county_index(self):
         return self.county_index
 
@@ -357,12 +366,9 @@ class VerifyCounty(VerifyBase):
             if i > 0:
                county_name = row[self.get_county_index()]
                candidate = row[self.get_candidate_index()]
-
-               #print '  Muni Code Votes Index = ' + candidate + ':' + row[self.get_votes_index()]
                votes = int(row[self.get_votes_index()])
 
                if county_name == in_county_name and candidate == in_candidate_name:
-                   #print '  MUNI CODE: ' + str(votes)
                    return_value += votes                
 
         return return_value
@@ -372,22 +378,10 @@ class VerifyMuni(VerifyCounty):
     def __init__ (self, file_name, verbose, ignore_case):
         VerifyCounty.__init__(self, file_name, verbose, ignore_case)
         self.muni_index = -1
+        self.__calc_muni_column_indexes()
 
-    def calc_muni_column_indexes(self):
-    
+    def __calc_muni_column_indexes(self):
         for row in self.c_reader:
-            if self.county_index == -1:
-                self.county_index = self.find_header_index("county", row)
-            if self.candidate_index == -1:
-                self.candidate_index = self.find_header_index("candidate", row)
-            if self.office_index == -1:
-                self.office_index = self.find_header_index("office", row)
-            if self.district_index == -1:
-                self.district_index = self.find_header_index("district", row)
-            if self.party_index == -1:
-                self.party_index = self.find_header_index("party", row)
-            if self.votes_index == -1:
-                self.votes_index = self.find_header_index("votes", row)
             if self.muni_index == -1:
                 self.muni_index = self.find_header_index("municipality", row)
         

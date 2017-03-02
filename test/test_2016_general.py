@@ -14,6 +14,7 @@ def main():
     compare_county_and_muni_totals(args, 
                                    '../2016/20161108__nj__general.csv',
                                    '../2016/20161108__nj__general__municipal.csv')
+    spot_check_totals(args)
 
 def handle_arguments():
     arg_parser = argparse.ArgumentParser(description='Validate New Jersey 2016 county and muni data')
@@ -26,7 +27,6 @@ def process_county_file(args, in_file):
     error_count = 0
 
     verifier = VerifyCounty(in_file, args.verbose, args.case)   
-    verifier.calc_county_column_indexes()
     error_count += verifier.verify_counties()
     error_count += verifier.verify_offices()
     error_count += verifier.verify_districts()
@@ -44,7 +44,6 @@ def process_muni_file(args, in_file):
     error_count = 0
 
     verifier = VerifyMuni(in_file, args.verbose, args.case)   
-    verifier.calc_muni_column_indexes()
     error_count += verifier.verify_counties()
     error_count += verifier.verify_offices()
     error_count += verifier.verify_districts()
@@ -62,9 +61,7 @@ def compare_county_and_muni_totals(args, county_file, muni_file):
     error_count = 0
 
     cv = VerifyCounty(county_file, args.verbose, args.case)
-    cv.calc_county_column_indexes()
     mv = VerifyMuni(muni_file, args.verbose, args.case)
-    mv.calc_muni_column_indexes()
 
     for county_name in CONST_COUNTIES:
         print ' ... processing ' + county_name + ' County'
@@ -80,6 +77,12 @@ def compare_county_and_muni_totals(args, county_file, muni_file):
                           county_name + " County."
 
     print "There are " + str(error_count) + " vote totals that are not reconciled."
+
+def spot_check_totals(args)
+
+    error_count = 0
+
+
 
 if __name__ == '__main__':
     main()
