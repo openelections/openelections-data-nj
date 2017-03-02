@@ -66,13 +66,20 @@ def compare_county_and_muni_totals(args, county_file, muni_file):
     mv = VerifyMuni(muni_file, args.verbose, args.case)
     mv.calc_muni_column_indexes()
 
-    county_votes = cv.get_all_candidates_and_votes_by_county('Morris')
-    for cand in county_votes:
-        print cand + ' got ' + str(county_votes[cand]) + ' in Morris County'
-        #muni_total = mv.get_candidates_votes_by_county('Morris', cand)
-        #print cand + ' C:' + str(county_votes[cand]) + '    M:' + str(muni_total)
+    for county_name in CONST_COUNTIES:
+        print ' ... processing ' + county_name + ' County'
+        county_votes = cv.get_all_candidates_and_votes_by_county(county_name)
+        for cand in county_votes:
+            muni_total = mv.get_candidates_votes_by_county(county_name, cand)
+            if muni_total != county_votes[cand]:
+                error_count += 1
+                if args.verbose:
+                    print "Total votes are different in County (" + \
+                          str(county_votes[cand]) + ") and Municipal (" + \
+                          str(muni_total) + ") for " + cand + " in " + \
+                          county_name + " County."
 
-    return
+    print "There are " + str(error_count) + " vote totals that are not reconciled."
 
 if __name__ == '__main__':
     main()
