@@ -122,7 +122,7 @@ class VerifyBase:
     def get_votes_index(self):
         return self.votes_index
 
-    def __find_header_index(self, header_value, input_row):
+    def find_header_index(self, header_value, input_row):
         return_value = -1
         index = 0
         for value in input_row:
@@ -139,15 +139,15 @@ class VerifyBase:
     
         for row in self.c_reader:
             if self.candidate_index == -1:
-                self.candidate_index = self.__find_header_index("candidate", row)
+                self.candidate_index = self.find_header_index("candidate", row)
             if self.office_index == -1:
-                self.office_index = self.__find_header_index("office", row)
+                self.office_index = self.find_header_index("office", row)
             if self.district_index == -1:
-                self.district_index = self.__find_header_index("district", row)
+                self.district_index = self.find_header_index("district", row)
             if self.party_index == -1:
-                self.party_index = self.__find_header_index("party", row)
+                self.party_index = self.find_header_index("party", row)
             if self.votes_index == -1:
-                self.votes_index = self.__find_header_index("votes", row)
+                self.votes_index = self.find_header_index("votes", row)
 
     def __verify_office_value(self, office_value):
         return_value = False
@@ -297,7 +297,7 @@ class VerifyBase:
             if len(cand_party_dict[candidate]) > 1:
                 error_count += 1
                 if self.verbose:
-                    print candidate + ' is associated to multiple parties: ' + 
+                    print candidate + ' is associated to multiple parties: ' + \
                                       str(cand_party_dict[candidate])
         return error_count
 
@@ -309,10 +309,11 @@ class VerifyCounty(VerifyBase):
         self.__calc_county_column_indexes()
 
     def __calc_county_column_indexes(self):
-    
+   
+        self.c_file.seek(0)
         for row in self.c_reader:
             if self.county_index == -1:
-                self.county_index = self.__find_header_index("county", row)
+                self.county_index = self.find_header_index("county", row)
 
     def __verify_county_value(self, county_value):
         return_value = False
@@ -381,6 +382,7 @@ class VerifyMuni(VerifyCounty):
         self.__calc_muni_column_indexes()
 
     def __calc_muni_column_indexes(self):
+        self.c_file.seek(0)
         for row in self.c_reader:
             if self.muni_index == -1:
                 self.muni_index = self.find_header_index("municipality", row)
