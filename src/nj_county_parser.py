@@ -51,7 +51,18 @@ def get_county_name(p_infile):
     return
 
 def clean_text_values(p_text):
-    clean_text = p_text.replace(',', '')
+    if p_text.strip() == "":
+        clean_text = "0"
+    else:
+        clean_text = p_text.replace(',', '').strip()
+    return clean_text
+
+def clean_vote_values(p_text):
+    clean_text = p_text.replace('', '')
+    if p_text.strip() == "":
+        clean_text = "0"
+    else:
+        clean_text = p_text.strip()
     return clean_text
 
 def populate_candidate_party_lists( p_candidateList, p_partyList, p_header):
@@ -91,7 +102,6 @@ def print_county_totals( p_candidateList, p_partyList, p_line, p_outfile, p_conf
 
 def print_muni_totals( p_candidateList, p_partyList, p_line, p_outfile, p_config):
     valid_column = p_config['columns'].split(",")
-    print 'Muni name is ' + p_line[0]
     for i in range(len(p_line)):
         print_value=False
         if i > 0:

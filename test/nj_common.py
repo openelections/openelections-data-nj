@@ -85,6 +85,13 @@ CONST_STATE_DISTRICTS = [ "1",
                           "39",
                           "40" ]
 
+def is_number(test_value):
+    try:
+        float(test_value)
+        return True
+    except ValueError:
+        return False
+
 class VerifyBase:
 
     def __init__(self, file_name, verbose, case):
@@ -161,7 +168,7 @@ class VerifyBase:
             if compare_district == "":
                 return_value = True
         if return_value == False:
-            if args.verbose:
+            if self.verbose:
                 if compare_office.upper() == "U.S. HOUSE":
                     print compare_office + ' is not in the list of valid Federal Districts'
                 elif compare_office.upper() == "GENERAL ASSEMBLY":
@@ -172,6 +179,12 @@ class VerifyBase:
                     print 'The office of ' + compare_office + ' should not contain a district value'
         return return_value
 
+    def __verify_votes_value(self, votes_value):
+        return_value = is_number(votes_value)
+        if return_value == False:
+            if self.verbose:
+                print 'Invalid number found as a vote total [' + votes_value + ']'
+        return return_value
 
     def verify_offices(self):
         office_errors = 0
@@ -191,6 +204,15 @@ class VerifyBase:
                                                 row[self.get_office_index()]) == False:
                     district_errors += 1
         return district_errors
+
+    def verify_votes(self):
+        votes_errors = 0
+        self.c_file.seek(0)
+        for i, row in enumerate(self.c_reader):
+            if i > 0:
+                if self.__verify_votes_value(row[self.get_votes_index()]) == False:
+                    votes_errors += 1
+        return votes_errors
 
     def verify_candidate_district_relationship(self):
 
@@ -307,6 +329,43 @@ class VerifyCounty(VerifyBase):
                 if self.__verify_county_value(row[self.get_county_index()]) == False:
                     county_errors += 1
         return county_errors
+
+    def get_all_candidates_and_votes_by_county(self, in_county_name):
+        cand_vote_dict = defaultdict(int)
+
+        self.c_file.seek(0)
+        for i, row in enumerate(self.c_reader):
+           if i > 0:
+               county_name = row[self.get_county_index()]
+               candidate = row[self.get_candidate_index()]
+               votes = int(row[self.get_votes_index()])
+
+               if county_name == in_county_name:
+                   if candidate in cand_vote_dict:
+                       cand_vote_dict[candidate] += votes
+                   else:
+                       cand_vote_dict[candidate] = votes
+
+        return cand_vote_dict
+        
+    def get_candidates_votes_by_county(self, in_county_name, in_candidate_name):
+
+        return_value = 0
+
+        self.c_file.seek(0)
+        for i, row in enumerate(self.c_reader):
+            if i > 0:
+               county_name = row[self.get_county_index()]
+               candidate = row[self.get_candidate_index()]
+
+               #print '  Muni Code Votes Index = ' + candidate + ':' + row[self.get_votes_index()]
+               votes = int(row[self.get_votes_index()])
+
+               if county_name == in_county_name and candidate == in_candidate_name:
+                   #print '  MUNI CODE: ' + str(votes)
+                   return_value += votes                
+
+        return return_value
 
 class VerifyMuni(VerifyCounty):
 

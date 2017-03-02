@@ -1,6 +1,6 @@
 {
-    "output_directory":"../../working/",
-    "output_file":"20161108__nj__general.csv",
+    "output_directory":"../2016/",
+    "output_file":"20161108__nj__temp.csv",
     "president":{
         "input_directory":"../../openelections-sources-nj/2016/general/csv/",
         "input_files": [
