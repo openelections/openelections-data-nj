@@ -1,0 +1,8 @@
+# OS Generated Files
+#######################
+.DS_Store
+.DS_Store?
+
+# vi Generated Files
+#######################
+*.swp

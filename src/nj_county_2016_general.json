@@ -1,0 +1,514 @@
+{
+    "output_directory":"../2016/",
+    "output_file":"20161108__nj__temp.csv",
+    "president":{
+        "input_directory":"../../openelections-sources-nj/2016/general/csv/",
+        "input_files": [
+                {
+                    "office":"President",
+                    "file":"tabula-2016-gen-elect-presidential-results-atlantic.csv",
+                    "county":"Atlantic",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2016-gen-elect-presidential-results-bergen.csv",
+                    "county":"Bergen",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2016-gen-elect-presidential-results-burlington.csv",
+                    "county":"Burlington",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2016-gen-elect-presidential-results-camden.csv",
+                    "county":"Camden",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2016-gen-elect-presidential-results-cape-may.csv",
+                    "county":"Cape May",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2016-gen-elect-presidential-results-cumberland.csv",
+                    "county":"Cumberland",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2016-gen-elect-presidential-results-essex.csv",
+                    "county":"Essex",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2016-gen-elect-presidential-results-gloucester.csv",
+                    "county":"Gloucester",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2016-gen-elect-presidential-results-hudson.csv",
+                    "county":"Hudson",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2016-gen-elect-presidential-results-hunterdon.csv",
+                    "county":"Hunterdon",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2016-gen-elect-presidential-results-mercer.csv",
+                    "county":"Mercer",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2016-gen-elect-presidential-results-middlesex.csv",
+                    "county":"Middlesex",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2016-gen-elect-presidential-results-monmouth.csv",
+                    "county":"Monmouth",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2016-gen-elect-presidential-results-morris.csv",
+                    "county":"Morris",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2016-gen-elect-presidential-results-ocean.csv",
+                    "county":"Ocean",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2016-gen-elect-presidential-results-passaic.csv",
+                    "county":"Passaic",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2016-gen-elect-presidential-results-salem.csv",
+                    "county":"Salem",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2016-gen-elect-presidential-results-somerset.csv",
+                    "county":"Somerset",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2016-gen-elect-presidential-results-sussex.csv",
+                    "county":"Sussex",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2016-gen-elect-presidential-results-union.csv",
+                    "county":"Union",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2016-gen-elect-presidential-results-warren.csv",
+                    "county":"Warren",
+                    "district":"",
+                    "columns":"*"
+               }
+            ]
+        },
+    "us_house":{
+        "input_directory":"../../openelections-sources-nj/2016/general/csv/",
+        "input_files": [
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district1-burlington.csv",
+                    "county":"Burlington",
+                    "district":"1",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district1-camden.csv",
+                    "county":"Camden",
+                    "district":"1",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district1-gloucester.csv",
+                    "county":"Gloucester",
+                    "district":"1",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district2-atlantic.csv",
+                    "county":"Atlantic",
+                    "district":"2",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district2-burlington.csv",
+                    "county":"Burlington",
+                    "district":"2",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district2-camden.csv",
+                    "county":"Camden",
+                    "district":"2",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district2-cape-may.csv",
+                    "county":"Cape May",
+                    "district":"2",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district2-Cumberland.csv",
+                    "county":"Cumberland",
+                    "district":"2",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district2-gloucester.csv",
+                    "county":"Gloucester",
+                    "district":"2",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district2-ocean.csv",
+                    "county":"Ocean",
+                    "district":"2",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district2-salem.csv",
+                    "county":"Salem",
+                    "district":"2",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district3-burlington.csv",
+                    "county":"Burlington",
+                    "district":"3",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district3-ocean.csv",
+                    "county":"Ocean",
+                    "district":"3",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district4-mercer.csv",
+                    "county":"Mercer",
+                    "district":"4",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district4-monmouth.csv",
+                    "county":"Monmouth",
+                    "district":"4",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district4-ocean.csv",
+                    "county":"Ocean",
+                    "district":"4",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district5-bergen.csv",
+                    "county":"Bergen",
+                    "district":"5",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district5-passaic.csv",
+                    "county":"Passaic",
+                    "district":"5",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district5-sussex.csv",
+                    "county":"Sussex",
+                    "district":"5",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district5-warren.csv",
+                    "county":"Warren",
+                    "district":"5",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district6-middlesex.csv",
+                    "county":"Middlesex",
+                    "district":"6",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district6-monmouth.csv",
+                    "county":"Monmouth",
+                    "district":"6",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district7-essex.csv",
+                    "county":"Essex",
+                    "district":"7",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district7-hunterdon.csv",
+                    "county":"Hunterdon",
+                    "district":"7",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district7-morris.csv",
+                    "county":"Morris",
+                    "district":"7",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district7-somerset.csv",
+                    "county":"Somerset",
+                    "district":"7",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district7-union.csv",
+                    "county":"Union",
+                    "district":"7",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district7-warren.csv",
+                    "county":"Warren",
+                    "district":"7",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district8-bergen.csv",
+                    "county":"Bergen",
+                    "district":"8",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district8-essex.csv",
+                    "county":"Essex",
+                    "district":"8",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district8-hudson.csv",
+                    "county":"Hudson",
+                    "district":"8",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district8-union.csv",
+                    "county":"Union",
+                    "district":"8",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district9-bergen.csv",
+                    "county":"Bergen",
+                    "district":"9",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district9-hudson.csv",
+                    "county":"Hudson",
+                    "district":"9",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district9-passaic.csv",
+                    "county":"Passaic",
+                    "district":"9",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district10-essex.csv",
+                    "county":"Essex",
+                    "district":"10",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district10-hudson.csv",
+                    "county":"Hudson",
+                    "district":"10",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district10-union.csv",
+                    "county":"Union",
+                    "district":"10",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district11-essex.csv",
+                    "county":"Essex",
+                    "district":"11",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district11-morris.csv",
+                    "county":"Morris",
+                    "district":"11",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district11-passaic.csv",
+                    "county":"Passaic",
+                    "district":"11",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district11-sussex.csv",
+                    "county":"Sussex",
+                    "district":"11",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district12-mercer.csv",
+                    "county":"Mercer",
+                    "district":"12",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district12-middlesex.csv",
+                    "county":"Middlesex",
+                    "district":"12",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district12-somerset.csv",
+                    "county":"Somerset",
+                    "district":"12",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2016-municipality-hor-district12-union.csv",
+                    "county":"Union",
+                    "district":"12",
+                    "columns":"*"
+                }
+            ]
+        },
+    "nj_senate":{
+        "input_directory":"../../openelections-sources-nj/2016/general/csv/",
+        "input_files": [
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2016-municipality-special-gen-election-results-district18-middlesex.csv",
+                    "county":"Middlesex",
+                    "district":"18",
+                    "columns":"1,2"
+                }
+            ]
+        },
+    "nj_assembly":{
+        "input_directory":"../../openelections-sources-nj/2016/general/csv/",
+        "input_files": [
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2016-municipality-special-gen-election-results-district18-middlesex.csv",
+                    "county":"Middlesex",
+                    "district":"18",
+                    "columns":"4,5"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2016-municipality-special-gen-election-results-district29-essex.csv",
+                    "county":"Essex",
+                    "district":"29",
+                    "columns":"*"
+                }
+            ]
+        }
+}
