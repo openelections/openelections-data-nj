@@ -8,13 +8,16 @@ from nj_common import *
 
 def main():
 
+    CONST_COUNTY_FILE = '../2016/20161108__nj__general.csv'
+    CONST_MUNI_FILE = '../2016/20161108__nj__general__municipal.csv'
+
     args = handle_arguments()
-    process_county_file(args, '../2016/20161108__nj__general.csv')
-    process_muni_file(args, '../2016/20161108__nj__general__municipal.csv')
+    process_county_file(args, CONST_COUNTY_FILE)
+    process_muni_file(args, CONST_MUNI_FILE)
     compare_county_and_muni_totals(args, 
-                                   '../2016/20161108__nj__general.csv',
-                                   '../2016/20161108__nj__general__municipal.csv')
-    spot_check_totals(args, '../2016/20161108__nj__general.csv')
+                                   CONST_COUNTY_FILE,
+                                   CONST_MUNI_FILE)
+    spot_check_totals(args, CONST_COUNTY_FILE)
 
 def handle_arguments():
     arg_parser = argparse.ArgumentParser(description='Validate New Jersey 2016 county and muni data')
