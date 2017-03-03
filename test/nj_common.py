@@ -1,4 +1,25 @@
 #!/usr/bin/python
+#
+# MIT License
+# 
+# Permission is hereby granted, free of charge, to any person obtaining
+# a copy of this software and associated documentation files (the
+# "Software"), to deal in the Software without restriction, including
+# without limitation the rights to use, copy, modify, merge, publish,
+# distribute, sublicense, and/or sell copies of the Software, and to
+# permit persons to whom the Software is furnished to do so, subject to
+# the following conditions:
+# 
+# The above copyright notice and this permission notice shall be
+# included in all copies or substantial portions of the Software.
+# 
+# THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+# EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+# MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+# NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+# LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+# OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+# WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 import sys
 import csv
@@ -184,12 +205,11 @@ class VerifyBase:
                 return_value = True
         if return_value == False:
             if self.verbose:
-                if compare_office.upper() == "U.S. HOUSE":
-                    print compare_office + ' is not in the list of valid Federal Districts'
-                elif compare_office.upper() == "GENERAL ASSEMBLY":
-                    print compare_office + ' is not in the list of valid State Districts'
-                elif compare_office.upper() == "STATE SENATE":
-                    print compare_office + ' is not in the list of valid State Districts'
+                if compare_office.upper() == "U.S. HOUSE" or \
+                   compare_office.upper() == "GENERAL ASSEMBLY" or \
+                   compare_office.upper() == "STATE SENATE":
+                    print '[' + compare_district + '] is not a valid district for the office of ' \
+                          + compare_office
                 else:
                     print 'The office of ' + compare_office + ' should not contain a district value'
         return return_value
