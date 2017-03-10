@@ -49,6 +49,7 @@ CONST_COUNTIES = [ 'Atlantic',
 
 CONST_OFFICES = [ 'President',
                   'U.S. House',
+                  'U.S. Senate',
                   'State Senate',
                   'General Assembly' ]
 

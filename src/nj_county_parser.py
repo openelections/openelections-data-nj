@@ -192,6 +192,7 @@ def process_config_data(p_config, p_outfile):
     print_header(p_outfile)
     process_single_race(p_config, p_outfile, 'president')
     process_single_race(p_config, p_outfile, 'us_house')
+    process_single_race(p_config, p_outfile, 'us_senate')
     process_single_race(p_config, p_outfile, 'nj_senate')
     process_single_race(p_config, p_outfile, 'nj_assembly')
     return
