@@ -188,6 +188,13 @@
                 },
                 {
                     "office":"U.S. House",
+                    "file":"tabula-2014-us-hor-gen-elec-results-by-district-07-union.csv",
+                    "county":"Union",
+                    "district":"7",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
                     "file":"tabula-2014-us-hor-gen-elec-results-by-district-07-warren.csv",
                     "county":"Warren",
                     "district":"7",
@@ -317,6 +324,158 @@
                     "file":"tabula-2014-us-hor-gen-elec-results-by-district-12-union.csv",
                     "county":"Union",
                     "district":"12",
+                    "columns":"*"
+                }
+            ]
+        },
+    "us_senate":{
+        "input_directory":"../../openelections-sources-nj/2014/general/csv/",
+        "input_files": [
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2014-us-senate-gen-elec-results-by-county-atlantic.csv",
+                    "county":"Atlantic",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2014-us-senate-gen-elec-results-by-county-bergen.csv",
+                    "county":"Bergen",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2014-us-senate-gen-elec-results-by-county-burlington.csv",
+                    "county":"Burlington",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2014-us-senate-gen-elec-results-by-county-camden.csv",
+                    "county":"Camden",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2014-us-senate-gen-elec-results-by-county-capemay.csv",
+                    "county":"Cape May",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2014-us-senate-gen-elec-results-by-county-cumberland.csv",
+                    "county":"Cumberland",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2014-us-senate-gen-elec-results-by-county-essex.csv",
+                    "county":"Essex",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2014-us-senate-gen-elec-results-by-county-gloucester.csv",
+                    "county":"Gloucester",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2014-us-senate-gen-elec-results-by-county-hudson.csv",
+                    "county":"Hudson",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2014-us-senate-gen-elec-results-by-county-hunterdon.csv",
+                    "county":"Hunterdon",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2014-us-senate-gen-elec-results-by-county-mercer.csv",
+                    "county":"Mercer",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2014-us-senate-gen-elec-results-by-county-middlesex.csv",
+                    "county":"Middlesex",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2014-us-senate-gen-elec-results-by-county-monmouth.csv",
+                    "county":"Monmouth",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2014-us-senate-gen-elec-results-by-county-morris.csv",
+                    "county":"Morris",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2014-us-senate-gen-elec-results-by-county-ocean.csv",
+                    "county":"Ocean",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2014-us-senate-gen-elec-results-by-county-passaic.csv",
+                    "county":"Passaic",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2014-us-senate-gen-elec-results-by-county-salem.csv",
+                    "county":"Salem",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2014-us-senate-gen-elec-results-by-county-somerset.csv",
+                    "county":"Somerset",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2014-us-senate-gen-elec-results-by-county-sussex.csv",
+                    "county":"Sussex",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2014-us-senate-gen-elec-results-by-county-union.csv",
+                    "county":"Union",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2014-us-senate-gen-elec-results-by-county-warren.csv",
+                    "county":"Warren",
+                    "district":"",
                     "columns":"*"
                 }
             ]
