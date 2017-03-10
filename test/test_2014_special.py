@@ -29,8 +29,8 @@ from nj_common import *
 
 def main():
 
-    CONST_COUNTY_FILE = '../2014/20141104__nj__special.csv'
-    CONST_MUNI_FILE = '../2014/20141104__nj__special__municipal.csv'
+    CONST_COUNTY_FILE = '../2014/20141104__nj__special__general.csv'
+    CONST_MUNI_FILE = '../2014/20141104__nj__special__general__municipal.csv'
 
     args = handle_arguments()
     process_county_file(args, CONST_COUNTY_FILE)
