@@ -1,0 +1,574 @@
+{
+    "output_directory":"../2013/",
+    "output_file":"20131105__nj__temp.csv",
+    "nj_assembly":{
+        "input_directory":"../../openelections-sources-nj/2013/general/csv/",
+        "input_files": [
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district01.csv",
+                    "county":"*",
+                    "district":"1",
+                    "columns":"4,5,6,7"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district02.csv",
+                    "county":"*",
+                    "district":"2",
+                    "columns":"4,5,6,7,8"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district03.csv",
+                    "county":"*",
+                    "district":"3",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district04.csv",
+                    "county":"*",
+                    "district":"4",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district05.csv",
+                    "county":"*",
+                    "district":"5",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district06.csv",
+                    "county":"*",
+                    "district":"6",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district07.csv",
+                    "county":"*",
+                    "district":"7",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district08.csv",
+                    "county":"*",
+                    "district":"8",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district09.csv",
+                    "county":"*",
+                    "district":"9",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district10.csv",
+                    "county":"*",
+                    "district":"10",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district11.csv",
+                    "county":"*",
+                    "district":"11",
+                    "columns":"4,5,6,7"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district12.csv",
+                    "county":"*",
+                    "district":"12",
+                    "columns":"3,4,5,6,7"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district13.csv",
+                    "county":"*",
+                    "district":"13",
+                    "columns":"4,5,6,7,8"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district14.csv",
+                    "county":"*",
+                    "district":"14",
+                    "columns":"4,5,6,7,8,9"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district15.csv",
+                    "county":"*",
+                    "district":"15",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district16.csv",
+                    "county":"*",
+                    "district":"16",
+                    "columns":"3,4,5,6,7"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district17.csv",
+                    "county":"*",
+                    "district":"17",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district18.csv",
+                    "county":"*",
+                    "district":"18",
+                    "columns":"3,4,5,6,7"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district19.csv",
+                    "county":"*",
+                    "district":"19",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district20.csv",
+                    "county":"*",
+                    "district":"20",
+                    "columns":"2,3,4,5"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district21.csv",
+                    "county":"*",
+                    "district":"21",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district22.csv",
+                    "county":"*",
+                    "district":"22",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district23.csv",
+                    "county":"*",
+                    "district":"23",
+                    "columns":"4,5,6,7"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district24.csv",
+                    "county":"*",
+                    "district":"24",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district25.csv",
+                    "county":"*",
+                    "district":"25",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district26.csv",
+                    "county":"*",
+                    "district":"26",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district27.csv",
+                    "county":"*",
+                    "district":"27",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district28.csv",
+                    "county":"*",
+                    "district":"28",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district29.csv",
+                    "county":"*",
+                    "district":"29",
+                    "columns":"4,5,6,7"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district30.csv",
+                    "county":"*",
+                    "district":"30",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district31.csv",
+                    "county":"*",
+                    "district":"31",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district32.csv",
+                    "county":"*",
+                    "district":"32",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district33.csv",
+                    "county":"*",
+                    "district":"33",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district34.csv",
+                    "county":"*",
+                    "district":"34",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district35.csv",
+                    "county":"*",
+                    "district":"35",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district36.csv",
+                    "county":"*",
+                    "district":"36",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district37.csv",
+                    "county":"*",
+                    "district":"37",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district38.csv",
+                    "county":"*",
+                    "district":"38",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district39.csv",
+                    "county":"*",
+                    "district":"39",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district40.csv",
+                    "county":"*",
+                    "district":"40",
+                    "columns":"3,4,5,6"
+                }
+            ]
+        },
+    "nj_senate":{
+        "input_directory":"../../openelections-sources-nj/2013/general/csv/",
+        "input_files": [
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district01.csv",
+                    "county":"*",
+                    "district":"1",
+                    "columns":"1,2,3"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district02.csv",
+                    "county":"*",
+                    "district":"2",
+                    "columns":"1,2,3"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district03.csv",
+                    "county":"*",
+                    "district":"3",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district04.csv",
+                    "county":"*",
+                    "district":"4",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district05.csv",
+                    "county":"*",
+                    "district":"5",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district06.csv",
+                    "county":"*",
+                    "district":"6",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district07.csv",
+                    "county":"*",
+                    "district":"7",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district08.csv",
+                    "county":"*",
+                    "district":"8",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district09.csv",
+                    "county":"*",
+                    "district":"9",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district10.csv",
+                    "county":"*",
+                    "district":"10",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district11.csv",
+                    "county":"*",
+                    "district":"11",
+                    "columns":"1,2,3"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district12.csv",
+                    "county":"*",
+                    "district":"12",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district13.csv",
+                    "county":"*",
+                    "district":"13",
+                    "columns":"1,2,3"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district14.csv",
+                    "county":"*",
+                    "district":"14",
+                    "columns":"1,2,3"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district15.csv",
+                    "county":"*",
+                    "district":"15",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district16.csv",
+                    "county":"*",
+                    "district":"16",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district17.csv",
+                    "county":"*",
+                    "district":"17",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district18.csv",
+                    "county":"*",
+                    "district":"18",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district19.csv",
+                    "county":"*",
+                    "district":"19",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district20.csv",
+                    "county":"*",
+                    "district":"20",
+                    "columns":"1"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district21.csv",
+                    "county":"*",
+                    "district":"21",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district22.csv",
+                    "county":"*",
+                    "district":"22",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district23.csv",
+                    "county":"*",
+                    "district":"23",
+                    "columns":"1,2,3"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district24.csv",
+                    "county":"*",
+                    "district":"24",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district25.csv",
+                    "county":"*",
+                    "district":"25",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district26.csv",
+                    "county":"*",
+                    "district":"26",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district27.csv",
+                    "county":"*",
+                    "district":"27",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district28.csv",
+                    "county":"*",
+                    "district":"28",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district29.csv",
+                    "county":"*",
+                    "district":"29",
+                    "columns":"1,2,3"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district30.csv",
+                    "county":"*",
+                    "district":"30",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district31.csv",
+                    "county":"*",
+                    "district":"31",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district32.csv",
+                    "county":"*",
+                    "district":"32",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district33.csv",
+                    "county":"*",
+                    "district":"33",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district34.csv",
+                    "county":"*",
+                    "district":"34",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district35.csv",
+                    "county":"*",
+                    "district":"35",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district36.csv",
+                    "county":"*",
+                    "district":"36",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district37.csv",
+                    "county":"*",
+                    "district":"37",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district38.csv",
+                    "county":"*",
+                    "district":"38",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district39.csv",
+                    "county":"*",
+                    "district":"39",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2013-general-election-results-GenAssembly-StateSenate-district40.csv",
+                    "county":"*",
+                    "district":"40",
+                    "columns":"1,2"
+                }
+            ]
+        }
+}
