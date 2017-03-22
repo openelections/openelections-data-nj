@@ -147,7 +147,10 @@ def process_header_line( p_candidateList, p_partyList, p_line, p_config):
     return
 
 def process_county_line(p_candidateList, p_partyList, p_line, p_outfile, p_config, p_county_name):
-    if "COUNTY TOTAL" in p_line[0].upper():
+    search_text = 'TOTAL'
+    if p_config['county'] == '*':
+        search_text = 'COUNTY TOTAL'
+    if search_text in p_line[0].upper():
         print_county_totals(p_candidateList, p_partyList, p_line, p_outfile, p_config, p_county_name)
 
 def process_muni_line(p_candidateList, p_partyList, p_line, p_outfile, p_config, p_county_name):
@@ -212,6 +215,7 @@ def process_config_data(p_config, p_outfile):
     process_single_race(p_config, p_outfile, 'us_senate')
     process_single_race(p_config, p_outfile, 'nj_senate')
     process_single_race(p_config, p_outfile, 'nj_assembly')
+    process_single_race(p_config, p_outfile, 'governor')
     return
 
 validateArgs( args )
