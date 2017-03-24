@@ -120,7 +120,7 @@ def print_county_totals( p_candidateList, p_partyList, p_line, p_outfile, p_conf
                                ))
     return
 
-def print_muni_totals( p_candidateList, p_partyList, p_line, p_outfile, p_config):
+def print_muni_totals( p_candidateList, p_partyList, p_line, p_outfile, p_config, p_county_name):
     valid_column = p_config['columns'].split(",")
     for i in range(len(p_line)):
         print_value=False
@@ -131,7 +131,7 @@ def print_muni_totals( p_candidateList, p_partyList, p_line, p_outfile, p_config
                 if str(i) in valid_column:
                     print_value=True
         if print_value == True:
-            p_outfile.writerow((p_config['county'], 
+            p_outfile.writerow((p_county_name,
                                 p_line[0],
                                 p_config['office'],
                                 p_config['district'],
@@ -154,8 +154,8 @@ def process_county_line(p_candidateList, p_partyList, p_line, p_outfile, p_confi
         print_county_totals(p_candidateList, p_partyList, p_line, p_outfile, p_config, p_county_name)
 
 def process_muni_line(p_candidateList, p_partyList, p_line, p_outfile, p_config, p_county_name):
-    if "TOTAL" not in p_line[0].upper():
-        print_muni_totals(p_candidateList, p_partyList, p_line, p_outfile, p_config)
+    if "TOTAL" not in p_line[0].upper() and "COUNTY" not in p_line[0].upper():
+        print_muni_totals(p_candidateList, p_partyList, p_line, p_outfile, p_config, p_county_name)
 
 def extract_county_name(p_line, p_config, p_county_name):
     return_value = p_county_name

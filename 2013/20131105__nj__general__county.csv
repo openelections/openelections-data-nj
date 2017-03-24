@@ -1,0 +1,686 @@
+county,office,district,party,candidate,votes
+Atlantic,State Senate,1,Democratic,Jeff Van Drew,977
+Atlantic,State Senate,1,Republican,Susan Adelizzi Schmidt,792
+Atlantic,State Senate,1,Independence for All,Tom Greto,52
+Cape May,State Senate,1,Democratic,Jeff Van Drew,17743
+Cape May,State Senate,1,Republican,Susan Adelizzi Schmidt,13368
+Cape May,State Senate,1,Independence for All,Tom Greto,421
+Cumberland,State Senate,1,Democratic,Jeff Van Drew,15904
+Cumberland,State Senate,1,Republican,Susan Adelizzi Schmidt,8675
+Cumberland,State Senate,1,Independence for All,Tom Greto,352
+Atlantic,State Senate,2,Democratic,Jim Whelan,29333
+Atlantic,State Senate,2,Republican,Frank X. Balles,24006
+Atlantic,State Senate,2,Republican,John F. Amodeo,25124
+Cumberland,State Senate,3,Democratic,Stephen M. Sweeney,3079
+Cumberland,State Senate,3,Republican,Niki A. Trunk,1966
+Gloucester,State Senate,3,Democratic,Stephen M. Sweeney,18272
+Gloucester,State Senate,3,Republican,Niki A. Trunk,14581
+Salem,State Senate,3,Democratic,Stephen M. Sweeney,9694
+Salem,State Senate,3,Republican,Niki A. Trunk,9052
+Camden,State Senate,4,Democratic,Fred H. Madden,16696
+Camden,State Senate,4,Republican,Giancarlo D'Orazio,10294
+Gloucester,State Senate,4,Democratic,Fred H. Madden,12743
+Gloucester,State Senate,4,Republican,Giancarlo D'Orazio,11082
+Camden,State Senate,5,Democratic,Donald W. Norcross,15494
+Camden,State Senate,5,Republican,Keith Walker,9115
+Gloucester,State Senate,5,Democratic,Donald W. Norcross,9889
+Gloucester,State Senate,5,Republican,Keith Walker,9333
+Burlington,State Senate,6,Democratic,James Beach,1888
+Burlington,State Senate,6,Republican,Sudhir Deshmukh,1491
+Camden,State Senate,6,Democratic,James Beach,32959
+Camden,State Senate,6,Republican,Sudhir Deshmukh,18589
+Burlington,State Senate,7,Republican,Diane Allen,38350
+Burlington,State Senate,7,Democratic,Gary Catrambone,25106
+Atlantic,State Senate,8,Republican,Dawn Marie Addiego,2766
+Atlantic,State Senate,8,Democratic,Javier Vasquez,1160
+Burlington,State Senate,8,Republican,Dawn Marie Addiego,29461
+Burlington,State Senate,8,Democratic,Javier Vasquez,16633
+Camden,State Senate,8,Republican,Dawn Marie Addiego,3667
+Camden,State Senate,8,Democratic,Javier Vasquez,2840
+Atlantic,State Senate,9,Republican,Christopher J. Connors,5659
+Atlantic,State Senate,9,Democratic,Anthony Mazzella,3779
+Burlington,State Senate,9,Republican,Christopher J. Connors,2102
+Burlington,State Senate,9,Democratic,Anthony Mazzella,730
+Ocean,State Senate,9,Republican,Christopher J. Connors,39188
+Ocean,State Senate,9,Democratic,Anthony Mazzella,14856
+Ocean,State Senate,10,Republican,Jim Holzapfel,45565
+Ocean,State Senate,10,Democratic,John Bendel,19807
+Monmouth,State Senate,11,Republican,Jennifer Beck,30531
+Monmouth,State Senate,11,Democratic,Michael Brantley,19735
+Monmouth,State Senate,11,For the People,Marie E. Amato-Juckiewicz,599
+Burlington,State Senate,12,Republican,Samuel D. Thompson,1953
+Burlington,State Senate,12,Democratic,Raymond D. Dothard,992
+Middlesex,State Senate,12,Republican,Samuel D. Thompson,8456
+Middlesex,State Senate,12,Democratic,Raymond D. Dothard,5137
+Monmouth,State Senate,12,Republican,Samuel D. Thompson,11512
+Monmouth,State Senate,12,Democratic,Raymond D. Dothard,6300
+Ocean,State Senate,12,Republican,Samuel D. Thompson,10990
+Ocean,State Senate,12,Democratic,Raymond D. Dothard,5011
+Monmouth,State Senate,13,Republican,Joe Kyrillos Jr.,40762
+Monmouth,State Senate,13,Democratic,Joseph Marques,18289
+Monmouth,State Senate,13,The People's Choice,Mac Dara F. Lyden,774
+Mercer,State Senate,14,Democratic,Linda R. Greenstein,19359
+Mercer,State Senate,14,Republican,Peter A. Inverso,18819
+Mercer,State Senate,14,Libertarian Party,Don DeZarn,758
+Middlesex,State Senate,14,Democratic,Linda R. Greenstein,12028
+Middlesex,State Senate,14,Republican,Peter A. Inverso,11084
+Middlesex,State Senate,14,Libertarian Party,Don DeZarn,256
+Hunterdon,State Senate,15,Democratic,Shirley K. Turner,1818
+Hunterdon,State Senate,15,Republican,Don Cox,2089
+Mercer,State Senate,15,Democratic,Shirley K. Turner,28432
+Mercer,State Senate,15,Republican,Don Cox,15418
+Hunterdon,State Senate,16,Republican,"Christopher ""Kip"" Bateman",10940
+Hunterdon,State Senate,16,Democratic,Christian R. Mastondrea,4540
+Mercer,State Senate,16,Republican,"Christopher ""Kip"" Bateman",2037
+Mercer,State Senate,16,Democratic,Christian R. Mastondrea,4728
+Middlesex,State Senate,16,Republican,"Christopher ""Kip"" Bateman",4258
+Middlesex,State Senate,16,Democratic,Christian R. Mastondrea,4550
+Somerset,State Senate,16,Republican,"Christopher ""Kip"" Bateman",17630
+Somerset,State Senate,16,Democratic,Christian R. Mastondrea,9172
+Middlesex,State Senate,17,Democratic,Bob Smith,14716
+Middlesex,State Senate,17,Republican,Brian D. Levine,8488
+Somerset,State Senate,17,Democratic,Bob Smith,8204
+Somerset,State Senate,17,Republican,Brian D. Levine,6915
+Middlesex,State Senate,18,Democratic,Peter Barnes,25063
+Middlesex,State Senate,18,Republican,David Stahl,23184
+Middlesex,State Senate,19,Democratic,Joseph F. Vitale,24126
+Middlesex,State Senate,19,Republican,Robert Luban,14439
+Union,State Senate,20,Democratic,Raymond J. Lesniak,21251
+Morris,State Senate,21,Republican,Thomas H. Kean Jr.,3629
+Morris,State Senate,21,Democratic,Michael Komondy,1276
+Somerset,State Senate,21,Republican,Thomas H. Kean Jr.,10719
+Somerset,State Senate,21,Democratic,Michael Komondy,3437
+Union,State Senate,21,Republican,Thomas H. Kean Jr.,28075
+Union,State Senate,21,Democratic,Michael Komondy,13804
+Middlesex,State Senate,22,Democratic,Nicholas P. Scutari,1937
+Middlesex,State Senate,22,Republican,Robert Sherr,2674
+Somerset,State Senate,22,Democratic,Nicholas P. Scutari,2484
+Somerset,State Senate,22,Republican,Robert Sherr,2405
+Union,State Senate,22,Democratic,Nicholas P. Scutari,20478
+Union,State Senate,22,Republican,Robert Sherr,11854
+Hunterdon,State Senate,23,Republican,Michael J. Doherty,14667
+Hunterdon,State Senate,23,Democratic,Gerard R. Bowers,5875
+Hunterdon,State Senate,23,Seyler.US,Daniel Z. Seyler,341
+Somerset,State Senate,23,Republican,Michael J. Doherty,12443
+Somerset,State Senate,23,Democratic,Gerard R. Bowers,6648
+Somerset,State Senate,23,Seyler.US,Daniel Z. Seyler,141
+Warren,State Senate,23,Republican,Michael J. Doherty,10367
+Warren,State Senate,23,Democratic,Gerard R. Bowers,4788
+Warren,State Senate,23,Seyler.US,Daniel Z. Seyler,190
+Morris,State Senate,24,Republican,Steven V. Oroho,3622
+Morris,State Senate,24,Democratic,Richard D. Tomko,1742
+Sussex,State Senate,24,Republican,Steven V. Oroho,28062
+Sussex,State Senate,24,Democratic,Richard D. Tomko,11653
+Warren,State Senate,24,Republican,Steven V. Oroho,7135
+Warren,State Senate,24,Democratic,Richard D. Tomko,2897
+Morris,State Senate,25,Republican,"Anthony ""Tony"" Bucco",34641
+Morris,State Senate,25,Buck the Parties,Maureen Castriotta,5242
+Somerset,State Senate,25,Republican,"Anthony ""Tony"" Bucco",1876
+Somerset,State Senate,25,Buck the Parties,Maureen Castriotta,335
+Essex,State Senate,26,Republican,Joe Pennacchio,6345
+Essex,State Senate,26,Democratic,Avery Ann Hart,3644
+Morris,State Senate,26,Republican,Joe Pennacchio,24820
+Morris,State Senate,26,Democratic,Avery Ann Hart,13291
+Passaic,State Senate,26,Republican,Joe Pennacchio,4607
+Passaic,State Senate,26,Democratic,Avery Ann Hart,2315
+Essex,State Senate,27,Democratic,Richard J. Codey,25909
+Essex,State Senate,27,Republican,Lee S. Holtzman,11817
+Morris,State Senate,27,Democratic,Richard J. Codey,8382
+Morris,State Senate,27,Republican,Lee S. Holtzman,11764
+Essex,State Senate,28,Democratic,Ronald L. Rice,27265
+Essex,State Senate,28,Republican,Frank Contella,8744
+Essex,State Senate,29,Democratic,M. Teresa Ruiz,16078
+Essex,State Senate,29,Republican,Raafat Barsoom,3636
+Essex,State Senate,29,Unity Is Strength,Pablo Olivera,808
+Monmouth,State Senate,30,Republican,Robert W. Singer,22870
+Monmouth,State Senate,30,Democratic,William H. Field,10093
+Ocean,State Senate,30,Republican,Robert W. Singer,13693
+Ocean,State Senate,30,Democratic,William H. Field,5442
+Hudson,State Senate,31,Democratic,Sandra Bolden Cunningham,18822
+Hudson,State Senate,31,Republican,Maria Karczewski,6932
+Bergen,State Senate,32,Democratic,Nicholas J. Sacco,1952
+Bergen,State Senate,32,Repubilcan,Paul Castelli,891
+Hudson,State Senate,32,Democratic,Nicholas J. Sacco,18146
+Hudson,State Senate,32,Repubilcan,Paul Castelli,7651
+Hudson,State Senate,33,Democratic,Brian P. Stack,26980
+Hudson,State Senate,33,Republican,James Sanford,6460
+Essex,State Senate,34,Democratic,Nia H. Gill,20031
+Essex,State Senate,34,Republican,Joseph S. Cupoli,2419
+Passaic,State Senate,34,Democratic,Nia H. Gill,7101
+Passaic,State Senate,34,Republican,Joseph S. Cupoli,7553
+Bergen,State Senate,35,Democratic,Nellie Pou,3723
+Bergen,State Senate,35,Republican,Lynda Gallashaw,2932
+Passaic,State Senate,35,Democratic,Nellie Pou,18431
+Passaic,State Senate,35,Republican,Lynda Gallashaw,4805
+Bergen,State Senate,36,Democratic,Paul A. Sarlo,18360
+Bergen,State Senate,36,Republican,Brian A. Fitzhenry,13853
+Passaic,State Senate,36,Democratic,Paul A. Sarlo,4317
+Passaic,State Senate,36,Republican,Brian A. Fitzhenry,1440
+Bergen,State Senate,37,Democratic,Loretta Weinberg,28321
+Bergen,State Senate,37,Republican,Paul A. Duggan,13038
+Bergen,State Senate,38,Democratic,Bob Gordon,25508
+Bergen,State Senate,38,Republican,Fernando A. Alonso,23079
+Passaic,State Senate,38,Democratic,Bob Gordon,2271
+Passaic,State Senate,38,Republican,Fernando A. Alonso,2688
+Bergen,State Senate,39,Republican,Gerald Cardinale,32701
+Bergen,State Senate,39,Democratic,Jane Bidwell,18340
+Passaic,State Senate,39,Republican,Gerald Cardinale,5135
+Passaic,State Senate,39,Democratic,Jane Bidwell,3276
+Bergen,State Senate,40,Republican,Kevin J. O'Toole,14674
+Bergen,State Senate,40,Democratic,William Meredith Ashley,7144
+Essex,State Senate,40,Republican,Kevin J. O'Toole,2388
+Essex,State Senate,40,Democratic,William Meredith Ashley,935
+Morris,State Senate,40,Republican,Kevin J. O'Toole,3751
+Morris,State Senate,40,Democratic,William Meredith Ashley,1783
+Passaic,State Senate,40,Republican,Kevin J. O'Toole,16752
+Passaic,State Senate,40,Democratic,William Meredith Ashley,9539
+Atlantic,General Assembly,1,Democratic,Nelson Albano,791
+Atlantic,General Assembly,1,Democratic,Bob Andrzejczak,875
+Atlantic,General Assembly,1,Republican,Sam Fiocchi,919
+Atlantic,General Assembly,1,Republican,Kristine Gabor,888
+Cape May,General Assembly,1,Democratic,Nelson Albano,12752
+Cape May,General Assembly,1,Democratic,Bob Andrzejczak,15036
+Cape May,General Assembly,1,Republican,Sam Fiocchi,15485
+Cape May,General Assembly,1,Republican,Kristine Gabor,15190
+Cumberland,General Assembly,1,Democratic,Nelson Albano,13068
+Cumberland,General Assembly,1,Democratic,Bob Andrzejczak,14047
+Cumberland,General Assembly,1,Republican,Sam Fiocchi,11135
+Cumberland,General Assembly,1,Republican,Kristine Gabor,9825
+Atlantic,General Assembly,2,Republican,Chris Brown,26020
+Atlantic,General Assembly,2,Democratic,Vincent Mazzeo,25164
+Atlantic,General Assembly,2,Democratic,Nick Russo,23900
+Atlantic,General Assembly,2,Brownie Plus Me,Gary Stein,1388
+Cumberland,General Assembly,3,Democratic,John J. Burzichelli,3101
+Cumberland,General Assembly,3,Democratic,Celeste M. Riley,3314
+Cumberland,General Assembly,3,Republican,Larry Wallace,1873
+Cumberland,General Assembly,3,Republican,Bob Vanderslice,1786
+Gloucester,General Assembly,3,Democratic,John J. Burzichelli,18100
+Gloucester,General Assembly,3,Democratic,Celeste M. Riley,17429
+Gloucester,General Assembly,3,Republican,Larry Wallace,14770
+Gloucester,General Assembly,3,Republican,Bob Vanderslice,14123
+Salem,General Assembly,3,Democratic,John J. Burzichelli,9848
+Salem,General Assembly,3,Democratic,Celeste M. Riley,9127
+Salem,General Assembly,3,Republican,Larry Wallace,8451
+Salem,General Assembly,3,Republican,Bob Vanderslice,8914
+Camden,General Assembly,4,Democratic,Paul D. Moriarty,16637
+Camden,General Assembly,4,Democratic,Gabriela M. Mosquera,15687
+Camden,General Assembly,4,Republican,Philip Dieser,10034
+Camden,General Assembly,4,Republican,Theodore M. Liddell,9636
+Gloucester,General Assembly,4,Democratic,Paul D. Moriarty,11890
+Gloucester,General Assembly,4,Democratic,Gabriela M. Mosquera,11408
+Gloucester,General Assembly,4,Republican,Philip Dieser,11668
+Gloucester,General Assembly,4,Republican,Theodore M. Liddell,11362
+Camden,General Assembly,5,Democratic,Angel Fuentes,15827
+Camden,General Assembly,5,Democratic,"Gilbert L. ""Whip"" Wilson",15510
+Camden,General Assembly,5,Republican,David Ragonese,8365
+Camden,General Assembly,5,Republican,George Wagoner,7739
+Gloucester,General Assembly,5,Democratic,Angel Fuentes,9340
+Gloucester,General Assembly,5,Democratic,"Gilbert L. ""Whip"" Wilson",9251
+Gloucester,General Assembly,5,Republican,David Ragonese,9409
+Gloucester,General Assembly,5,Republican,George Wagoner,9298
+Burlington,General Assembly,6,Democratic,Louis D. Greenwald,1796
+Burlington,General Assembly,6,Democratic,Pamela R. Lampitt,1746
+Burlington,General Assembly,6,Republican,Chris Leone-Zwillinger,1607
+Burlington,General Assembly,6,Republican,George R. Fisher,1598
+Camden,General Assembly,6,Democratic,Louis D. Greenwald,31436
+Camden,General Assembly,6,Democratic,Pamela R. Lampitt,29620
+Camden,General Assembly,6,Republican,Chris Leone-Zwillinger,20540
+Camden,General Assembly,6,Republican,George R. Fisher,19801
+Burlington,General Assembly,7,Democratic,Herb Conaway,34978
+Burlington,General Assembly,7,Democratic,Troy Singleton,34772
+Burlington,General Assembly,7,Republican,Anthony Ogozalek,27991
+Burlington,General Assembly,7,Republican,Jeff Banasz,27233
+Atlantic,General Assembly,8,Republican,Chris Brown,2650
+Atlantic,General Assembly,8,Republican,Maria Rodriguez Gregg,2454
+Atlantic,General Assembly,8,Democratic,Robert L. McGowan,1256
+Atlantic,General Assembly,8,Democratic,Ava Markey,1183
+Burlington,General Assembly,8,Republican,Chris Brown,28255
+Burlington,General Assembly,8,Republican,Maria Rodriguez Gregg,26800
+Burlington,General Assembly,8,Democratic,Robert L. McGowan,18121
+Burlington,General Assembly,8,Democratic,Ava Markey,17508
+Camden,General Assembly,8,Republican,Chris Brown,3388
+Camden,General Assembly,8,Republican,Maria Rodriguez Gregg,3106
+Camden,General Assembly,8,Democratic,Robert L. McGowan,3084
+Camden,General Assembly,8,Democratic,Ava Markey,2974
+Atlantic,General Assembly,9,Republican,Brian E. Rumpf,5491
+Atlantic,General Assembly,9,Republican,Dianne C. Gove,5376
+Atlantic,General Assembly,9,Democratic,Peter Ferwerda III,3614
+Atlantic,General Assembly,9,Democratic,Christopher J. McManus,3929
+Burlington,General Assembly,9,Republican,Brian E. Rumpf,2072
+Burlington,General Assembly,9,Republican,Dianne C. Gove,2002
+Burlington,General Assembly,9,Democratic,Peter Ferwerda III,721
+Burlington,General Assembly,9,Democratic,Christopher J. McManus,773
+Ocean,General Assembly,9,Republican,Brian E. Rumpf,38127
+Ocean,General Assembly,9,Republican,Dianne C. Gove,36317
+Ocean,General Assembly,9,Democratic,Peter Ferwerda III,14537
+Ocean,General Assembly,9,Democratic,Christopher J. McManus,15652
+Ocean,General Assembly,10,Republican,Dave Wolfe,44627
+Ocean,General Assembly,10,Republican,Gregory P. McGuckin,42586
+Ocean,General Assembly,10,Democratic,Susan Kane,20647
+Ocean,General Assembly,10,Democratic,Amber Gesslein,19658
+Monmouth,General Assembly,11,Republican,Mary Pat Angelini,29842
+Monmouth,General Assembly,11,Republican,Caroline Casagrande,28827
+Monmouth,General Assembly,11,Democratic,Edward Zipprich,19968
+Monmouth,General Assembly,11,Democratic,Kevin McMillan,20406
+Burlington,General Assembly,12,Republican,Ronald S. Dancer,2135
+Burlington,General Assembly,12,Republican,Robert D. Clifton,1973
+Burlington,General Assembly,12,Democratic,Lawrence J. Furman,901
+Burlington,General Assembly,12,Democratic,Nicholas Nellegar,914
+Burlington,General Assembly,12,For the People,Diane Bindler,21
+Middlesex,General Assembly,12,Republican,Ronald S. Dancer,7454
+Middlesex,General Assembly,12,Republican,Robert D. Clifton,7147
+Middlesex,General Assembly,12,Democratic,Lawrence J. Furman,5214
+Middlesex,General Assembly,12,Democratic,Nicholas Nellegar,4924
+Middlesex,General Assembly,12,For the People,Diane Bindler,449
+Monmouth,General Assembly,12,Republican,Ronald S. Dancer,11296
+Monmouth,General Assembly,12,Republican,Robert D. Clifton,11212
+Monmouth,General Assembly,12,Democratic,Lawrence J. Furman,6231
+Monmouth,General Assembly,12,Democratic,Nicholas Nellegar,5909
+Monmouth,General Assembly,12,For the People,Diane Bindler,568
+Ocean,General Assembly,12,Republican,Ronald S. Dancer,11303
+Ocean,General Assembly,12,Republican,Robert D. Clifton,10727
+Ocean,General Assembly,12,Democratic,Lawrence J. Furman,4773
+Ocean,General Assembly,12,Democratic,Nicholas Nellegar,4565
+Ocean,General Assembly,12,For the People,Diane Bindler,316
+Monmouth,General Assembly,13,Republican,Amy Handlin,38795
+Monmouth,General Assembly,13,Republican,Declan O'Scanlon,37577
+Monmouth,General Assembly,13,Democratic,Allison Friedman,19623
+Monmouth,General Assembly,13,Democratic,Matthew Morehead,18843
+Monmouth,General Assembly,13,Vote Green 13,Anne Zaletel,796
+Mercer,General Assembly,14,Democratic,Wayne P. DeAngelo,20695
+Mercer,General Assembly,14,Democratic,Daniel R. Benson,20039
+Mercer,General Assembly,14,Republican,Steve Cook,17242
+Mercer,General Assembly,14,Republican,Ronald Haas,16049
+Mercer,General Assembly,14,Libertarian Party,Sean O'Connor,625
+Mercer,General Assembly,14,Libertarian Party,Steven Uccio,552
+Middlesex,General Assembly,14,Democratic,Wayne P. DeAngelo,11353
+Middlesex,General Assembly,14,Democratic,Daniel R. Benson,10953
+Middlesex,General Assembly,14,Republican,Steve Cook,10893
+Middlesex,General Assembly,14,Republican,Ronald Haas,10184
+Middlesex,General Assembly,14,Libertarian Party,Sean O'Connor,273
+Middlesex,General Assembly,14,Libertarian Party,Steven Uccio,227
+Hunterdon,General Assembly,15,Democratic,Reed Gusciora,1764
+Hunterdon,General Assembly,15,Democratic,Bonnie Watson Coleman,1789
+Hunterdon,General Assembly,15,Republican,Kim Taylor,2034
+Hunterdon,General Assembly,15,Republican,Anthony Giordano,2041
+Mercer,General Assembly,15,Democratic,Reed Gusciora,27084
+Mercer,General Assembly,15,Democratic,Bonnie Watson Coleman,27320
+Mercer,General Assembly,15,Republican,Kim Taylor,15276
+Mercer,General Assembly,15,Republican,Anthony Giordano,15388
+Hunterdon,General Assembly,16,Republican,Jack M. Ciattarelli,10203
+Hunterdon,General Assembly,16,Republican,Donna M. Simon,10140
+Hunterdon,General Assembly,16,Democratic,Marie Corfield,5166
+Hunterdon,General Assembly,16,Democratic,Ida Ochoteco,4647
+Hunterdon,General Assembly,16,Libertarian Party,Patrick McKnight,321
+Mercer,General Assembly,16,Republican,Jack M. Ciattarelli,1874
+Mercer,General Assembly,16,Republican,Donna M. Simon,1915
+Mercer,General Assembly,16,Democratic,Marie Corfield,4882
+Mercer,General Assembly,16,Democratic,Ida Ochoteco,4704
+Mercer,General Assembly,16,Libertarian Party,Patrick McKnight,104
+Middlesex,General Assembly,16,Republican,Jack M. Ciattarelli,3997
+Middlesex,General Assembly,16,Republican,Donna M. Simon,3904
+Middlesex,General Assembly,16,Democratic,Marie Corfield,4717
+Middlesex,General Assembly,16,Democratic,Ida Ochoteco,4398
+Middlesex,General Assembly,16,Libertarian Party,Patrick McKnight,111
+Somerset,General Assembly,16,Republican,Jack M. Ciattarelli,16051
+Somerset,General Assembly,16,Republican,Donna M. Simon,15584
+Somerset,General Assembly,16,Democratic,Marie Corfield,10347
+Somerset,General Assembly,16,Democratic,Ida Ochoteco,9933
+Somerset,General Assembly,16,Libertarian Party,Patrick McKnight,666
+Middlesex,General Assembly,17,Democratic,Joseph V. Egan,14547
+Middlesex,General Assembly,17,Democratic,Upendra Chivukula,13951
+Middlesex,General Assembly,17,Republican,Carlo DiLalla,8237
+Middlesex,General Assembly,17,Republican,Sanjay Patel,7307
+Somerset,General Assembly,17,Democratic,Joseph V. Egan,9216
+Somerset,General Assembly,17,Democratic,Upendra Chivukula,9380
+Somerset,General Assembly,17,Republican,Carlo DiLalla,5525
+Somerset,General Assembly,17,Republican,Sanjay Patel,4974
+Middlesex,General Assembly,18,Democratic,Patrick J. Diegnan Jr.,24996
+Middlesex,General Assembly,18,Democratic,Nancy Pinkin,24186
+Middlesex,General Assembly,18,Republican,Robert A. Bengivenga Jr.,21517
+Middlesex,General Assembly,18,Republican,Lisa Goldhamer,20559
+Middlesex,General Assembly,18,United We Stand,Sheila Angalet,1068
+Middlesex,General Assembly,19,Democratic,John S. Wisniewski,24404
+Middlesex,General Assembly,19,Democratic,Craig J. Coughlin,22393
+Middlesex,General Assembly,19,Republican,Arif Khan,12151
+Middlesex,General Assembly,19,Republican,Stephanie Ziemba,13406
+Union,General Assembly,20,Democratic,Joseph Cryan,19268
+Union,General Assembly,20,Democratic,Annette Quijano,18839
+Union,General Assembly,20,Republican,Charles Donnelly,7719
+Union,General Assembly,20,Republican,Christopher Hackett,7269
+Morris,General Assembly,21,Republican,Jon Bramnick,3331
+Morris,General Assembly,21,Republican,Nancy Munoz,3284
+Morris,General Assembly,21,Democratic,Norman W. Albert,1373
+Morris,General Assembly,21,Democratic,Jill Anne Lazare,1468
+Somerset,General Assembly,21,Republican,Jon Bramnick,10010
+Somerset,General Assembly,21,Republican,Nancy Munoz,9823
+Somerset,General Assembly,21,Democratic,Norman W. Albert,3657
+Somerset,General Assembly,21,Democratic,Jill Anne Lazare,3848
+Union,General Assembly,21,Republican,Jon Bramnick,25215
+Union,General Assembly,21,Republican,Nancy Munoz,24207
+Union,General Assembly,21,Democratic,Norman W. Albert,15015
+Union,General Assembly,21,Democratic,Jill Anne Lazare,15813
+Middlesex,General Assembly,22,Democratic,"Gerald ""Jerry"" Green",1952
+Middlesex,General Assembly,22,Democratic,Linda Stender,1838
+Middlesex,General Assembly,22,Republican,Jeffrey D. First,2486
+Middlesex,General Assembly,22,Republican,John Campbell,2490
+Somerset,General Assembly,22,Democratic,"Gerald ""Jerry"" Green",2458
+Somerset,General Assembly,22,Democratic,Linda Stender,2361
+Somerset,General Assembly,22,Republican,Jeffrey D. First,2368
+Somerset,General Assembly,22,Republican,John Campbell,2501
+Union,General Assembly,22,Democratic,"Gerald ""Jerry"" Green",18758
+Union,General Assembly,22,Democratic,Linda Stender,19043
+Union,General Assembly,22,Republican,Jeffrey D. First,12111
+Union,General Assembly,22,Republican,John Campbell,13835
+Hunterdon,General Assembly,23,Republican,Erik Peterson,14314
+Hunterdon,General Assembly,23,Republican,John DiMaio,14044
+Hunterdon,General Assembly,23,Democratic,John Valentine,6064
+Hunterdon,General Assembly,23,Democratic,Ralph Drake,5703
+Somerset,General Assembly,23,Republican,Erik Peterson,12170
+Somerset,General Assembly,23,Republican,John DiMaio,12010
+Somerset,General Assembly,23,Democratic,John Valentine,6767
+Somerset,General Assembly,23,Democratic,Ralph Drake,6518
+Warren,General Assembly,23,Republican,Erik Peterson,9120
+Warren,General Assembly,23,Republican,John DiMaio,9404
+Warren,General Assembly,23,Democratic,John Valentine,4997
+Warren,General Assembly,23,Democratic,Ralph Drake,4327
+Morris,General Assembly,24,Republican,Alison Littell McHose,3605
+Morris,General Assembly,24,Republican,F. Parker Space,3454
+Morris,General Assembly,24,Democratic,Susan M. Williams,1809
+Morris,General Assembly,24,Democratic,William (Bill) Weightman,1691
+Sussex,General Assembly,24,Republican,Alison Littell McHose,26946
+Sussex,General Assembly,24,Republican,F. Parker Space,25625
+Sussex,General Assembly,24,Democratic,Susan M. Williams,12128
+Sussex,General Assembly,24,Democratic,William (Bill) Weightman,10354
+Warren,General Assembly,24,Republican,Alison Littell McHose,6848
+Warren,General Assembly,24,Republican,F. Parker Space,6014
+Warren,General Assembly,24,Democratic,Susan M. Williams,2946
+Warren,General Assembly,24,Democratic,William (Bill) Weightman,2366
+Morris,General Assembly,25,Republican,Michael Patrick Carroll,31618
+Morris,General Assembly,25,Republican,Anthony M. Bucco,33814
+Morris,General Assembly,25,"Listen, Lead, Succeed",Rebecca Feldman,8731
+Morris,General Assembly,25,Principle Before Politics,Jack Curtis,4056
+Somerset,General Assembly,25,Republican,Michael Patrick Carroll,1775
+Somerset,General Assembly,25,Republican,Anthony M. Bucco,1722
+Somerset,General Assembly,25,"Listen, Lead, Succeed",Rebecca Feldman,478
+Somerset,General Assembly,25,Principle Before Politics,Jack Curtis,370
+Essex,General Assembly,26,Republican,Jay Webber,6194
+Essex,General Assembly,26,Republican,BettyLou DeCroce,6173
+Essex,General Assembly,26,Democratic,Elliot Isibor,3589
+Essex,General Assembly,26,Democratic,Joseph Raich,3532
+Morris,General Assembly,26,Republican,Jay Webber,24231
+Morris,General Assembly,26,Republican,BettyLou DeCroce,24468
+Morris,General Assembly,26,Democratic,Elliot Isibor,12949
+Morris,General Assembly,26,Democratic,Joseph Raich,12698
+Passaic,General Assembly,26,Republican,Jay Webber,4603
+Passaic,General Assembly,26,Republican,BettyLou DeCroce,4711
+Passaic,General Assembly,26,Democratic,Elliot Isibor,2182
+Passaic,General Assembly,26,Democratic,Joseph Raich,2149
+Essex,General Assembly,27,Democratic,John F. McKeon,23737
+Essex,General Assembly,27,Democratic,Mila M. Jasey,22961
+Essex,General Assembly,27,Republican,Angelo Tedesco,12611
+Essex,General Assembly,27,Republican,Laura M. Ali,12237
+Morris,General Assembly,27,Democratic,John F. McKeon,6817
+Morris,General Assembly,27,Democratic,Mila M. Jasey,6384
+Morris,General Assembly,27,Republican,Angelo Tedesco,12767
+Morris,General Assembly,27,Republican,Laura M. Ali,12495
+Essex,General Assembly,28,Democratic,Cleopatra G. Tucker,25869
+Essex,General Assembly,28,Democratic,Ralph Caputo,26221
+Essex,General Assembly,28,Republican,James Boydston,7452
+Essex,General Assembly,28,Republican,Peter S. Manning,7875
+Essex,General Assembly,29,Democratic,L. Grace Spencer,15259
+Essex,General Assembly,29,Democatic,Eliana Pintor Marin,14645
+Essex,General Assembly,29,Republican,Aracelis Sanabria Tejada,3957
+Essex,General Assembly,29,Republican,Elaine L. Guarino,3903
+Monmouth,General Assembly,30,Republican,Sean T. Kean,24784
+Monmouth,General Assembly,30,Republican,David P. Rible,23070
+Monmouth,General Assembly,30,Democratic,Lorelei Rouvrais,8678
+Monmouth,General Assembly,30,Democratic,Jimmy Esposito,9269
+Ocean,General Assembly,30,Republican,Sean T. Kean,14918
+Ocean,General Assembly,30,Republican,David P. Rible,14182
+Ocean,General Assembly,30,Democratic,Lorelei Rouvrais,4289
+Ocean,General Assembly,30,Democratic,Jimmy Esposito,4629
+Hudson,General Assembly,31,Democratic,Charles Mainor,17877
+Hudson,General Assembly,31,Democratic,Jason O'Donnell,17954
+Hudson,General Assembly,31,Republican,Gerard Pizzillo,6471
+Hudson,General Assembly,31,Republican,Juanita Lopez,6342
+Bergen,General Assembly,32,Democratic,Vincent Prieto,1883
+Bergen,General Assembly,32,Democratic,Angelica M. Jimenez,1890
+Bergen,General Assembly,32,Republican,Maria Malavasi-Quartello,842
+Bergen,General Assembly,32,Republican,Lee Marie Gomez,829
+Hudson,General Assembly,32,Democratic,Vincent Prieto,18002
+Hudson,General Assembly,32,Democratic,Angelica M. Jimenez,17403
+Hudson,General Assembly,32,Republican,Maria Malavasi-Quartello,7032
+Hudson,General Assembly,32,Republican,Lee Marie Gomez,7094
+Hudson,General Assembly,33,Democratic,Carmelo G. Garcia,20681
+Hudson,General Assembly,33,Democratic,Raj Mukherji,19029
+Hudson,General Assembly,33,Republican,Jude Anthony Tiscornia,7691
+Hudson,General Assembly,33,Republican,Armando Hernandez,7737
+Essex,General Assembly,34,Democratic,Sheila Y. Oliver,19609
+Essex,General Assembly,34,Democratic,Thomas P. Giblin,19070
+Essex,General Assembly,34,Republican,David Rios,2346
+Essex,General Assembly,34,Republican,Michael C. Urciouli,2145
+Passaic,General Assembly,34,Democratic,Sheila Y. Oliver,7486
+Passaic,General Assembly,34,Democratic,Thomas P. Giblin,7732
+Passaic,General Assembly,34,Republican,David Rios,6308
+Passaic,General Assembly,34,Republican,Michael C. Urciouli,6518
+Bergen,General Assembly,35,Democratic,Shavonda E. Sumter,3501
+Bergen,General Assembly,35,Democratic,Benjie E. Wimberly,3528
+Bergen,General Assembly,35,Republican,Rhina Tavarez,2859
+Bergen,General Assembly,35,Republican,Maria Del Pilar Rivas,2829
+Passaic,General Assembly,35,Democratic,Shavonda E. Sumter,17290
+Passaic,General Assembly,35,Democratic,Benjie E. Wimberly,17667
+Passaic,General Assembly,35,Republican,Rhina Tavarez,5109
+Passaic,General Assembly,35,Republican,Maria Del Pilar Rivas,4999
+Bergen,General Assembly,36,Democratic,Gary Schaer,16529
+Bergen,General Assembly,36,Democratic,Marlene Caride,16405
+Bergen,General Assembly,36,Republican,Rosina Romano,14331
+Bergen,General Assembly,36,Republican,Foster Lowe,13670
+Passaic,General Assembly,36,Democratic,Gary Schaer,4602
+Passaic,General Assembly,36,Democratic,Marlene Caride,4115
+Passaic,General Assembly,36,Republican,Rosina Romano,1300
+Passaic,General Assembly,36,Republican,Foster Lowe,1344
+Bergen,General Assembly,37,Democratic,Gordon M. Johnson,26373
+Bergen,General Assembly,37,Democratic,Valerie Vainieri Huttle,26581
+Bergen,General Assembly,37,Republican,Gino Tessaro,13338
+Bergen,General Assembly,37,Republican,Dierdre G. Paul,12988
+Bergen,General Assembly,38,Democratic,Timothy J. Eustace,23905
+Bergen,General Assembly,38,Democratic,Joseph Lagana,24135
+Bergen,General Assembly,38,Republican,Joan Fragala,23153
+Bergen,General Assembly,38,Republican,Joseph J. Scarpa,23259
+Passaic,General Assembly,38,Democratic,Timothy J. Eustace,2116
+Passaic,General Assembly,38,Democratic,Joseph Lagana,2144
+Passaic,General Assembly,38,Republican,Joan Fragala,2683
+Passaic,General Assembly,38,Republican,Joseph J. Scarpa,2706
+Bergen,General Assembly,39,Republican,Holly Schepisi,31750
+Bergen,General Assembly,39,Republican,Robert Auth,28859
+Bergen,General Assembly,39,Democratic,Anthony N. Iannarelli Jr.,17591
+Bergen,General Assembly,39,Democratic,Donna C. Abene,19086
+Passaic,General Assembly,39,Republican,Holly Schepisi,5123
+Passaic,General Assembly,39,Republican,Robert Auth,4821
+Passaic,General Assembly,39,Democratic,Anthony N. Iannarelli Jr.,3194
+Passaic,General Assembly,39,Democratic,Donna C. Abene,3364
+Bergen,General Assembly,40,Republican,David C. Russo,14480
+Bergen,General Assembly,40,Republican,Scott T. Rumana,14023
+Bergen,General Assembly,40,Democratic,Anthony J. Galietti,7056
+Bergen,General Assembly,40,Democratic,Leo Arcuri,6906
+Essex,General Assembly,40,Republican,David C. Russo,2083
+Essex,General Assembly,40,Republican,Scott T. Rumana,2001
+Essex,General Assembly,40,Democratic,Anthony J. Galietti,1073
+Essex,General Assembly,40,Democratic,Leo Arcuri,1034
+Morris,General Assembly,40,Republican,David C. Russo,3612
+Morris,General Assembly,40,Republican,Scott T. Rumana,3606
+Morris,General Assembly,40,Democratic,Anthony J. Galietti,1876
+Morris,General Assembly,40,Democratic,Leo Arcuri,1776
+Passaic,General Assembly,40,Republican,David C. Russo,15968
+Passaic,General Assembly,40,Republican,Scott T. Rumana,16544
+Passaic,General Assembly,40,Democratic,Anthony J. Galietti,10774
+Passaic,General Assembly,40,Democratic,Leo Arcuri,9826
+Atlantic,Governor,,Republican,Chris Christie - Kimberly M. Guadagno,43975
+Atlantic,Governor,,Democratic,Barbara Buono - Milly Silva,25557
+Atlantic,Governor,,Peace and Freedom,William Araujo - Maria Salamanca,219
+Atlantic,Governor,,NSA DID 911,Jeff Boss - Robert B. Thorne,108
+Atlantic,Governor,,Libertarian Party,Kenneth R. Kaplan - Brenda Bell,432
+Atlantic,Governor,,Glass-Steagall Now,Diane W. Sare - Bruce Todd,94
+Atlantic,Governor,,Independent,Hank Schroeder - Patricia Moschella,92
+Atlantic,Governor,,Green Party,Steven Welzer - Patrice Alessandrini,221
+Bergen,Governor,,Republican,Chris Christie - Kimberly M. Guadagno,136178
+Bergen,Governor,,Democratic,Barbara Buono - Milly Silva,87376
+Bergen,Governor,,Peace and Freedom,William Araujo - Maria Salamanca,155
+Bergen,Governor,,NSA DID 911,Jeff Boss - Robert B. Thorne,165
+Bergen,Governor,,Libertarian Party,Kenneth R. Kaplan - Brenda Bell,1009
+Bergen,Governor,,Glass-Steagall Now,Diane W. Sare - Bruce Todd,461
+Bergen,Governor,,Independent,Hank Schroeder - Patricia Moschella,179
+Bergen,Governor,,Green Party,Steven Welzer - Patrice Alessandrini,546
+Burlington,Governor,,Republican,Chris Christie - Kimberly M. Guadagno,79220
+Burlington,Governor,,Democratic,Barbara Buono - Milly Silva,46161
+Burlington,Governor,,Peace and Freedom,William Araujo - Maria Salamanca,186
+Burlington,Governor,,NSA DID 911,Jeff Boss - Robert B. Thorne,92
+Burlington,Governor,,Libertarian Party,Kenneth R. Kaplan - Brenda Bell,755
+Burlington,Governor,,Glass-Steagall Now,Diane W. Sare - Bruce Todd,162
+Burlington,Governor,,Independent,Hank Schroeder - Patricia Moschella,121
+Burlington,Governor,,Green Party,Steven Welzer - Patrice Alessandrini,382
+Camden,Governor,,Republican,Chris Christie - Kimberly M. Guadagno,64545
+Camden,Governor,,Democratic,Barbara Buono - Milly Silva,51546
+Camden,Governor,,Peace and Freedom,William Araujo - Maria Salamanca,269
+Camden,Governor,,NSA DID 911,Jeff Boss - Robert B. Thorne,130
+Camden,Governor,,Libertarian Party,Kenneth R. Kaplan - Brenda Bell,719
+Camden,Governor,,Glass-Steagall Now,Diane W. Sare - Bruce Todd,138
+Camden,Governor,,Independent,Hank Schroeder - Patricia Moschella,66
+Camden,Governor,,Green Party,Steven Welzer - Patrice Alessandrini,464
+Cape May,Governor,,Republican,Chris Christie - Kimberly M. Guadagno,23531
+Cape May,Governor,,Democratic,Barbara Buono - Milly Silva,8798
+Cape May,Governor,,Peace and Freedom,William Araujo - Maria Salamanca,20
+Cape May,Governor,,NSA DID 911,Jeff Boss - Robert B. Thorne,120
+Cape May,Governor,,Libertarian Party,Kenneth R. Kaplan - Brenda Bell,178
+Cape May,Governor,,Glass-Steagall Now,Diane W. Sare - Bruce Todd,63
+Cape May,Governor,,Independent,Hank Schroeder - Patricia Moschella,25
+Cape May,Governor,,Green Party,Steven Welzer - Patrice Alessandrini,113
+Cumberland,Governor,,Republican,Chris Christie - Kimberly M. Guadagno,17943
+Cumberland,Governor,,Democratic,Barbara Buono - Milly Silva,13129
+Cumberland,Governor,,Peace and Freedom,William Araujo - Maria Salamanca,41
+Cumberland,Governor,,NSA DID 911,Jeff Boss - Robert B. Thorne,40
+Cumberland,Governor,,Libertarian Party,Kenneth R. Kaplan - Brenda Bell,220
+Cumberland,Governor,,Glass-Steagall Now,Diane W. Sare - Bruce Todd,147
+Cumberland,Governor,,Independent,Hank Schroeder - Patricia Moschella,32
+Cumberland,Governor,,Green Party,Steven Welzer - Patrice Alessandrini,115
+Essex,Governor,,Republican,Chris Christie - Kimberly M. Guadagno,57353
+Essex,Governor,,Democratic,Barbara Buono - Milly Silva,95747
+Essex,Governor,,Peace and Freedom,William Araujo - Maria Salamanca,238
+Essex,Governor,,NSA DID 911,Jeff Boss - Robert B. Thorne,90
+Essex,Governor,,Libertarian Party,Kenneth R. Kaplan - Brenda Bell,625
+Essex,Governor,,Glass-Steagall Now,Diane W. Sare - Bruce Todd,244
+Essex,Governor,,Independent,Hank Schroeder - Patricia Moschella,118
+Essex,Governor,,Green Party,Steven Welzer - Patrice Alessandrini,390
+Gloucester,Governor,,Republican,Chris Christie - Kimberly M. Guadagno,50640
+Gloucester,Governor,,Democratic,Barbara Buono - Milly Silva,27060
+Gloucester,Governor,,Peace and Freedom,William Araujo - Maria Salamanca,194
+Gloucester,Governor,,NSA DID 911,Jeff Boss - Robert B. Thorne,60
+Gloucester,Governor,,Libertarian Party,Kenneth R. Kaplan - Brenda Bell,591
+Gloucester,Governor,,Glass-Steagall Now,Diane W. Sare - Bruce Todd,82
+Gloucester,Governor,,Independent,Hank Schroeder - Patricia Moschella,96
+Gloucester,Governor,,Green Party,Steven Welzer - Patrice Alessandrini,262
+Hudson,Governor,,Republican,Chris Christie - Kimberly M. Guadagno,42567
+Hudson,Governor,,Democratic,Barbara Buono - Milly Silva,53386
+Hudson,Governor,,Peace and Freedom,William Araujo - Maria Salamanca,217
+Hudson,Governor,,NSA DID 911,Jeff Boss - Robert B. Thorne,131
+Hudson,Governor,,Libertarian Party,Kenneth R. Kaplan - Brenda Bell,438
+Hudson,Governor,,Glass-Steagall Now,Diane W. Sare - Bruce Todd,107
+Hudson,Governor,,Independent,Hank Schroeder - Patricia Moschella,390
+Hudson,Governor,,Green Party,Steven Welzer - Patrice Alessandrini,349
+Hunterdon,Governor,,Republican,Chris Christie - Kimberly M. Guadagno,31292
+Hunterdon,Governor,,Democratic,Barbara Buono - Milly Silva,10425
+Hunterdon,Governor,,Peace and Freedom,William Araujo - Maria Salamanca,40
+Hunterdon,Governor,,NSA DID 911,Jeff Boss - Robert B. Thorne,42
+Hunterdon,Governor,,Libertarian Party,Kenneth R. Kaplan - Brenda Bell,385
+Hunterdon,Governor,,Glass-Steagall Now,Diane W. Sare - Bruce Todd,69
+Hunterdon,Governor,,Independent,Hank Schroeder - Patricia Moschella,48
+Hunterdon,Governor,,Green Party,Steven Welzer - Patrice Alessandrini,258
+Mercer,Governor,,Republican,Chris Christie - Kimberly M. Guadagno,48530
+Mercer,Governor,,Democratic,Barbara Buono - Milly Silva,43282
+Mercer,Governor,,Peace and Freedom,William Araujo - Maria Salamanca,101
+Mercer,Governor,,NSA DID 911,Jeff Boss - Robert B. Thorne,71
+Mercer,Governor,,Libertarian Party,Kenneth R. Kaplan - Brenda Bell,574
+Mercer,Governor,,Glass-Steagall Now,Diane W. Sare - Bruce Todd,121
+Mercer,Governor,,Independent,Hank Schroeder - Patricia Moschella,177
+Mercer,Governor,,Green Party,Steven Welzer - Patrice Alessandrini,577
+Middlesex,Governor,,Republican,Chris Christie - Kimberly M. Guadagno,101619
+Middlesex,Governor,,Democratic,Barbara Buono - Milly Silva,70225
+Middlesex,Governor,,Peace and Freedom,William Araujo - Maria Salamanca,301
+Middlesex,Governor,,NSA DID 911,Jeff Boss - Robert B. Thorne,141
+Middlesex,Governor,,Libertarian Party,Kenneth R. Kaplan - Brenda Bell,790
+Middlesex,Governor,,Glass-Steagall Now,Diane W. Sare - Bruce Todd,259
+Middlesex,Governor,,Independent,Hank Schroeder - Patricia Moschella,115
+Middlesex,Governor,,Green Party,Steven Welzer - Patrice Alessandrini,862
+Monmouth,Governor,,Republican,Chris Christie - Kimberly M. Guadagno,123417
+Monmouth,Governor,,Democratic,Barbara Buono - Milly Silva,48477
+Monmouth,Governor,,Peace and Freedom,William Araujo - Maria Salamanca,324
+Monmouth,Governor,,NSA DID 911,Jeff Boss - Robert B. Thorne,152
+Monmouth,Governor,,Libertarian Party,Kenneth R. Kaplan - Brenda Bell,1032
+Monmouth,Governor,,Glass-Steagall Now,Diane W. Sare - Bruce Todd,284
+Monmouth,Governor,,Independent,Hank Schroeder - Patricia Moschella,346
+Monmouth,Governor,,Green Party,Steven Welzer - Patrice Alessandrini,615
+Morris,Governor,,Republican,Chris Christie - Kimberly M. Guadagno,98888
+Morris,Governor,,Democratic,Barbara Buono - Milly Silva,39824
+Morris,Governor,,Peace and Freedom,William Araujo - Maria Salamanca,127
+Morris,Governor,,NSA DID 911,Jeff Boss - Robert B. Thorne,104
+Morris,Governor,,Libertarian Party,Kenneth R. Kaplan - Brenda Bell,1036
+Morris,Governor,,Glass-Steagall Now,Diane W. Sare - Bruce Todd,209
+Morris,Governor,,Independent,Hank Schroeder - Patricia Moschella,283
+Morris,Governor,,Green Party,Steven Welzer - Patrice Alessandrini,623
+Ocean,Governor,,Republican,Chris Christie - Kimberly M. Guadagno,125781
+Ocean,Governor,,Democratic,Barbara Buono - Milly Silva,37930
+Ocean,Governor,,Peace and Freedom,William Araujo - Maria Salamanca,189
+Ocean,Governor,,NSA DID 911,Jeff Boss - Robert B. Thorne,169
+Ocean,Governor,,Libertarian Party,Kenneth R. Kaplan - Brenda Bell,832
+Ocean,Governor,,Glass-Steagall Now,Diane W. Sare - Bruce Todd,168
+Ocean,Governor,,Independent,Hank Schroeder - Patricia Moschella,191
+Ocean,Governor,,Green Party,Steven Welzer - Patrice Alessandrini,762
+Passaic,Governor,,Republican,Chris Christie - Kimberly M. Guadagno,53858
+Passaic,Governor,,Democratic,Barbara Buono - Milly Silva,46825
+Passaic,Governor,,Peace and Freedom,William Araujo - Maria Salamanca,114
+Passaic,Governor,,NSA DID 911,Jeff Boss - Robert B. Thorne,161
+Passaic,Governor,,Libertarian Party,Kenneth R. Kaplan - Brenda Bell,368
+Passaic,Governor,,Glass-Steagall Now,Diane W. Sare - Bruce Todd,222
+Passaic,Governor,,Independent,Hank Schroeder - Patricia Moschella,62
+Passaic,Governor,,Green Party,Steven Welzer - Patrice Alessandrini,213
+Salem,Governor,,Republican,Chris Christie - Kimberly M. Guadagno,12748
+Salem,Governor,,Democratic,Barbara Buono - Milly Silva,5889
+Salem,Governor,,Peace and Freedom,William Araujo - Maria Salamanca,44
+Salem,Governor,,NSA DID 911,Jeff Boss - Robert B. Thorne,37
+Salem,Governor,,Libertarian Party,Kenneth R. Kaplan - Brenda Bell,197
+Salem,Governor,,Glass-Steagall Now,Diane W. Sare - Bruce Todd,33
+Salem,Governor,,Independent,Hank Schroeder - Patricia Moschella,43
+Salem,Governor,,Green Party,Steven Welzer - Patrice Alessandrini,141
+Somerset,Governor,,Republican,Chris Christie - Kimberly M. Guadagno,58981
+Somerset,Governor,,Democratic,Barbara Buono - Milly Silva,26913
+Somerset,Governor,,Peace and Freedom,William Araujo - Maria Salamanca,155
+Somerset,Governor,,NSA DID 911,Jeff Boss - Robert B. Thorne,65
+Somerset,Governor,,Libertarian Party,Kenneth R. Kaplan - Brenda Bell,696
+Somerset,Governor,,Glass-Steagall Now,Diane W. Sare - Bruce Todd,117
+Somerset,Governor,,Independent,Hank Schroeder - Patricia Moschella,57
+Somerset,Governor,,Green Party,Steven Welzer - Patrice Alessandrini,329
+Sussex,Governor,,Republican,Chris Christie - Kimberly M. Guadagno,29873
+Sussex,Governor,,Democratic,Barbara Buono - Milly Silva,10704
+Sussex,Governor,,Peace and Freedom,William Araujo - Maria Salamanca,130
+Sussex,Governor,,NSA DID 911,Jeff Boss - Robert B. Thorne,58
+Sussex,Governor,,Libertarian Party,Kenneth R. Kaplan - Brenda Bell,542
+Sussex,Governor,,Glass-Steagall Now,Diane W. Sare - Bruce Todd,180
+Sussex,Governor,,Independent,Hank Schroeder - Patricia Moschella,162
+Sussex,Governor,,Green Party,Steven Welzer - Patrice Alessandrini,347
+Union,Governor,,Republican,Chris Christie - Kimberly M. Guadagno,58135
+Union,Governor,,Democratic,Barbara Buono - Milly Silva,53869
+Union,Governor,,Peace and Freedom,William Araujo - Maria Salamanca,199
+Union,Governor,,NSA DID 911,Jeff Boss - Robert B. Thorne,95
+Union,Governor,,Libertarian Party,Kenneth R. Kaplan - Brenda Bell,498
+Union,Governor,,Glass-Steagall Now,Diane W. Sare - Bruce Todd,136
+Union,Governor,,Independent,Hank Schroeder - Patricia Moschella,94
+Union,Governor,,Green Party,Steven Welzer - Patrice Alessandrini,538
+Warren,Governor,,Republican,Chris Christie - Kimberly M. Guadagno,19858
+Warren,Governor,,Democratic,Barbara Buono - Milly Silva,6855
+Warren,Governor,,Peace and Freedom,William Araujo - Maria Salamanca,37
+Warren,Governor,,NSA DID 911,Jeff Boss - Robert B. Thorne,31
+Warren,Governor,,Libertarian Party,Kenneth R. Kaplan - Brenda Bell,238
+Warren,Governor,,Glass-Steagall Now,Diane W. Sare - Bruce Todd,64
+Warren,Governor,,Independent,Hank Schroeder - Patricia Moschella,87
+Warren,Governor,,Green Party,Steven Welzer - Patrice Alessandrini,188

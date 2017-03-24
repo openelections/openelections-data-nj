@@ -51,7 +51,8 @@ CONST_OFFICES = [ 'President',
                   'U.S. House',
                   'U.S. Senate',
                   'State Senate',
-                  'General Assembly' ]
+                  'General Assembly',
+                  'Governor' ]
 
 CONST_FEDERAL_DISTRICTS = [ "1", 
                             "2",
