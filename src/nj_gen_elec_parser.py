@@ -161,7 +161,7 @@ def extract_county_name(p_line, p_config, p_county_name):
     return_value = p_county_name
     if p_config['county'] == "*":
         if p_line[0].upper().endswith('COUNTY'):
-            return_value = p_line[0].replace(' COUNTY', '').title()
+            return_value = p_line[0].upper().replace(' COUNTY', '').title()
     else:
         return_value = p_config['county']
     return return_value

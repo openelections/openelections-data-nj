@@ -1,0 +1,111 @@
+county,municipality,office,district,party,candidate,votes
+Essex,East Orange,U.S. House,10,Democratic,Donald M. Payne Jr.,21091
+Essex,East Orange,U.S. House,10,"Change, Change, Change",Joanne Miller,200
+Essex,Irvington,U.S. House,10,Democratic,Donald M. Payne Jr.,15826
+Essex,Irvington,U.S. House,10,"Change, Change, Change",Joanne Miller,163
+Essex,Maplewood,U.S. House,10,Democratic,Donald M. Payne Jr.,8374
+Essex,Maplewood,U.S. House,10,"Change, Change, Change",Joanne Miller,483
+Essex,Millburn,U.S. House,10,Democratic,Donald M. Payne Jr.,2498
+Essex,Millburn,U.S. House,10,"Change, Change, Change",Joanne Miller,365
+Essex,Montclair,U.S. House,10,Democratic,Donald M. Payne Jr.,5819
+Essex,Montclair,U.S. House,10,"Change, Change, Change",Joanne Miller,244
+Essex,Newark,U.S. House,10,Democratic,Donald M. Payne Jr.,43785
+Essex,Newark,U.S. House,10,"Change, Change, Change",Joanne Miller,569
+Essex,Orange,U.S. House,10,Democratic,Donald M. Payne Jr.,8024
+Essex,Orange,U.S. House,10,"Change, Change, Change",Joanne Miller,121
+Essex,South Orange,U.S. House,10,Democratic,Donald M. Payne Jr.,931
+Essex,South Orange,U.S. House,10,"Change, Change, Change",Joanne Miller,47
+Essex,West Orange,U.S. House,10,Democratic,Donald M. Payne Jr.,335
+Essex,West Orange,U.S. House,10,"Change, Change, Change",Joanne Miller,12
+Hudson,Bayonne,U.S. House,10,Democratic,Donald M. Payne Jr.,962
+Hudson,Bayonne,U.S. House,10,"Change, Change, Change",Joanne Miller,65
+Hudson,Jersey City,U.S. House,10,Democratic,Donald M. Payne Jr.,13739
+Hudson,Jersey City,U.S. House,10,"Change, Change, Change",Joanne Miller,382
+Hudson,Federal Overseas,U.S. House,10,Democratic,Donald M. Payne Jr.,12
+Hudson,Federal Overseas,U.S. House,10,"Change, Change, Change",Joanne Miller,0
+Union,Elizabeth,U.S. House,10,Democratic,Donald M. Payne Jr.,12259
+Union,Elizabeth,U.S. House,10,"Change, Change, Change",Joanne Miller,417
+Union,Hillside,U.S. House,10,Democratic,Donald M. Payne Jr.,6271
+Union,Hillside,U.S. House,10,"Change, Change, Change",Joanne Miller,132
+Union,Linden,U.S. House,10,Democratic,Donald M. Payne Jr.,6751
+Union,Linden,U.S. House,10,"Change, Change, Change",Joanne Miller,399
+Union,Rahway,U.S. House,10,Democratic,Donald M. Payne Jr.,6521
+Union,Rahway,U.S. House,10,"Change, Change, Change",Joanne Miller,381
+Union,Roselle,U.S. House,10,Democratic,Donald M. Payne Jr.,6089
+Union,Roselle,U.S. House,10,"Change, Change, Change",Joanne Miller,185
+Union,Union,U.S. House,10,Democratic,Donald M. Payne Jr.,7126
+Union,Union,U.S. House,10,"Change, Change, Change",Joanne Miller,335
+Camden,Chesihurst Boro,General Assembly,4,Republican,Shelley Lovett,121
+Camden,Chesihurst Boro,General Assembly,4,Democratic,Gabriela M. Mosquera,541
+Camden,Clementon Boro,General Assembly,4,Republican,Shelley Lovett,593
+Camden,Clementon Boro,General Assembly,4,Democratic,Gabriela M. Mosquera,1156
+Camden,Gloucester Twp,General Assembly,4,Republican,Shelley Lovett,9980
+Camden,Gloucester Twp,General Assembly,4,Democratic,Gabriela M. Mosquera,16015
+Camden,Laurel Springs Boro,General Assembly,4,Republican,Shelley Lovett,388
+Camden,Laurel Springs Boro,General Assembly,4,Democratic,Gabriela M. Mosquera,480
+Camden,Lindenwold Boro,General Assembly,4,Republican,Shelley Lovett,1119
+Camden,Lindenwold Boro,General Assembly,4,Democratic,Gabriela M. Mosquera,4449
+Camden,Winslow Twp.,General Assembly,4,Republican,Shelley Lovett,4583
+Camden,Winslow Twp.,General Assembly,4,Democratic,Gabriela M. Mosquera,11059
+Gloucester,Monroe Twp.,General Assembly,4,Republican,Shelley Lovett,5848
+Gloucester,Monroe Twp.,General Assembly,4,Democratic,Gabriela M. Mosquera,8295
+Gloucester,Pitman Boro,General Assembly,4,Republican,Shelley Lovett,2031
+Gloucester,Pitman Boro,General Assembly,4,Democratic,Gabriela M. Mosquera,2072
+Gloucester,Washington Twp.,General Assembly,4,Republican,Shelley Lovett,11172
+Gloucester,Washington Twp.,General Assembly,4,Democratic,Gabriela M. Mosquera,10960
+Hunterdon,Delaware Twp,General Assembly,16,Democratic,Marie Corfield,1007
+Hunterdon,Delaware Twp,General Assembly,16,Republican,Donna M. Simon,1591
+Hunterdon,Flemington Boro,General Assembly,16,Democratic,Marie Corfield,637
+Hunterdon,Flemington Boro,General Assembly,16,Republican,Donna M. Simon,715
+Hunterdon,Raritan Twp.,General Assembly,16,Democratic,Marie Corfield,4108
+Hunterdon,Raritan Twp.,General Assembly,16,Republican,Donna M. Simon,6803
+Hunterdon,Readington Twp.,General Assembly,16,Democratic,Marie Corfield,2414
+Hunterdon,Readington Twp.,General Assembly,16,Republican,Donna M. Simon,5575
+Hunterdon,Stockton Boro,General Assembly,16,Democratic,Marie Corfield,142
+Hunterdon,Stockton Boro,General Assembly,16,Republican,Donna M. Simon,137
+Mercer,Princeton,General Assembly,16,Democratic,Marie Corfield,8236
+Mercer,Princeton,General Assembly,16,Republican,Donna M. Simon,2941
+Middlesex,South Brunswick Twp.,General Assembly,16,Democratic,Marie Corfield,9970
+Middlesex,South Brunswick Twp.,General Assembly,16,Republican,Donna M. Simon,6040
+Somerset,Branchburg Twp.,General Assembly,16,Democratic,Marie Corfield,2421
+Somerset,Branchburg Twp.,General Assembly,16,Republican,Donna M. Simon,4431
+Somerset,Hillsborough Twp.,General Assembly,16,Democratic,Marie Corfield,7543
+Somerset,Hillsborough Twp.,General Assembly,16,Republican,Donna M. Simon,9224
+Somerset,Manville Boro,General Assembly,16,Democratic,Marie Corfield,1377
+Somerset,Manville Boro,General Assembly,16,Republican,Donna M. Simon,1643
+Somerset,Millstone Boro,General Assembly,16,Democratic,Marie Corfield,99
+Somerset,Millstone Boro,General Assembly,16,Republican,Donna M. Simon,120
+Somerset,Montgomery Twp.,General Assembly,16,Democratic,Marie Corfield,4683
+Somerset,Montgomery Twp.,General Assembly,16,Republican,Donna M. Simon,5134
+Somerset,Rocky Hill Boro,General Assembly,16,Democratic,Marie Corfield,211
+Somerset,Rocky Hill Boro,General Assembly,16,Republican,Donna M. Simon,148
+Somerset,Somerville Boro,General Assembly,16,Democratic,Marie Corfield,2387
+Somerset,Somerville Boro,General Assembly,16,Republican,Donna M. Simon,1709
+Somerset,,General Assembly,16,Democratic,Marie Corfield,0
+Somerset,,General Assembly,16,Republican,Donna M. Simon,0
+Essex,Fairfield Twp.,General Assembly,26,Republican,Betty Lou DeCroce,2058
+Essex,Fairfield Twp.,General Assembly,26,Democratic,Joseph R. Raich,782
+Essex,North Caldwell Boro,General Assembly,26,Republican,Betty Lou DeCroce,1768
+Essex,North Caldwell Boro,General Assembly,26,Democratic,Joseph R. Raich,1014
+Essex,Verona Twp.,General Assembly,26,Republican,Betty Lou DeCroce,3046
+Essex,Verona Twp.,General Assembly,26,Democratic,Joseph R. Raich,2897
+Essex,West Caldwell Twp.,General Assembly,26,Republican,Betty Lou DeCroce,2877
+Essex,West Caldwell Twp.,General Assembly,26,Democratic,Joseph R. Raich,1958
+Morris,Butler Boro,General Assembly,26,Republican,Betty Lou DeCroce,1637
+Morris,Butler Boro,General Assembly,26,Democratic,Joseph R. Raich,1043
+Morris,Jefferson Twp.,General Assembly,26,Republican,Betty Lou DeCroce,4938
+Morris,Jefferson Twp.,General Assembly,26,Democratic,Joseph R. Raich,2777
+Morris,Kinnelon Boro,General Assembly,26,Republican,Betty Lou DeCroce,3220
+Morris,Kinnelon Boro,General Assembly,26,Democratic,Joseph R. Raich,1289
+Morris,Lincoln Park Boro,General Assembly,26,Republican,Betty Lou DeCroce,2167
+Morris,Lincoln Park Boro,General Assembly,26,Democratic,Joseph R. Raich,1378
+Morris,Montville Twp.,General Assembly,26,Republican,Betty Lou DeCroce,5912
+Morris,Montville Twp.,General Assembly,26,Democratic,Joseph R. Raich,3139
+Morris,Morris Plains Boro,General Assembly,26,Republican,Betty Lou DeCroce,1720
+Morris,Morris Plains Boro,General Assembly,26,Democratic,Joseph R. Raich,978
+Morris,Parsippany-Troy Hills Twp.,General Assembly,26,Republican,Betty Lou DeCroce,9636
+Morris,Parsippany-Troy Hills Twp.,General Assembly,26,Democratic,Joseph R. Raich,8525
+Morris,Rockaway Twp.,General Assembly,26,Republican,Betty Lou DeCroce,6029
+Morris,Rockaway Twp.,General Assembly,26,Democratic,Joseph R. Raich,4052
+Passaic,West Milford Twp.,General Assembly,26,Republican,Betty Lou DeCroce,6477
+Passaic,West Milford Twp.,General Assembly,26,Democratic,Joseph R. Raich,3786
