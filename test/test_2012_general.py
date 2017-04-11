@@ -165,6 +165,18 @@ def spot_check_totals(args, county_file):
     error_count += spot_check_value(args, cv, 'Gregory Pason', 'Burlington', 70)
     error_count += spot_check_value(args, cv, 'Eugene Martin Lavergne', 'Bergen', 85)
     error_count += spot_check_value(args, cv, 'Daryl Mikell Brooks', 'Atlantic', 89)
+    error_count += spot_check_value(args, cv, 'Rush Holt', 'Middlesex', 71597)
+    error_count += spot_check_value(args, cv, 'John Arvanites', 'Morris', 55873)
+    error_count += spot_check_value(args, cv, 'Joanne Miller', 'Hudson', 819)
+    error_count += spot_check_value(args, cv, 'Jeanette Woolsey', 'Bergen', 733)
+    error_count += spot_check_value(args, cv, 'Albio Sires', 'Hudson', 85092)
+    error_count += spot_check_value(args, cv, 'Upendra J. Chivukula', 'Hunterdon', 20044)
+    error_count += spot_check_value(args, cv, 'Len Flynn', 'Middlesex', 970)
+    error_count += spot_check_value(args, cv, 'Patricia Alessandrini', 'Bergen', 4051)
+    error_count += spot_check_value(args, cv, 'Christopher H. Smith', 'Monmouth', 109506)
+    error_count += spot_check_value(args, cv, 'Shelley Adler', 'Ocean', 51331)
+    error_count += spot_check_value(args, cv, 'John Ordille', 'Salem', 366)
+    error_count += spot_check_value(args, cv, 'Gregory W. Horton', 'Camden', 56670)
 
     print "There are " + str(error_count) + " Spot Check errors"
 

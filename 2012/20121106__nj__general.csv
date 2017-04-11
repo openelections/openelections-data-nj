@@ -1,4 +1,207 @@
 county,office,district,party,candidate,votes
+Burlington,U.S. House,1,Democratic,Robert E. Andres,7241
+Burlington,U.S. House,1,Republican,Gregory W. Horton,3162
+Burlington,U.S. House,1,Green Party,John William Reitter,64
+Burlington,U.S. House,1,Reform Party,Margaret Chapman,22
+Camden,U.S. House,1,Democratic,Robert E. Andres,148085
+Camden,U.S. House,1,Republican,Gregory W. Horton,56670
+Camden,U.S. House,1,Green Party,John William Reitter,2499
+Camden,U.S. House,1,Reform Party,Margaret Chapman,895
+Gloucester,U.S. House,1,Democratic,Robert E. Andres,55144
+Gloucester,U.S. House,1,Republican,Gregory W. Horton,32627
+Gloucester,U.S. House,1,Green Party,John William Reitter,1850
+Gloucester,U.S. House,1,Reform Party,Margaret Chapman,260
+Atlantic,U.S. House,2,Republican,Frank A. LoBiondo,56473
+Atlantic,U.S. House,2,Democratic,Cassandra Shober,46854
+Atlantic,U.S. House,2,Libertarian Party,John Ordille,939
+Atlantic,U.S. House,2,Consitutional Conservative,Charles Lukens,433
+Atlantic,U.S. House,2,The People's Agenda,David W. Bowen Sr.,328
+Atlantic,U.S. House,2,"Conservative, Compassionate, Creative",Frank Faralli Jr.,258
+Burlington,U.S. House,2,Republican,Frank A. LoBiondo,629
+Burlington,U.S. House,2,Democratic,Cassandra Shober,274
+Burlington,U.S. House,2,Libertarian Party,John Ordille,8
+Burlington,U.S. House,2,Consitutional Conservative,Charles Lukens,4
+Burlington,U.S. House,2,The People's Agenda,David W. Bowen Sr.,4
+Burlington,U.S. House,2,"Conservative, Compassionate, Creative",Frank Faralli Jr.,0
+Camden,U.S. House,2,Republican,Frank A. LoBiondo,2479
+Camden,U.S. House,2,Democratic,Cassandra Shober,2066
+Camden,U.S. House,2,Libertarian Party,John Ordille,29
+Camden,U.S. House,2,Consitutional Conservative,Charles Lukens,18
+Camden,U.S. House,2,The People's Agenda,David W. Bowen Sr.,3
+Camden,U.S. House,2,"Conservative, Compassionate, Creative",Frank Faralli Jr.,2
+Cape May,U.S. House,2,Republican,Frank A. LoBiondo,29706
+Cape May,U.S. House,2,Democratic,Cassandra Shober,13209
+Cape May,U.S. House,2,Libertarian Party,John Ordille,290
+Cape May,U.S. House,2,Consitutional Conservative,Charles Lukens,355
+Cape May,U.S. House,2,The People's Agenda,David W. Bowen Sr.,75
+Cape May,U.S. House,2,"Conservative, Compassionate, Creative",Frank Faralli Jr.,202
+Cumberland,U.S. House,2,Republican,Frank A. LoBiondo,26150
+Cumberland,U.S. House,2,Democratic,Cassandra Shober,22258
+Cumberland,U.S. House,2,Libertarian Party,John Ordille,253
+Cumberland,U.S. House,2,Consitutional Conservative,Charles Lukens,323
+Cumberland,U.S. House,2,The People's Agenda,David W. Bowen Sr.,260
+Cumberland,U.S. House,2,"Conservative, Compassionate, Creative",Frank Faralli Jr.,224
+Gloucester,U.S. House,2,Republican,Frank A. LoBiondo,22151
+Gloucester,U.S. House,2,Democratic,Cassandra Shober,15960
+Gloucester,U.S. House,2,Libertarian Party,John Ordille,649
+Gloucester,U.S. House,2,Consitutional Conservative,Charles Lukens,50
+Gloucester,U.S. House,2,The People's Agenda,David W. Bowen Sr.,54
+Gloucester,U.S. House,2,"Conservative, Compassionate, Creative",Frank Faralli Jr.,39
+Ocean,U.S. House,2,Republican,Frank A. LoBiondo,10944
+Ocean,U.S. House,2,Democratic,Cassandra Shober,6081
+Ocean,U.S. House,2,Libertarian Party,John Ordille,165
+Ocean,U.S. House,2,Consitutional Conservative,Charles Lukens,25
+Ocean,U.S. House,2,The People's Agenda,David W. Bowen Sr.,36
+Ocean,U.S. House,2,"Conservative, Compassionate, Creative",Frank Faralli Jr.,42
+Salem,U.S. House,2,Republican,Frank A. LoBiondo,18147
+Salem,U.S. House,2,Democratic,Cassandra Shober,9761
+Salem,U.S. House,2,Libertarian Party,John Ordille,366
+Salem,U.S. House,2,Consitutional Conservative,Charles Lukens,121
+Salem,U.S. House,2,The People's Agenda,David W. Bowen Sr.,250
+Salem,U.S. House,2,"Conservative, Compassionate, Creative",Frank Faralli Jr.,125
+Burlington,U.S. House,3,Republican,Jon Runyan,97739
+Burlington,U.S. House,3,Democratic,Shelley Adler,94178
+Burlington,U.S. House,3,Legalize Marijuana Party,Robert Edward Forchion,1061
+Burlington,U.S. House,3,Bob's for Jobs,Robert Shapiro,234
+Burlington,U.S. House,3,Independent,Frederick John LaVergne,90
+Burlington,U.S. House,3,None of Them,Robert Witterschein,189
+Burlington,U.S. House,3,Indpendent,Christopher G Denmick Jr.,162
+Ocean,U.S. House,3,Republican,Jon Runyan,76518
+Ocean,U.S. House,3,Democratic,Shelley Adler,51331
+Ocean,U.S. House,3,Legalize Marijuana Party,Robert Edward Forchion,895
+Ocean,U.S. House,3,Bob's for Jobs,Robert Shapiro,870
+Ocean,U.S. House,3,Independent,Frederick John LaVergne,680
+Ocean,U.S. House,3,None of Them,Robert Witterschein,341
+Ocean,U.S. House,3,Indpendent,Christopher G Denmick Jr.,118
+Mercer,U.S. House,4,Republican,Christopher H. Smith,27751
+Mercer,U.S. House,4,Democratic,Brian P. Froelich,16728
+Mercer,U.S. House,4,Independent,Leonard P. Moarshall,418
+Monmouth,U.S. House,4,Republican,Christopher H. Smith,109506
+Monmouth,U.S. House,4,Democratic,Brian P. Froelich,66420
+Monmouth,U.S. House,4,Independent,Leonard P. Moarshall,1762
+Ocean,U.S. House,4,Republican,Christopher H. Smith,57889
+Ocean,U.S. House,4,Democratic,Brian P. Froelich,24844
+Ocean,U.S. House,4,Independent,Leonard P. Moarshall,931
+Bergen,U.S. House,5,Republican,Scott Garrett,110353
+Bergen,U.S. House,5,Democratic,Adam Gussen,102491
+Bergen,U.S. House,5,Green Party,Patricia Alessandrini,4051
+Passaic,U.S. House,5,Republican,Scott Garrett,10026
+Passaic,U.S. House,5,Democratic,Adam Gussen,5921
+Passaic,U.S. House,5,Green Party,Patricia Alessandrini,321
+Sussex,U.S. House,5,Republican,Scott Garrett,28984
+Sussex,U.S. House,5,Democratic,Adam Gussen,12781
+Sussex,U.S. House,5,Green Party,Patricia Alessandrini,1832
+Warren,U.S. House,5,Republican,Scott Garrett,18140
+Warren,U.S. House,5,Democratic,Adam Gussen,8909
+Warren,U.S. House,5,Green Party,Patricia Alessandrini,566
+Middlesex,U.S. House,6,Democratic,Frank Pallone Jr.,106632
+Middlesex,U.S. House,6,Republican,Anna Little,47969
+Middlesex,U.S. House,6,Libertarian Party,Len Flynn,970
+Middlesex,U.S. House,6,Overthrow All Incumbents,Karen Zaletal,559
+Middlesex,U.S. House,6,Independent,Mac Dara Lyden,737
+Middlesex,U.S. House,6,Reform Party,Herbert L. Tarbous,240
+Monmouth,U.S. House,6,Democratic,Frank Pallone Jr.,45150
+Monmouth,U.S. House,6,Republican,Anna Little,36391
+Monmouth,U.S. House,6,Libertarian Party,Len Flynn,422
+Monmouth,U.S. House,6,Overthrow All Incumbents,Karen Zaletal,309
+Monmouth,U.S. House,6,Independent,Mac Dara Lyden,93
+Monmouth,U.S. House,6,Reform Party,Herbert L. Tarbous,166
+Essex,U.S. House,7,Republican,Leonard Lance,3674
+Essex,U.S. House,7,Democratic,Upendra J. Chivukula,3926
+Essex,U.S. House,7,Indpendent Reform Candidate,Dennis A. Breen,118
+Essex,U.S. House,7,Libertarian Party,Patrick McKnight,78
+Hunterdon,U.S. House,7,Republican,Leonard Lance,39445
+Hunterdon,U.S. House,7,Democratic,Upendra J. Chivukula,20044
+Hunterdon,U.S. House,7,Indpendent Reform Candidate,Dennis A. Breen,1769
+Hunterdon,U.S. House,7,Libertarian Party,Patrick McKnight,1185
+Morris,U.S. House,7,Republican,Leonard Lance,27016
+Morris,U.S. House,7,Democratic,Upendra J. Chivukula,17301
+Morris,U.S. House,7,Indpendent Reform Candidate,Dennis A. Breen,331
+Morris,U.S. House,7,Libertarian Party,Patrick McKnight,467
+Somerset,U.S. House,7,Republican,Leonard Lance,55350
+Somerset,U.S. House,7,Democratic,Upendra J. Chivukula,41722
+Somerset,U.S. House,7,Indpendent Reform Candidate,Dennis A. Breen,1105
+Somerset,U.S. House,7,Libertarian Party,Patrick McKnight,1365
+Union,U.S. House,7,Republican,Leonard Lance,41786
+Union,U.S. House,7,Democratic,Upendra J. Chivukula,34798
+Union,U.S. House,7,Indpendent Reform Candidate,Dennis A. Breen,1018
+Union,U.S. House,7,Libertarian Party,Patrick McKnight,763
+Warren,U.S. House,7,Republican,Leonard Lance,8433
+Warren,U.S. House,7,Democratic,Upendra J. Chivukula,5299
+Warren,U.S. House,7,Indpendent Reform Candidate,Dennis A. Breen,179
+Warren,U.S. House,7,Libertarian Party,Patrick McKnight,223
+Bergen,U.S. House,8,Democratic,Albio Sires,2150
+Bergen,U.S. House,8,Republican,Maria Karczewski,724
+Bergen,U.S. House,8,Politicians are Crooks,Herbert H. Shaw,12
+Bergen,U.S. House,8,Restoring America's Promise,Stephen DeLuca,12
+Bergen,U.S. House,8,Unity is Strength,Pablo Olivera,10
+Essex,U.S. House,8,Democratic,Albio Sires,25770
+Essex,U.S. House,8,Republican,Maria Karczewski,4920
+Essex,U.S. House,8,Politicians are Crooks,Herbert H. Shaw,228
+Essex,U.S. House,8,Restoring America's Promise,Stephen DeLuca,350
+Essex,U.S. House,8,Unity is Strength,Pablo Olivera,604
+Hudson,U.S. House,8,Democratic,Albio Sires,85092
+Hudson,U.S. House,8,Republican,Maria Karczewski,22845
+Hudson,U.S. House,8,Politicians are Crooks,Herbert H. Shaw,1492
+Hudson,U.S. House,8,Restoring America's Promise,Stephen DeLuca,1220
+Hudson,U.S. House,8,Unity is Strength,Pablo Olivera,792
+Union,U.S. House,8,Democratic,Albio Sires,17845
+Union,U.S. House,8,Republican,Maria Karczewski,3278
+Union,U.S. House,8,Politicians are Crooks,Herbert H. Shaw,109
+Union,U.S. House,8,Restoring America's Promise,Stephen DeLuca,128
+Union,U.S. House,8,Unity is Strength,Pablo Olivera,219
+Bergen,U.S. House,9,Democratic,Bill Pascrell Jr.,79705
+Bergen,U.S. House,9,Republican,Shmuley Boteach,37523
+Bergen,U.S. House,9,Abundant America,E. David Smith,350
+Bergen,U.S. House,9,Constitution Party,Jeanette Woolsey,733
+Hudson,U.S. House,9,Democratic,Bill Pascrell Jr.,7268
+Hudson,U.S. House,9,Republican,Shmuley Boteach,3070
+Hudson,U.S. House,9,Abundant America,E. David Smith,149
+Hudson,U.S. House,9,Constitution Party,Jeanette Woolsey,71
+Passaic,U.S. House,9,Democratic,Bill Pascrell Jr.,75861
+Passaic,U.S. House,9,Republican,Shmuley Boteach,14501
+Passaic,U.S. House,9,Abundant America,E. David Smith,639
+Passaic,U.S. House,9,Constitution Party,Jeanette Woolsey,278
+Essex,U.S. House,10,Democratic,Donald M. Payne Jr.,128526
+Essex,U.S. House,10,Republican,Brian C. Kelemen,9170
+Essex,U.S. House,10,"Change, Change, Change",Joanne Miller,1639
+Essex,U.S. House,10,Libertarian Party,Mick Erickson,612
+Hudson,U.S. House,10,Democratic,Donald M. Payne Jr.,34420
+Hudson,U.S. House,10,Republican,Brian C. Kelemen,5639
+Hudson,U.S. House,10,"Change, Change, Change",Joanne Miller,819
+Hudson,U.S. House,10,Libertarian Party,Mick Erickson,319
+Union,U.S. House,10,Democratic,Donald M. Payne Jr.,38489
+Union,U.S. House,10,Republican,Brian C. Kelemen,9462
+Union,U.S. House,10,"Change, Change, Change",Joanne Miller,669
+Union,U.S. House,10,Libertarian Party,Mick Erickson,296
+Essex,U.S. House,11,Republican,Rodney P. Frelinghuysen,37475
+Essex,U.S. House,11,Democratic,John Arvanites,39834
+Essex,U.S. House,11,Opposing Congressional Gridlock,Barry Berlin,993
+Morris,U.S. House,11,Republican,Rodney P. Frelinghuysen,101277
+Morris,U.S. House,11,Democratic,John Arvanites,55873
+Morris,U.S. House,11,Opposing Congressional Gridlock,Barry Berlin,1254
+Passaic,U.S. House,11,Republican,Rodney P. Frelinghuysen,28832
+Passaic,U.S. House,11,Democratic,John Arvanites,21751
+Passaic,U.S. House,11,Opposing Congressional Gridlock,Barry Berlin,765
+Sussex,U.S. House,11,Republican,Rodney P. Frelinghuysen,14655
+Sussex,U.S. House,11,Democratic,John Arvanites,6477
+Sussex,U.S. House,11,Opposing Congressional Gridlock,Barry Berlin,714
+Mercer,U.S. House,12,Democratic,Rush Holt,76115
+Mercer,U.S. House,12,Republican,Eric A. Beck,21987
+Mercer,U.S. House,12,Independent,Jack Freudenheim,782
+Mercer,U.S. House,12,Truth Vision Hope,Kenneth J. Cody,318
+Middlesex,U.S. House,12,Democratic,Rush Holt,71597
+Middlesex,U.S. House,12,Republican,Eric A. Beck,42275
+Middlesex,U.S. House,12,Independent,Jack Freudenheim,997
+Middlesex,U.S. House,12,Truth Vision Hope,Kenneth J. Cody,576
+Somerset,U.S. House,12,Democratic,Rush Holt,22576
+Somerset,U.S. House,12,Republican,Eric A. Beck,9692
+Somerset,U.S. House,12,Independent,Jack Freudenheim,276
+Somerset,U.S. House,12,Truth Vision Hope,Kenneth J. Cody,238
+Union,U.S. House,12,Democratic,Rush Holt,19650
+Union,U.S. House,12,Republican,Eric A. Beck,6953
+Union,U.S. House,12,Independent,Jack Freudenheim,206
+Union,U.S. House,12,Truth Vision Hope,Kenneth J. Cody,153
 Atlantic,U.S. Senate,,Democratic,Robert Menendez,61464
 Atlantic,U.S. Senate,,Republican,Joe Kyrillos,42378
 Atlantic,U.S. Senate,,Libertarian Party,Kenneth R. Kaplan,577
