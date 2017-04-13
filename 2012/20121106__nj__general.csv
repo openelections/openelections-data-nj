@@ -1,4 +1,214 @@
 county,office,district,party,candidate,votes
+Atlantic,President,,Democratic,Barack Obama,65600
+Atlantic,President,,Republican,Mitt Romney,46522
+Atlantic,President,,Libertarian Pary,Gary Johnson,579
+Atlantic,President,,Green Party,Jill Stein,203
+Atlantic,President,,Constitution Party,Virgil Goode,60
+Atlantic,President,,NJ Justice Party,Ross C. (Rocky) Anderson,94
+Atlantic,President,,NSA DID 911,Jeff Boss,25
+Atlantic,President,,Socialist Workers Party,James Harris,28
+Atlantic,President,,American Third Position,Merlin Miller,58
+Atlantic,President,,Socialism and Liberation,Peta Lindsay,10
+Bergen,President,,Democratic,Barack Obama,212754
+Bergen,President,,Republican,Mitt Romney,169070
+Bergen,President,,Libertarian Pary,Gary Johnson,1752
+Bergen,President,,Green Party,Jill Stein,1270
+Bergen,President,,Constitution Party,Virgil Goode,122
+Bergen,President,,NJ Justice Party,Ross C. (Rocky) Anderson,193
+Bergen,President,,NSA DID 911,Jeff Boss,82
+Bergen,President,,Socialist Workers Party,James Harris,63
+Bergen,President,,American Third Position,Merlin Miller,56
+Bergen,President,,Socialism and Liberation,Peta Lindsay,45
+Burlington,President,,Democratic,Barack Obama,126377
+Burlington,President,,Republican,Mitt Romney,87401
+Burlington,President,,Libertarian Pary,Gary Johnson,1367
+Burlington,President,,Green Party,Jill Stein,528
+Burlington,President,,Constitution Party,Virgil Goode,98
+Burlington,President,,NJ Justice Party,Ross C. (Rocky) Anderson,68
+Burlington,President,,NSA DID 911,Jeff Boss,11
+Burlington,President,,Socialist Workers Party,James Harris,25
+Burlington,President,,American Third Position,Merlin Miller,35
+Burlington,President,,Socialism and Liberation,Peta Lindsay,26
+Camden,President,,Democratic,Barack Obama,153682
+Camden,President,,Republican,Mitt Romney,69476
+Camden,President,,Libertarian Pary,Gary Johnson,1250
+Camden,President,,Green Party,Jill Stein,697
+Camden,President,,Constitution Party,Virgil Goode,136
+Camden,President,,NJ Justice Party,Ross C. (Rocky) Anderson,101
+Camden,President,,NSA DID 911,Jeff Boss,22
+Camden,President,,Socialist Workers Party,James Harris,19
+Camden,President,,American Third Position,Merlin Miller,32
+Camden,President,,Socialism and Liberation,Peta Lindsay,13
+Cape May,President,,Democratic,Barack Obama,21657
+Cape May,President,,Republican,Mitt Romney,25781
+Cape May,President,,Libertarian Pary,Gary Johnson,253
+Cape May,President,,Green Party,Jill Stein,112
+Cape May,President,,Constitution Party,Virgil Goode,90
+Cape May,President,,NJ Justice Party,Ross C. (Rocky) Anderson,14
+Cape May,President,,NSA DID 911,Jeff Boss,3
+Cape May,President,,Socialist Workers Party,James Harris,11
+Cape May,President,,American Third Position,Merlin Miller,3
+Cape May,President,,Socialism and Liberation,Peta Lindsay,7
+Cumberland,President,,Democratic,Barack Obama,34055
+Cumberland,President,,Republican,Mitt Romney,20658
+Cumberland,President,,Libertarian Pary,Gary Johnson,283
+Cumberland,President,,Green Party,Jill Stein,117
+Cumberland,President,,Constitution Party,Virgil Goode,60
+Cumberland,President,,NJ Justice Party,Ross C. (Rocky) Anderson,62
+Cumberland,President,,NSA DID 911,Jeff Boss,11
+Cumberland,President,,Socialist Workers Party,James Harris,14
+Cumberland,President,,American Third Position,Merlin Miller,27
+Cumberland,President,,Socialism and Liberation,Peta Lindsay,5
+Essex,President,,Democratic,Barack Obama,236618
+Essex,President,,Republican,Mitt Romney,64406
+Essex,President,,Libertarian Pary,Gary Johnson,962
+Essex,President,,Green Party,Jill Stein,602
+Essex,President,,Constitution Party,Virgil Goode,88
+Essex,President,,NJ Justice Party,Ross C. (Rocky) Anderson,88
+Essex,President,,NSA DID 911,Jeff Boss,118
+Essex,President,,Socialist Workers Party,James Harris,45
+Essex,President,,American Third Position,Merlin Miller,35
+Essex,President,,Socialism and Liberation,Peta Lindsay,57
+Gloucester,President,,Democratic,Barack Obama,74013
+Gloucester,President,,Republican,Mitt Romney,59456
+Gloucester,President,,Libertarian Pary,Gary Johnson,1040
+Gloucester,President,,Green Party,Jill Stein,539
+Gloucester,President,,Constitution Party,Virgil Goode,67
+Gloucester,President,,NJ Justice Party,Ross C. (Rocky) Anderson,26
+Gloucester,President,,NSA DID 911,Jeff Boss,9
+Gloucester,President,,Socialist Workers Party,James Harris,14
+Gloucester,President,,American Third Position,Merlin Miller,10
+Gloucester,President,,Socialism and Liberation,Peta Lindsay,12
+Hudson,President,,Democratic,Barack Obama,153108
+Hudson,President,,Republican,Mitt Romney,42369
+Hudson,President,,Libertarian Pary,Gary Johnson,1002
+Hudson,President,,Green Party,Jill Stein,674
+Hudson,President,,Constitution Party,Virgil Goode,67
+Hudson,President,,NJ Justice Party,Ross C. (Rocky) Anderson,145
+Hudson,President,,NSA DID 911,Jeff Boss,38
+Hudson,President,,Socialist Workers Party,James Harris,53
+Hudson,President,,American Third Position,Merlin Miller,20
+Hudson,President,,Socialism and Liberation,Peta Lindsay,28
+Hunterdon,President,,Democratic,Barack Obama,26876
+Hunterdon,President,,Republican,Mitt Romney,38687
+Hunterdon,President,,Libertarian Pary,Gary Johnson,549
+Hunterdon,President,,Green Party,Jill Stein,238
+Hunterdon,President,,Constitution Party,Virgil Goode,28
+Hunterdon,President,,NJ Justice Party,Ross C. (Rocky) Anderson,43
+Hunterdon,President,,NSA DID 911,Jeff Boss,30
+Hunterdon,President,,Socialist Workers Party,James Harris,21
+Hunterdon,President,,American Third Position,Merlin Miller,11
+Hunterdon,President,,Socialism and Liberation,Peta Lindsay,11
+Mercer,President,,Democratic,Barack Obama,104377
+Mercer,President,,Republican,Mitt Romney,47355
+Mercer,President,,Libertarian Pary,Gary Johnson,915
+Mercer,President,,Green Party,Jill Stein,530
+Mercer,President,,Constitution Party,Virgil Goode,168
+Mercer,President,,NJ Justice Party,Ross C. (Rocky) Anderson,76
+Mercer,President,,NSA DID 911,Jeff Boss,24
+Mercer,President,,Socialist Workers Party,James Harris,23
+Mercer,President,,American Third Position,Merlin Miller,28
+Mercer,President,,Socialism and Liberation,Peta Lindsay,15
+Middlesex,President,,Democratic,Barack Obama,190555
+Middlesex,President,,Republican,Mitt Romney,107310
+Middlesex,President,,Libertarian Pary,Gary Johnson,1851
+Middlesex,President,,Green Party,Jill Stein,852
+Middlesex,President,,Constitution Party,Virgil Goode,357
+Middlesex,President,,NJ Justice Party,Ross C. (Rocky) Anderson,145
+Middlesex,President,,NSA DID 911,Jeff Boss,83
+Middlesex,President,,Socialist Workers Party,James Harris,70
+Middlesex,President,,American Third Position,Merlin Miller,54
+Middlesex,President,,Socialism and Liberation,Peta Lindsay,38
+Monmouth,President,,Democratic,Barack Obama,133145
+Monmouth,President,,Republican,Mitt Romney,147513
+Monmouth,President,,Libertarian Pary,Gary Johnson,2228
+Monmouth,President,,Green Party,Jill Stein,708
+Monmouth,President,,Constitution Party,Virgil Goode,103
+Monmouth,President,,NJ Justice Party,Ross C. (Rocky) Anderson,121
+Monmouth,President,,NSA DID 911,Jeff Boss,44
+Monmouth,President,,Socialist Workers Party,James Harris,57
+Monmouth,President,,American Third Position,Merlin Miller,33
+Monmouth,President,,Socialism and Liberation,Peta Lindsay,26
+Morris,President,,Democratic,Barack Obama,100146
+Morris,President,,Republican,Mitt Romney,124947
+Morris,President,,Libertarian Pary,Gary Johnson,1375
+Morris,President,,Green Party,Jill Stein,485
+Morris,President,,Constitution Party,Virgil Goode,86
+Morris,President,,NJ Justice Party,Ross C. (Rocky) Anderson,76
+Morris,President,,NSA DID 911,Jeff Boss,114
+Morris,President,,Socialist Workers Party,James Harris,55
+Morris,President,,American Third Position,Merlin Miller,50
+Morris,President,,Socialism and Liberation,Peta Lindsay,58
+Ocean,President,,Democratic,Barack Obama,102300
+Ocean,President,,Republican,Mitt Romney,146475
+Ocean,President,,Libertarian Pary,Gary Johnson,1467
+Ocean,President,,Green Party,Jill Stein,507
+Ocean,President,,Constitution Party,Virgil Goode,100
+Ocean,President,,NJ Justice Party,Ross C. (Rocky) Anderson,94
+Ocean,President,,NSA DID 911,Jeff Boss,242
+Ocean,President,,Socialist Workers Party,James Harris,18
+Ocean,President,,American Third Position,Merlin Miller,49
+Ocean,President,,Socialism and Liberation,Peta Lindsay,24
+Passaic,President,,Democratic,Barack Obama,115926
+Passaic,President,,Republican,Mitt Romney,64523
+Passaic,President,,Libertarian Pary,Gary Johnson,717
+Passaic,President,,Green Party,Jill Stein,515
+Passaic,President,,Constitution Party,Virgil Goode,94
+Passaic,President,,NJ Justice Party,Ross C. (Rocky) Anderson,68
+Passaic,President,,NSA DID 911,Jeff Boss,33
+Passaic,President,,Socialist Workers Party,James Harris,37
+Passaic,President,,American Third Position,Merlin Miller,22
+Passaic,President,,Socialism and Liberation,Peta Lindsay,53
+Salem,President,,Democratic,Barack Obama,14719
+Salem,President,,Republican,Mitt Romney,14334
+Salem,President,,Libertarian Pary,Gary Johnson,248
+Salem,President,,Green Party,Jill Stein,121
+Salem,President,,Constitution Party,Virgil Goode,18
+Salem,President,,NJ Justice Party,Ross C. (Rocky) Anderson,25
+Salem,President,,NSA DID 911,Jeff Boss,2
+Salem,President,,Socialist Workers Party,James Harris,10
+Salem,President,,American Third Position,Merlin Miller,16
+Salem,President,,Socialism and Liberation,Peta Lindsay,8
+Somerset,President,,Democratic,Barack Obama,74592
+Somerset,President,,Republican,Mitt Romney,66603
+Somerset,President,,Libertarian Pary,Gary Johnson,1088
+Somerset,President,,Green Party,Jill Stein,358
+Somerset,President,,Constitution Party,Virgil Goode,54
+Somerset,President,,NJ Justice Party,Ross C. (Rocky) Anderson,74
+Somerset,President,,NSA DID 911,Jeff Boss,10
+Somerset,President,,Socialist Workers Party,James Harris,75
+Somerset,President,,American Third Position,Merlin Miller,50
+Somerset,President,,Socialism and Liberation,Peta Lindsay,18
+Sussex,President,,Democratic,Barack Obama,26104
+Sussex,President,,Republican,Mitt Romney,40625
+Sussex,President,,Libertarian Pary,Gary Johnson,757
+Sussex,President,,Green Party,Jill Stein,255
+Sussex,President,,Constitution Party,Virgil Goode,50
+Sussex,President,,NJ Justice Party,Ross C. (Rocky) Anderson,63
+Sussex,President,,NSA DID 911,Jeff Boss,24
+Sussex,President,,Socialist Workers Party,James Harris,18
+Sussex,President,,American Third Position,Merlin Miller,26
+Sussex,President,,Socialism and Liberation,Peta Lindsay,11
+Union,President,,Democratic,Barack Obama,139752
+Union,President,,Republican,Mitt Romney,68314
+Union,President,,Libertarian Pary,Gary Johnson,952
+Union,President,,Green Party,Jill Stein,410
+Union,President,,Constitution Party,Virgil Goode,178
+Union,President,,NJ Justice Party,Ross C. (Rocky) Anderson,79
+Union,President,,NSA DID 911,Jeff Boss,67
+Union,President,,Socialist Workers Party,James Harris,33
+Union,President,,American Third Position,Merlin Miller,27
+Union,President,,Socialism and Liberation,Peta Lindsay,19
+Warren,President,,Democratic,Barack Obama,18745
+Warren,President,,Republican,Mitt Romney,25744
+Warren,President,,Libertarian Pary,Gary Johnson,410
+Warren,President,,Green Party,Jill Stein,167
+Warren,President,,Constitution Party,Virgil Goode,40
+Warren,President,,NJ Justice Party,Ross C. (Rocky) Anderson,69
+Warren,President,,NSA DID 911,Jeff Boss,15
+Warren,President,,Socialist Workers Party,James Harris,21
+Warren,President,,American Third Position,Merlin Miller,22
+Warren,President,,Socialism and Liberation,Peta Lindsay,37
 Burlington,U.S. House,1,Democratic,Robert E. Andres,7241
 Burlington,U.S. House,1,Republican,Gregory W. Horton,3162
 Burlington,U.S. House,1,Green Party,John William Reitter,64
