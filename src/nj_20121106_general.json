@@ -1,0 +1,397 @@
+{
+    "output_directory":"../2012/",
+    "output_file":"20121106__nj__temp.csv",
+    "president":{
+        "input_directory":"../../openelections-sources-nj/2012/general/csv/",
+        "input_files": [
+                {
+                    "office":"President",
+                    "file":"tabula-2012-presidential-atlantic.csv",
+                    "county":"Atlantic",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2012-presidential-bergen.csv",
+                    "county":"Bergen",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2012-presidential-burlington.csv",
+                    "county":"Burlington",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2012-presidential-camden.csv",
+                    "county":"Camden",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2012-presidential-cape-may.csv",
+                    "county":"Cape May",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2012-presidential-cumberland.csv",
+                    "county":"Cumberland",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2012-presidential-essex.csv",
+                    "county":"Essex",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2012-presidential-gloucester.csv",
+                    "county":"Gloucester",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2012-presidential-hudson.csv",
+                    "county":"Hudson",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2012-presidential-hunterdon.csv",
+                    "county":"Hunterdon",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2012-presidential-mercer.csv",
+                    "county":"Mercer",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2012-presidential-middlesex.csv",
+                    "county":"Middlesex",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2012-presidential-monmouth.csv",
+                    "county":"Monmouth",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2012-presidential-morris.csv",
+                    "county":"Morris",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2012-presidential-ocean.csv",
+                    "county":"Ocean",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2012-presidential-passaic.csv",
+                    "county":"Passaic",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2012-presidential-salem.csv",
+                    "county":"Salem",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2012-presidential-somerset.csv",
+                    "county":"Somerset",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2012-presidential-sussex.csv",
+                    "county":"Sussex",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2012-presidential-union.csv",
+                    "county":"Union",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"President",
+                    "file":"tabula-2012-presidential-warren.csv",
+                    "county":"Warren",
+                    "district":"",
+                    "columns":"*"
+                }
+            ]
+        },
+    "us_senate":{
+        "input_directory":"../../openelections-sources-nj/2012/general/csv/",
+        "input_files": [
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2012-county-us-senate-atlantic.csv",
+                    "county":"Atlantic",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2012-county-us-senate-bergen.csv",
+                    "county":"Bergen",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2012-county-us-senate-burlington.csv",
+                    "county":"Burlington",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2012-county-us-senate-camden.csv",
+                    "county":"Camden",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2012-county-us-senate-capemay.csv",
+                    "county":"Cape May",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2012-county-us-senate-cumberland.csv",
+                    "county":"Cumberland",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2012-county-us-senate-essex.csv",
+                    "county":"Essex",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2012-county-us-senate-gloucester.csv",
+                    "county":"Gloucester",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2012-county-us-senate-hudson.csv",
+                    "county":"Hudson",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2012-county-us-senate-hunterdon.csv",
+                    "county":"Hunterdon",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2012-county-us-senate-mercer.csv",
+                    "county":"Mercer",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2012-county-us-senate-middlesex.csv",
+                    "county":"Middlesex",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2012-county-us-senate-monmouth.csv",
+                    "county":"Monmouth",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2012-county-us-senate-morris.csv",
+                    "county":"Morris",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2012-county-us-senate-ocean.csv",
+                    "county":"Ocean",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2012-county-us-senate-passaic.csv",
+                    "county":"Passaic",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2012-county-us-senate-salem.csv",
+                    "county":"Salem",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2012-county-us-senate-somerset.csv",
+                    "county":"Somerset",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2012-county-us-senate-sussex.csv",
+                    "county":"Sussex",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2012-county-us-senate-union.csv",
+                    "county":"Union",
+                    "district":"",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. Senate",
+                    "file":"tabula-2012-county-us-senate-warren.csv",
+                    "county":"Warren",
+                    "district":"",
+                    "columns":"*"
+                }
+            ]
+        },
+    "us_house":{
+        "input_directory":"../../openelections-sources-nj/2012/general/csv/",
+        "input_files": [
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2012-municipality-hor-district1.csv",
+                    "county":"*",
+                    "district":"1",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2012-municipality-hor-district2.csv",
+                    "county":"*",
+                    "district":"2",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2012-municipality-hor-district3.csv",
+                    "county":"*",
+                    "district":"3",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2012-municipality-hor-district4.csv",
+                    "county":"*",
+                    "district":"4",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2012-municipality-hor-district5.csv",
+                    "county":"*",
+                    "district":"5",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2012-municipality-hor-district6.csv",
+                    "county":"*",
+                    "district":"6",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2012-municipality-hor-district7.csv",
+                    "county":"*",
+                    "district":"7",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2012-municipality-hor-district8.csv",
+                    "county":"*",
+                    "district":"8",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2012-municipality-hor-district9.csv",
+                    "county":"*",
+                    "district":"9",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2012-municipality-hor-district10.csv",
+                    "county":"*",
+                    "district":"10",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2012-municipality-hor-district11.csv",
+                    "county":"*",
+                    "district":"11",
+                    "columns":"*"
+                },
+                {
+                    "office":"U.S. House",
+                    "file":"tabula-2012-municipality-hor-district12.csv",
+                    "county":"*",
+                    "district":"12",
+                    "columns":"*"
+                }
+            ]
+        }
+}

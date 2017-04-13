@@ -152,6 +152,10 @@ def process_county_line(p_candidateList, p_partyList, p_line, p_outfile, p_confi
         search_text = 'COUNTY TOTAL'
     if search_text in p_line[0].upper():
         print_county_totals(p_candidateList, p_partyList, p_line, p_outfile, p_config, p_county_name)
+    else:
+        search_text = p_county_name.upper() + ' TOTALS'
+        if search_text in p_line[0].upper():
+            print_county_totals(p_candidateList, p_partyList, p_line, p_outfile, p_config, p_county_name)
 
 def process_muni_line(p_candidateList, p_partyList, p_line, p_outfile, p_config, p_county_name):
     if "TOTAL" not in p_line[0].upper() and "COUNTY" not in p_line[0].upper():
@@ -161,7 +165,7 @@ def extract_county_name(p_line, p_config, p_county_name):
     return_value = p_county_name
     if p_config['county'] == "*":
         if p_line[0].upper().endswith('COUNTY'):
-            return_value = p_line[0].replace(' COUNTY', '').title()
+            return_value = p_line[0].upper().replace(' COUNTY', '').title()
     else:
         return_value = p_config['county']
     return return_value
