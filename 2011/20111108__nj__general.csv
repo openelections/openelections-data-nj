@@ -29,7 +29,7 @@ Camden,State Senate,6,Republican,Phil Mitsch,14552
 Burlington,State Senate,7,Republican,Diane Allen,27011
 Burlington,State Senate,7,Democratic,Gail Cook,20370
 Atlantic,State Senate,8,Republican,Dawn Marie Addiego,2166
-Atlantic,State Senate,8,Republican,Dawn Marie Addiego,18053
+Burlington,State Senate,8,Republican,Dawn Marie Addiego,18053
 Camden,State Senate,8,Republican,Dawn Marie Addiego,2177
 Atlantic,State Senate,9,Republican,Christopher J. Connors,4088
 Atlantic,State Senate,9,Democratic,Dorothy A. Ryan,2974
@@ -80,11 +80,11 @@ Middlesex,State Senate,19,Democratic,Joseph F. Vitale,18623
 Middlesex,State Senate,19,Republican,"Paul Lund, Jr.",9232
 Union,State Senate,20,Democratic,Raymond J. Lesniak,12510
 Union,State Senate,20,Republican,Helen S. Rosales,4052
-Morris,State Senate,21,Republican,"Thomas H.Kean, Jr.",2521
+Morris,State Senate,21,Republican,"Thomas H. Kean, Jr.",2521
 Morris,State Senate,21,Democratic,Paul Swanicke,1008
-Somerset,State Senate,21,Republican,"Thomas H.Kean, Jr.",5995
+Somerset,State Senate,21,Republican,"Thomas H. Kean, Jr.",5995
 Somerset,State Senate,21,Democratic,Paul Swanicke,2163
-Union,State Senate,21,Republican,"Thomas H.Kean, Jr.",19234
+Union,State Senate,21,Republican,"Thomas H. Kean, Jr.",19234
 Union,State Senate,21,Democratic,Paul Swanicke,10180
 Middlesex,State Senate,22,Democratic,Nicholas Scutari,1671
 Middlesex,State Senate,22,Republican,Michael W. Class,1861
@@ -187,8 +187,8 @@ Cumberland,General Assembly,1,Democratic,Matthew Milam,10511
 Cumberland,General Assembly,1,Republican,Samuel Fiocchi,8007
 Cumberland,General Assembly,1,Republican,Suzanne M. Walters,7508
 Atlantic,General Assembly,2,Republican,John F. Amodeo,25330
-Atlantic,General Assembly,2,Republican,Chris Brown,23440 17933
-Atlantic,General Assembly,2,Democratic,Alisa Cooper,0
+Atlantic,General Assembly,2,Republican,Chris Brown,23440
+Atlantic,General Assembly,2,Democratic,Alisa Cooper,17933
 Atlantic,General Assembly,2,Democratic,Damon Tyner,19919
 Cumberland,General Assembly,3,Democratic,John J. Burzichelli,2432
 Cumberland,General Assembly,3,Democratic,Celeste M. Riley,2542
@@ -237,11 +237,11 @@ Atlantic,General Assembly,8,Republican,Christopher J. Brown,1858
 Atlantic,General Assembly,8,Democratic,Anita Lovely,694
 Atlantic,General Assembly,8,Democratic,Pamela A. Finnerty,756
 Atlantic,General Assembly,8,Independent,Robert Edward Forchion Jr.,194
-Atlantic,General Assembly,8,Democratic,Scott Rudder,15946
-Atlantic,General Assembly,8,Republican,Christopher J. Brown,16012
-Atlantic,General Assembly,8,Democratic,Anita Lovely,9852
-Atlantic,General Assembly,8,Democratic,Pamela A. Finnerty,10097
-Atlantic,General Assembly,8,Independent,Robert Edward Forchion Jr.,1270
+Burlington,General Assembly,8,Democratic,Scott Rudder,15946
+Burlington,General Assembly,8,Republican,Christopher J. Brown,16012
+Burlington,General Assembly,8,Democratic,Anita Lovely,9852
+Burlington,General Assembly,8,Democratic,Pamela A. Finnerty,10097
+Burlington,General Assembly,8,Independent,Robert Edward Forchion Jr.,1270
 Camden,General Assembly,8,Democratic,Scott Rudder,1900
 Camden,General Assembly,8,Republican,Christopher J. Brown,1929
 Camden,General Assembly,8,Democratic,Anita Lovely,1561
@@ -412,14 +412,17 @@ Essex,General Assembly,26,Republican,Alex DeCroce,3414
 Essex,General Assembly,26,Republican,Jay Webber,3327
 Essex,General Assembly,26,Democratic,Elliot Isibor,1982
 Essex,General Assembly,26,Democratic,Joseph Raich,2064
+Essex,General Assembly,26,Independent,Michael Spector,158
 Morris,General Assembly,26,Republican,Alex DeCroce,12970
 Morris,General Assembly,26,Republican,Jay Webber,12905
 Morris,General Assembly,26,Democratic,Elliot Isibor,6329
 Morris,General Assembly,26,Democratic,Joseph Raich,6641
+Morris,General Assembly,26,Independent,Michael Spector,742
 Passaic,General Assembly,26,Republican,Alex DeCroce,3312
 Passaic,General Assembly,26,Republican,Jay Webber,3311
 Passaic,General Assembly,26,Democratic,Elliot Isibor,2008
 Passaic,General Assembly,26,Democratic,Joseph Raich,2142
+Passaic,General Assembly,26,Independent,Michael Spector,195
 Essex,General Assembly,27,Democratic,John F. McKeon,17537
 Essex,General Assembly,27,Democratic,Mila M. Jasey,17109
 Essex,General Assembly,27,Republican,Lee Holtzman,9246

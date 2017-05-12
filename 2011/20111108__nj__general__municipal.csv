@@ -5,6 +5,10 @@ Atlantic,Estell Manor,State Senate,1,Democratic,Jeff Van Drew,230
 Atlantic,Estell Manor,State Senate,1,Republican,David S. De Weese,204
 Atlantic,Weymouth,State Senate,1,Democratic,Jeff Van Drew,447
 Atlantic,Weymouth,State Senate,1,Republican,David S. De Weese,355
+Atlantic,Vote By Mail,State Senate,1,Democratic,Jeff Van Drew,42
+Atlantic,Vote By Mail,State Senate,1,Republican,David S. De Weese,43
+Atlantic,Provisional Ballots,State Senate,1,Democratic,Jeff Van Drew,3
+Atlantic,Provisional Ballots,State Senate,1,Republican,David S. De Weese,2
 Cape May,Avalon Boro,State Senate,1,Democratic,Jeff Van Drew,204
 Cape May,Avalon Boro,State Senate,1,Republican,David S. De Weese,400
 Cape May,Cape May City,State Senate,1,Democratic,Jeff Van Drew,434
@@ -37,6 +41,10 @@ Cape May,Wildwood Crest Boro,State Senate,1,Democratic,Jeff Van Drew,424
 Cape May,Wildwood Crest Boro,State Senate,1,Republican,David S. De Weese,586
 Cape May,Woodbine Boro,State Senate,1,Democratic,Jeff Van Drew,378
 Cape May,Woodbine Boro,State Senate,1,Republican,David S. De Weese,172
+Cape May,Vote By Mail,State Senate,1,Democratic,Jeff Van Drew,0
+Cape May,Vote By Mail,State Senate,1,Republican,David S. De Weese,0
+Cape May,Provisional Ballots,State Senate,1,Democratic,Jeff Van Drew,0
+Cape May,Provisional Ballots,State Senate,1,Republican,David S. De Weese,0
 Cumberland,Commercial Twp.,State Senate,1,Democratic,Jeff Van Drew,594
 Cumberland,Commercial Twp.,State Senate,1,Republican,David S. De Weese,316
 Cumberland,Downe Twp.,State Senate,1,Democratic,Jeff Van Drew,236
@@ -59,6 +67,10 @@ Cumberland,Stow Creek Twp.,State Senate,1,Democratic,Jeff Van Drew,111
 Cumberland,Stow Creek Twp.,State Senate,1,Republican,David S. De Weese,241
 Cumberland,Vineland City,State Senate,1,Democratic,Jeff Van Drew,5660
 Cumberland,Vineland City,State Senate,1,Republican,David S. De Weese,3469
+Cumberland,Vote By Mail,State Senate,1,Democratic,Jeff Van Drew,0
+Cumberland,Vote By Mail,State Senate,1,Republican,David S. De Weese,0
+Cumberland,Provisional Ballots,State Senate,1,Democratic,Jeff Van Drew,0
+Cumberland,Provisional Ballots,State Senate,1,Republican,David S. De Weese,0
 Atlantic,Absecon City,State Senate,2,Democratic,Jim Whelan,1128
 Atlantic,Absecon City,State Senate,2,Republican,Vince Polistina,1149
 Atlantic,Absecon City,State Senate,2,Independent,Lorenzo Langford,0
@@ -110,12 +122,22 @@ Atlantic,Somers Point City,State Senate,2,Independent,Lorenzo Langford,0
 Atlantic,Ventor City,State Senate,2,Democratic,Jim Whelan,1394
 Atlantic,Ventor City,State Senate,2,Republican,Vince Polistina,1290
 Atlantic,Ventor City,State Senate,2,Independent,Lorenzo Langford,0
+Atlantic,Vote By Mail,State Senate,2,Democratic,Jim Whelan,1414
+Atlantic,Vote By Mail,State Senate,2,Republican,Vince Polistina,1590
+Atlantic,Vote By Mail,State Senate,2,Independent,Lorenzo Langford,0
+Atlantic,Provisional Ballotss,State Senate,2,Democratic,Jim Whelan,258
+Atlantic,Provisional Ballotss,State Senate,2,Republican,Vince Polistina,153
+Atlantic,Provisional Ballotss,State Senate,2,Independent,Lorenzo Langford,0
 Cumberland,Bridgeton City,State Senate,3,Democratic,Stephen M. Sweeney,1414
 Cumberland,Bridgeton City,State Senate,3,Republican,Michael M. Mulligan,456
 Cumberland,Deerfield Twp.,State Senate,3,Democratic,Stephen M. Sweeney,361
 Cumberland,Deerfield Twp.,State Senate,3,Republican,Michael M. Mulligan,273
 Cumberland,Upper Deerfield Twp.,State Senate,3,Democratic,Stephen M. Sweeney,697
 Cumberland,Upper Deerfield Twp.,State Senate,3,Republican,Michael M. Mulligan,0
+Cumberland,Vote By Mail,State Senate,3,Democratic,Stephen M. Sweeney,0
+Cumberland,Vote By Mail,State Senate,3,Republican,Michael M. Mulligan,843
+Cumberland,Provisional Ballots,State Senate,3,Democratic,Stephen M. Sweeney,0
+Cumberland,Provisional Ballots,State Senate,3,Republican,Michael M. Mulligan,0
 Gloucester,Clayton Boro,State Senate,3,Democratic,Stephen M. Sweeney,1017
 Gloucester,Clayton Boro,State Senate,3,Republican,Michael M. Mulligan,686
 Gloucester,East Greenwich Twp.,State Senate,3,Democratic,Stephen M. Sweeney,1155
@@ -146,6 +168,10 @@ Gloucester,Woodbury Heights Boro,State Senate,3,Democratic,Stephen M. Sweeney,42
 Gloucester,Woodbury Heights Boro,State Senate,3,Republican,Michael M. Mulligan,379
 Gloucester,Woolwich Twp.,State Senate,3,Democratic,Stephen M. Sweeney,812
 Gloucester,Woolwich Twp.,State Senate,3,Republican,Michael M. Mulligan,1004
+Gloucester,Vote By Mail,State Senate,3,Democratic,Stephen M. Sweeney,0
+Gloucester,Vote By Mail,State Senate,3,Republican,Michael M. Mulligan,0
+Gloucester,Provisional Ballots,State Senate,3,Democratic,Stephen M. Sweeney,0
+Gloucester,Provisional Ballots,State Senate,3,Republican,Michael M. Mulligan,0
 Salem,Alloway Twp.,State Senate,3,Democratic,Stephen M. Sweeney,404
 Salem,Alloway Twp.,State Senate,3,Republican,Michael M. Mulligan,570
 Salem,Carneys Point Twp.,State Senate,3,Democratic,Stephen M. Sweeney,1093
@@ -178,6 +204,10 @@ Salem,Upper Pittsgrove Twp.,State Senate,3,Democratic,Stephen M. Sweeney,303
 Salem,Upper Pittsgrove Twp.,State Senate,3,Republican,Michael M. Mulligan,455
 Salem,Woodstown Boro,State Senate,3,Democratic,Stephen M. Sweeney,572
 Salem,Woodstown Boro,State Senate,3,Republican,Michael M. Mulligan,492
+Salem,Vote By Mail,State Senate,3,Democratic,Stephen M. Sweeney,0
+Salem,Vote By Mail,State Senate,3,Republican,Michael M. Mulligan,0
+Salem,Provisional Ballots,State Senate,3,Democratic,Stephen M. Sweeney,0
+Salem,Provisional Ballots,State Senate,3,Republican,Michael M. Mulligan,0
 Camden,Chesihurst Boro,State Senate,4,Democratic,Fred H. Madden,234
 Camden,Chesihurst Boro,State Senate,4,Republican,Giancarlo D'Orazio,66
 Camden,Clementon Boro,State Senate,4,Democratic,Fred H. Madden,435
@@ -190,12 +220,20 @@ Camden,Lindenwold Boro,State Senate,4,Democratic,Fred H. Madden,1208
 Camden,Lindenwold Boro,State Senate,4,Republican,Giancarlo D'Orazio,390
 Camden,Winslow Twp.,State Senate,4,Democratic,Fred H. Madden,4598
 Camden,Winslow Twp.,State Senate,4,Republican,Giancarlo D'Orazio,2099
+Camden,Vote By Mail,State Senate,4,Democratic,Fred H. Madden,0
+Camden,Vote By Mail,State Senate,4,Republican,Giancarlo D'Orazio,0
+Camden,Provisional Ballots,State Senate,4,Democratic,Fred H. Madden,0
+Camden,Provisional Ballots,State Senate,4,Republican,Giancarlo D'Orazio,0
 Gloucester,Monroe Twp.,State Senate,4,Democratic,Fred H. Madden,3067
 Gloucester,Monroe Twp.,State Senate,4,Republican,Giancarlo D'Orazio,1929
 Gloucester,Pitman Boro,State Senate,4,Democratic,Fred H. Madden,1460
 Gloucester,Pitman Boro,State Senate,4,Republican,Giancarlo D'Orazio,1140
 Gloucester,Washington Twp.,State Senate,4,Democratic,Fred H. Madden,6267
 Gloucester,Washington Twp.,State Senate,4,Republican,Giancarlo D'Orazio,4727
+Gloucester,Vote By Mail,State Senate,4,Democratic,Fred H. Madden,0
+Gloucester,Vote By Mail,State Senate,4,Republican,Giancarlo D'Orazio,0
+Gloucester,Provisional Ballots,State Senate,4,Democratic,Fred H. Madden,0
+Gloucester,Provisional Ballots,State Senate,4,Republican,Giancarlo D'Orazio,0
 Camden,Audubon Boro,State Senate,5,Democratic,Donald W. Norcross,548
 Camden,Audubon Boro,State Senate,5,Republican,Keith Walker,662
 Camden,Audubon Park Boro,State Senate,5,Democratic,Donald W. Norcross,101
@@ -222,6 +260,10 @@ Camden,Runnemede Boro,State Senate,5,Democratic,Donald W. Norcross,609
 Camden,Runnemede Boro,State Senate,5,Republican,Keith Walker,475
 Camden,Woodlynne Boro,State Senate,5,Democratic,Donald W. Norcross,193
 Camden,Woodlynne Boro,State Senate,5,Republican,Keith Walker,63
+Camden,Vote By Mail,State Senate,5,Democratic,Donald W. Norcross,0
+Camden,Vote By Mail,State Senate,5,Republican,Keith Walker,0
+Camden,Provisional Ballots,State Senate,5,Democratic,Donald W. Norcross,0
+Camden,Provisional Ballots,State Senate,5,Republican,Keith Walker,0
 Gloucester,Deptford Twp.,State Senate,5,Democratic,Donald W. Norcross,2969
 Gloucester,Deptford Twp.,State Senate,5,Republican,Keith Walker,2321
 Gloucester,Harrison Twp.,State Senate,5,Democratic,Donald W. Norcross,664
@@ -234,8 +276,16 @@ Gloucester,Westville Boro,State Senate,5,Democratic,Donald W. Norcross,311
 Gloucester,Westville Boro,State Senate,5,Republican,Keith Walker,317
 Gloucester,Woodbury City,State Senate,5,Democratic,Donald W. Norcross,959
 Gloucester,Woodbury City,State Senate,5,Republican,Keith Walker,834
+Gloucester,Vote By Mail,State Senate,5,Democratic,Donald W. Norcross,0
+Gloucester,Vote By Mail,State Senate,5,Republican,Keith Walker,0
+Gloucester,Provisional Ballots,State Senate,5,Democratic,Donald W. Norcross,0
+Gloucester,Provisional Ballots,State Senate,5,Republican,Keith Walker,0
 Burlington,Maple Shade,State Senate,6,Democratic,James Beach,1089
 Burlington,Maple Shade,State Senate,6,Republican,Phil Mitsch,811
+Burlington,Vote By Mail,State Senate,6,Democratic,James Beach,59
+Burlington,Vote By Mail,State Senate,6,Republican,Phil Mitsch,48
+Burlington,Provisional Ballots,State Senate,6,Democratic,James Beach,3
+Burlington,Provisional Ballots,State Senate,6,Republican,Phil Mitsch,4
 Camden,Berlin Twp.,State Senate,6,Democratic,James Beach,380
 Camden,Berlin Twp.,State Senate,6,Republican,Phil Mitsch,241
 Camden,Cherry Hill Twp.,State Senate,6,Democratic,James Beach,9603
@@ -264,6 +314,10 @@ Camden,Tavistock Boro,State Senate,6,Democratic,James Beach,1
 Camden,Tavistock Boro,State Senate,6,Republican,Phil Mitsch,710
 Camden,Voorhees,State Senate,6,Democratic,James Beach,3190
 Camden,Voorhees,State Senate,6,Republican,Phil Mitsch,2
+Camden,Vote By Mail,State Senate,6,Democratic,James Beach,0
+Camden,Vote By Mail,State Senate,6,Republican,Phil Mitsch,2075
+Camden,Provisional Ballots,State Senate,6,Democratic,James Beach,0
+Camden,Provisional Ballots,State Senate,6,Republican,Phil Mitsch,0
 Burlington,Beverly City,State Senate,7,Republican,Diane Allen,337
 Burlington,Beverly City,State Senate,7,Democratic,Gail Cook,266
 Burlington,Bordentown City,State Senate,7,Republican,Diane Allen,370
@@ -298,36 +352,54 @@ Burlington,Riverton Boro,State Senate,7,Republican,Diane Allen,453
 Burlington,Riverton Boro,State Senate,7,Democratic,Gail Cook,219
 Burlington,Willingboro Twp.,State Senate,7,Republican,Diane Allen,1481
 Burlington,Willingboro Twp.,State Senate,7,Democratic,Gail Cook,4685
+Burlington,Vote By Mail,State Senate,7,Republican,Diane Allen,0
+Burlington,Vote By Mail,State Senate,7,Democratic,Gail Cook,0
+Burlington,Provisional Ballots,State Senate,7,Republican,Diane Allen,0
+Burlington,Provisional Ballots,State Senate,7,Democratic,Gail Cook,0
 Atlantic,Hammonton Twn.,State Senate,8,Republican,Dawn Marie Addiego,1996
-Atlantic,Eastampton Twp.,State Senate,8,Republican,Dawn Marie Addiego,490
-Atlantic,Evesham Twp.,State Senate,8,Republican,Dawn Marie Addiego,4248
-Atlantic,Hainesport Twp.,State Senate,8,Republican,Dawn Marie Addiego,910
-Atlantic,Lumberton Twp.,State Senate,8,Republican,Dawn Marie Addiego,1117
-Atlantic,Mansfield Twp.,State Senate,8,Republican,Dawn Marie Addiego,1176
-Atlantic,Medford Lakes Boro,State Senate,8,Republican,Dawn Marie Addiego,493
-Atlantic,Medford Twp.,State Senate,8,Republican,Dawn Marie Addiego,3384
-Atlantic,Mount Holly Twp.,State Senate,8,Republican,Dawn Marie Addiego,771
-Atlantic,Pemberton Boro,State Senate,8,Republican,Dawn Marie Addiego,220
-Atlantic,Pemberton Twp.,State Senate,8,Republican,Dawn Marie Addiego,1356
-Atlantic,Shamong Twp.,State Senate,8,Republican,Dawn Marie Addiego,740
-Atlantic,Southampton Twp.,State Senate,8,Republican,Dawn Marie Addiego,1688
-Atlantic,Springfield Twp.,State Senate,8,Republican,Dawn Marie Addiego,477
-Atlantic,Westampton Twp.,State Senate,8,Republican,Dawn Marie Addiego,747
-Atlantic,Woodland Twp.,State Senate,8,Republican,Dawn Marie Addiego,236
+Atlantic,Vote By Mail,State Senate,8,Republican,Dawn Marie Addiego,159
+Atlantic,Provisional Ballots,State Senate,8,Republican,Dawn Marie Addiego,11
+Burlington,Eastampton Twp.,State Senate,8,Republican,Dawn Marie Addiego,490
+Burlington,Evesham Twp.,State Senate,8,Republican,Dawn Marie Addiego,4248
+Burlington,Hainesport Twp.,State Senate,8,Republican,Dawn Marie Addiego,910
+Burlington,Lumberton Twp.,State Senate,8,Republican,Dawn Marie Addiego,1117
+Burlington,Mansfield Twp.,State Senate,8,Republican,Dawn Marie Addiego,1176
+Burlington,Medford Lakes Boro,State Senate,8,Republican,Dawn Marie Addiego,493
+Burlington,Medford Twp.,State Senate,8,Republican,Dawn Marie Addiego,3384
+Burlington,Mount Holly Twp.,State Senate,8,Republican,Dawn Marie Addiego,771
+Burlington,Pemberton Boro,State Senate,8,Republican,Dawn Marie Addiego,220
+Burlington,Pemberton Twp.,State Senate,8,Republican,Dawn Marie Addiego,1356
+Burlington,Shamong Twp.,State Senate,8,Republican,Dawn Marie Addiego,740
+Burlington,Southampton Twp.,State Senate,8,Republican,Dawn Marie Addiego,1688
+Burlington,Springfield Twp.,State Senate,8,Republican,Dawn Marie Addiego,477
+Burlington,Westampton Twp.,State Senate,8,Republican,Dawn Marie Addiego,747
+Burlington,Woodland Twp.,State Senate,8,Republican,Dawn Marie Addiego,236
+Burlington,Vote By Mail,State Senate,8,Republican,Dawn Marie Addiego,0
+Burlington,Provisional Ballots,State Senate,8,Republican,Dawn Marie Addiego,0
 Camden,Berlin Boro,State Senate,8,Republican,Dawn Marie Addiego,635
 Camden,Pine Hill Boro,State Senate,8,Republican,Dawn Marie Addiego,387
 Camden,Pine Valley Boro,State Senate,8,Republican,Dawn Marie Addiego,10
 Camden,Waterford Twp.,State Senate,8,Republican,Dawn Marie Addiego,1145
+Camden,Vote By Mail,State Senate,8,Republican,Dawn Marie Addiego,0
+Camden,Provisional Ballots,State Senate,8,Republican,Dawn Marie Addiego,0
 Atlantic,Galloway Twp.,State Senate,9,Republican,Christopher J. Connors,3564
 Atlantic,Galloway Twp.,State Senate,9,Democratic,Dorothy A. Ryan,2647
 Atlantic,Port Republic City,State Senate,9,Republican,Christopher J. Connors,220
 Atlantic,Port Republic City,State Senate,9,Democratic,Dorothy A. Ryan,99
+Atlantic,Vote By Mail,State Senate,9,Republican,Christopher J. Connors,245
+Atlantic,Vote By Mail,State Senate,9,Democratic,Dorothy A. Ryan,169
+Atlantic,Provisional Ballots,State Senate,9,Republican,Christopher J. Connors,59
+Atlantic,Provisional Ballots,State Senate,9,Democratic,Dorothy A. Ryan,59
 Burlington,Bass River Twp.,State Senate,9,Republican,Christopher J. Connors,194
 Burlington,Bass River Twp.,State Senate,9,Democratic,Dorothy A. Ryan,65
 Burlington,Tabernacle Twp.,State Senate,9,Republican,Christopher J. Connors,942
 Burlington,Tabernacle Twp.,State Senate,9,Democratic,Dorothy A. Ryan,454
 Burlington,Washington Twp.,State Senate,9,Republican,Christopher J. Connors,102
 Burlington,Washington Twp.,State Senate,9,Democratic,Dorothy A. Ryan,41
+Burlington,Vote By Mail,State Senate,9,Republican,Christopher J. Connors,0
+Burlington,Vote By Mail,State Senate,9,Democratic,Dorothy A. Ryan,0
+Burlington,Provisional Ballots,State Senate,9,Republican,Christopher J. Connors,0
+Burlington,Provisional Ballots,State Senate,9,Democratic,Dorothy A. Ryan,0
 Ocean,Barnegat Light Boro,State Senate,9,Republican,Christopher J. Connors,143
 Ocean,Barnegat Light Boro,State Senate,9,Democratic,Dorothy A. Ryan,73
 Ocean,Barnegat Twp,State Senate,9,Republican,Christopher J. Connors,2569
@@ -366,6 +438,10 @@ Ocean,Surf City Boro,State Senate,9,Republican,Christopher J. Connors,355
 Ocean,Surf City Boro,State Senate,9,Democratic,Dorothy A. Ryan,106
 Ocean,Tuckerton Boro,State Senate,9,Republican,Christopher J. Connors,350
 Ocean,Tuckerton Boro,State Senate,9,Democratic,Dorothy A. Ryan,132
+Ocean,Vote By Mail,State Senate,9,Republican,Christopher J. Connors,0
+Ocean,Vote By Mail,State Senate,9,Democratic,Dorothy A. Ryan,0
+Ocean,Provisional Ballots,State Senate,9,Republican,Christopher J. Connors,0
+Ocean,Provisional Ballots,State Senate,9,Democratic,Dorothy A. Ryan,0
 Ocean,Bay Head Boro,State Senate,10,Republican,Jim Holzapfel,258
 Ocean,Bay Head Boro,State Senate,10,Democratic,Charles P. Tivenan,59
 Ocean,Brick Twp.,State Senate,10,Republican,Jim Holzapfel,8851
@@ -386,6 +462,10 @@ Ocean,Seaside Heights Boro,State Senate,10,Republican,Jim Holzapfel,208
 Ocean,Seaside Heights Boro,State Senate,10,Democratic,Charles P. Tivenan,74
 Ocean,Toms River Twp.,State Senate,10,Republican,Jim Holzapfel,10473
 Ocean,Toms River Twp.,State Senate,10,Democratic,Charles P. Tivenan,5231
+Ocean,Vote By Mail,State Senate,10,Republican,Jim Holzapfel,0
+Ocean,Vote By Mail,State Senate,10,Democratic,Charles P. Tivenan,0
+Ocean,Provisional Ballots,State Senate,10,Republican,Jim Holzapfel,0
+Ocean,Provisional Ballots,State Senate,10,Democratic,Charles P. Tivenan,0
 Monmouth,Allenhurst Boro,State Senate,11,Republican,Jennifer Beck,103
 Monmouth,Allenhurst Boro,State Senate,11,Democratic,Raymond Santiago,31
 Monmouth,Asbury Park City,State Senate,11,Republican,Jennifer Beck,271
@@ -422,6 +502,10 @@ Monmouth,Tinton Falls Boro,State Senate,11,Republican,Jennifer Beck,1985
 Monmouth,Tinton Falls Boro,State Senate,11,Democratic,Raymond Santiago,1439
 Monmouth,West Long Branch Boro,State Senate,11,Republican,Jennifer Beck,964
 Monmouth,West Long Branch Boro,State Senate,11,Democratic,Raymond Santiago,514
+Monmouth,Vote By Mail,State Senate,11,Republican,Jennifer Beck,0
+Monmouth,Vote By Mail,State Senate,11,Democratic,Raymond Santiago,0
+Monmouth,Provisional Ballots,State Senate,11,Republican,Jennifer Beck,0
+Monmouth,Provisional Ballots,State Senate,11,Democratic,Raymond Santiago,0
 Burlington,Chesterfield Twp.,State Senate,12,Republican,Samuel D. Thompson,425
 Burlington,Chesterfield Twp.,State Senate,12,Democratic,"Robert ""Bob"" Brown",278
 Burlington,New Hanover Twp.,State Senate,12,Republican,Samuel D. Thompson,139
@@ -430,8 +514,16 @@ Burlington,North hanover Twp.,State Senate,12,Republican,Samuel D. Thompson,526
 Burlington,North hanover Twp.,State Senate,12,Democratic,"Robert ""Bob"" Brown",303
 Burlington,Wrightstown Boro,State Senate,12,Republican,Samuel D. Thompson,46
 Burlington,Wrightstown Boro,State Senate,12,Democratic,"Robert ""Bob"" Brown",37
+Burlington,Vote By Mail,State Senate,12,Republican,Samuel D. Thompson,0
+Burlington,Vote By Mail,State Senate,12,Democratic,"Robert ""Bob"" Brown",0
+Burlington,Provisional Ballots,State Senate,12,Republican,Samuel D. Thompson,0
+Burlington,Provisional Ballots,State Senate,12,Democratic,"Robert ""Bob"" Brown",0
 Middlesex,Old Bridge Twp.,State Senate,12,Republican,Samuel D. Thompson,5509
 Middlesex,Old Bridge Twp.,State Senate,12,Democratic,"Robert ""Bob"" Brown",3977
+Middlesex,Vote By Mail,State Senate,12,Republican,Samuel D. Thompson,300
+Middlesex,Vote By Mail,State Senate,12,Democratic,"Robert ""Bob"" Brown",235
+Middlesex,Provisional Ballots,State Senate,12,Republican,Samuel D. Thompson,23
+Middlesex,Provisional Ballots,State Senate,12,Democratic,"Robert ""Bob"" Brown",20
 Monmouth,Allentown Boro,State Senate,12,Republican,Samuel D. Thompson,269
 Monmouth,Allentown Boro,State Senate,12,Democratic,"Robert ""Bob"" Brown",250
 Monmouth,Englishtown Boro,State Senate,12,Republican,Samuel D. Thompson,98
@@ -446,10 +538,18 @@ Monmouth,Roosevelt Boro,State Senate,12,Republican,Samuel D. Thompson,37
 Monmouth,Roosevelt Boro,State Senate,12,Democratic,"Robert ""Bob"" Brown",137
 Monmouth,Upper Freehold Twp.,State Senate,12,Republican,Samuel D. Thompson,855
 Monmouth,Upper Freehold Twp.,State Senate,12,Democratic,"Robert ""Bob"" Brown",336
+Monmouth,Vote By Mail,State Senate,12,Republican,Samuel D. Thompson,0
+Monmouth,Vote By Mail,State Senate,12,Democratic,"Robert ""Bob"" Brown",0
+Monmouth,Provisional Ballots,State Senate,12,Republican,Samuel D. Thompson,0
+Monmouth,Provisional Ballots,State Senate,12,Democratic,"Robert ""Bob"" Brown",0
 Ocean,Jackson Twp,State Senate,12,Republican,Samuel D. Thompson,4229
 Ocean,Jackson Twp,State Senate,12,Democratic,"Robert ""Bob"" Brown",2808
 Ocean,Plumsted,State Senate,12,Republican,Samuel D. Thompson,5270
 Ocean,Plumsted,State Senate,12,Democratic,"Robert ""Bob"" Brown",3228
+Ocean,Vote By Mail,State Senate,12,Republican,Samuel D. Thompson,0
+Ocean,Vote By Mail,State Senate,12,Democratic,"Robert ""Bob"" Brown",0
+Ocean,Provisional Ballots,State Senate,12,Republican,Samuel D. Thompson,0
+Ocean,Provisional Ballots,State Senate,12,Democratic,"Robert ""Bob"" Brown",0
 Monmouth,Aberdeen Twp.,State Senate,13,Republican,"Joe Kyrillos, Jr.",1434
 Monmouth,Aberdeen Twp.,State Senate,13,Democratic,Christopher G. Cullen,1289
 Monmouth,Aberdeen Twp.,State Senate,13,Indpendent,Stephen J. Boracchia,36
@@ -530,6 +630,16 @@ Monmouth,Union Beach Boro,State Senate,13,Democratic,Christopher G. Cullen,303
 Monmouth,Union Beach Boro,State Senate,13,Indpendent,Stephen J. Boracchia,21
 Monmouth,Union Beach Boro,State Senate,13,Indpendent,Mac Dara F. Lyden,5
 Monmouth,Union Beach Boro,State Senate,13,Indpendent,Karen Anne Zaletel,13
+Monmouth,Vote By Mail,State Senate,13,Republican,"Joe Kyrillos, Jr.",0
+Monmouth,Vote By Mail,State Senate,13,Democratic,Christopher G. Cullen,0
+Monmouth,Vote By Mail,State Senate,13,Indpendent,Stephen J. Boracchia,0
+Monmouth,Vote By Mail,State Senate,13,Indpendent,Mac Dara F. Lyden,0
+Monmouth,Vote By Mail,State Senate,13,Indpendent,Karen Anne Zaletel,0
+Monmouth,Provisional Ballots,State Senate,13,Republican,"Joe Kyrillos, Jr.",0
+Monmouth,Provisional Ballots,State Senate,13,Democratic,Christopher G. Cullen,0
+Monmouth,Provisional Ballots,State Senate,13,Indpendent,Stephen J. Boracchia,0
+Monmouth,Provisional Ballots,State Senate,13,Indpendent,Mac Dara F. Lyden,0
+Monmouth,Provisional Ballots,State Senate,13,Indpendent,Karen Anne Zaletel,0
 Mercer,East Windsor Twp.,State Senate,14,Democratic,Linda R. Greenstein,2625
 Mercer,East Windsor Twp.,State Senate,14,Republican,Richard J. Kanka,1895
 Mercer,Hamilton Twp.,State Senate,14,Democratic,Linda R. Greenstein,11500
@@ -538,6 +648,10 @@ Mercer,Hightstown Boro,State Senate,14,Democratic,Linda R. Greenstein,559
 Mercer,Hightstown Boro,State Senate,14,Republican,Richard J. Kanka,468
 Mercer,Robbinsville Twp.,State Senate,14,Democratic,Linda R. Greenstein,1066
 Mercer,Robbinsville Twp.,State Senate,14,Republican,Richard J. Kanka,1352
+Mercer,Vote By Mail,State Senate,14,Democratic,Linda R. Greenstein,0
+Mercer,Vote By Mail,State Senate,14,Republican,Richard J. Kanka,0
+Mercer,Provisional Ballots,State Senate,14,Democratic,Linda R. Greenstein,0
+Mercer,Provisional Ballots,State Senate,14,Republican,Richard J. Kanka,0
 Middlesex,Cranbury Twp.,State Senate,14,Democratic,Linda R. Greenstein,506
 Middlesex,Cranbury Twp.,State Senate,14,Republican,Richard J. Kanka,502
 Middlesex,Jamesburg Boro,State Senate,14,Democratic,Linda R. Greenstein,543
@@ -548,12 +662,20 @@ Middlesex,Plainsboro Twp.,State Senate,14,Democratic,Linda R. Greenstein,1601
 Middlesex,Plainsboro Twp.,State Senate,14,Republican,Richard J. Kanka,915
 Middlesex,Spotswood Boro,State Senate,14,Democratic,Linda R. Greenstein,525
 Middlesex,Spotswood Boro,State Senate,14,Republican,Richard J. Kanka,692
+Middlesex,Vote By Mail,State Senate,14,Democratic,Linda R. Greenstein,669
+Middlesex,Vote By Mail,State Senate,14,Republican,Richard J. Kanka,469
+Middlesex,Provisional Ballots,State Senate,14,Democratic,Linda R. Greenstein,53
+Middlesex,Provisional Ballots,State Senate,14,Republican,Richard J. Kanka,33
 Hunterdon,East Amwell Twp.,State Senate,15,Democratic,Shirley K. Turner,502
 Hunterdon,East Amwell Twp.,State Senate,15,Republican,Donald J. Cox,706
 Hunterdon,Lambertville City,State Senate,15,Democratic,Shirley K. Turner,634
 Hunterdon,Lambertville City,State Senate,15,Republican,Donald J. Cox,262
 Hunterdon,West Amwell Twp.,State Senate,15,Democratic,Shirley K. Turner,165
 Hunterdon,West Amwell Twp.,State Senate,15,Republican,Donald J. Cox,301
+Hunterdon,Vote By Mail,State Senate,15,Democratic,Shirley K. Turner,0
+Hunterdon,Vote By Mail,State Senate,15,Republican,Donald J. Cox,0
+Hunterdon,Provisional Ballots,State Senate,15,Democratic,Shirley K. Turner,0
+Hunterdon,Provisional Ballots,State Senate,15,Republican,Donald J. Cox,0
 Mercer,Ewing Twp.,State Senate,15,Democratic,Shirley K. Turner,4570
 Mercer,Ewing Twp.,State Senate,15,Republican,Donald J. Cox,2491
 Mercer,Hopewell Boro,State Senate,15,Democratic,Shirley K. Turner,350
@@ -568,6 +690,10 @@ Mercer,Trenton City,State Senate,15,Democratic,Shirley K. Turner,6584
 Mercer,Trenton City,State Senate,15,Republican,Donald J. Cox,691
 Mercer,West Windsor Twp.,State Senate,15,Democratic,Shirley K. Turner,2333
 Mercer,West Windsor Twp.,State Senate,15,Republican,Donald J. Cox,1996
+Mercer,Vote By Mail,State Senate,15,Democratic,Shirley K. Turner,0
+Mercer,Vote By Mail,State Senate,15,Republican,Donald J. Cox,0
+Mercer,Provisional Ballots,State Senate,15,Democratic,Shirley K. Turner,0
+Mercer,Provisional Ballots,State Senate,15,Republican,Donald J. Cox,0
 Hunterdon,Delaware Twp,State Senate,16,Republican,"Christopher ""Kip"" Bateman",647
 Hunterdon,Delaware Twp,State Senate,16,Democratic,Maureen Vella,371
 Hunterdon,Flemington Boro,State Senate,16,Republican,"Christopher ""Kip"" Bateman",393
@@ -578,12 +704,24 @@ Hunterdon,Readington Twp.,State Senate,16,Republican,"Christopher ""Kip"" Batema
 Hunterdon,Readington Twp.,State Senate,16,Democratic,Maureen Vella,852
 Hunterdon,Stockton Boro,State Senate,16,Republican,"Christopher ""Kip"" Bateman",62
 Hunterdon,Stockton Boro,State Senate,16,Democratic,Maureen Vella,74
+Hunterdon,Vote By Mail,State Senate,16,Republican,"Christopher ""Kip"" Bateman",0
+Hunterdon,Vote By Mail,State Senate,16,Democratic,Maureen Vella,0
+Hunterdon,Provisional Ballots,State Senate,16,Republican,"Christopher ""Kip"" Bateman",0
+Hunterdon,Provisional Ballots,State Senate,16,Democratic,Maureen Vella,0
 Mercer,Princeton Boro,State Senate,16,Republican,"Christopher ""Kip"" Bateman",607
 Mercer,Princeton Boro,State Senate,16,Democratic,Maureen Vella,1675
 Mercer,Princeton Twp.,State Senate,16,Republican,"Christopher ""Kip"" Bateman",1428
 Mercer,Princeton Twp.,State Senate,16,Democratic,Maureen Vella,3055
+Mercer,Vote By Mail,State Senate,16,Republican,"Christopher ""Kip"" Bateman",0
+Mercer,Vote By Mail,State Senate,16,Democratic,Maureen Vella,0
+Mercer,Provisional Ballots,State Senate,16,Republican,"Christopher ""Kip"" Bateman",0
+Mercer,Provisional Ballots,State Senate,16,Democratic,Maureen Vella,0
 Middlesex,South Brunswick Twp.,State Senate,16,Republican,"Christopher ""Kip"" Bateman",2208
 Middlesex,South Brunswick Twp.,State Senate,16,Democratic,Maureen Vella,2895
+Middlesex,Vote By Mail,State Senate,16,Republican,"Christopher ""Kip"" Bateman",135
+Middlesex,Vote By Mail,State Senate,16,Democratic,Maureen Vella,169
+Middlesex,Provisional Ballots,State Senate,16,Republican,"Christopher ""Kip"" Bateman",10
+Middlesex,Provisional Ballots,State Senate,16,Democratic,Maureen Vella,24
 Somerset,Branchburg Twp.,State Senate,16,Republican,"Christopher ""Kip"" Bateman",2214
 Somerset,Branchburg Twp.,State Senate,16,Democratic,Maureen Vella,726
 Somerset,Hillsborough Twp.,State Senate,16,Republican,"Christopher ""Kip"" Bateman",3813
@@ -598,6 +736,10 @@ Somerset,Rocky Hill Boro,State Senate,16,Republican,"Christopher ""Kip"" Bateman
 Somerset,Rocky Hill Boro,State Senate,16,Democratic,Maureen Vella,86
 Somerset,Somerville Boro,State Senate,16,Republican,"Christopher ""Kip"" Bateman",1272
 Somerset,Somerville Boro,State Senate,16,Democratic,Maureen Vella,1001
+Somerset,Vote By Mail,State Senate,16,Republican,"Christopher ""Kip"" Bateman",0
+Somerset,Vote By Mail,State Senate,16,Democratic,Maureen Vella,0
+Somerset,Provisional Ballots,State Senate,16,Republican,"Christopher ""Kip"" Bateman",0
+Somerset,Provisional Ballots,State Senate,16,Democratic,Maureen Vella,0
 Middlesex,Milltown Boro,State Senate,17,Democratic,Bob Smith,1147
 Middlesex,Milltown Boro,State Senate,17,Republican,Jordan Rickards,949
 Middlesex,New Brunswick City,State Senate,17,Democratic,Bob Smith,1643
@@ -606,8 +748,16 @@ Middlesex,North Brunswick Twp.,State Senate,17,Democratic,Bob Smith,2822
 Middlesex,North Brunswick Twp.,State Senate,17,Republican,Jordan Rickards,1822
 Middlesex,Piscataway Twp.,State Senate,17,Democratic,Bob Smith,3464
 Middlesex,Piscataway Twp.,State Senate,17,Republican,Jordan Rickards,1652
+Middlesex,Vote By Mail,State Senate,17,Democratic,Bob Smith,426
+Middlesex,Vote By Mail,State Senate,17,Republican,Jordan Rickards,211
+Middlesex,Provisional Ballots,State Senate,17,Democratic,Bob Smith,56
+Middlesex,Provisional Ballots,State Senate,17,Republican,Jordan Rickards,14
 Somerset,Franklin Twp.,State Senate,17,Democratic,Bob Smith,5596
 Somerset,Franklin Twp.,State Senate,17,Republican,Jordan Rickards,3473
+Somerset,Vote By Mail,State Senate,17,Democratic,Bob Smith,335
+Somerset,Vote By Mail,State Senate,17,Republican,Jordan Rickards,235
+Somerset,Provisional Ballots,State Senate,17,Democratic,Bob Smith,18
+Somerset,Provisional Ballots,State Senate,17,Republican,Jordan Rickards,16
 Middlesex,East Brunswick Twp.,State Senate,18,Democratic,Barbara Buono,3702
 Middlesex,East Brunswick Twp.,State Senate,18,Republican,Gloria S. Dittman,3217
 Middlesex,Edison Twp.,State Senate,18,Democratic,Barbara Buono,6721
@@ -622,6 +772,10 @@ Middlesex,South Plainfield Boro,State Senate,18,Democratic,Barbara Buono,2367
 Middlesex,South Plainfield Boro,State Senate,18,Republican,Gloria S. Dittman,2050
 Middlesex,South River Boro,State Senate,18,Democratic,Barbara Buono,1348
 Middlesex,South River Boro,State Senate,18,Republican,Gloria S. Dittman,1148
+Middlesex,Vote By Mail,State Senate,18,Democratic,Barbara Buono,1139
+Middlesex,Vote By Mail,State Senate,18,Republican,Gloria S. Dittman,659
+Middlesex,Provisional Ballots,State Senate,18,Democratic,Barbara Buono,69
+Middlesex,Provisional Ballots,State Senate,18,Republican,Gloria S. Dittman,29
 Middlesex,Carteret Boro,State Senate,19,Democratic,Joseph F. Vitale,1927
 Middlesex,Carteret Boro,State Senate,19,Republican,"Paul Lund, Jr.",650
 Middlesex,Perth Amboy City,State Senate,19,Democratic,Joseph F. Vitale,1853
@@ -632,6 +786,10 @@ Middlesex,South Amboy City,State Senate,19,Democratic,Joseph F. Vitale,667
 Middlesex,South Amboy City,State Senate,19,Republican,"Paul Lund, Jr.",405
 Middlesex,Woodbridge Twp.,State Senate,19,Democratic,Joseph F. Vitale,9283
 Middlesex,Woodbridge Twp.,State Senate,19,Republican,"Paul Lund, Jr.",4266
+Middlesex,Vote By Mail,State Senate,19,Democratic,Joseph F. Vitale,859
+Middlesex,Vote By Mail,State Senate,19,Republican,"Paul Lund, Jr.",388
+Middlesex,Provisionals Ballots,State Senate,19,Democratic,Joseph F. Vitale,77
+Middlesex,Provisionals Ballots,State Senate,19,Republican,"Paul Lund, Jr.",20
 Union,Elizabeth City,State Senate,20,Democratic,Raymond J. Lesniak,4463
 Union,Elizabeth City,State Senate,20,Republican,Helen S. Rosales,1271
 Union,Hillside Twp.,State Senate,20,Democratic,Raymond J. Lesniak,2341
@@ -640,46 +798,70 @@ Union,Roselle Boro,State Senate,20,Democratic,Raymond J. Lesniak,1774
 Union,Roselle Boro,State Senate,20,Republican,Helen S. Rosales,329
 Union,Union Twp.,State Senate,20,Democratic,Raymond J. Lesniak,3932
 Union,Union Twp.,State Senate,20,Republican,Helen S. Rosales,1840
-Morris,Chatham Boro,State Senate,21,Republican,"Thomas H.Kean, Jr.",1429
+Union,Vote By Mail,State Senate,20,Democratic,Raymond J. Lesniak,0
+Union,Vote By Mail,State Senate,20,Republican,Helen S. Rosales,0
+Union,Provisionals Ballots,State Senate,20,Democratic,Raymond J. Lesniak,0
+Union,Provisionals Ballots,State Senate,20,Republican,Helen S. Rosales,0
+Morris,Chatham Boro,State Senate,21,Republican,"Thomas H. Kean, Jr.",1429
 Morris,Chatham Boro,State Senate,21,Democratic,Paul Swanicke,602
-Morris,Long Hill Twp.,State Senate,21,Republican,"Thomas H.Kean, Jr.",1092
+Morris,Long Hill Twp.,State Senate,21,Republican,"Thomas H. Kean, Jr.",1092
 Morris,Long Hill Twp.,State Senate,21,Democratic,Paul Swanicke,406
-Somerset,Bernards Twp.,State Senate,21,Republican,"Thomas H.Kean, Jr.",3239
+Morris,Vote By Mail,State Senate,21,Republican,"Thomas H. Kean, Jr.",0
+Morris,Vote By Mail,State Senate,21,Democratic,Paul Swanicke,0
+Morris,Provisional Ballots,State Senate,21,Republican,"Thomas H. Kean, Jr.",0
+Morris,Provisional Ballots,State Senate,21,Democratic,Paul Swanicke,0
+Somerset,Bernards Twp.,State Senate,21,Republican,"Thomas H. Kean, Jr.",3239
 Somerset,Bernards Twp.,State Senate,21,Democratic,Paul Swanicke,1203
-Somerset,Far Hills Boro,State Senate,21,Republican,"Thomas H.Kean, Jr.",141
+Somerset,Far Hills Boro,State Senate,21,Republican,"Thomas H. Kean, Jr.",141
 Somerset,Far Hills Boro,State Senate,21,Democratic,Paul Swanicke,16
-Somerset,Warren Twp.,State Senate,21,Republican,"Thomas H.Kean, Jr.",1904
+Somerset,Warren Twp.,State Senate,21,Republican,"Thomas H. Kean, Jr.",1904
 Somerset,Warren Twp.,State Senate,21,Democratic,Paul Swanicke,713
-Somerset,Watchung Boro,State Senate,21,Republican,"Thomas H.Kean, Jr.",711
+Somerset,Watchung Boro,State Senate,21,Republican,"Thomas H. Kean, Jr.",711
 Somerset,Watchung Boro,State Senate,21,Democratic,Paul Swanicke,231
-Union,Berkeley Heights Twp.,State Senate,21,Republican,"Thomas H.Kean, Jr.",1701
+Somerset,Vote By Mail,State Senate,21,Republican,"Thomas H. Kean, Jr.",0
+Somerset,Vote By Mail,State Senate,21,Democratic,Paul Swanicke,0
+Somerset,Provisional Ballots,State Senate,21,Republican,"Thomas H. Kean, Jr.",0
+Somerset,Provisional Ballots,State Senate,21,Democratic,Paul Swanicke,0
+Union,Berkeley Heights Twp.,State Senate,21,Republican,"Thomas H. Kean, Jr.",1701
 Union,Berkeley Heights Twp.,State Senate,21,Democratic,Paul Swanicke,635
-Union,Cranford Twp.,State Senate,21,Republican,"Thomas H.Kean, Jr.",3466
+Union,Cranford Twp.,State Senate,21,Republican,"Thomas H. Kean, Jr.",3466
 Union,Cranford Twp.,State Senate,21,Democratic,Paul Swanicke,1939
-Union,Garwood Boro,State Senate,21,Republican,"Thomas H.Kean, Jr.",537
+Union,Garwood Boro,State Senate,21,Republican,"Thomas H. Kean, Jr.",537
 Union,Garwood Boro,State Senate,21,Democratic,Paul Swanicke,347
-Union,Kenilworth Boro,State Senate,21,Republican,"Thomas H.Kean, Jr.",1012
+Union,Kenilworth Boro,State Senate,21,Republican,"Thomas H. Kean, Jr.",1012
 Union,Kenilworth Boro,State Senate,21,Democratic,Paul Swanicke,660
-Union,Mountainside Boro,State Senate,21,Republican,"Thomas H.Kean, Jr.",958
+Union,Mountainside Boro,State Senate,21,Republican,"Thomas H. Kean, Jr.",958
 Union,Mountainside Boro,State Senate,21,Democratic,Paul Swanicke,313
-Union,New Providence Boro,State Senate,21,Republican,"Thomas H.Kean, Jr.",1777
+Union,New Providence Boro,State Senate,21,Republican,"Thomas H. Kean, Jr.",1777
 Union,New Providence Boro,State Senate,21,Democratic,Paul Swanicke,657
-Union,Roselle Park Boro,State Senate,21,Republican,"Thomas H.Kean, Jr.",924
+Union,Roselle Park Boro,State Senate,21,Republican,"Thomas H. Kean, Jr.",924
 Union,Roselle Park Boro,State Senate,21,Democratic,Paul Swanicke,696
-Union,Springfield Twp.,State Senate,21,Republican,"Thomas H.Kean, Jr.",1805
+Union,Springfield Twp.,State Senate,21,Republican,"Thomas H. Kean, Jr.",1805
 Union,Springfield Twp.,State Senate,21,Democratic,Paul Swanicke,1199
-Union,Summit City,State Senate,21,Republican,"Thomas H.Kean, Jr.",3219
+Union,Summit City,State Senate,21,Republican,"Thomas H. Kean, Jr.",3219
 Union,Summit City,State Senate,21,Democratic,Paul Swanicke,1656
-Union,Westfield Town,State Senate,21,Republican,"Thomas H.Kean, Jr.",3835
+Union,Westfield Town,State Senate,21,Republican,"Thomas H. Kean, Jr.",3835
 Union,Westfield Town,State Senate,21,Democratic,Paul Swanicke,2078
+Union,Vote By Mail,State Senate,21,Republican,"Thomas H. Kean, Jr.",0
+Union,Vote By Mail,State Senate,21,Democratic,Paul Swanicke,0
+Union,Provisional Ballots,State Senate,21,Republican,"Thomas H. Kean, Jr.",0
+Union,Provisional Ballots,State Senate,21,Democratic,Paul Swanicke,0
 Middlesex,Dunellen Boro,State Senate,22,Democratic,Nicholas Scutari,278
 Middlesex,Dunellen Boro,State Senate,22,Republican,Michael W. Class,388
 Middlesex,Middlesex Boro,State Senate,22,Democratic,Nicholas Scutari,1336
 Middlesex,Middlesex Boro,State Senate,22,Republican,Michael W. Class,1436
+Middlesex,Vote By Mail,State Senate,22,Democratic,Nicholas Scutari,56
+Middlesex,Vote By Mail,State Senate,22,Republican,Michael W. Class,37
+Middlesex,Provisional Ballots,State Senate,22,Democratic,Nicholas Scutari,1
+Middlesex,Provisional Ballots,State Senate,22,Republican,Michael W. Class,0
 Somerset,Green Brook Twp.,State Senate,22,Democratic,Nicholas Scutari,491
 Somerset,Green Brook Twp.,State Senate,22,Republican,Michael W. Class,708
 Somerset,North Plainfield Boro,State Senate,22,Democratic,Nicholas Scutari,930
 Somerset,North Plainfield Boro,State Senate,22,Republican,Michael W. Class,721
+Somerset,Vote By Mail,State Senate,22,Democratic,Nicholas Scutari,0
+Somerset,Vote By Mail,State Senate,22,Republican,Michael W. Class,0
+Somerset,Provisional Ballots,State Senate,22,Democratic,Nicholas Scutari,0
+Somerset,Provisional Ballots,State Senate,22,Republican,Michael W. Class,0
 Union,Clark Twp.,State Senate,22,Democratic,Nicholas Scutari,883
 Union,Clark Twp.,State Senate,22,Republican,Michael W. Class,1203
 Union,Fanwood Boro,State Senate,22,Democratic,Nicholas Scutari,1172
@@ -694,6 +876,10 @@ Union,Scotch Plains Twp.,State Senate,22,Democratic,Nicholas Scutari,1770
 Union,Scotch Plains Twp.,State Senate,22,Republican,Michael W. Class,1815
 Union,Winfield Twp.,State Senate,22,Democratic,Nicholas Scutari,165
 Union,Winfield Twp.,State Senate,22,Republican,Michael W. Class,95
+Union,Vote By Mail,State Senate,22,Democratic,Nicholas Scutari,0
+Union,Vote By Mail,State Senate,22,Republican,Michael W. Class,0
+Union,Provisional Ballots,State Senate,22,Democratic,Nicholas Scutari,0
+Union,Provisional Ballots,State Senate,22,Republican,Michael W. Class,0
 Hunterdon,Alexandria Twp.,State Senate,23,Republican,Michael J. Doherty,518
 Hunterdon,Alexandria Twp.,State Senate,23,Democratic,"John Graf, Jr.",163
 Hunterdon,Alexandria Twp.,State Senate,23,Independent,Daniel Z. Seyler,15
@@ -748,6 +934,12 @@ Hunterdon,Tewksbury Twp.,State Senate,23,Independent,Daniel Z. Seyler,14
 Hunterdon,Union Twp.,State Senate,23,Republican,Michael J. Doherty,532
 Hunterdon,Union Twp.,State Senate,23,Democratic,"John Graf, Jr.",194
 Hunterdon,Union Twp.,State Senate,23,Independent,Daniel Z. Seyler,13
+Hunterdon,Vote By Mail,State Senate,23,Republican,Michael J. Doherty,592
+Hunterdon,Vote By Mail,State Senate,23,Democratic,"John Graf, Jr.",264
+Hunterdon,Vote By Mail,State Senate,23,Independent,Daniel Z. Seyler,32
+Hunterdon,Provisional Ballots,State Senate,23,Republican,Michael J. Doherty,27
+Hunterdon,Provisional Ballots,State Senate,23,Democratic,"John Graf, Jr.",17
+Hunterdon,Provisional Ballots,State Senate,23,Independent,Daniel Z. Seyler,1
 Somerset,Bedminister Twp.,State Senate,23,Republican,Michael J. Doherty,882
 Somerset,Bedminister Twp.,State Senate,23,Democratic,"John Graf, Jr.",635
 Somerset,Bedminister Twp.,State Senate,23,Independent,Daniel Z. Seyler,14
@@ -766,6 +958,12 @@ Somerset,Raritan Boro,State Senate,23,Independent,Daniel Z. Seyler,15
 Somerset,South Bound Brook Boro,State Senate,23,Republican,Michael J. Doherty,365
 Somerset,South Bound Brook Boro,State Senate,23,Democratic,"John Graf, Jr.",334
 Somerset,South Bound Brook Boro,State Senate,23,Independent,Daniel Z. Seyler,13
+Somerset,Vote By Mail,State Senate,23,Republican,Michael J. Doherty,0
+Somerset,Vote By Mail,State Senate,23,Democratic,"John Graf, Jr.",0
+Somerset,Vote By Mail,State Senate,23,Independent,Daniel Z. Seyler,0
+Somerset,Provisional Ballots,State Senate,23,Republican,Michael J. Doherty,0
+Somerset,Provisional Ballots,State Senate,23,Democratic,"John Graf, Jr.",0
+Somerset,Provisional Ballots,State Senate,23,Independent,Daniel Z. Seyler,0
 Warren,Alpha Boro,State Senate,23,Republican,Michael J. Doherty,251
 Warren,Alpha Boro,State Senate,23,Democratic,"John Graf, Jr.",228
 Warren,Alpha Boro,State Senate,23,Independent,Daniel Z. Seyler,21
@@ -799,8 +997,18 @@ Warren,Washington Boro,State Senate,23,Independent,Daniel Z. Seyler,28
 Warren,Washington Twp.,State Senate,23,Republican,Michael J. Doherty,526
 Warren,Washington Twp.,State Senate,23,Democratic,"John Graf, Jr.",239
 Warren,Washington Twp.,State Senate,23,Independent,Daniel Z. Seyler,42
+Warren,Vote By Mail,State Senate,23,Republican,Michael J. Doherty,0
+Warren,Vote By Mail,State Senate,23,Democratic,"John Graf, Jr.",0
+Warren,Vote By Mail,State Senate,23,Independent,Daniel Z. Seyler,0
+Warren,Provisional Ballots,State Senate,23,Republican,Michael J. Doherty,0
+Warren,Provisional Ballots,State Senate,23,Democratic,"John Graf, Jr.",0
+Warren,Provisional Ballots,State Senate,23,Independent,Daniel Z. Seyler,0
 Morris,Mount Olive Twp.,State Senate,24,Republican,Steven V. Oroho,2281
 Morris,Mount Olive Twp.,State Senate,24,Democratic,Edwin Selby,1138
+Morris,Vote By Mail,State Senate,24,Republican,Steven V. Oroho,0
+Morris,Vote By Mail,State Senate,24,Democratic,Edwin Selby,0
+Morris,Provisional Ballots,State Senate,24,Republican,Steven V. Oroho,0
+Morris,Provisional Ballots,State Senate,24,Democratic,Edwin Selby,0
 Sussex,Andover Boro,State Senate,24,Republican,Steven V. Oroho,72
 Sussex,Andover Boro,State Senate,24,Democratic,Edwin Selby,57
 Sussex,Andover Twp.,State Senate,24,Republican,Steven V. Oroho,561
@@ -849,6 +1057,10 @@ Sussex,Walpack Twp.,State Senate,24,Republican,Steven V. Oroho,11
 Sussex,Walpack Twp.,State Senate,24,Democratic,Edwin Selby,1
 Sussex,Wantage Twp.,State Senate,24,Republican,Steven V. Oroho,1138
 Sussex,Wantage Twp.,State Senate,24,Democratic,Edwin Selby,691
+Sussex,Vote By Mail,State Senate,24,Republican,Steven V. Oroho,0
+Sussex,Vote By Mail,State Senate,24,Democratic,Edwin Selby,0
+Sussex,Provisional Ballots,State Senate,24,Republican,Steven V. Oroho,0
+Sussex,Provisional Ballots,State Senate,24,Democratic,Edwin Selby,0
 Warren,Allamuchy Twp.,State Senate,24,Republican,Steven V. Oroho,398
 Warren,Allamuchy Twp.,State Senate,24,Democratic,Edwin Selby,139
 Warren,Belvidere Town,State Senate,24,Republican,Steven V. Oroho,322
@@ -871,8 +1083,16 @@ Warren,Oxford Twp.,State Senate,24,Republican,Steven V. Oroho,269
 Warren,Oxford Twp.,State Senate,24,Democratic,Edwin Selby,149
 Warren,White Twp.,State Senate,24,Republican,Steven V. Oroho,629
 Warren,White Twp.,State Senate,24,Democratic,Edwin Selby,217
+Warren,Vote By Mail,State Senate,24,Republican,Steven V. Oroho,0
+Warren,Vote By Mail,State Senate,24,Democratic,Edwin Selby,0
+Warren,Provisional Ballots,State Senate,24,Republican,Steven V. Oroho,0
+Warren,Provisional Ballots,State Senate,24,Democratic,Edwin Selby,0
 Somerset,Bernardsville Boro,State Senate,25,"Republicang""","Anthony ""Tony"" Bucco",1112
 Somerset,Bernardsville Boro,State Senate,25,Democratic,Rick Thoeni,498
+Somerset,Vote By Mail,State Senate,25,"Republicang""","Anthony ""Tony"" Bucco",84
+Somerset,Vote By Mail,State Senate,25,Democratic,Rick Thoeni,33
+Somerset,Provisional Ballots,State Senate,25,"Republicang""","Anthony ""Tony"" Bucco",5
+Somerset,Provisional Ballots,State Senate,25,Democratic,Rick Thoeni,6
 Morris,Boonton Town,State Senate,25,"Republicang""","Anthony ""Tony"" Bucco",689
 Morris,Boonton Town,State Senate,25,Democratic,Rick Thoeni,404
 Morris,Boonton Twp.,State Senate,25,"Republicang""","Anthony ""Tony"" Bucco",484
@@ -913,6 +1133,10 @@ Morris,Washington Twp.,State Senate,25,"Republicang""","Anthony ""Tony"" Bucco",
 Morris,Washington Twp.,State Senate,25,Democratic,Rick Thoeni,932
 Morris,Wharton Boro,State Senate,25,"Republicang""","Anthony ""Tony"" Bucco",367
 Morris,Wharton Boro,State Senate,25,Democratic,Rick Thoeni,302
+Morris,Vote By Mail,State Senate,25,"Republicang""","Anthony ""Tony"" Bucco",0
+Morris,Vote By Mail,State Senate,25,Democratic,Rick Thoeni,0
+Morris,Provisional Ballots,State Senate,25,"Republicang""","Anthony ""Tony"" Bucco",0
+Morris,Provisional Ballots,State Senate,25,Democratic,Rick Thoeni,0
 Essex,Fairfield Twp.,State Senate,26,Republican,Joe Pennacchio,773
 Essex,Fairfield Twp.,State Senate,26,Democratic,Wasim Khan,240
 Essex,Fairfield Twp.,State Senate,26,Independent,Joseph Scafa,17
@@ -925,6 +1149,12 @@ Essex,Verona Twp.,State Senate,26,Independent,Joseph Scafa,51
 Essex,West Caldwell Twp.,State Senate,26,Republican,Joe Pennacchio,1113
 Essex,West Caldwell Twp.,State Senate,26,Democratic,Wasim Khan,697
 Essex,West Caldwell Twp.,State Senate,26,Independent,Joseph Scafa,23
+Essex,Vote By Mail,State Senate,26,Republican,Joe Pennacchio,0
+Essex,Vote By Mail,State Senate,26,Democratic,Wasim Khan,0
+Essex,Vote By Mail,State Senate,26,Independent,Joseph Scafa,0
+Essex,Provisional Ballots,State Senate,26,Republican,Joe Pennacchio,0
+Essex,Provisional Ballots,State Senate,26,Democratic,Wasim Khan,0
+Essex,Provisional Ballots,State Senate,26,Independent,Joseph Scafa,0
 Morris,Butler Boro,State Senate,26,Republican,Joe Pennacchio,532
 Morris,Butler Boro,State Senate,26,Democratic,Wasim Khan,227
 Morris,Butler Boro,State Senate,26,Independent,Joseph Scafa,22
@@ -949,9 +1179,21 @@ Morris,Parsippany-Troy Hills Twp.,State Senate,26,Independent,Joseph Scafa,174
 Morris,Rockaway Twp.,State Senate,26,Republican,Joe Pennacchio,2431
 Morris,Rockaway Twp.,State Senate,26,Democratic,Wasim Khan,1138
 Morris,Rockaway Twp.,State Senate,26,Independent,Joseph Scafa,211
+Morris,Vote By Mail,State Senate,26,Republican,Joe Pennacchio,0
+Morris,Vote By Mail,State Senate,26,Democratic,Wasim Khan,0
+Morris,Vote By Mail,State Senate,26,Independent,Joseph Scafa,0
+Morris,Provisional Ballots,State Senate,26,Republican,Joe Pennacchio,0
+Morris,Provisional Ballots,State Senate,26,Democratic,Wasim Khan,0
+Morris,Provisional Ballots,State Senate,26,Independent,Joseph Scafa,0
 Passaic,West Milford Twp.,State Senate,26,Republican,Joe Pennacchio,3375
 Passaic,West Milford Twp.,State Senate,26,Democratic,Wasim Khan,2061
 Passaic,West Milford Twp.,State Senate,26,Independent,Joseph Scafa,148
+Passaic,Vote By Mail,State Senate,26,Republican,Joe Pennacchio,0
+Passaic,Vote By Mail,State Senate,26,Democratic,Wasim Khan,0
+Passaic,Vote By Mail,State Senate,26,Independent,Joseph Scafa,0
+Passaic,Provisional Ballots,State Senate,26,Republican,Joe Pennacchio,0
+Passaic,Provisional Ballots,State Senate,26,Democratic,Wasim Khan,0
+Passaic,Provisional Ballots,State Senate,26,Independent,Joseph Scafa,0
 Essex,Caldwell Boro,State Senate,27,Democratic,Richard J. Codey,1030
 Essex,Caldwell Boro,State Senate,27,Republican,William H. Eames,662
 Essex,Essex Fells Boro,State Senate,27,Democratic,Richard J. Codey,181
@@ -968,6 +1210,10 @@ Essex,South Orange Village Twp.,State Senate,27,Democratic,Richard J. Codey,2966
 Essex,South Orange Village Twp.,State Senate,27,Republican,William H. Eames,475
 Essex,West Orange Twp.,State Senate,27,Democratic,Richard J. Codey,6019
 Essex,West Orange Twp.,State Senate,27,Republican,William H. Eames,2053
+Essex,Vote By Mail,State Senate,27,Democratic,Richard J. Codey,0
+Essex,Vote By Mail,State Senate,27,Republican,William H. Eames,0
+Essex,Provisional Ballots,State Senate,27,Democratic,Richard J. Codey,0
+Essex,Provisional Ballots,State Senate,27,Republican,William H. Eames,0
 Morris,Chatham Twp.,State Senate,27,Democratic,Richard J. Codey,910
 Morris,Chatham Twp.,State Senate,27,Republican,William H. Eames,1193
 Morris,East Hanover Twp.,State Senate,27,Democratic,Richard J. Codey,1651
@@ -980,6 +1226,10 @@ Morris,Harding Twp.,State Senate,27,Democratic,Richard J. Codey,300
 Morris,Harding Twp.,State Senate,27,Republican,William H. Eames,680
 Morris,Madison Boro,State Senate,27,Democratic,Richard J. Codey,2080
 Morris,Madison Boro,State Senate,27,Republican,William H. Eames,1807
+Morris,Vote By Mail,State Senate,27,Democratic,Richard J. Codey,0
+Morris,Vote By Mail,State Senate,27,Republican,William H. Eames,0
+Morris,Provisional Ballots,State Senate,27,Democratic,Richard J. Codey,0
+Morris,Provisional Ballots,State Senate,27,Republican,William H. Eames,0
 Essex,Bloomfield Twp.,State Senate,28,Democratic,Ronald L. Rice,3323
 Essex,Bloomfield Twp.,State Senate,28,Republican,Russell Mollica,2156
 Essex,Glen Ridge Boro,State Senate,28,Democratic,Ronald L. Rice,619
@@ -990,12 +1240,22 @@ Essex,Newark City,State Senate,28,Democratic,Ronald L. Rice,5940
 Essex,Newark City,State Senate,28,Republican,Russell Mollica,121
 Essex,Nutley Twp.,State Senate,28,Democratic,Ronald L. Rice,1655
 Essex,Nutley Twp.,State Senate,28,Republican,Russell Mollica,1687
+Essex,Vote By Mail,State Senate,28,Democratic,Ronald L. Rice,0
+Essex,Vote By Mail,State Senate,28,Republican,Russell Mollica,0
+Essex,Provisional Ballots,State Senate,28,Democratic,Ronald L. Rice,0
+Essex,Provisional Ballots,State Senate,28,Republican,Russell Mollica,0
 Essex,Belleville Twp.,State Senate,29,Democratic,M. Teresa Ruiz,1456
 Essex,Belleville Twp.,State Senate,29,Republican,Aracelis Sanabria Tejada,889
 Essex,Belleville Twp.,State Senate,29,Indpendent,Laurie J. Taylor,102
 Essex,Newark City,State Senate,29,Democratic,M. Teresa Ruiz,7620
 Essex,Newark City,State Senate,29,Republican,Aracelis Sanabria Tejada,709
 Essex,Newark City,State Senate,29,Indpendent,Laurie J. Taylor,261
+Essex,Vote By Mail,State Senate,29,Democratic,M. Teresa Ruiz,0
+Essex,Vote By Mail,State Senate,29,Republican,Aracelis Sanabria Tejada,0
+Essex,Vote By Mail,State Senate,29,Indpendent,Laurie J. Taylor,0
+Essex,Provisional Ballots,State Senate,29,Democratic,M. Teresa Ruiz,0
+Essex,Provisional Ballots,State Senate,29,Republican,Aracelis Sanabria Tejada,0
+Essex,Provisional Ballots,State Senate,29,Indpendent,Laurie J. Taylor,0
 Monmouth,Avon-by-the-Sea Boro,State Senate,30,Republican,Robert W. Singer,319
 Monmouth,Avon-by-the-Sea Boro,State Senate,30,Democratic,Steve Morlino,166
 Monmouth,Belmar Boro,State Senate,30,Republican,Robert W. Singer,691
@@ -1020,22 +1280,42 @@ Monmouth,Spring Lake Heights Boro,State Senate,30,Republican,Robert W. Singer,87
 Monmouth,Spring Lake Heights Boro,State Senate,30,Democratic,Steve Morlino,588
 Monmouth,Wall Twp.,State Senate,30,Republican,Robert W. Singer,3616
 Monmouth,Wall Twp.,State Senate,30,Democratic,Steve Morlino,1718
+Monmouth,Vote By Mail,State Senate,30,Republican,Robert W. Singer,0
+Monmouth,Vote By Mail,State Senate,30,Democratic,Steve Morlino,0
+Monmouth,Provisional Ballots,State Senate,30,Republican,Robert W. Singer,0
+Monmouth,Provisional Ballots,State Senate,30,Democratic,Steve Morlino,0
 Ocean,Lakewood Twp.,State Senate,30,Republican,Robert W. Singer,6678
 Ocean,Lakewood Twp.,State Senate,30,Democratic,Steve Morlino,2259
 Ocean,Point Pleasant Boro,State Senate,30,Republican,Robert W. Singer,2270
 Ocean,Point Pleasant Boro,State Senate,30,Democratic,Steve Morlino,1674
+Ocean,Vote By Mail,State Senate,30,Republican,Robert W. Singer,0
+Ocean,Vote By Mail,State Senate,30,Democratic,Steve Morlino,0
+Ocean,Provisional Ballots,State Senate,30,Republican,Robert W. Singer,0
+Ocean,Provisional Ballots,State Senate,30,Democratic,Steve Morlino,0
 Hudson,Bayonne City,State Senate,31,Democratic,Sandra Bolden Cunningham,3508
 Hudson,Bayonne City,State Senate,31,Republican,Donnamarie James,1458
 Hudson,Bayonne City,State Senate,31,Independent,Louis Vernotico,107
 Hudson,Jersey City,State Senate,31,Democratic,Sandra Bolden Cunningham,9767
 Hudson,Jersey City,State Senate,31,Republican,Donnamarie James,1378
 Hudson,Jersey City,State Senate,31,Independent,Louis Vernotico,213
+Hudson,Vote By Mail,State Senate,31,Democratic,Sandra Bolden Cunningham,0
+Hudson,Vote By Mail,State Senate,31,Republican,Donnamarie James,0
+Hudson,Vote By Mail,State Senate,31,Independent,Louis Vernotico,0
+Hudson,Provisional Ballots,State Senate,31,Democratic,Sandra Bolden Cunningham,0
+Hudson,Provisional Ballots,State Senate,31,Republican,Donnamarie James,0
+Hudson,Provisional Ballots,State Senate,31,Independent,Louis Vernotico,0
 Bergen,Edgewater Boro,State Senate,32,Democratic,Nicholas J. Sacco,643
 Bergen,Edgewater Boro,State Senate,32,Republican,Edward T. O'Neill,242
 Bergen,Edgewater Boro,State Senate,32,Independent,Herbert H. Shaw,34
 Bergen,Fairview Boro,State Senate,32,Democratic,Nicholas J. Sacco,1025
 Bergen,Fairview Boro,State Senate,32,Republican,Edward T. O'Neill,259
 Bergen,Fairview Boro,State Senate,32,Independent,Herbert H. Shaw,27
+Bergen,Vote By Mail,State Senate,32,Democratic,Nicholas J. Sacco,0
+Bergen,Vote By Mail,State Senate,32,Republican,Edward T. O'Neill,0
+Bergen,Vote By Mail,State Senate,32,Independent,Herbert H. Shaw,0
+Bergen,Provisional Ballots,State Senate,32,Democratic,Nicholas J. Sacco,0
+Bergen,Provisional Ballots,State Senate,32,Republican,Edward T. O'Neill,0
+Bergen,Provisional Ballots,State Senate,32,Independent,Herbert H. Shaw,0
 Hudson,East Newark Boro,State Senate,32,Democratic,Nicholas J. Sacco,113
 Hudson,East Newark Boro,State Senate,32,Republican,Edward T. O'Neill,6
 Hudson,East Newark Boro,State Senate,32,Independent,Herbert H. Shaw,4
@@ -1057,6 +1337,12 @@ Hudson,Secaucus Town,State Senate,32,Independent,Herbert H. Shaw,93
 Hudson,West New York Town,State Senate,32,Democratic,Nicholas J. Sacco,2042
 Hudson,West New York Town,State Senate,32,Republican,Edward T. O'Neill,433
 Hudson,West New York Town,State Senate,32,Independent,Herbert H. Shaw,64
+Hudson,Vote By Mail,State Senate,32,Democratic,Nicholas J. Sacco,0
+Hudson,Vote By Mail,State Senate,32,Republican,Edward T. O'Neill,0
+Hudson,Vote By Mail,State Senate,32,Independent,Herbert H. Shaw,0
+Hudson,Provisional Ballots,State Senate,32,Democratic,Nicholas J. Sacco,0
+Hudson,Provisional Ballots,State Senate,32,Republican,Edward T. O'Neill,0
+Hudson,Provisional Ballots,State Senate,32,Independent,Herbert H. Shaw,0
 Hudson,Hoboken City,State Senate,33,Democratic,Brian P. Stack,4089
 Hudson,Hoboken City,State Senate,33,Republican,Beth Hamburger,1364
 Hudson,Jersey City,State Senate,33,Democratic,Brian P. Stack,5329
@@ -1065,18 +1351,34 @@ Hudson,Union City,State Senate,33,Democratic,Brian P. Stack,9518
 Hudson,Union City,State Senate,33,Republican,Beth Hamburger,587
 Hudson,Weehawken Twp.,State Senate,33,Democratic,Brian P. Stack,1287
 Hudson,Weehawken Twp.,State Senate,33,Republican,Beth Hamburger,246
+Hudson,Vote By Mail,State Senate,33,Democratic,Brian P. Stack,0
+Hudson,Vote By Mail,State Senate,33,Republican,Beth Hamburger,0
+Hudson,Provisional Ballots,State Senate,33,Democratic,Brian P. Stack,0
+Hudson,Provisional Ballots,State Senate,33,Republican,Beth Hamburger,0
 Essex,City of Orange Twp.,State Senate,34,Democratic,Nia H. Gill,2157
 Essex,City of Orange Twp.,State Senate,34,Republican,Ralph Bartnik,89
 Essex,East Orange City,State Senate,34,Democratic,Nia H. Gill,5516
 Essex,East Orange City,State Senate,34,Republican,Ralph Bartnik,127
 Essex,Montclair Twp.,State Senate,34,Democratic,Nia H. Gill,4961
 Essex,Montclair Twp.,State Senate,34,Republican,Ralph Bartnik,991
+Essex,Vote By Mail,State Senate,34,Democratic,Nia H. Gill,0
+Essex,Vote By Mail,State Senate,34,Republican,Ralph Bartnik,0
+Essex,Provisional Ballots,State Senate,34,Democratic,Nia H. Gill,0
+Essex,Provisional Ballots,State Senate,34,Republican,Ralph Bartnik,0
 Passaic,Clifton City,State Senate,34,Democratic,Nia H. Gill,4484
 Passaic,Clifton City,State Senate,34,Republican,Ralph Bartnik,3179
+Passaic,Vote By Mail,State Senate,34,Democratic,Nia H. Gill,0
+Passaic,Vote By Mail,State Senate,34,Republican,Ralph Bartnik,0
+Passaic,Provisional Ballots,State Senate,34,Democratic,Nia H. Gill,0
+Passaic,Provisional Ballots,State Senate,34,Republican,Ralph Bartnik,0
 Bergen,Elmwood Park Boro,State Senate,35,Democratic,Nellie Pou,1446
 Bergen,Elmwood Park Boro,State Senate,35,Republican,Ken Pentigore,1734
 Bergen,Garfield City,State Senate,35,Democratic,Nellie Pou,1167
 Bergen,Garfield City,State Senate,35,Republican,Ken Pentigore,689
+Bergen,Vote By Mail,State Senate,35,Democratic,Nellie Pou,0
+Bergen,Vote By Mail,State Senate,35,Republican,Ken Pentigore,0
+Bergen,Provisional Ballots,State Senate,35,Democratic,Nellie Pou,0
+Bergen,Provisional Ballots,State Senate,35,Republican,Ken Pentigore,0
 Passaic,Haledon Boro,State Senate,35,Democratic,Nellie Pou,559
 Passaic,Haledon Boro,State Senate,35,Republican,Ken Pentigore,406
 Passaic,North Haledon Boro,State Senate,35,Democratic,Nellie Pou,560
@@ -1085,6 +1387,10 @@ Passaic,Paterson City,State Senate,35,Democratic,Nellie Pou,10185
 Passaic,Paterson City,State Senate,35,Republican,Ken Pentigore,851
 Passaic,Prospect Park Boro,State Senate,35,Democratic,Nellie Pou,469
 Passaic,Prospect Park Boro,State Senate,35,Republican,Ken Pentigore,162
+Passaic,Vote By Mail,State Senate,35,Democratic,Nellie Pou,0
+Passaic,Vote By Mail,State Senate,35,Republican,Ken Pentigore,0
+Passaic,Provisional Ballots,State Senate,35,Democratic,Nellie Pou,0
+Passaic,Provisional Ballots,State Senate,35,Republican,Ken Pentigore,0
 Bergen,Carlstadt Boro,State Senate,36,Democratic,Paul A. Sarlo,977
 Bergen,Carlstadt Boro,State Senate,36,Republican,Donald E. DiOrio,786
 Bergen,Cliffside Park Boro,State Senate,36,Democratic,Paul A. Sarlo,2184
@@ -1113,8 +1419,16 @@ Bergen,Wallington Boro,State Senate,36,Democratic,Paul A. Sarlo,1116
 Bergen,Wallington Boro,State Senate,36,Republican,Donald E. DiOrio,854
 Bergen,Wood-Ridge Boro,State Senate,36,Democratic,Paul A. Sarlo,1202
 Bergen,Wood-Ridge Boro,State Senate,36,Republican,Donald E. DiOrio,529
+Bergen,Vote By Mail,State Senate,36,Democratic,Paul A. Sarlo,0
+Bergen,Vote By Mail,State Senate,36,Republican,Donald E. DiOrio,0
+Bergen,Provisional Ballots,State Senate,36,Democratic,Paul A. Sarlo,0
+Bergen,Provisional Ballots,State Senate,36,Republican,Donald E. DiOrio,0
 Passaic,Passaic City,State Senate,36,Democratic,Paul A. Sarlo,2972
 Passaic,Passaic City,State Senate,36,Republican,Donald E. DiOrio,893
+Passaic,Vote By Mail,State Senate,36,Democratic,Paul A. Sarlo,0
+Passaic,Vote By Mail,State Senate,36,Republican,Donald E. DiOrio,0
+Passaic,Provisional Ballots,State Senate,36,Democratic,Paul A. Sarlo,0
+Passaic,Provisional Ballots,State Senate,36,Republican,Donald E. DiOrio,0
 Bergen,Alpine Boro,State Senate,37,Democratic,Loretta Weinberg,140
 Bergen,Alpine Boro,State Senate,37,Republican,Robert S. Lebovics,159
 Bergen,Bogota Boro,State Senate,37,Democratic,Loretta Weinberg,1048
@@ -1141,6 +1455,10 @@ Bergen,Teaneck Twp.,State Senate,37,Democratic,Loretta Weinberg,5399
 Bergen,Teaneck Twp.,State Senate,37,Republican,Robert S. Lebovics,1535
 Bergen,Tenafly Boro,State Senate,37,Democratic,Loretta Weinberg,2068
 Bergen,Tenafly Boro,State Senate,37,Republican,Robert S. Lebovics,1101
+Bergen,Vote By Mail,State Senate,37,Democratic,Loretta Weinberg,0
+Bergen,Vote By Mail,State Senate,37,Republican,Robert S. Lebovics,0
+Bergen,Provisional Ballots,State Senate,37,Democratic,Loretta Weinberg,0
+Bergen,Provisional Ballots,State Senate,37,Republican,Robert S. Lebovics,0
 Bergen,Bergenfield Boro,State Senate,38,Democratic,Robert M. Gordon,2399
 Bergen,Bergenfield Boro,State Senate,38,Republican,"John J. Driscoll, Jr.",1540
 Bergen,Fair Lawn Boro,State Senate,38,Democratic,Robert M. Gordon,4437
@@ -1165,8 +1483,16 @@ Bergen,Rochelle Park Twp.,State Senate,38,Democratic,Robert M. Gordon,434
 Bergen,Rochelle Park Twp.,State Senate,38,Republican,"John J. Driscoll, Jr.",525
 Bergen,Saddle Brook Twp.,State Senate,38,Democratic,Robert M. Gordon,1153
 Bergen,Saddle Brook Twp.,State Senate,38,Republican,"John J. Driscoll, Jr.",1064
+Bergen,Vote By Mail,State Senate,38,Democratic,Robert M. Gordon,0
+Bergen,Vote By Mail,State Senate,38,Republican,"John J. Driscoll, Jr.",0
+Bergen,Provisional Ballots,State Senate,38,Democratic,Robert M. Gordon,0
+Bergen,Provisional Ballots,State Senate,38,Republican,"John J. Driscoll, Jr.",0
 Passaic,Hawthorne Boro,State Senate,38,Democratic,Robert M. Gordon,1586
 Passaic,Hawthorne Boro,State Senate,38,Republican,"John J. Driscoll, Jr.",1914
+Passaic,Vote By Mail,State Senate,38,Democratic,Robert M. Gordon,0
+Passaic,Vote By Mail,State Senate,38,Republican,"John J. Driscoll, Jr.",0
+Passaic,Provisional Ballots,State Senate,38,Democratic,Robert M. Gordon,0
+Passaic,Provisional Ballots,State Senate,38,Republican,"John J. Driscoll, Jr.",0
 Bergen,Closter Boro,State Senate,39,Republican,Gerald Cardinale,590
 Bergen,Closter Boro,State Senate,39,Democratic,Lorraine M. Waldes,416
 Bergen,Demarest Boro,State Senate,39,Republican,Gerald Cardinale,667
@@ -1207,12 +1533,20 @@ Bergen,Westwood Boro,State Senate,39,Republican,Gerald Cardinale,1511
 Bergen,Westwood Boro,State Senate,39,Democratic,Lorraine M. Waldes,990
 Bergen,Woodcliff Lake Boro,State Senate,39,Republican,Gerald Cardinale,907
 Bergen,Woodcliff Lake Boro,State Senate,39,Democratic,Lorraine M. Waldes,596
+Bergen,Vote By Mail,State Senate,39,Republican,Gerald Cardinale,0
+Bergen,Vote By Mail,State Senate,39,Democratic,Lorraine M. Waldes,0
+Bergen,Provisional Ballots,State Senate,39,Republican,Gerald Cardinale,0
+Bergen,Provisional Ballots,State Senate,39,Democratic,Lorraine M. Waldes,0
 Passaic,Bloomingdale Boro,State Senate,39,Republican,Gerald Cardinale,973
 Passaic,Bloomingdale Boro,State Senate,39,Democratic,Lorraine M. Waldes,834
 Passaic,Ringwood Boro,State Senate,39,Republican,Gerald Cardinale,1123
 Passaic,Ringwood Boro,State Senate,39,Democratic,Lorraine M. Waldes,560
 Passaic,Wanaque Boro,State Senate,39,Republican,Gerald Cardinale,803
 Passaic,Wanaque Boro,State Senate,39,Democratic,Lorraine M. Waldes,522
+Passaic,Vote By Mail,State Senate,39,Republican,Gerald Cardinale,0
+Passaic,Vote By Mail,State Senate,39,Democratic,Lorraine M. Waldes,0
+Passaic,Provisional Ballots,State Senate,39,Republican,Gerald Cardinale,0
+Passaic,Provisional Ballots,State Senate,39,Democratic,Lorraine M. Waldes,0
 Bergen,Allendale Boro,State Senate,40,Republican,Kevin J. O'Toole,694
 Bergen,Allendale Boro,State Senate,40,Democratic,John Zunic,283
 Bergen,Franklin Lakes Boro,State Senate,40,Republican,Kevin J. O'Toole,1170
@@ -1227,12 +1561,24 @@ Bergen,Wldwick Boro,State Senate,40,Republican,Kevin J. O'Toole,1105
 Bergen,Wldwick Boro,State Senate,40,Democratic,John Zunic,704
 Bergen,Wyckoff Twp.,State Senate,40,Republican,Kevin J. O'Toole,2616
 Bergen,Wyckoff Twp.,State Senate,40,Democratic,John Zunic,1220
+Bergen,Vote By Mail,State Senate,40,Republican,Kevin J. O'Toole,0
+Bergen,Vote By Mail,State Senate,40,Democratic,John Zunic,0
+Bergen,Provisional Ballots,State Senate,40,Republican,Kevin J. O'Toole,0
+Bergen,Provisional Ballots,State Senate,40,Democratic,John Zunic,0
 Essex,Cedar Grove Twp.,State Senate,40,Republican,Kevin J. O'Toole,1485
 Essex,Cedar Grove Twp.,State Senate,40,Democratic,John Zunic,745
+Essex,Vote By Mail,State Senate,40,Republican,Kevin J. O'Toole,0
+Essex,Vote By Mail,State Senate,40,Democratic,John Zunic,0
+Essex,Provisional Ballots,State Senate,40,Republican,Kevin J. O'Toole,0
+Essex,Provisional Ballots,State Senate,40,Democratic,John Zunic,0
 Morris,Peaquannock Twp.,State Senate,40,Republican,Kevin J. O'Toole,1481
 Morris,Peaquannock Twp.,State Senate,40,Democratic,John Zunic,930
 Morris,Riverdale Boro,State Senate,40,Republican,Kevin J. O'Toole,608
 Morris,Riverdale Boro,State Senate,40,Democratic,John Zunic,243
+Morris,Vote By Mail,State Senate,40,Republican,Kevin J. O'Toole,0
+Morris,Vote By Mail,State Senate,40,Democratic,John Zunic,0
+Morris,Provisional Ballots,State Senate,40,Republican,Kevin J. O'Toole,0
+Morris,Provisional Ballots,State Senate,40,Democratic,John Zunic,0
 Passaic,Little Falls Twp.,State Senate,40,Republican,Kevin J. O'Toole,1074
 Passaic,Little Falls Twp.,State Senate,40,Democratic,John Zunic,746
 Passaic,Pompton Lakes Boro,State Senate,40,Republican,Kevin J. O'Toole,1233
@@ -1243,6 +1589,10 @@ Passaic,Wayne Twp.,State Senate,40,Republican,Kevin J. O'Toole,5352
 Passaic,Wayne Twp.,State Senate,40,Democratic,John Zunic,3212
 Passaic,Woodland Park Boro,State Senate,40,Republican,Kevin J. O'Toole,1336
 Passaic,Woodland Park Boro,State Senate,40,Democratic,John Zunic,1535
+Passaic,Vote By Mail,State Senate,40,Republican,Kevin J. O'Toole,0
+Passaic,Vote By Mail,State Senate,40,Democratic,John Zunic,0
+Passaic,Provisional Ballots,State Senate,40,Republican,Kevin J. O'Toole,0
+Passaic,Provisional Ballots,State Senate,40,Democratic,John Zunic,0
 Atlantic,Corbin City,General Assembly,1,Democratic,Nelson Albano,54
 Atlantic,Corbin City,General Assembly,1,Democratic,Matthew Milam,51
 Atlantic,Corbin City,General Assembly,1,Republican,Samuel Fiocchi,80
@@ -1255,6 +1605,14 @@ Atlantic,Weymouth,General Assembly,1,Democratic,Nelson Albano,431
 Atlantic,Weymouth,General Assembly,1,Democratic,Matthew Milam,392
 Atlantic,Weymouth,General Assembly,1,Republican,Samuel Fiocchi,364
 Atlantic,Weymouth,General Assembly,1,Republican,Suzanne M. Walters,359
+Atlantic,Vote By Mail,General Assembly,1,Democratic,Nelson Albano,36
+Atlantic,Vote By Mail,General Assembly,1,Democratic,Matthew Milam,30
+Atlantic,Vote By Mail,General Assembly,1,Republican,Samuel Fiocchi,49
+Atlantic,Vote By Mail,General Assembly,1,Republican,Suzanne M. Walters,47
+Atlantic,Provisional Ballots,General Assembly,1,Democratic,Nelson Albano,2
+Atlantic,Provisional Ballots,General Assembly,1,Democratic,Matthew Milam,1
+Atlantic,Provisional Ballots,General Assembly,1,Republican,Samuel Fiocchi,3
+Atlantic,Provisional Ballots,General Assembly,1,Republican,Suzanne M. Walters,4
 Cape May,Avalon Boro,General Assembly,1,Democratic,Nelson Albano,188
 Cape May,Avalon Boro,General Assembly,1,Democratic,Matthew Milam,195
 Cape May,Avalon Boro,General Assembly,1,Republican,Samuel Fiocchi,411
@@ -1319,6 +1677,14 @@ Cape May,Woodbine Boro,General Assembly,1,Democratic,Nelson Albano,356
 Cape May,Woodbine Boro,General Assembly,1,Democratic,Matthew Milam,305
 Cape May,Woodbine Boro,General Assembly,1,Republican,Samuel Fiocchi,157
 Cape May,Woodbine Boro,General Assembly,1,Republican,Suzanne M. Walters,175
+Cape May,Vote By Mail,General Assembly,1,Democratic,Nelson Albano,0
+Cape May,Vote By Mail,General Assembly,1,Democratic,Matthew Milam,0
+Cape May,Vote By Mail,General Assembly,1,Republican,Samuel Fiocchi,0
+Cape May,Vote By Mail,General Assembly,1,Republican,Suzanne M. Walters,0
+Cape May,Provisional Ballots,General Assembly,1,Democratic,Nelson Albano,0
+Cape May,Provisional Ballots,General Assembly,1,Democratic,Matthew Milam,0
+Cape May,Provisional Ballots,General Assembly,1,Republican,Samuel Fiocchi,0
+Cape May,Provisional Ballots,General Assembly,1,Republican,Suzanne M. Walters,0
 Cumberland,Commercial Twp.,General Assembly,1,Democratic,Nelson Albano,583
 Cumberland,Commercial Twp.,General Assembly,1,Democratic,Matthew Milam,550
 Cumberland,Commercial Twp.,General Assembly,1,Republican,Samuel Fiocchi,312
@@ -1363,74 +1729,90 @@ Cumberland,Vineland City,General Assembly,1,Democratic,Nelson Albano,5924
 Cumberland,Vineland City,General Assembly,1,Democratic,Matthew Milam,5264
 Cumberland,Vineland City,General Assembly,1,Republican,Samuel Fiocchi,3700
 Cumberland,Vineland City,General Assembly,1,Republican,Suzanne M. Walters,3232
+Cumberland,Vote By Mail,General Assembly,1,Democratic,Nelson Albano,0
+Cumberland,Vote By Mail,General Assembly,1,Democratic,Matthew Milam,0
+Cumberland,Vote By Mail,General Assembly,1,Republican,Samuel Fiocchi,0
+Cumberland,Vote By Mail,General Assembly,1,Republican,Suzanne M. Walters,0
+Cumberland,Provisional Ballots,General Assembly,1,Democratic,Nelson Albano,0
+Cumberland,Provisional Ballots,General Assembly,1,Democratic,Matthew Milam,0
+Cumberland,Provisional Ballots,General Assembly,1,Republican,Samuel Fiocchi,0
+Cumberland,Provisional Ballots,General Assembly,1,Republican,Suzanne M. Walters,0
 Atlantic,Absecon City,General Assembly,2,Republican,John F. Amodeo,1473
-Atlantic,Absecon City,General Assembly,2,Republican,Chris Brown,1305 744
-Atlantic,Absecon City,General Assembly,2,Democratic,Alisa Cooper,0
+Atlantic,Absecon City,General Assembly,2,Republican,Chris Brown,1305
+Atlantic,Absecon City,General Assembly,2,Democratic,Alisa Cooper,744
 Atlantic,Absecon City,General Assembly,2,Democratic,Damon Tyner,901
 Atlantic,Atlantic City,General Assembly,2,Republican,John F. Amodeo,1288
-Atlantic,Atlantic City,General Assembly,2,Republican,Chris Brown,1193 3061
-Atlantic,Atlantic City,General Assembly,2,Democratic,Alisa Cooper,0
+Atlantic,Atlantic City,General Assembly,2,Republican,Chris Brown,1193
+Atlantic,Atlantic City,General Assembly,2,Democratic,Alisa Cooper,3061
 Atlantic,Atlantic City,General Assembly,2,Democratic,Damon Tyner,3392
 Atlantic,Brigantine City,General Assembly,2,Republican,John F. Amodeo,1739
-Atlantic,Brigantine City,General Assembly,2,Republican,Chris Brown,1637 831
-Atlantic,Brigantine City,General Assembly,2,Democratic,Alisa Cooper,0
+Atlantic,Brigantine City,General Assembly,2,Republican,Chris Brown,1637
+Atlantic,Brigantine City,General Assembly,2,Democratic,Alisa Cooper,831
 Atlantic,Brigantine City,General Assembly,2,Democratic,Damon Tyner,907
 Atlantic,Buena Boro,General Assembly,2,Republican,John F. Amodeo,483
-Atlantic,Buena Boro,General Assembly,2,Republican,Chris Brown,461 282
-Atlantic,Buena Boro,General Assembly,2,Democratic,Alisa Cooper,0
+Atlantic,Buena Boro,General Assembly,2,Republican,Chris Brown,461
+Atlantic,Buena Boro,General Assembly,2,Democratic,Alisa Cooper,282
 Atlantic,Buena Boro,General Assembly,2,Democratic,Damon Tyner,273
 Atlantic,Buena Vista Twp.,General Assembly,2,Republican,John F. Amodeo,740
-Atlantic,Buena Vista Twp.,General Assembly,2,Republican,Chris Brown,727 736
-Atlantic,Buena Vista Twp.,General Assembly,2,Democratic,Alisa Cooper,0
+Atlantic,Buena Vista Twp.,General Assembly,2,Republican,Chris Brown,727
+Atlantic,Buena Vista Twp.,General Assembly,2,Democratic,Alisa Cooper,736
 Atlantic,Buena Vista Twp.,General Assembly,2,Democratic,Damon Tyner,721
 Atlantic,Egg Harbor City,General Assembly,2,Republican,John F. Amodeo,453
-Atlantic,Egg Harbor City,General Assembly,2,Republican,Chris Brown,430 363
-Atlantic,Egg Harbor City,General Assembly,2,Democratic,Alisa Cooper,0
+Atlantic,Egg Harbor City,General Assembly,2,Republican,Chris Brown,430
+Atlantic,Egg Harbor City,General Assembly,2,Democratic,Alisa Cooper,363
 Atlantic,Egg Harbor City,General Assembly,2,Democratic,Damon Tyner,390
 Atlantic,Egg Harbor Twp.,General Assembly,2,Republican,John F. Amodeo,5024
-Atlantic,Egg Harbor Twp.,General Assembly,2,Republican,Chris Brown,4600 2856
-Atlantic,Egg Harbor Twp.,General Assembly,2,Democratic,Alisa Cooper,0
+Atlantic,Egg Harbor Twp.,General Assembly,2,Republican,Chris Brown,4600
+Atlantic,Egg Harbor Twp.,General Assembly,2,Democratic,Alisa Cooper,2856
 Atlantic,Egg Harbor Twp.,General Assembly,2,Democratic,Damon Tyner,3354
 Atlantic,Folsom Boro,General Assembly,2,Republican,John F. Amodeo,224
-Atlantic,Folsom Boro,General Assembly,2,Republican,Chris Brown,213 128
-Atlantic,Folsom Boro,General Assembly,2,Democratic,Alisa Cooper,0
+Atlantic,Folsom Boro,General Assembly,2,Republican,Chris Brown,213
+Atlantic,Folsom Boro,General Assembly,2,Democratic,Alisa Cooper,128
 Atlantic,Folsom Boro,General Assembly,2,Democratic,Damon Tyner,125
 Atlantic,Hamilton Twp.,General Assembly,2,Republican,John F. Amodeo,2773
-Atlantic,Hamilton Twp.,General Assembly,2,Republican,Chris Brown,2558 2064
-Atlantic,Hamilton Twp.,General Assembly,2,Democratic,Alisa Cooper,0
+Atlantic,Hamilton Twp.,General Assembly,2,Republican,Chris Brown,2558
+Atlantic,Hamilton Twp.,General Assembly,2,Democratic,Alisa Cooper,2064
 Atlantic,Hamilton Twp.,General Assembly,2,Democratic,Damon Tyner,2216
 Atlantic,Linwood City,General Assembly,2,Republican,John F. Amodeo,1522
-Atlantic,Linwood City,General Assembly,2,Republican,Chris Brown,1340 655
-Atlantic,Linwood City,General Assembly,2,Democratic,Alisa Cooper,0
+Atlantic,Linwood City,General Assembly,2,Republican,Chris Brown,1340
+Atlantic,Linwood City,General Assembly,2,Democratic,Alisa Cooper,655
 Atlantic,Linwood City,General Assembly,2,Democratic,Damon Tyner,789
 Atlantic,Longport Boro,General Assembly,2,Republican,John F. Amodeo,237
-Atlantic,Longport Boro,General Assembly,2,Republican,Chris Brown,226 78
-Atlantic,Longport Boro,General Assembly,2,Democratic,Alisa Cooper,0
+Atlantic,Longport Boro,General Assembly,2,Republican,Chris Brown,226
+Atlantic,Longport Boro,General Assembly,2,Democratic,Alisa Cooper,78
 Atlantic,Longport Boro,General Assembly,2,Democratic,Damon Tyner,88
 Atlantic,Margate City,General Assembly,2,Republican,John F. Amodeo,1427
-Atlantic,Margate City,General Assembly,2,Republican,Chris Brown,1307 587
-Atlantic,Margate City,General Assembly,2,Democratic,Alisa Cooper,0
+Atlantic,Margate City,General Assembly,2,Republican,Chris Brown,1307
+Atlantic,Margate City,General Assembly,2,Democratic,Alisa Cooper,587
 Atlantic,Margate City,General Assembly,2,Democratic,Damon Tyner,709
 Atlantic,Mullica Twp.,General Assembly,2,Republican,John F. Amodeo,916
-Atlantic,Mullica Twp.,General Assembly,2,Republican,Chris Brown,880 481
-Atlantic,Mullica Twp.,General Assembly,2,Democratic,Alisa Cooper,0
+Atlantic,Mullica Twp.,General Assembly,2,Republican,Chris Brown,880
+Atlantic,Mullica Twp.,General Assembly,2,Democratic,Alisa Cooper,481
 Atlantic,Mullica Twp.,General Assembly,2,Democratic,Damon Tyner,505
 Atlantic,Northfield City,General Assembly,2,Republican,John F. Amodeo,1491
-Atlantic,Northfield City,General Assembly,2,Republican,Chris Brown,1399 784
-Atlantic,Northfield City,General Assembly,2,Democratic,Alisa Cooper,0
+Atlantic,Northfield City,General Assembly,2,Republican,Chris Brown,1399
+Atlantic,Northfield City,General Assembly,2,Democratic,Alisa Cooper,784
 Atlantic,Northfield City,General Assembly,2,Democratic,Damon Tyner,898
 Atlantic,Pleasantville City,General Assembly,2,Republican,John F. Amodeo,353
-Atlantic,Pleasantville City,General Assembly,2,Republican,Chris Brown,315 1436
-Atlantic,Pleasantville City,General Assembly,2,Democratic,Alisa Cooper,0
+Atlantic,Pleasantville City,General Assembly,2,Republican,Chris Brown,315
+Atlantic,Pleasantville City,General Assembly,2,Democratic,Alisa Cooper,1436
 Atlantic,Pleasantville City,General Assembly,2,Democratic,Damon Tyner,1530
 Atlantic,Somers Point City,General Assembly,2,Republican,John F. Amodeo,1613
-Atlantic,Somers Point City,General Assembly,2,Republican,Chris Brown,1465 662
-Atlantic,Somers Point City,General Assembly,2,Democratic,Alisa Cooper,0
+Atlantic,Somers Point City,General Assembly,2,Republican,Chris Brown,1465
+Atlantic,Somers Point City,General Assembly,2,Democratic,Alisa Cooper,662
 Atlantic,Somers Point City,General Assembly,2,Democratic,Damon Tyner,785
 Atlantic,Ventor City,General Assembly,2,Republican,John F. Amodeo,1693
-Atlantic,Ventor City,General Assembly,2,Republican,Chris Brown,1573 835
-Atlantic,Ventor City,General Assembly,2,Democratic,Alisa Cooper,0
+Atlantic,Ventor City,General Assembly,2,Republican,Chris Brown,1573
+Atlantic,Ventor City,General Assembly,2,Democratic,Alisa Cooper,835
 Atlantic,Ventor City,General Assembly,2,Democratic,Damon Tyner,943
+Atlantic,Vote By Mail,General Assembly,2,Republican,John F. Amodeo,1706
+Atlantic,Vote By Mail,General Assembly,2,Republican,Chris Brown,1664
+Atlantic,Vote By Mail,General Assembly,2,Democratic,Alisa Cooper,1169
+Atlantic,Vote By Mail,General Assembly,2,Democratic,Damon Tyner,1188
+Atlantic,Provisional Ballotss,General Assembly,2,Republican,John F. Amodeo,175
+Atlantic,Provisional Ballotss,General Assembly,2,Republican,Chris Brown,147
+Atlantic,Provisional Ballotss,General Assembly,2,Democratic,Alisa Cooper,181
+Atlantic,Provisional Ballotss,General Assembly,2,Democratic,Damon Tyner,205
 Cumberland,Bridgeton City,General Assembly,3,Democratic,John J. Burzichelli,1387
 Cumberland,Bridgeton City,General Assembly,3,Democratic,Celeste M. Riley,1462
 Cumberland,Bridgeton City,General Assembly,3,Republican,Domenick DiCicco,442
@@ -1443,6 +1825,14 @@ Cumberland,Upper Deerfield Twp.,General Assembly,3,Democratic,John J. Burzichell
 Cumberland,Upper Deerfield Twp.,General Assembly,3,Democratic,Celeste M. Riley,728
 Cumberland,Upper Deerfield Twp.,General Assembly,3,Republican,Domenick DiCicco,841
 Cumberland,Upper Deerfield Twp.,General Assembly,3,Republican,Bob Villare,805
+Cumberland,Vote By Mail,General Assembly,3,Democratic,John J. Burzichelli,0
+Cumberland,Vote By Mail,General Assembly,3,Democratic,Celeste M. Riley,0
+Cumberland,Vote By Mail,General Assembly,3,Republican,Domenick DiCicco,0
+Cumberland,Vote By Mail,General Assembly,3,Republican,Bob Villare,0
+Cumberland,Provisional Ballots,General Assembly,3,Democratic,John J. Burzichelli,0
+Cumberland,Provisional Ballots,General Assembly,3,Democratic,Celeste M. Riley,0
+Cumberland,Provisional Ballots,General Assembly,3,Republican,Domenick DiCicco,0
+Cumberland,Provisional Ballots,General Assembly,3,Republican,Bob Villare,0
 Gloucester,Clayton Boro,General Assembly,3,Democratic,John J. Burzichelli,1005
 Gloucester,Clayton Boro,General Assembly,3,Democratic,Celeste M. Riley,972
 Gloucester,Clayton Boro,General Assembly,3,Republican,Domenick DiCicco,673
@@ -1503,6 +1893,14 @@ Gloucester,Woolwich Twp.,General Assembly,3,Democratic,John J. Burzichelli,767
 Gloucester,Woolwich Twp.,General Assembly,3,Democratic,Celeste M. Riley,743
 Gloucester,Woolwich Twp.,General Assembly,3,Republican,Domenick DiCicco,1054
 Gloucester,Woolwich Twp.,General Assembly,3,Republican,Bob Villare,1037
+Gloucester,Vote By Mail,General Assembly,3,Democratic,John J. Burzichelli,0
+Gloucester,Vote By Mail,General Assembly,3,Democratic,Celeste M. Riley,0
+Gloucester,Vote By Mail,General Assembly,3,Republican,Domenick DiCicco,0
+Gloucester,Vote By Mail,General Assembly,3,Republican,Bob Villare,0
+Gloucester,Provisional Ballots,General Assembly,3,Democratic,John J. Burzichelli,0
+Gloucester,Provisional Ballots,General Assembly,3,Democratic,Celeste M. Riley,0
+Gloucester,Provisional Ballots,General Assembly,3,Republican,Domenick DiCicco,0
+Gloucester,Provisional Ballots,General Assembly,3,Republican,Bob Villare,0
 Salem,Alloway Twp.,General Assembly,3,Democratic,John J. Burzichelli,410
 Salem,Alloway Twp.,General Assembly,3,Democratic,Celeste M. Riley,397
 Salem,Alloway Twp.,General Assembly,3,Republican,Domenick DiCicco,543
@@ -1567,6 +1965,14 @@ Salem,Woodstown Boro,General Assembly,3,Democratic,John J. Burzichelli,589
 Salem,Woodstown Boro,General Assembly,3,Democratic,Celeste M. Riley,567
 Salem,Woodstown Boro,General Assembly,3,Republican,Domenick DiCicco,464
 Salem,Woodstown Boro,General Assembly,3,Republican,Bob Villare,485
+Salem,Vote By Mail,General Assembly,3,Democratic,John J. Burzichelli,0
+Salem,Vote By Mail,General Assembly,3,Democratic,Celeste M. Riley,0
+Salem,Vote By Mail,General Assembly,3,Republican,Domenick DiCicco,0
+Salem,Vote By Mail,General Assembly,3,Republican,Bob Villare,0
+Salem,Provisional Ballots,General Assembly,3,Democratic,John J. Burzichelli,0
+Salem,Provisional Ballots,General Assembly,3,Democratic,Celeste M. Riley,0
+Salem,Provisional Ballots,General Assembly,3,Republican,Domenick DiCicco,0
+Salem,Provisional Ballots,General Assembly,3,Republican,Bob Villare,0
 Camden,Chesihurst Boro,General Assembly,4,Democratic,Paul D. Moriarty,224
 Camden,Chesihurst Boro,General Assembly,4,Democratic,Gabriela Mosquera,220
 Camden,Chesihurst Boro,General Assembly,4,Republican,Shelley Lovett,68
@@ -1597,6 +2003,16 @@ Camden,Winslow Twp.,General Assembly,4,Democratic,Gabriela Mosquera,4375
 Camden,Winslow Twp.,General Assembly,4,Republican,Shelley Lovett,2041
 Camden,Winslow Twp.,General Assembly,4,Republican,Patricia Fratticcioli,2036
 Camden,Winslow Twp.,General Assembly,4,Independent,Tony Celeste,199
+Camden,Vote By Mail,General Assembly,4,Democratic,Paul D. Moriarty,0
+Camden,Vote By Mail,General Assembly,4,Democratic,Gabriela Mosquera,0
+Camden,Vote By Mail,General Assembly,4,Republican,Shelley Lovett,0
+Camden,Vote By Mail,General Assembly,4,Republican,Patricia Fratticcioli,0
+Camden,Vote By Mail,General Assembly,4,Independent,Tony Celeste,0
+Camden,Provisional Ballots,General Assembly,4,Democratic,Paul D. Moriarty,0
+Camden,Provisional Ballots,General Assembly,4,Democratic,Gabriela Mosquera,0
+Camden,Provisional Ballots,General Assembly,4,Republican,Shelley Lovett,0
+Camden,Provisional Ballots,General Assembly,4,Republican,Patricia Fratticcioli,0
+Camden,Provisional Ballots,General Assembly,4,Independent,Tony Celeste,0
 Gloucester,Monroe Twp.,General Assembly,4,Democratic,Paul D. Moriarty,2873
 Gloucester,Monroe Twp.,General Assembly,4,Democratic,Gabriela Mosquera,2766
 Gloucester,Monroe Twp.,General Assembly,4,Republican,Shelley Lovett,1886
@@ -1612,6 +2028,16 @@ Gloucester,Washington Twp.,General Assembly,4,Democratic,Gabriela Mosquera,5290
 Gloucester,Washington Twp.,General Assembly,4,Republican,Shelley Lovett,4988
 Gloucester,Washington Twp.,General Assembly,4,Republican,Patricia Fratticcioli,4957
 Gloucester,Washington Twp.,General Assembly,4,Independent,Tony Celeste,575
+Gloucester,Vote By Mail,General Assembly,4,Democratic,Paul D. Moriarty,0
+Gloucester,Vote By Mail,General Assembly,4,Democratic,Gabriela Mosquera,0
+Gloucester,Vote By Mail,General Assembly,4,Republican,Shelley Lovett,0
+Gloucester,Vote By Mail,General Assembly,4,Republican,Patricia Fratticcioli,0
+Gloucester,Vote By Mail,General Assembly,4,Independent,Tony Celeste,0
+Gloucester,Provisional Ballots,General Assembly,4,Democratic,Paul D. Moriarty,0
+Gloucester,Provisional Ballots,General Assembly,4,Democratic,Gabriela Mosquera,0
+Gloucester,Provisional Ballots,General Assembly,4,Republican,Shelley Lovett,0
+Gloucester,Provisional Ballots,General Assembly,4,Republican,Patricia Fratticcioli,0
+Gloucester,Provisional Ballots,General Assembly,4,Independent,Tony Celeste,0
 Camden,Audubon Boro,General Assembly,5,Democratic,Angel Fuentes,546
 Camden,Audubon Boro,General Assembly,5,Democratic,"Gilbert L. ""Whip"" Wilson",551
 Camden,Audubon Boro,General Assembly,5,Republican,William Levins,667
@@ -1664,6 +2090,14 @@ Camden,Woodlynne Boro,General Assembly,5,Democratic,Angel Fuentes,191
 Camden,Woodlynne Boro,General Assembly,5,Democratic,"Gilbert L. ""Whip"" Wilson",191
 Camden,Woodlynne Boro,General Assembly,5,Republican,William Levins,57
 Camden,Woodlynne Boro,General Assembly,5,Republican,Terrell A. Ratliff,55
+Camden,Vote By Mail,General Assembly,5,Democratic,Angel Fuentes,0
+Camden,Vote By Mail,General Assembly,5,Democratic,"Gilbert L. ""Whip"" Wilson",0
+Camden,Vote By Mail,General Assembly,5,Republican,William Levins,0
+Camden,Vote By Mail,General Assembly,5,Republican,Terrell A. Ratliff,0
+Camden,Provisional Ballots,General Assembly,5,Democratic,Angel Fuentes,0
+Camden,Provisional Ballots,General Assembly,5,Democratic,"Gilbert L. ""Whip"" Wilson",0
+Camden,Provisional Ballots,General Assembly,5,Republican,William Levins,0
+Camden,Provisional Ballots,General Assembly,5,Republican,Terrell A. Ratliff,0
 Gloucester,Deptford Twp.,General Assembly,5,Democratic,Angel Fuentes,2909
 Gloucester,Deptford Twp.,General Assembly,5,Democratic,"Gilbert L. ""Whip"" Wilson",2964
 Gloucester,Deptford Twp.,General Assembly,5,Republican,William Levins,2344
@@ -1688,10 +2122,26 @@ Gloucester,Woodbury City,General Assembly,5,Democratic,Angel Fuentes,934
 Gloucester,Woodbury City,General Assembly,5,Democratic,"Gilbert L. ""Whip"" Wilson",924
 Gloucester,Woodbury City,General Assembly,5,Republican,William Levins,860
 Gloucester,Woodbury City,General Assembly,5,Republican,Terrell A. Ratliff,836
+Gloucester,Vote By Mail,General Assembly,5,Democratic,Angel Fuentes,0
+Gloucester,Vote By Mail,General Assembly,5,Democratic,"Gilbert L. ""Whip"" Wilson",0
+Gloucester,Vote By Mail,General Assembly,5,Republican,William Levins,0
+Gloucester,Vote By Mail,General Assembly,5,Republican,Terrell A. Ratliff,0
+Gloucester,Provisional Ballots,General Assembly,5,Democratic,Angel Fuentes,0
+Gloucester,Provisional Ballots,General Assembly,5,Democratic,"Gilbert L. ""Whip"" Wilson",0
+Gloucester,Provisional Ballots,General Assembly,5,Republican,William Levins,0
+Gloucester,Provisional Ballots,General Assembly,5,Republican,Terrell A. Ratliff,0
 Burlington,Maple Shade,General Assembly,6,Democratic,Louis D. Greenwald,1054
 Burlington,Maple Shade,General Assembly,6,Democratic,Pamela R. Lampitt,1022
 Burlington,Maple Shade,General Assembly,6,Republican,Allan Richardson,850
 Burlington,Maple Shade,General Assembly,6,Republican,Gregory Horton,818
+Burlington,Vote By Mail,General Assembly,6,Democratic,Louis D. Greenwald,59
+Burlington,Vote By Mail,General Assembly,6,Democratic,Pamela R. Lampitt,61
+Burlington,Vote By Mail,General Assembly,6,Republican,Allan Richardson,49
+Burlington,Vote By Mail,General Assembly,6,Republican,Gregory Horton,44
+Burlington,Provisional Ballots,General Assembly,6,Democratic,Louis D. Greenwald,4
+Burlington,Provisional Ballots,General Assembly,6,Democratic,Pamela R. Lampitt,4
+Burlington,Provisional Ballots,General Assembly,6,Republican,Allan Richardson,3
+Burlington,Provisional Ballots,General Assembly,6,Republican,Gregory Horton,3
 Camden,Berlin Twp.,General Assembly,6,Democratic,Louis D. Greenwald,370
 Camden,Berlin Twp.,General Assembly,6,Democratic,Pamela R. Lampitt,354
 Camden,Berlin Twp.,General Assembly,6,Republican,Allan Richardson,252
@@ -1748,6 +2198,14 @@ Camden,Voorhees,General Assembly,6,Democratic,Louis D. Greenwald,3057
 Camden,Voorhees,General Assembly,6,Democratic,Pamela R. Lampitt,0
 Camden,Voorhees,General Assembly,6,Republican,Allan Richardson,2289
 Camden,Voorhees,General Assembly,6,Republican,Gregory Horton,2213
+Camden,Vote By Mail,General Assembly,6,Democratic,Louis D. Greenwald,0
+Camden,Vote By Mail,General Assembly,6,Democratic,Pamela R. Lampitt,2947
+Camden,Vote By Mail,General Assembly,6,Republican,Allan Richardson,0
+Camden,Vote By Mail,General Assembly,6,Republican,Gregory Horton,0
+Camden,Provisional Ballots,General Assembly,6,Democratic,Louis D. Greenwald,0
+Camden,Provisional Ballots,General Assembly,6,Democratic,Pamela R. Lampitt,0
+Camden,Provisional Ballots,General Assembly,6,Republican,Allan Richardson,0
+Camden,Provisional Ballots,General Assembly,6,Republican,Gregory Horton,0
 Burlington,Beverly City,General Assembly,7,Democratic,Herb Conaway,320
 Burlington,Beverly City,General Assembly,7,Democratic,Troy Singleton,305
 Burlington,Beverly City,General Assembly,7,Republican,Christopher Halgas,258
@@ -1816,86 +2274,114 @@ Burlington,Willingboro Twp.,General Assembly,7,Democratic,Herb Conaway,5173
 Burlington,Willingboro Twp.,General Assembly,7,Democratic,Troy Singleton,5194
 Burlington,Willingboro Twp.,General Assembly,7,Republican,Christopher Halgas,775
 Burlington,Willingboro Twp.,General Assembly,7,Republican,"James ""Jim"" Keenan",797
+Burlington,Vote By Mail,General Assembly,7,Democratic,Herb Conaway,0
+Burlington,Vote By Mail,General Assembly,7,Democratic,Troy Singleton,0
+Burlington,Vote By Mail,General Assembly,7,Republican,Christopher Halgas,0
+Burlington,Vote By Mail,General Assembly,7,Republican,"James ""Jim"" Keenan",0
+Burlington,Provisional Ballots,General Assembly,7,Democratic,Herb Conaway,0
+Burlington,Provisional Ballots,General Assembly,7,Democratic,Troy Singleton,0
+Burlington,Provisional Ballots,General Assembly,7,Republican,Christopher Halgas,0
+Burlington,Provisional Ballots,General Assembly,7,Republican,"James ""Jim"" Keenan",0
 Atlantic,Hammonton Twn.,General Assembly,8,Democratic,Scott Rudder,1658
 Atlantic,Hammonton Twn.,General Assembly,8,Republican,Christopher J. Brown,1712
 Atlantic,Hammonton Twn.,General Assembly,8,Democratic,Anita Lovely,625
 Atlantic,Hammonton Twn.,General Assembly,8,Democratic,Pamela A. Finnerty,681
 Atlantic,Hammonton Twn.,General Assembly,8,Independent,Robert Edward Forchion Jr.,180
-Atlantic,Eastampton Twp.,General Assembly,8,Democratic,Scott Rudder,412
-Atlantic,Eastampton Twp.,General Assembly,8,Republican,Christopher J. Brown,430
-Atlantic,Eastampton Twp.,General Assembly,8,Democratic,Anita Lovely,332
-Atlantic,Eastampton Twp.,General Assembly,8,Democratic,Pamela A. Finnerty,325
-Atlantic,Eastampton Twp.,General Assembly,8,Independent,Robert Edward Forchion Jr.,30
-Atlantic,Evesham Twp.,General Assembly,8,Democratic,Scott Rudder,3769
-Atlantic,Evesham Twp.,General Assembly,8,Republican,Christopher J. Brown,3766
-Atlantic,Evesham Twp.,General Assembly,8,Democratic,Anita Lovely,2036
-Atlantic,Evesham Twp.,General Assembly,8,Democratic,Pamela A. Finnerty,2143
-Atlantic,Evesham Twp.,General Assembly,8,Independent,Robert Edward Forchion Jr.,239
-Atlantic,Hainesport Twp.,General Assembly,8,Democratic,Scott Rudder,823
-Atlantic,Hainesport Twp.,General Assembly,8,Republican,Christopher J. Brown,834
-Atlantic,Hainesport Twp.,General Assembly,8,Democratic,Anita Lovely,407
-Atlantic,Hainesport Twp.,General Assembly,8,Democratic,Pamela A. Finnerty,423
-Atlantic,Hainesport Twp.,General Assembly,8,Independent,Robert Edward Forchion Jr.,43
-Atlantic,Lumberton Twp.,General Assembly,8,Democratic,Scott Rudder,979
-Atlantic,Lumberton Twp.,General Assembly,8,Republican,Christopher J. Brown,997
-Atlantic,Lumberton Twp.,General Assembly,8,Democratic,Anita Lovely,846
-Atlantic,Lumberton Twp.,General Assembly,8,Democratic,Pamela A. Finnerty,811
-Atlantic,Lumberton Twp.,General Assembly,8,Independent,Robert Edward Forchion Jr.,73
-Atlantic,Mansfield Twp.,General Assembly,8,Democratic,Scott Rudder,1051
-Atlantic,Mansfield Twp.,General Assembly,8,Republican,Christopher J. Brown,1081
-Atlantic,Mansfield Twp.,General Assembly,8,Democratic,Anita Lovely,655
-Atlantic,Mansfield Twp.,General Assembly,8,Democratic,Pamela A. Finnerty,630
-Atlantic,Mansfield Twp.,General Assembly,8,Independent,Robert Edward Forchion Jr.,62
-Atlantic,Medford Lakes Boro,General Assembly,8,Democratic,Scott Rudder,463
-Atlantic,Medford Lakes Boro,General Assembly,8,Republican,Christopher J. Brown,451
-Atlantic,Medford Lakes Boro,General Assembly,8,Democratic,Anita Lovely,245
-Atlantic,Medford Lakes Boro,General Assembly,8,Democratic,Pamela A. Finnerty,258
-Atlantic,Medford Lakes Boro,General Assembly,8,Independent,Robert Edward Forchion Jr.,38
-Atlantic,Medford Twp.,General Assembly,8,Democratic,Scott Rudder,3052
-Atlantic,Medford Twp.,General Assembly,8,Republican,Christopher J. Brown,2982
-Atlantic,Medford Twp.,General Assembly,8,Democratic,Anita Lovely,1428
-Atlantic,Medford Twp.,General Assembly,8,Democratic,Pamela A. Finnerty,1521
-Atlantic,Medford Twp.,General Assembly,8,Independent,Robert Edward Forchion Jr.,277
-Atlantic,Mount Holly Twp.,General Assembly,8,Democratic,Scott Rudder,602
-Atlantic,Mount Holly Twp.,General Assembly,8,Republican,Christopher J. Brown,629
-Atlantic,Mount Holly Twp.,General Assembly,8,Democratic,Anita Lovely,637
-Atlantic,Mount Holly Twp.,General Assembly,8,Democratic,Pamela A. Finnerty,653
-Atlantic,Mount Holly Twp.,General Assembly,8,Independent,Robert Edward Forchion Jr.,79
-Atlantic,Pemberton Boro,General Assembly,8,Democratic,Scott Rudder,185
-Atlantic,Pemberton Boro,General Assembly,8,Republican,Christopher J. Brown,182
-Atlantic,Pemberton Boro,General Assembly,8,Democratic,Anita Lovely,110
-Atlantic,Pemberton Boro,General Assembly,8,Democratic,Pamela A. Finnerty,109
-Atlantic,Pemberton Boro,General Assembly,8,Independent,Robert Edward Forchion Jr.,6
-Atlantic,Pemberton Twp.,General Assembly,8,Democratic,Scott Rudder,1121
-Atlantic,Pemberton Twp.,General Assembly,8,Republican,Christopher J. Brown,1150
-Atlantic,Pemberton Twp.,General Assembly,8,Democratic,Anita Lovely,1261
-Atlantic,Pemberton Twp.,General Assembly,8,Democratic,Pamela A. Finnerty,1257
-Atlantic,Pemberton Twp.,General Assembly,8,Independent,Robert Edward Forchion Jr.,160
-Atlantic,Shamong Twp.,General Assembly,8,Democratic,Scott Rudder,684
-Atlantic,Shamong Twp.,General Assembly,8,Republican,Christopher J. Brown,682
-Atlantic,Shamong Twp.,General Assembly,8,Democratic,Anita Lovely,253
-Atlantic,Shamong Twp.,General Assembly,8,Democratic,Pamela A. Finnerty,271
-Atlantic,Shamong Twp.,General Assembly,8,Independent,Robert Edward Forchion Jr.,38
-Atlantic,Southampton Twp.,General Assembly,8,Democratic,Scott Rudder,1515
-Atlantic,Southampton Twp.,General Assembly,8,Republican,Christopher J. Brown,1520
-Atlantic,Southampton Twp.,General Assembly,8,Democratic,Anita Lovely,650
-Atlantic,Southampton Twp.,General Assembly,8,Democratic,Pamela A. Finnerty,687
-Atlantic,Southampton Twp.,General Assembly,8,Independent,Robert Edward Forchion Jr.,103
-Atlantic,Springfield Twp.,General Assembly,8,Democratic,Scott Rudder,436
-Atlantic,Springfield Twp.,General Assembly,8,Republican,Christopher J. Brown,447
-Atlantic,Springfield Twp.,General Assembly,8,Democratic,Anita Lovely,145
-Atlantic,Springfield Twp.,General Assembly,8,Democratic,Pamela A. Finnerty,142
-Atlantic,Springfield Twp.,General Assembly,8,Independent,Robert Edward Forchion Jr.,35
-Atlantic,Westampton Twp.,General Assembly,8,Democratic,Scott Rudder,646
-Atlantic,Westampton Twp.,General Assembly,8,Republican,Christopher J. Brown,652
-Atlantic,Westampton Twp.,General Assembly,8,Democratic,Anita Lovely,765
-Atlantic,Westampton Twp.,General Assembly,8,Democratic,Pamela A. Finnerty,782
-Atlantic,Westampton Twp.,General Assembly,8,Independent,Robert Edward Forchion Jr.,64
-Atlantic,Woodland Twp.,General Assembly,8,Democratic,Scott Rudder,208
-Atlantic,Woodland Twp.,General Assembly,8,Republican,Christopher J. Brown,209
-Atlantic,Woodland Twp.,General Assembly,8,Democratic,Anita Lovely,82
-Atlantic,Woodland Twp.,General Assembly,8,Democratic,Pamela A. Finnerty,85
-Atlantic,Woodland Twp.,General Assembly,8,Independent,Robert Edward Forchion Jr.,23
+Atlantic,Vote By Mail,General Assembly,8,Democratic,Scott Rudder,134
+Atlantic,Vote By Mail,General Assembly,8,Republican,Christopher J. Brown,137
+Atlantic,Vote By Mail,General Assembly,8,Democratic,Anita Lovely,64
+Atlantic,Vote By Mail,General Assembly,8,Democratic,Pamela A. Finnerty,69
+Atlantic,Vote By Mail,General Assembly,8,Independent,Robert Edward Forchion Jr.,13
+Atlantic,Provisional Ballots,General Assembly,8,Democratic,Scott Rudder,11
+Atlantic,Provisional Ballots,General Assembly,8,Republican,Christopher J. Brown,9
+Atlantic,Provisional Ballots,General Assembly,8,Democratic,Anita Lovely,5
+Atlantic,Provisional Ballots,General Assembly,8,Democratic,Pamela A. Finnerty,6
+Atlantic,Provisional Ballots,General Assembly,8,Independent,Robert Edward Forchion Jr.,1
+Burlington,Eastampton Twp.,General Assembly,8,Democratic,Scott Rudder,412
+Burlington,Eastampton Twp.,General Assembly,8,Republican,Christopher J. Brown,430
+Burlington,Eastampton Twp.,General Assembly,8,Democratic,Anita Lovely,332
+Burlington,Eastampton Twp.,General Assembly,8,Democratic,Pamela A. Finnerty,325
+Burlington,Eastampton Twp.,General Assembly,8,Independent,Robert Edward Forchion Jr.,30
+Burlington,Evesham Twp.,General Assembly,8,Democratic,Scott Rudder,3769
+Burlington,Evesham Twp.,General Assembly,8,Republican,Christopher J. Brown,3766
+Burlington,Evesham Twp.,General Assembly,8,Democratic,Anita Lovely,2036
+Burlington,Evesham Twp.,General Assembly,8,Democratic,Pamela A. Finnerty,2143
+Burlington,Evesham Twp.,General Assembly,8,Independent,Robert Edward Forchion Jr.,239
+Burlington,Hainesport Twp.,General Assembly,8,Democratic,Scott Rudder,823
+Burlington,Hainesport Twp.,General Assembly,8,Republican,Christopher J. Brown,834
+Burlington,Hainesport Twp.,General Assembly,8,Democratic,Anita Lovely,407
+Burlington,Hainesport Twp.,General Assembly,8,Democratic,Pamela A. Finnerty,423
+Burlington,Hainesport Twp.,General Assembly,8,Independent,Robert Edward Forchion Jr.,43
+Burlington,Lumberton Twp.,General Assembly,8,Democratic,Scott Rudder,979
+Burlington,Lumberton Twp.,General Assembly,8,Republican,Christopher J. Brown,997
+Burlington,Lumberton Twp.,General Assembly,8,Democratic,Anita Lovely,846
+Burlington,Lumberton Twp.,General Assembly,8,Democratic,Pamela A. Finnerty,811
+Burlington,Lumberton Twp.,General Assembly,8,Independent,Robert Edward Forchion Jr.,73
+Burlington,Mansfield Twp.,General Assembly,8,Democratic,Scott Rudder,1051
+Burlington,Mansfield Twp.,General Assembly,8,Republican,Christopher J. Brown,1081
+Burlington,Mansfield Twp.,General Assembly,8,Democratic,Anita Lovely,655
+Burlington,Mansfield Twp.,General Assembly,8,Democratic,Pamela A. Finnerty,630
+Burlington,Mansfield Twp.,General Assembly,8,Independent,Robert Edward Forchion Jr.,62
+Burlington,Medford Lakes Boro,General Assembly,8,Democratic,Scott Rudder,463
+Burlington,Medford Lakes Boro,General Assembly,8,Republican,Christopher J. Brown,451
+Burlington,Medford Lakes Boro,General Assembly,8,Democratic,Anita Lovely,245
+Burlington,Medford Lakes Boro,General Assembly,8,Democratic,Pamela A. Finnerty,258
+Burlington,Medford Lakes Boro,General Assembly,8,Independent,Robert Edward Forchion Jr.,38
+Burlington,Medford Twp.,General Assembly,8,Democratic,Scott Rudder,3052
+Burlington,Medford Twp.,General Assembly,8,Republican,Christopher J. Brown,2982
+Burlington,Medford Twp.,General Assembly,8,Democratic,Anita Lovely,1428
+Burlington,Medford Twp.,General Assembly,8,Democratic,Pamela A. Finnerty,1521
+Burlington,Medford Twp.,General Assembly,8,Independent,Robert Edward Forchion Jr.,277
+Burlington,Mount Holly Twp.,General Assembly,8,Democratic,Scott Rudder,602
+Burlington,Mount Holly Twp.,General Assembly,8,Republican,Christopher J. Brown,629
+Burlington,Mount Holly Twp.,General Assembly,8,Democratic,Anita Lovely,637
+Burlington,Mount Holly Twp.,General Assembly,8,Democratic,Pamela A. Finnerty,653
+Burlington,Mount Holly Twp.,General Assembly,8,Independent,Robert Edward Forchion Jr.,79
+Burlington,Pemberton Boro,General Assembly,8,Democratic,Scott Rudder,185
+Burlington,Pemberton Boro,General Assembly,8,Republican,Christopher J. Brown,182
+Burlington,Pemberton Boro,General Assembly,8,Democratic,Anita Lovely,110
+Burlington,Pemberton Boro,General Assembly,8,Democratic,Pamela A. Finnerty,109
+Burlington,Pemberton Boro,General Assembly,8,Independent,Robert Edward Forchion Jr.,6
+Burlington,Pemberton Twp.,General Assembly,8,Democratic,Scott Rudder,1121
+Burlington,Pemberton Twp.,General Assembly,8,Republican,Christopher J. Brown,1150
+Burlington,Pemberton Twp.,General Assembly,8,Democratic,Anita Lovely,1261
+Burlington,Pemberton Twp.,General Assembly,8,Democratic,Pamela A. Finnerty,1257
+Burlington,Pemberton Twp.,General Assembly,8,Independent,Robert Edward Forchion Jr.,160
+Burlington,Shamong Twp.,General Assembly,8,Democratic,Scott Rudder,684
+Burlington,Shamong Twp.,General Assembly,8,Republican,Christopher J. Brown,682
+Burlington,Shamong Twp.,General Assembly,8,Democratic,Anita Lovely,253
+Burlington,Shamong Twp.,General Assembly,8,Democratic,Pamela A. Finnerty,271
+Burlington,Shamong Twp.,General Assembly,8,Independent,Robert Edward Forchion Jr.,38
+Burlington,Southampton Twp.,General Assembly,8,Democratic,Scott Rudder,1515
+Burlington,Southampton Twp.,General Assembly,8,Republican,Christopher J. Brown,1520
+Burlington,Southampton Twp.,General Assembly,8,Democratic,Anita Lovely,650
+Burlington,Southampton Twp.,General Assembly,8,Democratic,Pamela A. Finnerty,687
+Burlington,Southampton Twp.,General Assembly,8,Independent,Robert Edward Forchion Jr.,103
+Burlington,Springfield Twp.,General Assembly,8,Democratic,Scott Rudder,436
+Burlington,Springfield Twp.,General Assembly,8,Republican,Christopher J. Brown,447
+Burlington,Springfield Twp.,General Assembly,8,Democratic,Anita Lovely,145
+Burlington,Springfield Twp.,General Assembly,8,Democratic,Pamela A. Finnerty,142
+Burlington,Springfield Twp.,General Assembly,8,Independent,Robert Edward Forchion Jr.,35
+Burlington,Westampton Twp.,General Assembly,8,Democratic,Scott Rudder,646
+Burlington,Westampton Twp.,General Assembly,8,Republican,Christopher J. Brown,652
+Burlington,Westampton Twp.,General Assembly,8,Democratic,Anita Lovely,765
+Burlington,Westampton Twp.,General Assembly,8,Democratic,Pamela A. Finnerty,782
+Burlington,Westampton Twp.,General Assembly,8,Independent,Robert Edward Forchion Jr.,64
+Burlington,Woodland Twp.,General Assembly,8,Democratic,Scott Rudder,208
+Burlington,Woodland Twp.,General Assembly,8,Republican,Christopher J. Brown,209
+Burlington,Woodland Twp.,General Assembly,8,Democratic,Anita Lovely,82
+Burlington,Woodland Twp.,General Assembly,8,Democratic,Pamela A. Finnerty,85
+Burlington,Woodland Twp.,General Assembly,8,Independent,Robert Edward Forchion Jr.,23
+Burlington,Vote By Mail,General Assembly,8,Democratic,Scott Rudder,0
+Burlington,Vote By Mail,General Assembly,8,Republican,Christopher J. Brown,0
+Burlington,Vote By Mail,General Assembly,8,Democratic,Anita Lovely,0
+Burlington,Vote By Mail,General Assembly,8,Democratic,Pamela A. Finnerty,0
+Burlington,Vote By Mail,General Assembly,8,Independent,Robert Edward Forchion Jr.,0
+Burlington,Provisional Ballots,General Assembly,8,Democratic,Scott Rudder,0
+Burlington,Provisional Ballots,General Assembly,8,Republican,Christopher J. Brown,0
+Burlington,Provisional Ballots,General Assembly,8,Democratic,Anita Lovely,0
+Burlington,Provisional Ballots,General Assembly,8,Democratic,Pamela A. Finnerty,0
+Burlington,Provisional Ballots,General Assembly,8,Independent,Robert Edward Forchion Jr.,0
 Camden,Berlin Boro,General Assembly,8,Democratic,Scott Rudder,566
 Camden,Berlin Boro,General Assembly,8,Republican,Christopher J. Brown,582
 Camden,Berlin Boro,General Assembly,8,Democratic,Anita Lovely,311
@@ -1916,6 +2402,16 @@ Camden,Waterford Twp.,General Assembly,8,Republican,Christopher J. Brown,1043
 Camden,Waterford Twp.,General Assembly,8,Democratic,Anita Lovely,718
 Camden,Waterford Twp.,General Assembly,8,Democratic,Pamela A. Finnerty,786
 Camden,Waterford Twp.,General Assembly,8,Independent,Robert Edward Forchion Jr.,96
+Camden,Vote By Mail,General Assembly,8,Democratic,Scott Rudder,0
+Camden,Vote By Mail,General Assembly,8,Republican,Christopher J. Brown,0
+Camden,Vote By Mail,General Assembly,8,Democratic,Anita Lovely,0
+Camden,Vote By Mail,General Assembly,8,Democratic,Pamela A. Finnerty,0
+Camden,Vote By Mail,General Assembly,8,Independent,Robert Edward Forchion Jr.,0
+Camden,Provisional Ballots,General Assembly,8,Democratic,Scott Rudder,0
+Camden,Provisional Ballots,General Assembly,8,Republican,Christopher J. Brown,0
+Camden,Provisional Ballots,General Assembly,8,Democratic,Anita Lovely,0
+Camden,Provisional Ballots,General Assembly,8,Democratic,Pamela A. Finnerty,0
+Camden,Provisional Ballots,General Assembly,8,Independent,Robert Edward Forchion Jr.,0
 Atlantic,Galloway Twp.,General Assembly,9,Republican,Brian E. Rumpf,3375
 Atlantic,Galloway Twp.,General Assembly,9,Republican,DiAnne C. Gove,3301
 Atlantic,Galloway Twp.,General Assembly,9,Democratic,Carla Kearney,2739
@@ -1924,6 +2420,14 @@ Atlantic,Port Republic City,General Assembly,9,Republican,Brian E. Rumpf,213
 Atlantic,Port Republic City,General Assembly,9,Republican,DiAnne C. Gove,222
 Atlantic,Port Republic City,General Assembly,9,Democratic,Carla Kearney,103
 Atlantic,Port Republic City,General Assembly,9,Democratic,Bradley Billhimer,89
+Atlantic,Vote By Mail,General Assembly,9,Republican,Brian E. Rumpf,237
+Atlantic,Vote By Mail,General Assembly,9,Republican,DiAnne C. Gove,234
+Atlantic,Vote By Mail,General Assembly,9,Democratic,Carla Kearney,178
+Atlantic,Vote By Mail,General Assembly,9,Democratic,Bradley Billhimer,168
+Atlantic,Provisional Ballots,General Assembly,9,Republican,Brian E. Rumpf,52
+Atlantic,Provisional Ballots,General Assembly,9,Republican,DiAnne C. Gove,55
+Atlantic,Provisional Ballots,General Assembly,9,Democratic,Carla Kearney,58
+Atlantic,Provisional Ballots,General Assembly,9,Democratic,Bradley Billhimer,57
 Burlington,Bass River Twp.,General Assembly,9,Republican,Brian E. Rumpf,188
 Burlington,Bass River Twp.,General Assembly,9,Republican,DiAnne C. Gove,182
 Burlington,Bass River Twp.,General Assembly,9,Democratic,Carla Kearney,68
@@ -1936,6 +2440,14 @@ Burlington,Washington Twp.,General Assembly,9,Republican,Brian E. Rumpf,99
 Burlington,Washington Twp.,General Assembly,9,Republican,DiAnne C. Gove,95
 Burlington,Washington Twp.,General Assembly,9,Democratic,Carla Kearney,40
 Burlington,Washington Twp.,General Assembly,9,Democratic,Bradley Billhimer,42
+Burlington,Vote By Mail,General Assembly,9,Republican,Brian E. Rumpf,0
+Burlington,Vote By Mail,General Assembly,9,Republican,DiAnne C. Gove,0
+Burlington,Vote By Mail,General Assembly,9,Democratic,Carla Kearney,0
+Burlington,Vote By Mail,General Assembly,9,Democratic,Bradley Billhimer,0
+Burlington,Provisional Ballots,General Assembly,9,Republican,Brian E. Rumpf,0
+Burlington,Provisional Ballots,General Assembly,9,Republican,DiAnne C. Gove,0
+Burlington,Provisional Ballots,General Assembly,9,Democratic,Carla Kearney,0
+Burlington,Provisional Ballots,General Assembly,9,Democratic,Bradley Billhimer,0
 Ocean,Barnegat Light Boro,General Assembly,9,Republican,Brian E. Rumpf,137
 Ocean,Barnegat Light Boro,General Assembly,9,Republican,DiAnne C. Gove,139
 Ocean,Barnegat Light Boro,General Assembly,9,Democratic,Carla Kearney,72
@@ -2012,6 +2524,14 @@ Ocean,Tuckerton Boro,General Assembly,9,Republican,Brian E. Rumpf,338
 Ocean,Tuckerton Boro,General Assembly,9,Republican,DiAnne C. Gove,317
 Ocean,Tuckerton Boro,General Assembly,9,Democratic,Carla Kearney,143
 Ocean,Tuckerton Boro,General Assembly,9,Democratic,Bradley Billhimer,142
+Ocean,Vote By Mail,General Assembly,9,Republican,Brian E. Rumpf,0
+Ocean,Vote By Mail,General Assembly,9,Republican,DiAnne C. Gove,0
+Ocean,Vote By Mail,General Assembly,9,Democratic,Carla Kearney,0
+Ocean,Vote By Mail,General Assembly,9,Democratic,Bradley Billhimer,0
+Ocean,Provisional Ballots,General Assembly,9,Republican,Brian E. Rumpf,0
+Ocean,Provisional Ballots,General Assembly,9,Republican,DiAnne C. Gove,0
+Ocean,Provisional Ballots,General Assembly,9,Democratic,Carla Kearney,0
+Ocean,Provisional Ballots,General Assembly,9,Democratic,Bradley Billhimer,0
 Ocean,Bay Head Boro,General Assembly,10,Republican,Dave Wolfe,251
 Ocean,Bay Head Boro,General Assembly,10,Republican,Gregory P. McGuckin,245
 Ocean,Bay Head Boro,General Assembly,10,Democratic,Bette Wary,70
@@ -2052,6 +2572,14 @@ Ocean,Toms River Twp.,General Assembly,10,Republican,Dave Wolfe,10102
 Ocean,Toms River Twp.,General Assembly,10,Republican,Gregory P. McGuckin,9810
 Ocean,Toms River Twp.,General Assembly,10,Democratic,Bette Wary,5672
 Ocean,Toms River Twp.,General Assembly,10,Democratic,Eli L. Eytan,5197
+Ocean,Vote By Mail,General Assembly,10,Republican,Dave Wolfe,0
+Ocean,Vote By Mail,General Assembly,10,Republican,Gregory P. McGuckin,0
+Ocean,Vote By Mail,General Assembly,10,Democratic,Bette Wary,0
+Ocean,Vote By Mail,General Assembly,10,Democratic,Eli L. Eytan,0
+Ocean,Provisional Ballots,General Assembly,10,Republican,Dave Wolfe,0
+Ocean,Provisional Ballots,General Assembly,10,Republican,Gregory P. McGuckin,0
+Ocean,Provisional Ballots,General Assembly,10,Democratic,Bette Wary,0
+Ocean,Provisional Ballots,General Assembly,10,Democratic,Eli L. Eytan,0
 Monmouth,Allenhurst Boro,General Assembly,11,Republican,Mary Pat Angelini,96
 Monmouth,Allenhurst Boro,General Assembly,11,Republican,Caroline Casagrande,91
 Monmouth,Allenhurst Boro,General Assembly,11,Democratic,Vin Gopal,30
@@ -2142,6 +2670,16 @@ Monmouth,West Long Branch Boro,General Assembly,11,Republican,Caroline Casagrand
 Monmouth,West Long Branch Boro,General Assembly,11,Democratic,Vin Gopal,485
 Monmouth,West Long Branch Boro,General Assembly,11,Democratic,Kathleen Horgan,487
 Monmouth,West Long Branch Boro,General Assembly,11,Independent,Daniel Jacobson,112
+Monmouth,Vote By Mail,General Assembly,11,Republican,Mary Pat Angelini,0
+Monmouth,Vote By Mail,General Assembly,11,Republican,Caroline Casagrande,0
+Monmouth,Vote By Mail,General Assembly,11,Democratic,Vin Gopal,0
+Monmouth,Vote By Mail,General Assembly,11,Democratic,Kathleen Horgan,0
+Monmouth,Vote By Mail,General Assembly,11,Independent,Daniel Jacobson,0
+Monmouth,Provisional Ballots,General Assembly,11,Republican,Mary Pat Angelini,0
+Monmouth,Provisional Ballots,General Assembly,11,Republican,Caroline Casagrande,0
+Monmouth,Provisional Ballots,General Assembly,11,Democratic,Vin Gopal,0
+Monmouth,Provisional Ballots,General Assembly,11,Democratic,Kathleen Horgan,0
+Monmouth,Provisional Ballots,General Assembly,11,Independent,Daniel Jacobson,0
 Burlington,Chesterfield Twp.,General Assembly,12,Republican,Ronald S. Dancer,443
 Burlington,Chesterfield Twp.,General Assembly,12,Republican,Robert D. Clifton,418
 Burlington,Chesterfield Twp.,General Assembly,12,Democratic,"William ""Bill"" Spedding",263
@@ -2158,10 +2696,26 @@ Burlington,Wrightstown Boro,General Assembly,12,Republican,Ronald S. Dancer,50
 Burlington,Wrightstown Boro,General Assembly,12,Republican,Robert D. Clifton,46
 Burlington,Wrightstown Boro,General Assembly,12,Democratic,"William ""Bill"" Spedding",36
 Burlington,Wrightstown Boro,General Assembly,12,Democratic,Catherine Tinney Rome,38
+Burlington,Vote By Mail,General Assembly,12,Republican,Ronald S. Dancer,0
+Burlington,Vote By Mail,General Assembly,12,Republican,Robert D. Clifton,0
+Burlington,Vote By Mail,General Assembly,12,Democratic,"William ""Bill"" Spedding",0
+Burlington,Vote By Mail,General Assembly,12,Democratic,Catherine Tinney Rome,0
+Burlington,Provisional Ballots,General Assembly,12,Republican,Ronald S. Dancer,0
+Burlington,Provisional Ballots,General Assembly,12,Republican,Robert D. Clifton,0
+Burlington,Provisional Ballots,General Assembly,12,Democratic,"William ""Bill"" Spedding",0
+Burlington,Provisional Ballots,General Assembly,12,Democratic,Catherine Tinney Rome,0
 Middlesex,Old Bridge Twp.,General Assembly,12,Republican,Ronald S. Dancer,5056
 Middlesex,Old Bridge Twp.,General Assembly,12,Republican,Robert D. Clifton,4841
 Middlesex,Old Bridge Twp.,General Assembly,12,Democratic,"William ""Bill"" Spedding",4131
 Middlesex,Old Bridge Twp.,General Assembly,12,Democratic,Catherine Tinney Rome,4035
+Middlesex,Vote By Mail,General Assembly,12,Republican,Ronald S. Dancer,258
+Middlesex,Vote By Mail,General Assembly,12,Republican,Robert D. Clifton,270
+Middlesex,Vote By Mail,General Assembly,12,Democratic,"William ""Bill"" Spedding",247
+Middlesex,Vote By Mail,General Assembly,12,Democratic,Catherine Tinney Rome,255
+Middlesex,Provisional Ballots,General Assembly,12,Republican,Ronald S. Dancer,18
+Middlesex,Provisional Ballots,General Assembly,12,Republican,Robert D. Clifton,14
+Middlesex,Provisional Ballots,General Assembly,12,Democratic,"William ""Bill"" Spedding",21
+Middlesex,Provisional Ballots,General Assembly,12,Democratic,Catherine Tinney Rome,24
 Monmouth,Allentown Boro,General Assembly,12,Republican,Ronald S. Dancer,298
 Monmouth,Allentown Boro,General Assembly,12,Republican,Robert D. Clifton,262
 Monmouth,Allentown Boro,General Assembly,12,Democratic,"William ""Bill"" Spedding",235
@@ -2190,6 +2744,14 @@ Monmouth,Upper Freehold Twp.,General Assembly,12,Republican,Ronald S. Dancer,889
 Monmouth,Upper Freehold Twp.,General Assembly,12,Republican,Robert D. Clifton,839
 Monmouth,Upper Freehold Twp.,General Assembly,12,Democratic,"William ""Bill"" Spedding",310
 Monmouth,Upper Freehold Twp.,General Assembly,12,Democratic,Catherine Tinney Rome,327
+Monmouth,Vote By Mail,General Assembly,12,Republican,Ronald S. Dancer,0
+Monmouth,Vote By Mail,General Assembly,12,Republican,Robert D. Clifton,0
+Monmouth,Vote By Mail,General Assembly,12,Democratic,"William ""Bill"" Spedding",0
+Monmouth,Vote By Mail,General Assembly,12,Democratic,Catherine Tinney Rome,0
+Monmouth,Provisional Ballots,General Assembly,12,Republican,Ronald S. Dancer,0
+Monmouth,Provisional Ballots,General Assembly,12,Republican,Robert D. Clifton,0
+Monmouth,Provisional Ballots,General Assembly,12,Democratic,"William ""Bill"" Spedding",0
+Monmouth,Provisional Ballots,General Assembly,12,Democratic,Catherine Tinney Rome,0
 Ocean,Jackson Twp,General Assembly,12,Republican,Ronald S. Dancer,4255
 Ocean,Jackson Twp,General Assembly,12,Republican,Robert D. Clifton,4067
 Ocean,Jackson Twp,General Assembly,12,Democratic,"William ""Bill"" Spedding",2824
@@ -2198,6 +2760,14 @@ Ocean,Plumsted,General Assembly,12,Republican,Ronald S. Dancer,5392
 Ocean,Plumsted,General Assembly,12,Republican,Robert D. Clifton,5051
 Ocean,Plumsted,General Assembly,12,Democratic,"William ""Bill"" Spedding",3221
 Ocean,Plumsted,General Assembly,12,Democratic,Catherine Tinney Rome,3167
+Ocean,Vote By Mail,General Assembly,12,Republican,Ronald S. Dancer,0
+Ocean,Vote By Mail,General Assembly,12,Republican,Robert D. Clifton,0
+Ocean,Vote By Mail,General Assembly,12,Democratic,"William ""Bill"" Spedding",0
+Ocean,Vote By Mail,General Assembly,12,Democratic,Catherine Tinney Rome,0
+Ocean,Provisional Ballots,General Assembly,12,Republican,Ronald S. Dancer,0
+Ocean,Provisional Ballots,General Assembly,12,Republican,Robert D. Clifton,0
+Ocean,Provisional Ballots,General Assembly,12,Democratic,"William ""Bill"" Spedding",0
+Ocean,Provisional Ballots,General Assembly,12,Democratic,Catherine Tinney Rome,0
 Monmouth,Aberdeen Twp.,General Assembly,13,Republican,Amy H. Handlin,1385
 Monmouth,Aberdeen Twp.,General Assembly,13,Republican,Declan O'Scanlon,1298
 Monmouth,Aberdeen Twp.,General Assembly,13,Democratic,Kevin M. Lavan,1346
@@ -2294,6 +2864,18 @@ Monmouth,Union Beach Boro,General Assembly,13,Democratic,Kevin M. Lavan,312
 Monmouth,Union Beach Boro,General Assembly,13,Democratic,Patrick Short,311
 Monmouth,Union Beach Boro,General Assembly,13,Indpendent,Frank C. Cottone,25
 Monmouth,Union Beach Boro,General Assembly,13,Indpendent,William H. Lawton,23
+Monmouth,Vote By Mail,General Assembly,13,Republican,Amy H. Handlin,0
+Monmouth,Vote By Mail,General Assembly,13,Republican,Declan O'Scanlon,0
+Monmouth,Vote By Mail,General Assembly,13,Democratic,Kevin M. Lavan,0
+Monmouth,Vote By Mail,General Assembly,13,Democratic,Patrick Short,0
+Monmouth,Vote By Mail,General Assembly,13,Indpendent,Frank C. Cottone,0
+Monmouth,Vote By Mail,General Assembly,13,Indpendent,William H. Lawton,0
+Monmouth,Provisional Ballots,General Assembly,13,Republican,Amy H. Handlin,0
+Monmouth,Provisional Ballots,General Assembly,13,Republican,Declan O'Scanlon,0
+Monmouth,Provisional Ballots,General Assembly,13,Democratic,Kevin M. Lavan,0
+Monmouth,Provisional Ballots,General Assembly,13,Democratic,Patrick Short,0
+Monmouth,Provisional Ballots,General Assembly,13,Indpendent,Frank C. Cottone,0
+Monmouth,Provisional Ballots,General Assembly,13,Indpendent,William H. Lawton,0
 Mercer,East Windsor Twp.,General Assembly,14,Democratic,Wayne P. DeAngelo,2538
 Mercer,East Windsor Twp.,General Assembly,14,Democratic,Daniel R. Benson,2554
 Mercer,East Windsor Twp.,General Assembly,14,Republican,Wayne Wittman,1745
@@ -2314,6 +2896,16 @@ Mercer,Robbinsville Twp.,General Assembly,14,Democratic,Daniel R. Benson,1038
 Mercer,Robbinsville Twp.,General Assembly,14,Republican,Wayne Wittman,1197
 Mercer,Robbinsville Twp.,General Assembly,14,Republican,Sheree McGowan,1303
 Mercer,Robbinsville Twp.,General Assembly,14,Independent,Steven Welzer,93
+Mercer,Vote By Mail,General Assembly,14,Democratic,Wayne P. DeAngelo,0
+Mercer,Vote By Mail,General Assembly,14,Democratic,Daniel R. Benson,0
+Mercer,Vote By Mail,General Assembly,14,Republican,Wayne Wittman,0
+Mercer,Vote By Mail,General Assembly,14,Republican,Sheree McGowan,0
+Mercer,Vote By Mail,General Assembly,14,Independent,Steven Welzer,0
+Mercer,Provisional Ballots,General Assembly,14,Democratic,Wayne P. DeAngelo,0
+Mercer,Provisional Ballots,General Assembly,14,Democratic,Daniel R. Benson,0
+Mercer,Provisional Ballots,General Assembly,14,Republican,Wayne Wittman,0
+Mercer,Provisional Ballots,General Assembly,14,Republican,Sheree McGowan,0
+Mercer,Provisional Ballots,General Assembly,14,Independent,Steven Welzer,0
 Middlesex,Cranbury Twp.,General Assembly,14,Democratic,Wayne P. DeAngelo,414
 Middlesex,Cranbury Twp.,General Assembly,14,Democratic,Daniel R. Benson,444
 Middlesex,Cranbury Twp.,General Assembly,14,Republican,Wayne Wittman,593
@@ -2339,6 +2931,16 @@ Middlesex,Spotswood Boro,General Assembly,14,Democratic,Daniel R. Benson,513
 Middlesex,Spotswood Boro,General Assembly,14,Republican,Wayne Wittman,639
 Middlesex,Spotswood Boro,General Assembly,14,Republican,Sheree McGowan,620
 Middlesex,Spotswood Boro,General Assembly,14,Independent,Steven Welzer,31
+Middlesex,Vote By Mail,General Assembly,14,Democratic,Wayne P. DeAngelo,615
+Middlesex,Vote By Mail,General Assembly,14,Democratic,Daniel R. Benson,588
+Middlesex,Vote By Mail,General Assembly,14,Republican,Wayne Wittman,491
+Middlesex,Vote By Mail,General Assembly,14,Republican,Sheree McGowan,472
+Middlesex,Vote By Mail,General Assembly,14,Independent,Steven Welzer,50
+Middlesex,Provisional Ballots,General Assembly,14,Democratic,Wayne P. DeAngelo,43
+Middlesex,Provisional Ballots,General Assembly,14,Democratic,Daniel R. Benson,38
+Middlesex,Provisional Ballots,General Assembly,14,Republican,Wayne Wittman,37
+Middlesex,Provisional Ballots,General Assembly,14,Republican,Sheree McGowan,34
+Middlesex,Provisional Ballots,General Assembly,14,Independent,Steven Welzer,2
 Hunterdon,East Amwell Twp.,General Assembly,15,Democratic,Reed Gusciora,495
 Hunterdon,East Amwell Twp.,General Assembly,15,Democratic,Bonnie Watson Coleman,493
 Hunterdon,East Amwell Twp.,General Assembly,15,Republican,Peter M. Yull,682
@@ -2351,6 +2953,14 @@ Hunterdon,West Amwell Twp.,General Assembly,15,Democratic,Reed Gusciora,164
 Hunterdon,West Amwell Twp.,General Assembly,15,Democratic,Bonnie Watson Coleman,167
 Hunterdon,West Amwell Twp.,General Assembly,15,Republican,Peter M. Yull,288
 Hunterdon,West Amwell Twp.,General Assembly,15,Republican,Kathy Kilcommons,296
+Hunterdon,Vote By Mail,General Assembly,15,Democratic,Reed Gusciora,0
+Hunterdon,Vote By Mail,General Assembly,15,Democratic,Bonnie Watson Coleman,0
+Hunterdon,Vote By Mail,General Assembly,15,Republican,Peter M. Yull,0
+Hunterdon,Vote By Mail,General Assembly,15,Republican,Kathy Kilcommons,0
+Hunterdon,Provisional Ballots,General Assembly,15,Democratic,Reed Gusciora,0
+Hunterdon,Provisional Ballots,General Assembly,15,Democratic,Bonnie Watson Coleman,0
+Hunterdon,Provisional Ballots,General Assembly,15,Republican,Peter M. Yull,0
+Hunterdon,Provisional Ballots,General Assembly,15,Republican,Kathy Kilcommons,0
 Mercer,Ewing Twp.,General Assembly,15,Democratic,Reed Gusciora,4404
 Mercer,Ewing Twp.,General Assembly,15,Democratic,Bonnie Watson Coleman,4374
 Mercer,Ewing Twp.,General Assembly,15,Republican,Peter M. Yull,2415
@@ -2379,6 +2989,14 @@ Mercer,West Windsor Twp.,General Assembly,15,Democratic,Reed Gusciora,2310
 Mercer,West Windsor Twp.,General Assembly,15,Democratic,Bonnie Watson Coleman,2265
 Mercer,West Windsor Twp.,General Assembly,15,Republican,Peter M. Yull,1952
 Mercer,West Windsor Twp.,General Assembly,15,Republican,Kathy Kilcommons,1968
+Mercer,Vote By Mail,General Assembly,15,Democratic,Reed Gusciora,0
+Mercer,Vote By Mail,General Assembly,15,Democratic,Bonnie Watson Coleman,0
+Mercer,Vote By Mail,General Assembly,15,Republican,Peter M. Yull,0
+Mercer,Vote By Mail,General Assembly,15,Republican,Kathy Kilcommons,0
+Mercer,Provisional Ballots,General Assembly,15,Democratic,Reed Gusciora,0
+Mercer,Provisional Ballots,General Assembly,15,Democratic,Bonnie Watson Coleman,0
+Mercer,Provisional Ballots,General Assembly,15,Republican,Peter M. Yull,0
+Mercer,Provisional Ballots,General Assembly,15,Republican,Kathy Kilcommons,0
 Hunterdon,Delaware Twp,General Assembly,16,Republican,Peter J. Biondi,623
 Hunterdon,Delaware Twp,General Assembly,16,Republican,Jack M. Ciattarelli,606
 Hunterdon,Delaware Twp,General Assembly,16,Democratic,Marie Corfield,384
@@ -2399,6 +3017,14 @@ Hunterdon,Stockton Boro,General Assembly,16,Republican,Peter J. Biondi,62
 Hunterdon,Stockton Boro,General Assembly,16,Republican,Jack M. Ciattarelli,60
 Hunterdon,Stockton Boro,General Assembly,16,Democratic,Marie Corfield,73
 Hunterdon,Stockton Boro,General Assembly,16,Democratic,Joe Camarota,70
+Hunterdon,Vote By Mail,General Assembly,16,Republican,Peter J. Biondi,0
+Hunterdon,Vote By Mail,General Assembly,16,Republican,Jack M. Ciattarelli,0
+Hunterdon,Vote By Mail,General Assembly,16,Democratic,Marie Corfield,0
+Hunterdon,Vote By Mail,General Assembly,16,Democratic,Joe Camarota,0
+Hunterdon,Provisional Ballots,General Assembly,16,Republican,Peter J. Biondi,0
+Hunterdon,Provisional Ballots,General Assembly,16,Republican,Jack M. Ciattarelli,0
+Hunterdon,Provisional Ballots,General Assembly,16,Democratic,Marie Corfield,0
+Hunterdon,Provisional Ballots,General Assembly,16,Democratic,Joe Camarota,0
 Mercer,Princeton Boro,General Assembly,16,Republican,Peter J. Biondi,595
 Mercer,Princeton Boro,General Assembly,16,Republican,Jack M. Ciattarelli,570
 Mercer,Princeton Boro,General Assembly,16,Democratic,Marie Corfield,1659
@@ -2407,10 +3033,26 @@ Mercer,Princeton Twp.,General Assembly,16,Republican,Peter J. Biondi,1387
 Mercer,Princeton Twp.,General Assembly,16,Republican,Jack M. Ciattarelli,1326
 Mercer,Princeton Twp.,General Assembly,16,Democratic,Marie Corfield,3052
 Mercer,Princeton Twp.,General Assembly,16,Democratic,Joe Camarota,3013
+Mercer,Vote By Mail,General Assembly,16,Republican,Peter J. Biondi,0
+Mercer,Vote By Mail,General Assembly,16,Republican,Jack M. Ciattarelli,0
+Mercer,Vote By Mail,General Assembly,16,Democratic,Marie Corfield,0
+Mercer,Vote By Mail,General Assembly,16,Democratic,Joe Camarota,0
+Mercer,Provisional Ballots,General Assembly,16,Republican,Peter J. Biondi,0
+Mercer,Provisional Ballots,General Assembly,16,Republican,Jack M. Ciattarelli,0
+Mercer,Provisional Ballots,General Assembly,16,Democratic,Marie Corfield,0
+Mercer,Provisional Ballots,General Assembly,16,Democratic,Joe Camarota,0
 Middlesex,South Brunswick Twp.,General Assembly,16,Republican,Peter J. Biondi,2121
 Middlesex,South Brunswick Twp.,General Assembly,16,Republican,Jack M. Ciattarelli,1925
 Middlesex,South Brunswick Twp.,General Assembly,16,Democratic,Marie Corfield,2862
 Middlesex,South Brunswick Twp.,General Assembly,16,Democratic,Joe Camarota,3121
+Middlesex,Vote By Mail,General Assembly,16,Republican,Peter J. Biondi,133
+Middlesex,Vote By Mail,General Assembly,16,Republican,Jack M. Ciattarelli,114
+Middlesex,Vote By Mail,General Assembly,16,Democratic,Marie Corfield,157
+Middlesex,Vote By Mail,General Assembly,16,Democratic,Joe Camarota,167
+Middlesex,Provisional Ballots,General Assembly,16,Republican,Peter J. Biondi,10
+Middlesex,Provisional Ballots,General Assembly,16,Republican,Jack M. Ciattarelli,5
+Middlesex,Provisional Ballots,General Assembly,16,Democratic,Marie Corfield,23
+Middlesex,Provisional Ballots,General Assembly,16,Democratic,Joe Camarota,25
 Somerset,Branchburg Twp.,General Assembly,16,Republican,Peter J. Biondi,2050
 Somerset,Branchburg Twp.,General Assembly,16,Republican,Jack M. Ciattarelli,2044
 Somerset,Branchburg Twp.,General Assembly,16,Democratic,Marie Corfield,872
@@ -2439,6 +3081,14 @@ Somerset,Somerville Boro,General Assembly,16,Republican,Peter J. Biondi,1192
 Somerset,Somerville Boro,General Assembly,16,Republican,Jack M. Ciattarelli,1182
 Somerset,Somerville Boro,General Assembly,16,Democratic,Marie Corfield,1055
 Somerset,Somerville Boro,General Assembly,16,Democratic,Joe Camarota,1035
+Somerset,Vote By Mail,General Assembly,16,Republican,Peter J. Biondi,0
+Somerset,Vote By Mail,General Assembly,16,Republican,Jack M. Ciattarelli,0
+Somerset,Vote By Mail,General Assembly,16,Democratic,Marie Corfield,0
+Somerset,Vote By Mail,General Assembly,16,Democratic,Joe Camarota,0
+Somerset,Provisional Ballots,General Assembly,16,Republican,Peter J. Biondi,0
+Somerset,Provisional Ballots,General Assembly,16,Republican,Jack M. Ciattarelli,0
+Somerset,Provisional Ballots,General Assembly,16,Democratic,Marie Corfield,0
+Somerset,Provisional Ballots,General Assembly,16,Democratic,Joe Camarota,0
 Middlesex,Milltown Boro,General Assembly,17,Democratic,Joseph V. Egan,1181
 Middlesex,Milltown Boro,General Assembly,17,Democratic,Upendra Chivukula,1103
 Middlesex,Milltown Boro,General Assembly,17,Republican,Carlo A. DiLalla,899
@@ -2455,10 +3105,26 @@ Middlesex,Piscataway Twp.,General Assembly,17,Democratic,Joseph V. Egan,3332
 Middlesex,Piscataway Twp.,General Assembly,17,Democratic,Upendra Chivukula,3232
 Middlesex,Piscataway Twp.,General Assembly,17,Republican,Carlo A. DiLalla,1647
 Middlesex,Piscataway Twp.,General Assembly,17,Republican,Robert S. Mettler,1618
+Middlesex,Vote By Mail,General Assembly,17,Democratic,Joseph V. Egan,399
+Middlesex,Vote By Mail,General Assembly,17,Democratic,Upendra Chivukula,383
+Middlesex,Vote By Mail,General Assembly,17,Republican,Carlo A. DiLalla,221
+Middlesex,Vote By Mail,General Assembly,17,Republican,Robert S. Mettler,223
+Middlesex,Provisional Ballots,General Assembly,17,Democratic,Joseph V. Egan,50
+Middlesex,Provisional Ballots,General Assembly,17,Democratic,Upendra Chivukula,49
+Middlesex,Provisional Ballots,General Assembly,17,Republican,Carlo A. DiLalla,11
+Middlesex,Provisional Ballots,General Assembly,17,Republican,Robert S. Mettler,15
 Somerset,Franklin Twp.,General Assembly,17,Democratic,Joseph V. Egan,5446
 Somerset,Franklin Twp.,General Assembly,17,Democratic,Upendra Chivukula,5470
 Somerset,Franklin Twp.,General Assembly,17,Republican,Carlo A. DiLalla,3404
 Somerset,Franklin Twp.,General Assembly,17,Republican,Robert S. Mettler,3695
+Somerset,Vote By Mail,General Assembly,17,Democratic,Joseph V. Egan,332
+Somerset,Vote By Mail,General Assembly,17,Democratic,Upendra Chivukula,339
+Somerset,Vote By Mail,General Assembly,17,Republican,Carlo A. DiLalla,232
+Somerset,Vote By Mail,General Assembly,17,Republican,Robert S. Mettler,262
+Somerset,Provisional Ballots,General Assembly,17,Democratic,Joseph V. Egan,18
+Somerset,Provisional Ballots,General Assembly,17,Democratic,Upendra Chivukula,15
+Somerset,Provisional Ballots,General Assembly,17,Republican,Carlo A. DiLalla,18
+Somerset,Provisional Ballots,General Assembly,17,Republican,Robert S. Mettler,16
 Middlesex,East Brunswick Twp.,General Assembly,18,Democratic,"Patrick J. Diegnan, Jr.",3295
 Middlesex,East Brunswick Twp.,General Assembly,18,Democratic,Peter J. Barnes III,3311
 Middlesex,East Brunswick Twp.,General Assembly,18,Republican,Joseph Sinagra,3521
@@ -2487,6 +3153,14 @@ Middlesex,South River Boro,General Assembly,18,Democratic,"Patrick J. Diegnan, J
 Middlesex,South River Boro,General Assembly,18,Democratic,Peter J. Barnes III,1178
 Middlesex,South River Boro,General Assembly,18,Republican,Joseph Sinagra,1280
 Middlesex,South River Boro,General Assembly,18,Republican,Marcia Silva,1283
+Middlesex,Vote By Mail,General Assembly,18,Democratic,"Patrick J. Diegnan, Jr.",1052
+Middlesex,Vote By Mail,General Assembly,18,Democratic,Peter J. Barnes III,1047
+Middlesex,Vote By Mail,General Assembly,18,Republican,Joseph Sinagra,731
+Middlesex,Vote By Mail,General Assembly,18,Republican,Marcia Silva,655
+Middlesex,Provisional Ballots,General Assembly,18,Democratic,"Patrick J. Diegnan, Jr.",53
+Middlesex,Provisional Ballots,General Assembly,18,Democratic,Peter J. Barnes III,58
+Middlesex,Provisional Ballots,General Assembly,18,Republican,Joseph Sinagra,32
+Middlesex,Provisional Ballots,General Assembly,18,Republican,Marcia Silva,30
 Middlesex,Carteret Boro,General Assembly,19,Democratic,John S. Wisniewski,1897
 Middlesex,Carteret Boro,General Assembly,19,Democratic,Craig J. Coughlin,1833
 Middlesex,Carteret Boro,General Assembly,19,Republican,Angel J. Leon,633
@@ -2507,6 +3181,14 @@ Middlesex,Woodbridge Twp.,General Assembly,19,Democratic,John S. Wisniewski,9011
 Middlesex,Woodbridge Twp.,General Assembly,19,Democratic,Craig J. Coughlin,8838
 Middlesex,Woodbridge Twp.,General Assembly,19,Republican,Angel J. Leon,4158
 Middlesex,Woodbridge Twp.,General Assembly,19,Republican,Shane Robinson,3987
+Middlesex,Vote By Mail,General Assembly,19,Democratic,John S. Wisniewski,809
+Middlesex,Vote By Mail,General Assembly,19,Democratic,Craig J. Coughlin,774
+Middlesex,Vote By Mail,General Assembly,19,Republican,Angel J. Leon,387
+Middlesex,Vote By Mail,General Assembly,19,Republican,Shane Robinson,425
+Middlesex,Provisionals Ballots,General Assembly,19,Democratic,John S. Wisniewski,68
+Middlesex,Provisionals Ballots,General Assembly,19,Democratic,Craig J. Coughlin,66
+Middlesex,Provisionals Ballots,General Assembly,19,Republican,Angel J. Leon,22
+Middlesex,Provisionals Ballots,General Assembly,19,Republican,Shane Robinson,17
 Union,Elizabeth City,General Assembly,20,Democratic,Joseph Cryan,4296
 Union,Elizabeth City,General Assembly,20,Democratic,Annette Quijano,4411
 Union,Elizabeth City,General Assembly,20,Republican,John F. Donoso,1223
@@ -2519,6 +3201,12 @@ Union,Roselle Boro,General Assembly,20,Republican,John F. Donoso,319
 Union,Union Twp.,General Assembly,20,Democratic,Joseph Cryan,3910
 Union,Union Twp.,General Assembly,20,Democratic,Annette Quijano,3850
 Union,Union Twp.,General Assembly,20,Republican,John F. Donoso,2013
+Union,Vote By Mail,General Assembly,20,Democratic,Joseph Cryan,0
+Union,Vote By Mail,General Assembly,20,Democratic,Annette Quijano,0
+Union,Vote By Mail,General Assembly,20,Republican,John F. Donoso,0
+Union,Provisionals Ballots,General Assembly,20,Democratic,Joseph Cryan,0
+Union,Provisionals Ballots,General Assembly,20,Democratic,Annette Quijano,0
+Union,Provisionals Ballots,General Assembly,20,Republican,John F. Donoso,0
 Morris,Chatham Boro,General Assembly,21,Republican,Jon Bramnick,1267
 Morris,Chatham Boro,General Assembly,21,Republican,Nancy F. Munoz,1297
 Morris,Chatham Boro,General Assembly,21,Democratic,Bruce H. Bergen,653
@@ -2529,6 +3217,16 @@ Morris,Long Hill Twp.,General Assembly,21,Republican,Nancy F. Munoz,1025
 Morris,Long Hill Twp.,General Assembly,21,Democratic,Bruce H. Bergen,401
 Morris,Long Hill Twp.,General Assembly,21,Democratic,Norman W. Albert,417
 Morris,Long Hill Twp.,General Assembly,21,Independent,Darren Young,56
+Morris,Vote By Mail,General Assembly,21,Republican,Jon Bramnick,0
+Morris,Vote By Mail,General Assembly,21,Republican,Nancy F. Munoz,0
+Morris,Vote By Mail,General Assembly,21,Democratic,Bruce H. Bergen,0
+Morris,Vote By Mail,General Assembly,21,Democratic,Norman W. Albert,0
+Morris,Vote By Mail,General Assembly,21,Independent,Darren Young,0
+Morris,Provisional Ballots,General Assembly,21,Republican,Jon Bramnick,0
+Morris,Provisional Ballots,General Assembly,21,Republican,Nancy F. Munoz,0
+Morris,Provisional Ballots,General Assembly,21,Democratic,Bruce H. Bergen,0
+Morris,Provisional Ballots,General Assembly,21,Democratic,Norman W. Albert,0
+Morris,Provisional Ballots,General Assembly,21,Independent,Darren Young,0
 Somerset,Bernards Twp.,General Assembly,21,Republican,Jon Bramnick,2975
 Somerset,Bernards Twp.,General Assembly,21,Republican,Nancy F. Munoz,3046
 Somerset,Bernards Twp.,General Assembly,21,Democratic,Bruce H. Bergen,1285
@@ -2549,6 +3247,16 @@ Somerset,Watchung Boro,General Assembly,21,Republican,Nancy F. Munoz,674
 Somerset,Watchung Boro,General Assembly,21,Democratic,Bruce H. Bergen,239
 Somerset,Watchung Boro,General Assembly,21,Democratic,Norman W. Albert,236
 Somerset,Watchung Boro,General Assembly,21,Independent,Darren Young,20
+Somerset,Vote By Mail,General Assembly,21,Republican,Jon Bramnick,0
+Somerset,Vote By Mail,General Assembly,21,Republican,Nancy F. Munoz,0
+Somerset,Vote By Mail,General Assembly,21,Democratic,Bruce H. Bergen,0
+Somerset,Vote By Mail,General Assembly,21,Democratic,Norman W. Albert,0
+Somerset,Vote By Mail,General Assembly,21,Independent,Darren Young,0
+Somerset,Provisional Ballots,General Assembly,21,Republican,Jon Bramnick,0
+Somerset,Provisional Ballots,General Assembly,21,Republican,Nancy F. Munoz,0
+Somerset,Provisional Ballots,General Assembly,21,Democratic,Bruce H. Bergen,0
+Somerset,Provisional Ballots,General Assembly,21,Democratic,Norman W. Albert,0
+Somerset,Provisional Ballots,General Assembly,21,Independent,Darren Young,0
 Union,Berkeley Heights Twp.,General Assembly,21,Republican,Jon Bramnick,1560
 Union,Berkeley Heights Twp.,General Assembly,21,Republican,Nancy F. Munoz,1595
 Union,Berkeley Heights Twp.,General Assembly,21,Democratic,Bruce H. Bergen,662
@@ -2599,6 +3307,16 @@ Union,Westfield Town,General Assembly,21,Republican,Nancy F. Munoz,3465
 Union,Westfield Town,General Assembly,21,Democratic,Bruce H. Bergen,2140
 Union,Westfield Town,General Assembly,21,Democratic,Norman W. Albert,2216
 Union,Westfield Town,General Assembly,21,Independent,Darren Young,142
+Union,Vote By Mail,General Assembly,21,Republican,Jon Bramnick,0
+Union,Vote By Mail,General Assembly,21,Republican,Nancy F. Munoz,0
+Union,Vote By Mail,General Assembly,21,Democratic,Bruce H. Bergen,0
+Union,Vote By Mail,General Assembly,21,Democratic,Norman W. Albert,0
+Union,Vote By Mail,General Assembly,21,Independent,Darren Young,0
+Union,Provisional Ballots,General Assembly,21,Republican,Jon Bramnick,0
+Union,Provisional Ballots,General Assembly,21,Republican,Nancy F. Munoz,0
+Union,Provisional Ballots,General Assembly,21,Democratic,Bruce H. Bergen,0
+Union,Provisional Ballots,General Assembly,21,Democratic,Norman W. Albert,0
+Union,Provisional Ballots,General Assembly,21,Independent,Darren Young,0
 Middlesex,Dunellen Boro,General Assembly,22,Democratic,Jerry Green,272
 Middlesex,Dunellen Boro,General Assembly,22,Democratic,Linda Stender,280
 Middlesex,Dunellen Boro,General Assembly,22,Republican,Joan D. Van Pelt,394
@@ -2607,6 +3325,14 @@ Middlesex,Middlesex Boro,General Assembly,22,Democratic,Jerry Green,1317
 Middlesex,Middlesex Boro,General Assembly,22,Democratic,Linda Stender,1309
 Middlesex,Middlesex Boro,General Assembly,22,Republican,Joan D. Van Pelt,1461
 Middlesex,Middlesex Boro,General Assembly,22,Republican,Jeffrey D. First,1389
+Middlesex,Vote By Mail,General Assembly,22,Democratic,Jerry Green,53
+Middlesex,Vote By Mail,General Assembly,22,Democratic,Linda Stender,52
+Middlesex,Vote By Mail,General Assembly,22,Republican,Joan D. Van Pelt,42
+Middlesex,Vote By Mail,General Assembly,22,Republican,Jeffrey D. First,42
+Middlesex,Provisional Ballots,General Assembly,22,Democratic,Jerry Green,1
+Middlesex,Provisional Ballots,General Assembly,22,Democratic,Linda Stender,1
+Middlesex,Provisional Ballots,General Assembly,22,Republican,Joan D. Van Pelt,0
+Middlesex,Provisional Ballots,General Assembly,22,Republican,Jeffrey D. First,0
 Somerset,Green Brook Twp.,General Assembly,22,Democratic,Jerry Green,491
 Somerset,Green Brook Twp.,General Assembly,22,Democratic,Linda Stender,492
 Somerset,Green Brook Twp.,General Assembly,22,Republican,Joan D. Van Pelt,727
@@ -2615,6 +3341,14 @@ Somerset,North Plainfield Boro,General Assembly,22,Democratic,Jerry Green,873
 Somerset,North Plainfield Boro,General Assembly,22,Democratic,Linda Stender,925
 Somerset,North Plainfield Boro,General Assembly,22,Republican,Joan D. Van Pelt,763
 Somerset,North Plainfield Boro,General Assembly,22,Republican,Jeffrey D. First,740
+Somerset,Vote By Mail,General Assembly,22,Democratic,Jerry Green,0
+Somerset,Vote By Mail,General Assembly,22,Democratic,Linda Stender,0
+Somerset,Vote By Mail,General Assembly,22,Republican,Joan D. Van Pelt,0
+Somerset,Vote By Mail,General Assembly,22,Republican,Jeffrey D. First,0
+Somerset,Provisional Ballots,General Assembly,22,Democratic,Jerry Green,0
+Somerset,Provisional Ballots,General Assembly,22,Democratic,Linda Stender,0
+Somerset,Provisional Ballots,General Assembly,22,Republican,Joan D. Van Pelt,0
+Somerset,Provisional Ballots,General Assembly,22,Republican,Jeffrey D. First,0
 Union,Clark Twp.,General Assembly,22,Democratic,Jerry Green,824
 Union,Clark Twp.,General Assembly,22,Democratic,Linda Stender,879
 Union,Clark Twp.,General Assembly,22,Republican,Joan D. Van Pelt,1272
@@ -2643,6 +3377,14 @@ Union,Winfield Twp.,General Assembly,22,Democratic,Jerry Green,140
 Union,Winfield Twp.,General Assembly,22,Democratic,Linda Stender,149
 Union,Winfield Twp.,General Assembly,22,Republican,Joan D. Van Pelt,109
 Union,Winfield Twp.,General Assembly,22,Republican,Jeffrey D. First,107
+Union,Vote By Mail,General Assembly,22,Democratic,Jerry Green,0
+Union,Vote By Mail,General Assembly,22,Democratic,Linda Stender,0
+Union,Vote By Mail,General Assembly,22,Republican,Joan D. Van Pelt,0
+Union,Vote By Mail,General Assembly,22,Republican,Jeffrey D. First,0
+Union,Provisional Ballots,General Assembly,22,Democratic,Jerry Green,0
+Union,Provisional Ballots,General Assembly,22,Democratic,Linda Stender,0
+Union,Provisional Ballots,General Assembly,22,Republican,Joan D. Van Pelt,0
+Union,Provisional Ballots,General Assembly,22,Republican,Jeffrey D. First,0
 Hunterdon,Alexandria Twp.,General Assembly,23,Republican,Erik Peterson,509
 Hunterdon,Alexandria Twp.,General Assembly,23,Republican,John DiMaio,500
 Hunterdon,Alexandria Twp.,General Assembly,23,Democratic,Scott McDonald,157
@@ -2715,6 +3457,14 @@ Hunterdon,Union Twp.,General Assembly,23,Republican,Erik Peterson,514
 Hunterdon,Union Twp.,General Assembly,23,Republican,John DiMaio,505
 Hunterdon,Union Twp.,General Assembly,23,Democratic,Scott McDonald,181
 Hunterdon,Union Twp.,General Assembly,23,Democratic,Karen Carroll,211
+Hunterdon,Vote By Mail,General Assembly,23,Republican,Erik Peterson,585
+Hunterdon,Vote By Mail,General Assembly,23,Republican,John DiMaio,547
+Hunterdon,Vote By Mail,General Assembly,23,Democratic,Scott McDonald,258
+Hunterdon,Vote By Mail,General Assembly,23,Democratic,Karen Carroll,296
+Hunterdon,Provisional Ballots,General Assembly,23,Republican,Erik Peterson,25
+Hunterdon,Provisional Ballots,General Assembly,23,Republican,John DiMaio,20
+Hunterdon,Provisional Ballots,General Assembly,23,Democratic,Scott McDonald,15
+Hunterdon,Provisional Ballots,General Assembly,23,Democratic,Karen Carroll,19
 Somerset,Bedminister Twp.,General Assembly,23,Republican,Erik Peterson,879
 Somerset,Bedminister Twp.,General Assembly,23,Republican,John DiMaio,886
 Somerset,Bedminister Twp.,General Assembly,23,Democratic,Scott McDonald,584
@@ -2739,6 +3489,14 @@ Somerset,South Bound Brook Boro,General Assembly,23,Republican,Erik Peterson,373
 Somerset,South Bound Brook Boro,General Assembly,23,Republican,John DiMaio,376
 Somerset,South Bound Brook Boro,General Assembly,23,Democratic,Scott McDonald,300
 Somerset,South Bound Brook Boro,General Assembly,23,Democratic,Karen Carroll,331
+Somerset,Vote By Mail,General Assembly,23,Republican,Erik Peterson,0
+Somerset,Vote By Mail,General Assembly,23,Republican,John DiMaio,0
+Somerset,Vote By Mail,General Assembly,23,Democratic,Scott McDonald,0
+Somerset,Vote By Mail,General Assembly,23,Democratic,Karen Carroll,0
+Somerset,Provisional Ballots,General Assembly,23,Republican,Erik Peterson,0
+Somerset,Provisional Ballots,General Assembly,23,Republican,John DiMaio,0
+Somerset,Provisional Ballots,General Assembly,23,Democratic,Scott McDonald,0
+Somerset,Provisional Ballots,General Assembly,23,Democratic,Karen Carroll,0
 Warren,Alpha Boro,General Assembly,23,Republican,Erik Peterson,212
 Warren,Alpha Boro,General Assembly,23,Republican,John DiMaio,245
 Warren,Alpha Boro,General Assembly,23,Democratic,Scott McDonald,229
@@ -2783,12 +3541,32 @@ Warren,Washington Twp.,General Assembly,23,Republican,Erik Peterson,524
 Warren,Washington Twp.,General Assembly,23,Republican,John DiMaio,525
 Warren,Washington Twp.,General Assembly,23,Democratic,Scott McDonald,250
 Warren,Washington Twp.,General Assembly,23,Democratic,Karen Carroll,254
+Warren,Vote By Mail,General Assembly,23,Republican,Erik Peterson,0
+Warren,Vote By Mail,General Assembly,23,Republican,John DiMaio,0
+Warren,Vote By Mail,General Assembly,23,Democratic,Scott McDonald,0
+Warren,Vote By Mail,General Assembly,23,Democratic,Karen Carroll,0
+Warren,Provisional Ballots,General Assembly,23,Republican,Erik Peterson,0
+Warren,Provisional Ballots,General Assembly,23,Republican,John DiMaio,0
+Warren,Provisional Ballots,General Assembly,23,Democratic,Scott McDonald,0
+Warren,Provisional Ballots,General Assembly,23,Democratic,Karen Carroll,0
 Morris,Mount Olive Twp.,General Assembly,24,Republican,Alison Littell McHose,2160
 Morris,Mount Olive Twp.,General Assembly,24,Republican,Gary R. Chiusano,2105
 Morris,Mount Olive Twp.,General Assembly,24,Democratic,Leslie Huhn,1117
 Morris,Mount Olive Twp.,General Assembly,24,Democratic,Jim Nye,1096
 Morris,Mount Olive Twp.,General Assembly,24,Independent,Rose Ann Salanitri,160
 Morris,Mount Olive Twp.,General Assembly,24,Independent,Mark D. Quick,101
+Morris,Vote By Mail,General Assembly,24,Republican,Alison Littell McHose,0
+Morris,Vote By Mail,General Assembly,24,Republican,Gary R. Chiusano,0
+Morris,Vote By Mail,General Assembly,24,Democratic,Leslie Huhn,0
+Morris,Vote By Mail,General Assembly,24,Democratic,Jim Nye,0
+Morris,Vote By Mail,General Assembly,24,Independent,Rose Ann Salanitri,0
+Morris,Vote By Mail,General Assembly,24,Independent,Mark D. Quick,0
+Morris,Provisional Ballots,General Assembly,24,Republican,Alison Littell McHose,0
+Morris,Provisional Ballots,General Assembly,24,Republican,Gary R. Chiusano,0
+Morris,Provisional Ballots,General Assembly,24,Democratic,Leslie Huhn,0
+Morris,Provisional Ballots,General Assembly,24,Democratic,Jim Nye,0
+Morris,Provisional Ballots,General Assembly,24,Independent,Rose Ann Salanitri,0
+Morris,Provisional Ballots,General Assembly,24,Independent,Mark D. Quick,0
 Sussex,Andover Boro,General Assembly,24,Republican,Alison Littell McHose,64
 Sussex,Andover Boro,General Assembly,24,Republican,Gary R. Chiusano,67
 Sussex,Andover Boro,General Assembly,24,Democratic,Leslie Huhn,59
@@ -2933,6 +3711,18 @@ Sussex,Wantage Twp.,General Assembly,24,Democratic,Leslie Huhn,608
 Sussex,Wantage Twp.,General Assembly,24,Democratic,Jim Nye,593
 Sussex,Wantage Twp.,General Assembly,24,Independent,Rose Ann Salanitri,162
 Sussex,Wantage Twp.,General Assembly,24,Independent,Mark D. Quick,63
+Sussex,Vote By Mail,General Assembly,24,Republican,Alison Littell McHose,0
+Sussex,Vote By Mail,General Assembly,24,Republican,Gary R. Chiusano,0
+Sussex,Vote By Mail,General Assembly,24,Democratic,Leslie Huhn,0
+Sussex,Vote By Mail,General Assembly,24,Democratic,Jim Nye,0
+Sussex,Vote By Mail,General Assembly,24,Independent,Rose Ann Salanitri,0
+Sussex,Vote By Mail,General Assembly,24,Independent,Mark D. Quick,0
+Sussex,Provisional Ballots,General Assembly,24,Republican,Alison Littell McHose,0
+Sussex,Provisional Ballots,General Assembly,24,Republican,Gary R. Chiusano,0
+Sussex,Provisional Ballots,General Assembly,24,Democratic,Leslie Huhn,0
+Sussex,Provisional Ballots,General Assembly,24,Democratic,Jim Nye,0
+Sussex,Provisional Ballots,General Assembly,24,Independent,Rose Ann Salanitri,0
+Sussex,Provisional Ballots,General Assembly,24,Independent,Mark D. Quick,0
 Warren,Allamuchy Twp.,General Assembly,24,Republican,Alison Littell McHose,356
 Warren,Allamuchy Twp.,General Assembly,24,Republican,Gary R. Chiusano,348
 Warren,Allamuchy Twp.,General Assembly,24,Democratic,Leslie Huhn,136
@@ -2999,10 +3789,30 @@ Warren,White Twp.,General Assembly,24,Democratic,Leslie Huhn,207
 Warren,White Twp.,General Assembly,24,Democratic,Jim Nye,200
 Warren,White Twp.,General Assembly,24,Independent,Rose Ann Salanitri,118
 Warren,White Twp.,General Assembly,24,Independent,Mark D. Quick,51
+Warren,Vote By Mail,General Assembly,24,Republican,Alison Littell McHose,0
+Warren,Vote By Mail,General Assembly,24,Republican,Gary R. Chiusano,0
+Warren,Vote By Mail,General Assembly,24,Democratic,Leslie Huhn,0
+Warren,Vote By Mail,General Assembly,24,Democratic,Jim Nye,0
+Warren,Vote By Mail,General Assembly,24,Independent,Rose Ann Salanitri,0
+Warren,Vote By Mail,General Assembly,24,Independent,Mark D. Quick,0
+Warren,Provisional Ballots,General Assembly,24,Republican,Alison Littell McHose,0
+Warren,Provisional Ballots,General Assembly,24,Republican,Gary R. Chiusano,0
+Warren,Provisional Ballots,General Assembly,24,Democratic,Leslie Huhn,0
+Warren,Provisional Ballots,General Assembly,24,Democratic,Jim Nye,0
+Warren,Provisional Ballots,General Assembly,24,Independent,Rose Ann Salanitri,0
+Warren,Provisional Ballots,General Assembly,24,Independent,Mark D. Quick,0
 Somerset,Bernardsville Boro,General Assembly,25,Republican,Michael Patrick Carroll,1078
 Somerset,Bernardsville Boro,General Assembly,25,Republican,Anthony M. Bucco,1071
 Somerset,Bernardsville Boro,General Assembly,25,Democratic,George Stafford,514
 Somerset,Bernardsville Boro,General Assembly,25,Democratic,Gale Heiss Colucci,501
+Somerset,Vote By Mail,General Assembly,25,Republican,Michael Patrick Carroll,78
+Somerset,Vote By Mail,General Assembly,25,Republican,Anthony M. Bucco,79
+Somerset,Vote By Mail,General Assembly,25,Democratic,George Stafford,36
+Somerset,Vote By Mail,General Assembly,25,Democratic,Gale Heiss Colucci,35
+Somerset,Provisional Ballots,General Assembly,25,Republican,Michael Patrick Carroll,3
+Somerset,Provisional Ballots,General Assembly,25,Republican,Anthony M. Bucco,4
+Somerset,Provisional Ballots,General Assembly,25,Democratic,George Stafford,6
+Somerset,Provisional Ballots,General Assembly,25,Democratic,Gale Heiss Colucci,7
 Morris,Boonton Town,General Assembly,25,Republican,Michael Patrick Carroll,646
 Morris,Boonton Town,General Assembly,25,Republican,Anthony M. Bucco,631
 Morris,Boonton Town,General Assembly,25,Democratic,George Stafford,407
@@ -3083,58 +3893,109 @@ Morris,Wharton Boro,General Assembly,25,Republican,Michael Patrick Carroll,340
 Morris,Wharton Boro,General Assembly,25,Republican,Anthony M. Bucco,337
 Morris,Wharton Boro,General Assembly,25,Democratic,George Stafford,314
 Morris,Wharton Boro,General Assembly,25,Democratic,Gale Heiss Colucci,315
+Morris,Vote By Mail,General Assembly,25,Republican,Michael Patrick Carroll,0
+Morris,Vote By Mail,General Assembly,25,Republican,Anthony M. Bucco,0
+Morris,Vote By Mail,General Assembly,25,Democratic,George Stafford,0
+Morris,Vote By Mail,General Assembly,25,Democratic,Gale Heiss Colucci,0
+Morris,Provisional Ballots,General Assembly,25,Republican,Michael Patrick Carroll,0
+Morris,Provisional Ballots,General Assembly,25,Republican,Anthony M. Bucco,0
+Morris,Provisional Ballots,General Assembly,25,Democratic,George Stafford,0
+Morris,Provisional Ballots,General Assembly,25,Democratic,Gale Heiss Colucci,0
 Essex,Fairfield Twp.,General Assembly,26,Republican,Alex DeCroce,753
 Essex,Fairfield Twp.,General Assembly,26,Republican,Jay Webber,725
 Essex,Fairfield Twp.,General Assembly,26,Democratic,Elliot Isibor,235
 Essex,Fairfield Twp.,General Assembly,26,Democratic,Joseph Raich,251
+Essex,Fairfield Twp.,General Assembly,26,Independent,Michael Spector,24
 Essex,North Caldwell Boro,General Assembly,26,Republican,Alex DeCroce,519
 Essex,North Caldwell Boro,General Assembly,26,Republican,Jay Webber,516
 Essex,North Caldwell Boro,General Assembly,26,Democratic,Elliot Isibor,238
 Essex,North Caldwell Boro,General Assembly,26,Democratic,Joseph Raich,247
+Essex,North Caldwell Boro,General Assembly,26,Independent,Michael Spector,18
 Essex,Verona Twp.,General Assembly,26,Republican,Alex DeCroce,1051
 Essex,Verona Twp.,General Assembly,26,Republican,Jay Webber,1025
 Essex,Verona Twp.,General Assembly,26,Democratic,Elliot Isibor,815
 Essex,Verona Twp.,General Assembly,26,Democratic,Joseph Raich,847
+Essex,Verona Twp.,General Assembly,26,Independent,Michael Spector,81
 Essex,West Caldwell Twp.,General Assembly,26,Republican,Alex DeCroce,1091
 Essex,West Caldwell Twp.,General Assembly,26,Republican,Jay Webber,1061
 Essex,West Caldwell Twp.,General Assembly,26,Democratic,Elliot Isibor,694
 Essex,West Caldwell Twp.,General Assembly,26,Democratic,Joseph Raich,719
+Essex,West Caldwell Twp.,General Assembly,26,Independent,Michael Spector,35
+Essex,Vote By Mail,General Assembly,26,Republican,Alex DeCroce,0
+Essex,Vote By Mail,General Assembly,26,Republican,Jay Webber,0
+Essex,Vote By Mail,General Assembly,26,Democratic,Elliot Isibor,0
+Essex,Vote By Mail,General Assembly,26,Democratic,Joseph Raich,0
+Essex,Vote By Mail,General Assembly,26,Independent,Michael Spector,0
+Essex,Provisional Ballots,General Assembly,26,Republican,Alex DeCroce,0
+Essex,Provisional Ballots,General Assembly,26,Republican,Jay Webber,0
+Essex,Provisional Ballots,General Assembly,26,Democratic,Elliot Isibor,0
+Essex,Provisional Ballots,General Assembly,26,Democratic,Joseph Raich,0
+Essex,Provisional Ballots,General Assembly,26,Independent,Michael Spector,0
 Morris,Butler Boro,General Assembly,26,Republican,Alex DeCroce,522
 Morris,Butler Boro,General Assembly,26,Republican,Jay Webber,510
 Morris,Butler Boro,General Assembly,26,Democratic,Elliot Isibor,223
 Morris,Butler Boro,General Assembly,26,Democratic,Joseph Raich,246
+Morris,Butler Boro,General Assembly,26,Independent,Michael Spector,40
 Morris,Jefferson Twp.,General Assembly,26,Republican,Alex DeCroce,1403
 Morris,Jefferson Twp.,General Assembly,26,Republican,Jay Webber,1411
 Morris,Jefferson Twp.,General Assembly,26,Democratic,Elliot Isibor,667
 Morris,Jefferson Twp.,General Assembly,26,Democratic,Joseph Raich,718
+Morris,Jefferson Twp.,General Assembly,26,Independent,Michael Spector,98
 Morris,Kinnelon Boro,General Assembly,26,Republican,Alex DeCroce,849
 Morris,Kinnelon Boro,General Assembly,26,Republican,Jay Webber,837
 Morris,Kinnelon Boro,General Assembly,26,Democratic,Elliot Isibor,270
 Morris,Kinnelon Boro,General Assembly,26,Democratic,Joseph Raich,290
+Morris,Kinnelon Boro,General Assembly,26,Independent,Michael Spector,32
 Morris,Lincoln Park Boro,General Assembly,26,Republican,Alex DeCroce,669
 Morris,Lincoln Park Boro,General Assembly,26,Republican,Jay Webber,666
 Morris,Lincoln Park Boro,General Assembly,26,Democratic,Elliot Isibor,353
 Morris,Lincoln Park Boro,General Assembly,26,Democratic,Joseph Raich,370
+Morris,Lincoln Park Boro,General Assembly,26,Independent,Michael Spector,49
 Morris,Montville Twp.,General Assembly,26,Republican,Alex DeCroce,2261
 Morris,Montville Twp.,General Assembly,26,Republican,Jay Webber,2237
 Morris,Montville Twp.,General Assembly,26,Democratic,Elliot Isibor,893
 Morris,Montville Twp.,General Assembly,26,Democratic,Joseph Raich,943
+Morris,Montville Twp.,General Assembly,26,Independent,Michael Spector,82
 Morris,Morris Plains Boro,General Assembly,26,Republican,Alex DeCroce,750
 Morris,Morris Plains Boro,General Assembly,26,Republican,Jay Webber,802
 Morris,Morris Plains Boro,General Assembly,26,Democratic,Elliot Isibor,379
 Morris,Morris Plains Boro,General Assembly,26,Democratic,Joseph Raich,382
+Morris,Morris Plains Boro,General Assembly,26,Independent,Michael Spector,34
 Morris,Parsippany-Troy Hills Twp.,General Assembly,26,Republican,Alex DeCroce,4155
 Morris,Parsippany-Troy Hills Twp.,General Assembly,26,Republican,Jay Webber,4096
 Morris,Parsippany-Troy Hills Twp.,General Assembly,26,Democratic,Elliot Isibor,2377
 Morris,Parsippany-Troy Hills Twp.,General Assembly,26,Democratic,Joseph Raich,2476
+Morris,Parsippany-Troy Hills Twp.,General Assembly,26,Independent,Michael Spector,223
 Morris,Rockaway Twp.,General Assembly,26,Republican,Alex DeCroce,2361
 Morris,Rockaway Twp.,General Assembly,26,Republican,Jay Webber,2346
 Morris,Rockaway Twp.,General Assembly,26,Democratic,Elliot Isibor,1167
 Morris,Rockaway Twp.,General Assembly,26,Democratic,Joseph Raich,1216
+Morris,Rockaway Twp.,General Assembly,26,Independent,Michael Spector,184
+Morris,Vote By Mail,General Assembly,26,Republican,Alex DeCroce,0
+Morris,Vote By Mail,General Assembly,26,Republican,Jay Webber,0
+Morris,Vote By Mail,General Assembly,26,Democratic,Elliot Isibor,0
+Morris,Vote By Mail,General Assembly,26,Democratic,Joseph Raich,0
+Morris,Vote By Mail,General Assembly,26,Independent,Michael Spector,0
+Morris,Provisional Ballots,General Assembly,26,Republican,Alex DeCroce,0
+Morris,Provisional Ballots,General Assembly,26,Republican,Jay Webber,0
+Morris,Provisional Ballots,General Assembly,26,Democratic,Elliot Isibor,0
+Morris,Provisional Ballots,General Assembly,26,Democratic,Joseph Raich,0
+Morris,Provisional Ballots,General Assembly,26,Independent,Michael Spector,0
 Passaic,West Milford Twp.,General Assembly,26,Republican,Alex DeCroce,3312
 Passaic,West Milford Twp.,General Assembly,26,Republican,Jay Webber,3311
 Passaic,West Milford Twp.,General Assembly,26,Democratic,Elliot Isibor,2008
 Passaic,West Milford Twp.,General Assembly,26,Democratic,Joseph Raich,2142
+Passaic,West Milford Twp.,General Assembly,26,Independent,Michael Spector,195
+Passaic,Vote By Mail,General Assembly,26,Republican,Alex DeCroce,0
+Passaic,Vote By Mail,General Assembly,26,Republican,Jay Webber,0
+Passaic,Vote By Mail,General Assembly,26,Democratic,Elliot Isibor,0
+Passaic,Vote By Mail,General Assembly,26,Democratic,Joseph Raich,0
+Passaic,Vote By Mail,General Assembly,26,Independent,Michael Spector,0
+Passaic,Provisional Ballots,General Assembly,26,Republican,Alex DeCroce,0
+Passaic,Provisional Ballots,General Assembly,26,Republican,Jay Webber,0
+Passaic,Provisional Ballots,General Assembly,26,Democratic,Elliot Isibor,0
+Passaic,Provisional Ballots,General Assembly,26,Democratic,Joseph Raich,0
+Passaic,Provisional Ballots,General Assembly,26,Independent,Michael Spector,0
 Essex,Caldwell Boro,General Assembly,27,Democratic,John F. McKeon,864
 Essex,Caldwell Boro,General Assembly,27,Democratic,Mila M. Jasey,811
 Essex,Caldwell Boro,General Assembly,27,Republican,Lee Holtzman,795
@@ -3167,6 +4028,14 @@ Essex,West Orange Twp.,General Assembly,27,Democratic,John F. McKeon,5488
 Essex,West Orange Twp.,General Assembly,27,Democratic,Mila M. Jasey,5257
 Essex,West Orange Twp.,General Assembly,27,Republican,Lee Holtzman,2385
 Essex,West Orange Twp.,General Assembly,27,Republican,Nicole Hagner,2327
+Essex,Vote By Mail,General Assembly,27,Democratic,John F. McKeon,0
+Essex,Vote By Mail,General Assembly,27,Democratic,Mila M. Jasey,0
+Essex,Vote By Mail,General Assembly,27,Republican,Lee Holtzman,0
+Essex,Vote By Mail,General Assembly,27,Republican,Nicole Hagner,0
+Essex,Provisional Ballots,General Assembly,27,Democratic,John F. McKeon,0
+Essex,Provisional Ballots,General Assembly,27,Democratic,Mila M. Jasey,0
+Essex,Provisional Ballots,General Assembly,27,Republican,Lee Holtzman,0
+Essex,Provisional Ballots,General Assembly,27,Republican,Nicole Hagner,0
 Morris,Chatham Twp.,General Assembly,27,Democratic,John F. McKeon,757
 Morris,Chatham Twp.,General Assembly,27,Democratic,Mila M. Jasey,686
 Morris,Chatham Twp.,General Assembly,27,Republican,Lee Holtzman,1299
@@ -3191,6 +4060,14 @@ Morris,Madison Boro,General Assembly,27,Democratic,John F. McKeon,1692
 Morris,Madison Boro,General Assembly,27,Democratic,Mila M. Jasey,1623
 Morris,Madison Boro,General Assembly,27,Republican,Lee Holtzman,2007
 Morris,Madison Boro,General Assembly,27,Republican,Nicole Hagner,2018
+Morris,Vote By Mail,General Assembly,27,Democratic,John F. McKeon,0
+Morris,Vote By Mail,General Assembly,27,Democratic,Mila M. Jasey,0
+Morris,Vote By Mail,General Assembly,27,Republican,Lee Holtzman,0
+Morris,Vote By Mail,General Assembly,27,Republican,Nicole Hagner,0
+Morris,Provisional Ballots,General Assembly,27,Democratic,John F. McKeon,0
+Morris,Provisional Ballots,General Assembly,27,Democratic,Mila M. Jasey,0
+Morris,Provisional Ballots,General Assembly,27,Republican,Lee Holtzman,0
+Morris,Provisional Ballots,General Assembly,27,Republican,Nicole Hagner,0
 Essex,Bloomfield Twp.,General Assembly,28,Democratic,Cleopatra G. Tucker,3166
 Essex,Bloomfield Twp.,General Assembly,28,Democratic,Ralph R. Caputo,3220
 Essex,Bloomfield Twp.,General Assembly,28,Republican,Carol Humphreys,2174
@@ -3211,6 +4088,14 @@ Essex,Nutley Twp.,General Assembly,28,Democratic,Cleopatra G. Tucker,1526
 Essex,Nutley Twp.,General Assembly,28,Democratic,Ralph R. Caputo,1788
 Essex,Nutley Twp.,General Assembly,28,Republican,Carol Humphreys,1704
 Essex,Nutley Twp.,General Assembly,28,Republican,David H. Pinckney,1556
+Essex,Vote By Mail,General Assembly,28,Democratic,Cleopatra G. Tucker,0
+Essex,Vote By Mail,General Assembly,28,Democratic,Ralph R. Caputo,0
+Essex,Vote By Mail,General Assembly,28,Republican,Carol Humphreys,0
+Essex,Vote By Mail,General Assembly,28,Republican,David H. Pinckney,0
+Essex,Provisional Ballots,General Assembly,28,Democratic,Cleopatra G. Tucker,0
+Essex,Provisional Ballots,General Assembly,28,Democratic,Ralph R. Caputo,0
+Essex,Provisional Ballots,General Assembly,28,Republican,Carol Humphreys,0
+Essex,Provisional Ballots,General Assembly,28,Republican,David H. Pinckney,0
 Essex,Belleville Twp.,General Assembly,29,Democratic,L. Grace Spencer,1328
 Essex,Belleville Twp.,General Assembly,29,Democratic,Alberto Coutinho,1315
 Essex,Belleville Twp.,General Assembly,29,Republican,Elaine L. Guarino,1009
@@ -3219,6 +4104,14 @@ Essex,Newark City,General Assembly,29,Democratic,L. Grace Spencer,7244
 Essex,Newark City,General Assembly,29,Democratic,Alberto Coutinho,7076
 Essex,Newark City,General Assembly,29,Republican,Elaine L. Guarino,727
 Essex,Newark City,General Assembly,29,Republican,Lisa T. Kistner,663
+Essex,Vote By Mail,General Assembly,29,Democratic,L. Grace Spencer,0
+Essex,Vote By Mail,General Assembly,29,Democratic,Alberto Coutinho,0
+Essex,Vote By Mail,General Assembly,29,Republican,Elaine L. Guarino,0
+Essex,Vote By Mail,General Assembly,29,Republican,Lisa T. Kistner,0
+Essex,Provisional Ballots,General Assembly,29,Democratic,L. Grace Spencer,0
+Essex,Provisional Ballots,General Assembly,29,Democratic,Alberto Coutinho,0
+Essex,Provisional Ballots,General Assembly,29,Republican,Elaine L. Guarino,0
+Essex,Provisional Ballots,General Assembly,29,Republican,Lisa T. Kistner,0
 Monmouth,Avon-by-the-Sea Boro,General Assembly,30,Republican,Sean T. Kean,364
 Monmouth,Avon-by-the-Sea Boro,General Assembly,30,Republican,David P. Rible,321
 Monmouth,Avon-by-the-Sea Boro,General Assembly,30,Democratic,Howard Kleinhendler,137
@@ -3279,6 +4172,16 @@ Monmouth,Wall Twp.,General Assembly,30,Republican,David P. Rible,3555
 Monmouth,Wall Twp.,General Assembly,30,Democratic,Howard Kleinhendler,1514
 Monmouth,Wall Twp.,General Assembly,30,Democratic,Shaun O'Rourke,1661
 Monmouth,Wall Twp.,General Assembly,30,Indpendent,David Schneck,159
+Monmouth,Vote By Mail,General Assembly,30,Republican,Sean T. Kean,0
+Monmouth,Vote By Mail,General Assembly,30,Republican,David P. Rible,0
+Monmouth,Vote By Mail,General Assembly,30,Democratic,Howard Kleinhendler,0
+Monmouth,Vote By Mail,General Assembly,30,Democratic,Shaun O'Rourke,0
+Monmouth,Vote By Mail,General Assembly,30,Indpendent,David Schneck,0
+Monmouth,Provisional Ballots,General Assembly,30,Republican,Sean T. Kean,0
+Monmouth,Provisional Ballots,General Assembly,30,Republican,David P. Rible,0
+Monmouth,Provisional Ballots,General Assembly,30,Democratic,Howard Kleinhendler,0
+Monmouth,Provisional Ballots,General Assembly,30,Democratic,Shaun O'Rourke,0
+Monmouth,Provisional Ballots,General Assembly,30,Indpendent,David Schneck,0
 Ocean,Lakewood Twp.,General Assembly,30,Republican,Sean T. Kean,6511
 Ocean,Lakewood Twp.,General Assembly,30,Republican,David P. Rible,5970
 Ocean,Lakewood Twp.,General Assembly,30,Democratic,Howard Kleinhendler,2582
@@ -3289,6 +4192,16 @@ Ocean,Point Pleasant Boro,General Assembly,30,Republican,David P. Rible,2002
 Ocean,Point Pleasant Boro,General Assembly,30,Democratic,Howard Kleinhendler,1589
 Ocean,Point Pleasant Boro,General Assembly,30,Democratic,Shaun O'Rourke,1826
 Ocean,Point Pleasant Boro,General Assembly,30,Indpendent,David Schneck,138
+Ocean,Vote By Mail,General Assembly,30,Republican,Sean T. Kean,0
+Ocean,Vote By Mail,General Assembly,30,Republican,David P. Rible,0
+Ocean,Vote By Mail,General Assembly,30,Democratic,Howard Kleinhendler,0
+Ocean,Vote By Mail,General Assembly,30,Democratic,Shaun O'Rourke,0
+Ocean,Vote By Mail,General Assembly,30,Indpendent,David Schneck,0
+Ocean,Provisional Ballots,General Assembly,30,Republican,Sean T. Kean,0
+Ocean,Provisional Ballots,General Assembly,30,Republican,David P. Rible,0
+Ocean,Provisional Ballots,General Assembly,30,Democratic,Howard Kleinhendler,0
+Ocean,Provisional Ballots,General Assembly,30,Democratic,Shaun O'Rourke,0
+Ocean,Provisional Ballots,General Assembly,30,Indpendent,David Schneck,0
 Hudson,Bayonne City,General Assembly,31,Democratic,Charles Mainor,3276
 Hudson,Bayonne City,General Assembly,31,Democratic,Jason O'Donnell,3871
 Hudson,Bayonne City,General Assembly,31,Republican,Michael J. Alonso,1636
@@ -3297,6 +4210,14 @@ Hudson,Jersey City,General Assembly,31,Democratic,Charles Mainor,8414
 Hudson,Jersey City,General Assembly,31,Democratic,Jason O'Donnell,8006
 Hudson,Jersey City,General Assembly,31,Republican,Michael J. Alonso,1521
 Hudson,Jersey City,General Assembly,31,Republican,Daniel E. Beckelman,1394
+Hudson,Vote By Mail,General Assembly,31,Democratic,Charles Mainor,0
+Hudson,Vote By Mail,General Assembly,31,Democratic,Jason O'Donnell,0
+Hudson,Vote By Mail,General Assembly,31,Republican,Michael J. Alonso,0
+Hudson,Vote By Mail,General Assembly,31,Republican,Daniel E. Beckelman,0
+Hudson,Provisional Ballots,General Assembly,31,Democratic,Charles Mainor,0
+Hudson,Provisional Ballots,General Assembly,31,Democratic,Jason O'Donnell,0
+Hudson,Provisional Ballots,General Assembly,31,Republican,Michael J. Alonso,0
+Hudson,Provisional Ballots,General Assembly,31,Republican,Daniel E. Beckelman,0
 Bergen,Edgewater Boro,General Assembly,32,Democratic,Vincent Prieto,634
 Bergen,Edgewater Boro,General Assembly,32,Democratic,Angelica M. Jimenez,624
 Bergen,Edgewater Boro,General Assembly,32,Republican,Ronald F. Tarolla,244
@@ -3307,6 +4228,16 @@ Bergen,Fairview Boro,General Assembly,32,Democratic,Angelica M. Jimenez,916
 Bergen,Fairview Boro,General Assembly,32,Republican,Ronald F. Tarolla,277
 Bergen,Fairview Boro,General Assembly,32,Republican,Michael J. Bartulovich,285
 Bergen,Fairview Boro,General Assembly,32,Independent,April Tricoli-Busset,22
+Bergen,Vote By Mail,General Assembly,32,Democratic,Vincent Prieto,0
+Bergen,Vote By Mail,General Assembly,32,Democratic,Angelica M. Jimenez,0
+Bergen,Vote By Mail,General Assembly,32,Republican,Ronald F. Tarolla,0
+Bergen,Vote By Mail,General Assembly,32,Republican,Michael J. Bartulovich,0
+Bergen,Vote By Mail,General Assembly,32,Independent,April Tricoli-Busset,0
+Bergen,Provisional Ballots,General Assembly,32,Democratic,Vincent Prieto,0
+Bergen,Provisional Ballots,General Assembly,32,Democratic,Angelica M. Jimenez,0
+Bergen,Provisional Ballots,General Assembly,32,Republican,Ronald F. Tarolla,0
+Bergen,Provisional Ballots,General Assembly,32,Republican,Michael J. Bartulovich,0
+Bergen,Provisional Ballots,General Assembly,32,Independent,April Tricoli-Busset,0
 Hudson,East Newark Boro,General Assembly,32,Democratic,Vincent Prieto,103
 Hudson,East Newark Boro,General Assembly,32,Democratic,Angelica M. Jimenez,102
 Hudson,East Newark Boro,General Assembly,32,Republican,Ronald F. Tarolla,8
@@ -3342,6 +4273,16 @@ Hudson,West New York Town,General Assembly,32,Democratic,Angelica M. Jimenez,176
 Hudson,West New York Town,General Assembly,32,Republican,Ronald F. Tarolla,425
 Hudson,West New York Town,General Assembly,32,Republican,Michael J. Bartulovich,452
 Hudson,West New York Town,General Assembly,32,Independent,April Tricoli-Busset,63
+Hudson,Vote By Mail,General Assembly,32,Democratic,Vincent Prieto,0
+Hudson,Vote By Mail,General Assembly,32,Democratic,Angelica M. Jimenez,0
+Hudson,Vote By Mail,General Assembly,32,Republican,Ronald F. Tarolla,0
+Hudson,Vote By Mail,General Assembly,32,Republican,Michael J. Bartulovich,0
+Hudson,Vote By Mail,General Assembly,32,Independent,April Tricoli-Busset,0
+Hudson,Provisional Ballots,General Assembly,32,Democratic,Vincent Prieto,0
+Hudson,Provisional Ballots,General Assembly,32,Democratic,Angelica M. Jimenez,0
+Hudson,Provisional Ballots,General Assembly,32,Republican,Ronald F. Tarolla,0
+Hudson,Provisional Ballots,General Assembly,32,Republican,Michael J. Bartulovich,0
+Hudson,Provisional Ballots,General Assembly,32,Independent,April Tricoli-Busset,0
 Hudson,Hoboken City,General Assembly,33,Democratic,"Ruben J. Ramos, Jr.",4222
 Hudson,Hoboken City,General Assembly,33,Democratic,Sean Connors,3761
 Hudson,Hoboken City,General Assembly,33,Republican,Fernando Uribe,1267
@@ -3358,6 +4299,14 @@ Hudson,Weehawken Twp.,General Assembly,33,Democratic,"Ruben J. Ramos, Jr.",1217
 Hudson,Weehawken Twp.,General Assembly,33,Democratic,Sean Connors,1203
 Hudson,Weehawken Twp.,General Assembly,33,Republican,Fernando Uribe,226
 Hudson,Weehawken Twp.,General Assembly,33,Republican,Christopher Garcia,226
+Hudson,Vote By Mail,General Assembly,33,Democratic,"Ruben J. Ramos, Jr.",0
+Hudson,Vote By Mail,General Assembly,33,Democratic,Sean Connors,0
+Hudson,Vote By Mail,General Assembly,33,Republican,Fernando Uribe,0
+Hudson,Vote By Mail,General Assembly,33,Republican,Christopher Garcia,0
+Hudson,Provisional Ballots,General Assembly,33,Democratic,"Ruben J. Ramos, Jr.",0
+Hudson,Provisional Ballots,General Assembly,33,Democratic,Sean Connors,0
+Hudson,Provisional Ballots,General Assembly,33,Republican,Fernando Uribe,0
+Hudson,Provisional Ballots,General Assembly,33,Republican,Christopher Garcia,0
 Essex,City of Orange Twp.,General Assembly,34,Democratic,Sheila Y. Oliver,1967
 Essex,City of Orange Twp.,General Assembly,34,Democratic,Thomas P. Giblin,2004
 Essex,City of Orange Twp.,General Assembly,34,Republican,Joan Salensky,80
@@ -3376,12 +4325,36 @@ Essex,Montclair Twp.,General Assembly,34,Republican,Joan Salensky,942
 Essex,Montclair Twp.,General Assembly,34,Republican,Steve Farrell,982
 Essex,Montclair Twp.,General Assembly,34,Indpendent,Clenard Childress,258
 Essex,Montclair Twp.,General Assembly,34,Indpendent,David Taylor,188
+Essex,Vote By Mail,General Assembly,34,Democratic,Sheila Y. Oliver,0
+Essex,Vote By Mail,General Assembly,34,Democratic,Thomas P. Giblin,0
+Essex,Vote By Mail,General Assembly,34,Republican,Joan Salensky,0
+Essex,Vote By Mail,General Assembly,34,Republican,Steve Farrell,0
+Essex,Vote By Mail,General Assembly,34,Indpendent,Clenard Childress,0
+Essex,Vote By Mail,General Assembly,34,Indpendent,David Taylor,0
+Essex,Provisional Ballots,General Assembly,34,Democratic,Sheila Y. Oliver,0
+Essex,Provisional Ballots,General Assembly,34,Democratic,Thomas P. Giblin,0
+Essex,Provisional Ballots,General Assembly,34,Republican,Joan Salensky,0
+Essex,Provisional Ballots,General Assembly,34,Republican,Steve Farrell,0
+Essex,Provisional Ballots,General Assembly,34,Indpendent,Clenard Childress,0
+Essex,Provisional Ballots,General Assembly,34,Indpendent,David Taylor,0
 Passaic,Clifton City,General Assembly,34,Democratic,Sheila Y. Oliver,4063
 Passaic,Clifton City,General Assembly,34,Democratic,Thomas P. Giblin,4507
 Passaic,Clifton City,General Assembly,34,Republican,Joan Salensky,3105
 Passaic,Clifton City,General Assembly,34,Republican,Steve Farrell,3047
 Passaic,Clifton City,General Assembly,34,Indpendent,Clenard Childress,198
 Passaic,Clifton City,General Assembly,34,Indpendent,David Taylor,177
+Passaic,Vote By Mail,General Assembly,34,Democratic,Sheila Y. Oliver,0
+Passaic,Vote By Mail,General Assembly,34,Democratic,Thomas P. Giblin,0
+Passaic,Vote By Mail,General Assembly,34,Republican,Joan Salensky,0
+Passaic,Vote By Mail,General Assembly,34,Republican,Steve Farrell,0
+Passaic,Vote By Mail,General Assembly,34,Indpendent,Clenard Childress,0
+Passaic,Vote By Mail,General Assembly,34,Indpendent,David Taylor,0
+Passaic,Provisional Ballots,General Assembly,34,Democratic,Sheila Y. Oliver,0
+Passaic,Provisional Ballots,General Assembly,34,Democratic,Thomas P. Giblin,0
+Passaic,Provisional Ballots,General Assembly,34,Republican,Joan Salensky,0
+Passaic,Provisional Ballots,General Assembly,34,Republican,Steve Farrell,0
+Passaic,Provisional Ballots,General Assembly,34,Indpendent,Clenard Childress,0
+Passaic,Provisional Ballots,General Assembly,34,Indpendent,David Taylor,0
 Bergen,Elmwood Park Boro,General Assembly,35,Democratic,Shavonda E. Sumter,1367
 Bergen,Elmwood Park Boro,General Assembly,35,Democratic,Benjie E. Wimberly,1418
 Bergen,Elmwood Park Boro,General Assembly,35,Republican,William A. Connolly,1716
@@ -3390,6 +4363,14 @@ Bergen,Garfield City,General Assembly,35,Democratic,Shavonda E. Sumter,1041
 Bergen,Garfield City,General Assembly,35,Democratic,Benjie E. Wimberly,1051
 Bergen,Garfield City,General Assembly,35,Republican,William A. Connolly,702
 Bergen,Garfield City,General Assembly,35,Republican,Donna Puglisi,719
+Bergen,Vote By Mail,General Assembly,35,Democratic,Shavonda E. Sumter,0
+Bergen,Vote By Mail,General Assembly,35,Democratic,Benjie E. Wimberly,0
+Bergen,Vote By Mail,General Assembly,35,Republican,William A. Connolly,0
+Bergen,Vote By Mail,General Assembly,35,Republican,Donna Puglisi,0
+Bergen,Provisional Ballots,General Assembly,35,Democratic,Shavonda E. Sumter,0
+Bergen,Provisional Ballots,General Assembly,35,Democratic,Benjie E. Wimberly,0
+Bergen,Provisional Ballots,General Assembly,35,Republican,William A. Connolly,0
+Bergen,Provisional Ballots,General Assembly,35,Republican,Donna Puglisi,0
 Passaic,Haledon Boro,General Assembly,35,Democratic,Shavonda E. Sumter,505
 Passaic,Haledon Boro,General Assembly,35,Democratic,Benjie E. Wimberly,516
 Passaic,Haledon Boro,General Assembly,35,Republican,William A. Connolly,406
@@ -3406,6 +4387,14 @@ Passaic,Prospect Park Boro,General Assembly,35,Democratic,Shavonda E. Sumter,431
 Passaic,Prospect Park Boro,General Assembly,35,Democratic,Benjie E. Wimberly,437
 Passaic,Prospect Park Boro,General Assembly,35,Republican,William A. Connolly,175
 Passaic,Prospect Park Boro,General Assembly,35,Republican,Donna Puglisi,185
+Passaic,Vote By Mail,General Assembly,35,Democratic,Shavonda E. Sumter,0
+Passaic,Vote By Mail,General Assembly,35,Democratic,Benjie E. Wimberly,0
+Passaic,Vote By Mail,General Assembly,35,Republican,William A. Connolly,0
+Passaic,Vote By Mail,General Assembly,35,Republican,Donna Puglisi,0
+Passaic,Provisional Ballots,General Assembly,35,Democratic,Shavonda E. Sumter,0
+Passaic,Provisional Ballots,General Assembly,35,Democratic,Benjie E. Wimberly,0
+Passaic,Provisional Ballots,General Assembly,35,Republican,William A. Connolly,0
+Passaic,Provisional Ballots,General Assembly,35,Republican,Donna Puglisi,0
 Bergen,Carlstadt Boro,General Assembly,36,Democratic,Gary Schaer,829
 Bergen,Carlstadt Boro,General Assembly,36,Democratic,Marlene Caride,804
 Bergen,Carlstadt Boro,General Assembly,36,Republican,John C. Genovesi,837
@@ -3462,10 +4451,26 @@ Bergen,Wood-Ridge Boro,General Assembly,36,Democratic,Gary Schaer,1003
 Bergen,Wood-Ridge Boro,General Assembly,36,Democratic,Marlene Caride,982
 Bergen,Wood-Ridge Boro,General Assembly,36,Republican,John C. Genovesi,630
 Bergen,Wood-Ridge Boro,General Assembly,36,Republican,Sara Rosengarten,614
+Bergen,Vote By Mail,General Assembly,36,Democratic,Gary Schaer,0
+Bergen,Vote By Mail,General Assembly,36,Democratic,Marlene Caride,0
+Bergen,Vote By Mail,General Assembly,36,Republican,John C. Genovesi,0
+Bergen,Vote By Mail,General Assembly,36,Republican,Sara Rosengarten,0
+Bergen,Provisional Ballots,General Assembly,36,Democratic,Gary Schaer,0
+Bergen,Provisional Ballots,General Assembly,36,Democratic,Marlene Caride,0
+Bergen,Provisional Ballots,General Assembly,36,Republican,John C. Genovesi,0
+Bergen,Provisional Ballots,General Assembly,36,Republican,Sara Rosengarten,0
 Passaic,Passaic City,General Assembly,36,Democratic,Gary Schaer,3030
 Passaic,Passaic City,General Assembly,36,Democratic,Marlene Caride,2554
 Passaic,Passaic City,General Assembly,36,Republican,John C. Genovesi,691
 Passaic,Passaic City,General Assembly,36,Republican,Sara Rosengarten,1189
+Passaic,Vote By Mail,General Assembly,36,Democratic,Gary Schaer,0
+Passaic,Vote By Mail,General Assembly,36,Democratic,Marlene Caride,0
+Passaic,Vote By Mail,General Assembly,36,Republican,John C. Genovesi,0
+Passaic,Vote By Mail,General Assembly,36,Republican,Sara Rosengarten,0
+Passaic,Provisional Ballots,General Assembly,36,Democratic,Gary Schaer,0
+Passaic,Provisional Ballots,General Assembly,36,Democratic,Marlene Caride,0
+Passaic,Provisional Ballots,General Assembly,36,Republican,John C. Genovesi,0
+Passaic,Provisional Ballots,General Assembly,36,Republican,Sara Rosengarten,0
 Bergen,Alpine Boro,General Assembly,37,Democratic,Gordon M. Johnson,126
 Bergen,Alpine Boro,General Assembly,37,Democratic,Valerie Vainieri Huttle,139
 Bergen,Alpine Boro,General Assembly,37,Republican,Keith Jensen,157
@@ -3531,6 +4536,16 @@ Bergen,Tenafly Boro,General Assembly,37,Democratic,Valerie Vainieri Huttle,1945
 Bergen,Tenafly Boro,General Assembly,37,Republican,Keith Jensen,1112
 Bergen,Tenafly Boro,General Assembly,37,Republican,Gregory John Aslanian,1073
 Bergen,Tenafly Boro,General Assembly,37,Independent,Julian Heickln,91
+Bergen,Vote By Mail,General Assembly,37,Democratic,Gordon M. Johnson,0
+Bergen,Vote By Mail,General Assembly,37,Democratic,Valerie Vainieri Huttle,0
+Bergen,Vote By Mail,General Assembly,37,Republican,Keith Jensen,0
+Bergen,Vote By Mail,General Assembly,37,Republican,Gregory John Aslanian,0
+Bergen,Vote By Mail,General Assembly,37,Independent,Julian Heickln,0
+Bergen,Provisional Ballots,General Assembly,37,Democratic,Gordon M. Johnson,0
+Bergen,Provisional Ballots,General Assembly,37,Democratic,Valerie Vainieri Huttle,0
+Bergen,Provisional Ballots,General Assembly,37,Republican,Keith Jensen,0
+Bergen,Provisional Ballots,General Assembly,37,Republican,Gregory John Aslanian,0
+Bergen,Provisional Ballots,General Assembly,37,Independent,Julian Heickln,0
 Bergen,Bergenfield Boro,General Assembly,38,Democratic,Connie Terranova Wagner,2352
 Bergen,Bergenfield Boro,General Assembly,38,Democratic,Timothy J. Eustace,2272
 Bergen,Bergenfield Boro,General Assembly,38,Republican,Richard S. Goldberg,1504
@@ -3591,11 +4606,31 @@ Bergen,Saddle Brook Twp.,General Assembly,38,Democratic,Timothy J. Eustace,1051
 Bergen,Saddle Brook Twp.,General Assembly,38,Republican,Richard S. Goldberg,1015
 Bergen,Saddle Brook Twp.,General Assembly,38,Republican,Fernando A. Alonso,1029
 Bergen,Saddle Brook Twp.,General Assembly,38,Independent,Vinko Grskovic,32
+Bergen,Vote By Mail,General Assembly,38,Democratic,Connie Terranova Wagner,0
+Bergen,Vote By Mail,General Assembly,38,Democratic,Timothy J. Eustace,0
+Bergen,Vote By Mail,General Assembly,38,Republican,Richard S. Goldberg,0
+Bergen,Vote By Mail,General Assembly,38,Republican,Fernando A. Alonso,0
+Bergen,Vote By Mail,General Assembly,38,Independent,Vinko Grskovic,0
+Bergen,Provisional Ballots,General Assembly,38,Democratic,Connie Terranova Wagner,0
+Bergen,Provisional Ballots,General Assembly,38,Democratic,Timothy J. Eustace,0
+Bergen,Provisional Ballots,General Assembly,38,Republican,Richard S. Goldberg,0
+Bergen,Provisional Ballots,General Assembly,38,Republican,Fernando A. Alonso,0
+Bergen,Provisional Ballots,General Assembly,38,Independent,Vinko Grskovic,0
 Passaic,Hawthorne Boro,General Assembly,38,Democratic,Connie Terranova Wagner,1473
 Passaic,Hawthorne Boro,General Assembly,38,Democratic,Timothy J. Eustace,1442
 Passaic,Hawthorne Boro,General Assembly,38,Republican,Richard S. Goldberg,2101
 Passaic,Hawthorne Boro,General Assembly,38,Republican,Fernando A. Alonso,1881
 Passaic,Hawthorne Boro,General Assembly,38,Independent,Vinko Grskovic,64
+Passaic,Vote By Mail,General Assembly,38,Democratic,Connie Terranova Wagner,0
+Passaic,Vote By Mail,General Assembly,38,Democratic,Timothy J. Eustace,0
+Passaic,Vote By Mail,General Assembly,38,Republican,Richard S. Goldberg,0
+Passaic,Vote By Mail,General Assembly,38,Republican,Fernando A. Alonso,0
+Passaic,Vote By Mail,General Assembly,38,Independent,Vinko Grskovic,0
+Passaic,Provisional Ballots,General Assembly,38,Democratic,Connie Terranova Wagner,0
+Passaic,Provisional Ballots,General Assembly,38,Democratic,Timothy J. Eustace,0
+Passaic,Provisional Ballots,General Assembly,38,Republican,Richard S. Goldberg,0
+Passaic,Provisional Ballots,General Assembly,38,Republican,Fernando A. Alonso,0
+Passaic,Provisional Ballots,General Assembly,38,Independent,Vinko Grskovic,0
 Bergen,Closter Boro,General Assembly,39,Republican,Robert Schroeder,534
 Bergen,Closter Boro,General Assembly,39,Republican,Holly Schepisi,538
 Bergen,Closter Boro,General Assembly,39,Democratic,"Anthony N. Iannarelli, Jr.",418
@@ -3696,6 +4731,16 @@ Bergen,Woodcliff Lake Boro,General Assembly,39,Republican,Holly Schepisi,828
 Bergen,Woodcliff Lake Boro,General Assembly,39,Democratic,"Anthony N. Iannarelli, Jr.",587
 Bergen,Woodcliff Lake Boro,General Assembly,39,Democratic,Michael J. McCarthy,612
 Bergen,Woodcliff Lake Boro,General Assembly,39,Indpendent,Clinton Bosca,40
+Bergen,Vote By Mail,General Assembly,39,Republican,Robert Schroeder,0
+Bergen,Vote By Mail,General Assembly,39,Republican,Holly Schepisi,0
+Bergen,Vote By Mail,General Assembly,39,Democratic,"Anthony N. Iannarelli, Jr.",0
+Bergen,Vote By Mail,General Assembly,39,Democratic,Michael J. McCarthy,0
+Bergen,Vote By Mail,General Assembly,39,Indpendent,Clinton Bosca,0
+Bergen,Provisional Ballots,General Assembly,39,Republican,Robert Schroeder,0
+Bergen,Provisional Ballots,General Assembly,39,Republican,Holly Schepisi,0
+Bergen,Provisional Ballots,General Assembly,39,Democratic,"Anthony N. Iannarelli, Jr.",0
+Bergen,Provisional Ballots,General Assembly,39,Democratic,Michael J. McCarthy,0
+Bergen,Provisional Ballots,General Assembly,39,Indpendent,Clinton Bosca,0
 Passaic,Bloomingdale Boro,General Assembly,39,Republican,Robert Schroeder,933
 Passaic,Bloomingdale Boro,General Assembly,39,Republican,Holly Schepisi,920
 Passaic,Bloomingdale Boro,General Assembly,39,Democratic,"Anthony N. Iannarelli, Jr.",814
@@ -3711,6 +4756,16 @@ Passaic,Wanaque Boro,General Assembly,39,Republican,Holly Schepisi,781
 Passaic,Wanaque Boro,General Assembly,39,Democratic,"Anthony N. Iannarelli, Jr.",512
 Passaic,Wanaque Boro,General Assembly,39,Democratic,Michael J. McCarthy,511
 Passaic,Wanaque Boro,General Assembly,39,Indpendent,Clinton Bosca,45
+Passaic,Vote By Mail,General Assembly,39,Republican,Robert Schroeder,0
+Passaic,Vote By Mail,General Assembly,39,Republican,Holly Schepisi,0
+Passaic,Vote By Mail,General Assembly,39,Democratic,"Anthony N. Iannarelli, Jr.",0
+Passaic,Vote By Mail,General Assembly,39,Democratic,Michael J. McCarthy,0
+Passaic,Vote By Mail,General Assembly,39,Indpendent,Clinton Bosca,0
+Passaic,Provisional Ballots,General Assembly,39,Republican,Robert Schroeder,0
+Passaic,Provisional Ballots,General Assembly,39,Republican,Holly Schepisi,0
+Passaic,Provisional Ballots,General Assembly,39,Democratic,"Anthony N. Iannarelli, Jr.",0
+Passaic,Provisional Ballots,General Assembly,39,Democratic,Michael J. McCarthy,0
+Passaic,Provisional Ballots,General Assembly,39,Indpendent,Clinton Bosca,0
 Bergen,Allendale Boro,General Assembly,40,Republican,David C. Russo,690
 Bergen,Allendale Boro,General Assembly,40,Republican,Scott T. Rumana,671
 Bergen,Allendale Boro,General Assembly,40,Democratic,William J. Brennan,284
@@ -3739,10 +4794,26 @@ Bergen,Wyckoff Twp.,General Assembly,40,Republican,David C. Russo,2588
 Bergen,Wyckoff Twp.,General Assembly,40,Republican,Scott T. Rumana,2475
 Bergen,Wyckoff Twp.,General Assembly,40,Democratic,William J. Brennan,1247
 Bergen,Wyckoff Twp.,General Assembly,40,Democratic,Cassandra Lazzara,1314
+Bergen,Vote By Mail,General Assembly,40,Republican,David C. Russo,0
+Bergen,Vote By Mail,General Assembly,40,Republican,Scott T. Rumana,0
+Bergen,Vote By Mail,General Assembly,40,Democratic,William J. Brennan,0
+Bergen,Vote By Mail,General Assembly,40,Democratic,Cassandra Lazzara,0
+Bergen,Provisional Ballots,General Assembly,40,Republican,David C. Russo,0
+Bergen,Provisional Ballots,General Assembly,40,Republican,Scott T. Rumana,0
+Bergen,Provisional Ballots,General Assembly,40,Democratic,William J. Brennan,0
+Bergen,Provisional Ballots,General Assembly,40,Democratic,Cassandra Lazzara,0
 Essex,Cedar Grove Twp.,General Assembly,40,Republican,David C. Russo,1358
 Essex,Cedar Grove Twp.,General Assembly,40,Republican,Scott T. Rumana,1260
 Essex,Cedar Grove Twp.,General Assembly,40,Democratic,William J. Brennan,703
 Essex,Cedar Grove Twp.,General Assembly,40,Democratic,Cassandra Lazzara,778
+Essex,Vote By Mail,General Assembly,40,Republican,David C. Russo,0
+Essex,Vote By Mail,General Assembly,40,Republican,Scott T. Rumana,0
+Essex,Vote By Mail,General Assembly,40,Democratic,William J. Brennan,0
+Essex,Vote By Mail,General Assembly,40,Democratic,Cassandra Lazzara,0
+Essex,Provisional Ballots,General Assembly,40,Republican,David C. Russo,0
+Essex,Provisional Ballots,General Assembly,40,Republican,Scott T. Rumana,0
+Essex,Provisional Ballots,General Assembly,40,Democratic,William J. Brennan,0
+Essex,Provisional Ballots,General Assembly,40,Democratic,Cassandra Lazzara,0
 Morris,Peaquannock Twp.,General Assembly,40,Republican,David C. Russo,1433
 Morris,Peaquannock Twp.,General Assembly,40,Republican,Scott T. Rumana,1391
 Morris,Peaquannock Twp.,General Assembly,40,Democratic,William J. Brennan,949
@@ -3751,6 +4822,14 @@ Morris,Riverdale Boro,General Assembly,40,Republican,David C. Russo,576
 Morris,Riverdale Boro,General Assembly,40,Republican,Scott T. Rumana,570
 Morris,Riverdale Boro,General Assembly,40,Democratic,William J. Brennan,254
 Morris,Riverdale Boro,General Assembly,40,Democratic,Cassandra Lazzara,286
+Morris,Vote By Mail,General Assembly,40,Republican,David C. Russo,0
+Morris,Vote By Mail,General Assembly,40,Republican,Scott T. Rumana,0
+Morris,Vote By Mail,General Assembly,40,Democratic,William J. Brennan,0
+Morris,Vote By Mail,General Assembly,40,Democratic,Cassandra Lazzara,0
+Morris,Provisional Ballots,General Assembly,40,Republican,David C. Russo,0
+Morris,Provisional Ballots,General Assembly,40,Republican,Scott T. Rumana,0
+Morris,Provisional Ballots,General Assembly,40,Democratic,William J. Brennan,0
+Morris,Provisional Ballots,General Assembly,40,Democratic,Cassandra Lazzara,0
 Passaic,Little Falls Twp.,General Assembly,40,Republican,David C. Russo,1036
 Passaic,Little Falls Twp.,General Assembly,40,Republican,Scott T. Rumana,1019
 Passaic,Little Falls Twp.,General Assembly,40,Democratic,William J. Brennan,747
@@ -3771,3 +4850,11 @@ Passaic,Woodland Park Boro,General Assembly,40,Republican,David C. Russo,1292
 Passaic,Woodland Park Boro,General Assembly,40,Republican,Scott T. Rumana,1219
 Passaic,Woodland Park Boro,General Assembly,40,Democratic,William J. Brennan,1512
 Passaic,Woodland Park Boro,General Assembly,40,Democratic,Cassandra Lazzara,1746
+Passaic,Vote By Mail,General Assembly,40,Republican,David C. Russo,0
+Passaic,Vote By Mail,General Assembly,40,Republican,Scott T. Rumana,0
+Passaic,Vote By Mail,General Assembly,40,Democratic,William J. Brennan,0
+Passaic,Vote By Mail,General Assembly,40,Democratic,Cassandra Lazzara,0
+Passaic,Provisional Ballots,General Assembly,40,Republican,David C. Russo,0
+Passaic,Provisional Ballots,General Assembly,40,Republican,Scott T. Rumana,0
+Passaic,Provisional Ballots,General Assembly,40,Democratic,William J. Brennan,0
+Passaic,Provisional Ballots,General Assembly,40,Democratic,Cassandra Lazzara,0
