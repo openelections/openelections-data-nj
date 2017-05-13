@@ -1,0 +1,574 @@
+{
+    "output_directory":"../2011/",
+    "output_file":"20111108__nj__temp.csv",
+    "nj_assembly":{
+        "input_directory":"../../openelections-sources-nj/2011/general/csv/",
+        "input_files": [
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-1st-leg-district-municipality.csv",
+                    "county":"*",
+                    "district":"1",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-2nd-leg-district-municipality-112911.csv",
+                    "county":"*",
+                    "district":"2",
+                    "columns":"4,5,6,7"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-3rd-leg-district-municipality-112911.csv",
+                    "county":"*",
+                    "district":"3",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-4th-leg-district-municipality-112911.csv",
+                    "county":"*",
+                    "district":"4",
+                    "columns":"3,4,5,6,7"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-5th-leg-district-municipality-112911.csv",
+                    "county":"*",
+                    "district":"5",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-6th-leg-district-municipality-112911.csv",
+                    "county":"*",
+                    "district":"6",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-7th-leg-district-municipality-112911.csv",
+                    "county":"*",
+                    "district":"7",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-8th-leg-district-municipality-112911.csv",
+                    "county":"*",
+                    "district":"8",
+                    "columns":"2,3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-9th-leg-district-municipality-112911.csv",
+                    "county":"*",
+                    "district":"9",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-10th-leg-district-municipality-112911.csv",
+                    "county":"*",
+                    "district":"10",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-11th-leg-district-municipality-112911.csv",
+                    "county":"*",
+                    "district":"11",
+                    "columns":"3,4,5,6,7"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-12th-leg-district-municipality-112911.csv",
+                    "county":"*",
+                    "district":"12",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-13th-leg-district-municipality-112911.csv",
+                    "county":"*",
+                    "district":"13",
+                    "columns":"6,7,8,9,10,11"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-14th-leg-district-municipality-112911.csv",
+                    "county":"*",
+                    "district":"14",
+                    "columns":"3,4,5,6,7"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-15th-leg-district-municipality-112911.csv",
+                    "county":"*",
+                    "district":"15",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-16th-leg-district-municipality-112911.csv",
+                    "county":"*",
+                    "district":"16",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-17th-leg-district-municipality-112911.csv",
+                    "county":"*",
+                    "district":"17",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-18th-leg-district-municipality-112911.csv",
+                    "county":"*",
+                    "district":"18",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-19th-leg-district-municipality-112911.csv",
+                    "county":"*",
+                    "district":"19",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-20th-leg-district-municipality-112911.csv",
+                    "county":"*",
+                    "district":"20",
+                    "columns":"3,4,5"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-21st-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"21",
+                    "columns":"3,4,5,6,7"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-22nd-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"22",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-23rd-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"23",
+                    "columns":"4,5,6,7"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-24th-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"24",
+                    "columns":"3,4,5,6,7,8"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-25th-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"25",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-26th-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"26",
+                    "columns":"4,5,6,7,8"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-27th-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"27",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-28th-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"28",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-29th-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"29",
+                    "columns":"4,5,6,7"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-30th-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"30",
+                    "columns":"3,4,5,6,7"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-31st-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"31",
+                    "columns":"4,5,6,7"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-32nd-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"32",
+                    "columns":"4,5,6,7,8"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-33rd-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"33",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-34th-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"34",
+                    "columns":"3,4,5,6,7,8"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-35th-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"35",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-36th-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"36",
+                    "columns":"3,4,5,6"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-37th-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"37",
+                    "columns":"3,4,5,6,7"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-38th-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"38",
+                    "columns":"3,4,5,6,7"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-39th-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"39",
+                    "columns":"3,4,5,6,7"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2011-gen-elect-results-40th-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"40",
+                    "columns":"3,4,5,6"
+                }
+            ]
+        },
+    "nj_senate":{
+        "input_directory":"../../openelections-sources-nj/2011/general/csv/",
+        "input_files": [
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-1st-leg-district-municipality.csv",
+                    "county":"*",
+                    "district":"1",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-2nd-leg-district-municipality-112911.csv",
+                    "county":"*",
+                    "district":"2",
+                    "columns":"1,2,3"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-3rd-leg-district-municipality-112911.csv",
+                    "county":"*",
+                    "district":"3",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-4th-leg-district-municipality-112911.csv",
+                    "county":"*",
+                    "district":"4",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-5th-leg-district-municipality-112911.csv",
+                    "county":"*",
+                    "district":"5",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-6th-leg-district-municipality-112911.csv",
+                    "county":"*",
+                    "district":"6",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-7th-leg-district-municipality-112911.csv",
+                    "county":"*",
+                    "district":"7",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-8th-leg-district-municipality-112911.csv",
+                    "county":"*",
+                    "district":"8",
+                    "columns":"1"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-9th-leg-district-municipality-112911.csv",
+                    "county":"*",
+                    "district":"9",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-10th-leg-district-municipality-112911.csv",
+                    "county":"*",
+                    "district":"10",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-11th-leg-district-municipality-112911.csv",
+                    "county":"*",
+                    "district":"11",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-12th-leg-district-municipality-112911.csv",
+                    "county":"*",
+                    "district":"12",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-13th-leg-district-municipality-112911.csv",
+                    "county":"*",
+                    "district":"13",
+                    "columns":"1,2,3,4,5"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-14th-leg-district-municipality-112911.csv",
+                    "county":"*",
+                    "district":"14",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-15th-leg-district-municipality-112911.csv",
+                    "county":"*",
+                    "district":"15",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-16th-leg-district-municipality-112911.csv",
+                    "county":"*",
+                    "district":"16",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-17th-leg-district-municipality-112911.csv",
+                    "county":"*",
+                    "district":"17",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-18th-leg-district-municipality-112911.csv",
+                    "county":"*",
+                    "district":"18",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-19th-leg-district-municipality-112911.csv",
+                    "county":"*",
+                    "district":"19",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-20th-leg-district-municipality-112911.csv",
+                    "county":"*",
+                    "district":"20",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-21st-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"21",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-22nd-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"22",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-23rd-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"23",
+                    "columns":"1,2,3"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-24th-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"24",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-25th-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"25",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-26th-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"26",
+                    "columns":"1,2,3"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-27th-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"27",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-28th-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"28",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-29th-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"29",
+                    "columns":"1,2,3"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-30th-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"30",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-31st-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"31",
+                    "columns":"1,2,3"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-32nd-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"32",
+                    "columns":"1,2,3"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-33rd-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"33",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-34th-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"34",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-35th-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"35",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-36th-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"36",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-37th-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"37",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-38th-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"38",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-39th-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"39",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2011-gen-elect-results-40th-leg-district-municipality-113011.csv",
+                    "county":"*",
+                    "district":"40",
+                    "columns":"1,2"
+                }
+            ]
+        }
+}
