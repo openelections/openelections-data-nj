@@ -226,7 +226,39 @@ def spot_check_totals(args, county_file):
     # District 30
     error_count += spot_check_value(args, cv, 'Robert W. Singer', 'Monmouth', 13042)
     error_count += spot_check_value(args, cv, 'Shaun O\'Rourke', 'Ocean', 4124)
-    #error_count += spot_check_value(args, cv, '', '', )
+    # District 31
+    error_count += spot_check_value(args, cv, 'Donnamarie James', 'Hudson', 2836)
+    error_count += spot_check_value(args, cv, 'Daniel E. Beckelman', 'Hudson', 2751)
+    # District 32
+    error_count += spot_check_value(args, cv, 'Edward T. O\'Neill', 'Bergen', 501)
+    error_count += spot_check_value(args, cv, 'April Tricoli-Busset', 'Hudson', 444)
+    # District 33
+    error_count += spot_check_value(args, cv, 'Brian P. Stack', 'Hudson', 20223)
+    error_count += spot_check_value(args, cv, 'Sean Connors', 'Hudson', 17064)
+    error_count += spot_check_value(args, cv, 'Christopher Garcia', 'Hudson', 3214)
+    # District 34
+    error_count += spot_check_value(args, cv, 'Ralph Bartnik', 'Essex', 1207)
+    error_count += spot_check_value(args, cv, 'Joan Salensky', 'Passaic', 3105)
+    # District 35
+    error_count += spot_check_value(args, cv, 'Nellie Pou', 'Bergen', 2613)
+    error_count += spot_check_value(args, cv, 'Donna Puglisi', 'Passaic', 2676)
+    # District 36
+    error_count += spot_check_value(args, cv, 'Donald E. DiOrio', 'Bergen', 10162)
+    error_count += spot_check_value(args, cv, 'John C. Genovesi', 'Passaic', 691)
+    # District 37
+    error_count += spot_check_value(args, cv, 'Loretta Weinberg', 'Bergen', 23141)
+    error_count += spot_check_value(args, cv, 'Julian Heickln', 'Bergen', 675)
+    # District 38
+    error_count += spot_check_value(args, cv, 'John J. Driscoll, Jr.', 'Bergen', 17831)
+    error_count += spot_check_value(args, cv, 'Vinko Grskovic', 'Passaic', 64)
+    # District 39
+    error_count += spot_check_value(args, cv, 'Lorraine M. Waldes', 'Bergen', 14181)
+    error_count += spot_check_value(args, cv, 'Clinton Bosca', 'Passaic', 148)
+    # District 40
+    error_count += spot_check_value(args, cv, 'John Zunic', 'Bergen', 4932)
+    error_count += spot_check_value(args, cv, 'David C. Russo', 'Essex', 1358)
+    error_count += spot_check_value(args, cv, 'Cassandra Lazzara', 'Morris', 1343)
+    error_count += spot_check_value(args, cv, 'John Zunic', 'Passaic', 6883)
 
     print "There are " + str(error_count) + " Spot Check errors"
 
