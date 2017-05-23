@@ -1,0 +1,42 @@
+{
+    "output_directory":"../2010/",
+    "output_file":"20101104__nj__temp.csv",
+    "nj_senate":{
+        "input_directory":"../../openelections-sources-nj/2010/special_11042010/csv/",
+        "input_files": [
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2010-5th-leg-district-by-municipality-021711.csv",
+                    "county":"*",
+                    "district":"5",
+                    "columns":"1,2,3"
+                },
+                {
+                    "office":"State Senate",
+                    "file":"tabula-2010-14th-leg-district-by-municipality-021711.csv",
+                    "county":"*",
+                    "district":"14",
+                    "columns":"1,2"
+                }
+            ]
+        },
+    "nj_assembly":{
+        "input_directory":"../../openelections-sources-nj/2010/special_11042010/csv/",
+        "input_files": [
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2010-gen-assembly-5th-leg-district-municipality-021711.csv",
+                    "county":"*",
+                    "district":"5",
+                    "columns":"1,2"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2010-gen-assembly-31st-leg-district-municipality-021711.csv",
+                    "county":"*",
+                    "district":"31",
+                    "columns":"*"
+                }
+            ]
+        }
+}
