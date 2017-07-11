@@ -1,0 +1,360 @@
+county,office,district,party,candidate,votes
+Atlantic,General Assembly,1,Democratic,Bob Andrzejczak,692
+Atlantic,General Assembly,1,Democratic,R. Bruce Land,639
+Atlantic,General Assembly,1,Republican,Sam Fiocchi,716
+Atlantic,General Assembly,1,Republican,Jim Sauro,710
+Cape May,General Assembly,1,Democratic,Bob Andrzejczak,10800
+Cape May,General Assembly,1,Democratic,R. Bruce Land,9921
+Cape May,General Assembly,1,Republican,Sam Fiocchi,9495
+Cape May,General Assembly,1,Republican,Jim Sauro,8801
+Cumberland,General Assembly,1,Democratic,Bob Andrzejczak,8739
+Cumberland,General Assembly,1,Democratic,R. Bruce Land,8580
+Cumberland,General Assembly,1,Republican,Sam Fiocchi,6627
+Cumberland,General Assembly,1,Republican,Jim Sauro,6884
+Atlantic,General Assembly,2,Republican,Chris Brown,18959
+Atlantic,General Assembly,2,Republican,Will Pauls,16907
+Atlantic,General Assembly,2,Democratic,Vincent Mazzeo,18279
+Atlantic,General Assembly,2,Democratic,Colin Bell,17433
+Cumberland,General Assembly,3,Democratic,John J. Burzichelli,1668
+Cumberland,General Assembly,3,Democratic,Adam Taliaferro,1547
+Cumberland,General Assembly,3,Republican,Samuel J. Maccarone Jr.,1160
+Cumberland,General Assembly,3,Republican,Leroy P. Pierce III,1101
+Cumberland,General Assembly,3,The Peoples Voice,John Kalnas,53
+Gloucester,General Assembly,3,Democratic,John J. Burzichelli,12288
+Gloucester,General Assembly,3,Democratic,Adam Taliaferro,12402
+Gloucester,General Assembly,3,Republican,Samuel J. Maccarone Jr.,8291
+Gloucester,General Assembly,3,Republican,Leroy P. Pierce III,7300
+Gloucester,General Assembly,3,The Peoples Voice,John Kalnas,739
+Salem,General Assembly,3,Democratic,John J. Burzichelli,6551
+Salem,General Assembly,3,Democratic,Adam Taliaferro,5531
+Salem,General Assembly,3,Republican,Samuel J. Maccarone Jr.,6612
+Salem,General Assembly,3,Republican,Leroy P. Pierce III,6314
+Salem,General Assembly,3,The Peoples Voice,John Kalnas,431
+Camden,General Assembly,4,Democratic,Paul D. Moriarty,9846
+Camden,General Assembly,4,Democratic,Gabriela M. Mosquera,9627
+Camden,General Assembly,4,Republican,Kevin P. Murphy,5258
+Camden,General Assembly,4,Republican,Jack Nicholson,5041
+Gloucester,General Assembly,4,Democratic,Paul D. Moriarty,7608
+Gloucester,General Assembly,4,Democratic,Gabriela M. Mosquera,7520
+Gloucester,General Assembly,4,Republican,Kevin P. Murphy,6334
+Gloucester,General Assembly,4,Republican,Jack Nicholson,6090
+Camden,General Assembly,5,Democratic,Nilsa Cruz-Perez,11171
+Camden,General Assembly,5,Democratic,Arthur Barclay,9551
+Camden,General Assembly,5,Democratic,Patricia Egan Jones,10200
+Camden,General Assembly,5,Republican,Kevin P. Ehret,3563
+Camden,General Assembly,5,Republican,Keith A. Walker,3990
+Gloucester,General Assembly,5,Democratic,Nilsa Cruz-Perez,7979
+Gloucester,General Assembly,5,Democratic,Arthur Barclay,6246
+Gloucester,General Assembly,5,Democratic,Patricia Egan Jones,6566
+Gloucester,General Assembly,5,Republican,Kevin P. Ehret,4482
+Gloucester,General Assembly,5,Republican,Keith A. Walker,4727
+Burlington,General Assembly,6,Democratic,Louis D. Greenwald,1004
+Burlington,General Assembly,6,Democratic,Pamela R. Lampitt,960
+Burlington,General Assembly,6,Republican,Holly Tate,601
+Burlington,General Assembly,6,Republican,Claire H. Gustafson,567
+Burlington,General Assembly,6,Green Party,James Bracciante,40
+Burlington,General Assembly,6,Green Party,Amanda Davis,49
+Camden,General Assembly,6,Democratic,Louis D. Greenwald,20083
+Camden,General Assembly,6,Democratic,Pamela R. Lampitt,19068
+Camden,General Assembly,6,Republican,Holly Tate,10422
+Camden,General Assembly,6,Republican,Claire H. Gustafson,10112
+Camden,General Assembly,6,Green Party,James Bracciante,810
+Camden,General Assembly,6,Green Party,Amanda Davis,936
+Burlington,General Assembly,7,Democratic,Herb Conaway,22559
+Burlington,General Assembly,7,Democratic,Troy Singleton,22056
+Burlington,General Assembly,7,Republican,Bill Conley,14272
+Burlington,General Assembly,7,Republican,Rob Prisco,13949
+Atlantic,General Assembly,8,Republican,Maria Rodriguez-Gregg,1989
+Atlantic,General Assembly,8,Republican,Joe Howarth,1988
+Burlington,General Assembly,8,Republican,Maria Rodriguez-Gregg,13943
+Burlington,General Assembly,8,Republican,Joe Howarth,13886
+Camden,General Assembly,8,Republican,Maria Rodriguez-Gregg,2385
+Camden,General Assembly,8,Republican,Joe Howarth,2360
+Atlantic,General Assembly,9,Republican,Brian E. Rumpf,2983
+Atlantic,General Assembly,9,Republican,Dianne C. Gove,3050
+Atlantic,General Assembly,9,Democratic,Fran Zimmer,2338
+Atlantic,General Assembly,9,Democratic,John Bingham,2200
+Burlington,General Assembly,9,Republican,Brian E. Rumpf,1034
+Burlington,General Assembly,9,Republican,Dianne C. Gove,1018
+Burlington,General Assembly,9,Democratic,Fran Zimmer,396
+Burlington,General Assembly,9,Democratic,John Bingham,381
+Ocean,General Assembly,9,Republican,Brian E. Rumpf,20308
+Ocean,General Assembly,9,Republican,Dianne C. Gove,19608
+Ocean,General Assembly,9,Democratic,Fran Zimmer,9894
+Ocean,General Assembly,9,Democratic,John Bingham,9590
+Ocean,General Assembly,10,Republican,Dave Wolfe,19882
+Ocean,General Assembly,10,Republican,Gregory P. McGuckin,18543
+Ocean,General Assembly,10,Democratic,Valter Must,11513
+Ocean,General Assembly,10,Democratic,Kimberley S. Casten,12302
+Monmouth,General Assembly,11,Republican,Mary Pat Angelini,14653
+Monmouth,General Assembly,11,Republican,Caroline Casagrande,14418
+Monmouth,General Assembly,11,Democratic,Eric Houghtaling,15149
+Monmouth,General Assembly,11,Democratic,Joann Downey,14906
+Burlington,General Assembly,12,Republican,Ronald S. Dancer,1249
+Burlington,General Assembly,12,Republican,Robert D. Clifton,1167
+Burlington,General Assembly,12,Democratic,David W. Merwin,560
+Burlington,General Assembly,12,Democratic,Robert P. Kurzydlowski,571
+Burlington,General Assembly,12,Green Party,Stephen N. Zielinski Sr.,71
+Middlesex,General Assembly,12,Republican,Ronald S. Dancer,4386
+Middlesex,General Assembly,12,Republican,Robert D. Clifton,4258
+Middlesex,General Assembly,12,Democratic,David W. Merwin,4284
+Middlesex,General Assembly,12,Democratic,Robert P. Kurzydlowski,4273
+Middlesex,General Assembly,12,Green Party,Stephen N. Zielinski Sr.,275
+Monmouth,General Assembly,12,Republican,Ronald S. Dancer,5117
+Monmouth,General Assembly,12,Republican,Robert D. Clifton,5025
+Monmouth,General Assembly,12,Democratic,David W. Merwin,3532
+Monmouth,General Assembly,12,Democratic,Robert P. Kurzydlowski,3497
+Monmouth,General Assembly,12,Green Party,Stephen N. Zielinski Sr.,318
+Ocean,General Assembly,12,Republican,Ronald S. Dancer,4412
+Ocean,General Assembly,12,Republican,Robert D. Clifton,3983
+Ocean,General Assembly,12,Democratic,David W. Merwin,2120
+Ocean,General Assembly,12,Democratic,Robert P. Kurzydlowski,2108
+Ocean,General Assembly,12,Green Party,Stephen N. Zielinski Sr.,281
+Monmouth,General Assembly,13,Republican,Amy Handlin,19829
+Monmouth,General Assembly,13,Republican,Declan O'Scanlon,18977
+Monmouth,General Assembly,13,Democratic,Jeanne Cullinane,12779
+Monmouth,General Assembly,13,Democratic,Thomas Herman,12934
+Monmouth,General Assembly,13,"Jobs, Sidewalks, Transit",Joshua Leinsdorf,770
+Mercer,General Assembly,14,Democratic,Wayne P. DeAngelo,14226
+Mercer,General Assembly,14,Democratic,Daniel R. Benson,13490
+Mercer,General Assembly,14,Republican,David C. Jones,8351
+Mercer,General Assembly,14,Republican,Philip R. Kaufman,8031
+Mercer,General Assembly,14,Green Party,Steven Welzer,597
+Mercer,General Assembly,14,Green Party,Joann Cousin,673
+Middlesex,General Assembly,14,Democratic,Wayne P. DeAngelo,8093
+Middlesex,General Assembly,14,Democratic,Daniel R. Benson,7697
+Middlesex,General Assembly,14,Republican,David C. Jones,6123
+Middlesex,General Assembly,14,Republican,Philip R. Kaufman,5906
+Middlesex,General Assembly,14,Green Party,Steven Welzer,360
+Middlesex,General Assembly,14,Green Party,Joann Cousin,355
+Hunterdon,General Assembly,15,Democratic,Reed Gusciora,1254
+Hunterdon,General Assembly,15,Democratic,Elizabeth Maher Muoio,1271
+Hunterdon,General Assembly,15,Republican,Peter Mendonez Jr.,1101
+Hunterdon,General Assembly,15,Republican,Anthony L. Giordano,1129
+Mercer,General Assembly,15,Democratic,Reed Gusciora,16403
+Mercer,General Assembly,15,Democratic,Elizabeth Maher Muoio,15574
+Mercer,General Assembly,15,Republican,Peter Mendonez Jr.,6244
+Mercer,General Assembly,15,Republican,Anthony L. Giordano,6373
+Hunterdon,General Assembly,16,Republican,Jack M. Ciattarelli,5869
+Hunterdon,General Assembly,16,Republican,Donna M. Simon,5911
+Hunterdon,General Assembly,16,Democratic,Andrew Zwicker,3237
+Hunterdon,General Assembly,16,Democratic,Maureen Vella,3260
+Mercer,General Assembly,16,Republican,Jack M. Ciattarelli,937
+Mercer,General Assembly,16,Republican,Donna M. Simon,944
+Mercer,General Assembly,16,Democratic,Andrew Zwicker,3576
+Mercer,General Assembly,16,Democratic,Maureen Vella,3477
+Middlesex,General Assembly,16,Republican,Jack M. Ciattarelli,1703
+Middlesex,General Assembly,16,Republican,Donna M. Simon,1632
+Middlesex,General Assembly,16,Democratic,Andrew Zwicker,3142
+Middlesex,General Assembly,16,Democratic,Maureen Vella,3000
+Somerset,General Assembly,16,Republican,Jack M. Ciattarelli,8068
+Somerset,General Assembly,16,Republican,Donna M. Simon,7743
+Somerset,General Assembly,16,Democratic,Andrew Zwicker,6353
+Somerset,General Assembly,16,Democratic,Maureen Vella,6306
+Middlesex,General Assembly,17,Democratic,Joseph V. Egan,8179
+Middlesex,General Assembly,17,Democratic,Joseph F. Danielsen,8006
+Middlesex,General Assembly,17,Republican,Robert Mettler,3389
+Middlesex,General Assembly,17,Republican,Brajesh Singh,3026
+Middlesex,General Assembly,17,Green Party,Molly O'Brien,605
+Somerset,General Assembly,17,Democratic,Joseph V. Egan,5265
+Somerset,General Assembly,17,Democratic,Joseph F. Danielsen,5420
+Somerset,General Assembly,17,Republican,Robert Mettler,2973
+Somerset,General Assembly,17,Republican,Brajesh Singh,2404
+Somerset,General Assembly,17,Green Party,Molly O'Brien,380
+Middlesex,General Assembly,18,Democratic,Patrick J. Diegnan Jr.,16256
+Middlesex,General Assembly,18,Democratic,Nancy Pinkin,16113
+Middlesex,General Assembly,18,Republican,Synnove Bakke,9123
+Middlesex,General Assembly,18,Republican,Teresa Rose Hutchison,9432
+Middlesex,General Assembly,19,Democratic,John S. Wisniewski,16159
+Middlesex,General Assembly,19,Democratic,Craig J. Coughlin,15880
+Middlesex,General Assembly,19,Republican,Thomas E. Maras,6597
+Middlesex,General Assembly,19,Republican,Jesus Varela,5916
+Union,General Assembly,20,Democratic,Annette Quijano,12061
+Union,General Assembly,20,Democratic,Jamel Holley,11568
+Union,General Assembly,20,Republican,Stephen E. Kozlovich,3593
+Union,General Assembly,20,Republican,Roger Stryeski,3398
+Morris,General Assembly,21,Republican,Jon Bramnick,1419
+Morris,General Assembly,21,Republican,Nancy Munoz,1410
+Morris,General Assembly,21,Democratic,Jill Anne Lazare,860
+Morris,General Assembly,21,Democratic,David Barnett,812
+Somerset,General Assembly,21,Republican,Jon Bramnick,4087
+Somerset,General Assembly,21,Republican,Nancy Munoz,3992
+Somerset,General Assembly,21,Democratic,Jill Anne Lazare,1786
+Somerset,General Assembly,21,Democratic,David Barnett,1757
+Union,General Assembly,21,Republican,Jon Bramnick,14518
+Union,General Assembly,21,Republican,Nancy Munoz,14381
+Union,General Assembly,21,Democratic,Jill Anne Lazare,11158
+Union,General Assembly,21,Democratic,David Barnett,10809
+Middlesex,General Assembly,22,Democratic,"Gerald ""Jerry"" Green",1450
+Middlesex,General Assembly,22,Democratic,James J. Kennedy,1399
+Middlesex,General Assembly,22,Republican,"William ""Bo"" Vastine",1453
+Middlesex,General Assembly,22,Republican,William H. Michelson,1382
+Somerset,General Assembly,22,Democratic,"Gerald ""Jerry"" Green",1074
+Somerset,General Assembly,22,Democratic,James J. Kennedy,1077
+Somerset,General Assembly,22,Republican,"William ""Bo"" Vastine",900
+Somerset,General Assembly,22,Republican,William H. Michelson,894
+Union,General Assembly,22,Democratic,"Gerald ""Jerry"" Green",9245
+Union,General Assembly,22,Democratic,James J. Kennedy,9611
+Union,General Assembly,22,Republican,"William ""Bo"" Vastine",5723
+Union,General Assembly,22,Republican,William H. Michelson,5390
+Hunterdon,General Assembly,23,Republican,Erik Peterson,5879
+Hunterdon,General Assembly,23,Republican,John DiMaio,5801
+Hunterdon,General Assembly,23,Democratic,Maria Rodriguez,2772
+Hunterdon,General Assembly,23,Democratic,MaryBeth Maciag,2692
+Somerset,General Assembly,23,Republican,Erik Peterson,6919
+Somerset,General Assembly,23,Republican,John DiMaio,7007
+Somerset,General Assembly,23,Democratic,Maria Rodriguez,4453
+Somerset,General Assembly,23,Democratic,MaryBeth Maciag,4341
+Warren,General Assembly,23,Republican,Erik Peterson,4273
+Warren,General Assembly,23,Republican,John DiMaio,4846
+Warren,General Assembly,23,Democratic,Maria Rodriguez,2831
+Warren,General Assembly,23,Democratic,MaryBeth Maciag,2726
+Morris,General Assembly,24,Republican,F. Parker Space,1129
+Morris,General Assembly,24,Republican,Gail Phoebus,1133
+Morris,General Assembly,24,Democratic,Michael F. Grace,526
+Morris,General Assembly,24,Democratic,Jacqueline Stapel,556
+Morris,General Assembly,24,Democratic,Kenneth Collins,99
+Sussex,General Assembly,24,Republican,F. Parker Space,13795
+Sussex,General Assembly,24,Republican,Gail Phoebus,13078
+Sussex,General Assembly,24,Democratic,Michael F. Grace,5432
+Sussex,General Assembly,24,Democratic,Jacqueline Stapel,5467
+Sussex,General Assembly,24,Democratic,Kenneth Collins,1805
+Warren,General Assembly,24,Republican,F. Parker Space,3134
+Warren,General Assembly,24,Republican,Gail Phoebus,3006
+Warren,General Assembly,24,Democratic,Michael F. Grace,1040
+Warren,General Assembly,24,Democratic,Jacqueline Stapel,1142
+Warren,General Assembly,24,Democratic,Kenneth Collins,323
+Morris,General Assembly,25,Republican,Michael Patrick Carroll,12404
+Morris,General Assembly,25,Republican,Anthony M. Bucco,12994
+Morris,General Assembly,25,Democratic,Richard J. Corcoran III,9650
+Morris,General Assembly,25,Democratic,Thomas Moran,9291
+Somerset,General Assembly,25,Republican,Michael Patrick Carroll,968
+Somerset,General Assembly,25,Republican,Anthony M. Bucco,980
+Somerset,General Assembly,25,Democratic,Richard J. Corcoran III,580
+Somerset,General Assembly,25,Democratic,Thomas Moran,558
+Essex,General Assembly,26,Republican,Jay Webber,1766
+Essex,General Assembly,26,Republican,BettyLou DeCroce,1741
+Essex,General Assembly,26,Democratic,Wayne B. Marek,1455
+Essex,General Assembly,26,Democratic,Avery Hart,1497
+Essex,General Assembly,26,Green Party,Jimmy D. Brash,92
+Morris,General Assembly,26,Republican,Jay Webber,8982
+Morris,General Assembly,26,Republican,BettyLou DeCroce,8898
+Morris,General Assembly,26,Democratic,Wayne B. Marek,5450
+Morris,General Assembly,26,Democratic,Avery Hart,5587
+Morris,General Assembly,26,Green Party,Jimmy D. Brash,436
+Passaic,General Assembly,26,Republican,Jay Webber,2991
+Passaic,General Assembly,26,Republican,BettyLou DeCroce,3027
+Passaic,General Assembly,26,Democratic,Wayne B. Marek,1620
+Passaic,General Assembly,26,Democratic,Avery Hart,1721
+Passaic,General Assembly,26,Green Party,Jimmy D. Brash,138
+Essex,General Assembly,27,Democratic,John F. McKeon,13912
+Essex,General Assembly,27,Democratic,Mila M. Jasey,13230
+Essex,General Assembly,27,Republican,Tayfun Selen,5574
+Essex,General Assembly,27,Republican,"Wonkyu ""Q"" Rim",5820
+Essex,General Assembly,27,Libertarian Party,Damien Caillault,357
+Essex,General Assembly,27,Libertarian Party,Jeff Hetrick,380
+Morris,General Assembly,27,Democratic,John F. McKeon,5216
+Morris,General Assembly,27,Democratic,Mila M. Jasey,4741
+Morris,General Assembly,27,Republican,Tayfun Selen,7383
+Morris,General Assembly,27,Republican,"Wonkyu ""Q"" Rim",8076
+Morris,General Assembly,27,Libertarian Party,Damien Caillault,207
+Morris,General Assembly,27,Libertarian Party,Jeff Hetrick,236
+Essex,General Assembly,28,Democratic,Cleopatra G. Tucker,9186
+Essex,General Assembly,28,Democratic,Ralph R. Caputo,9512
+Essex,General Assembly,28,Republican,Darnel C. Henry,1646
+Essex,General Assembly,28,Republican,David H. Pinckney,1661
+Essex,General Assembly,29,Democratic,L. Grace Spencer,7146
+Essex,General Assembly,29,Democatic,Eliana Pintor Marin,6539
+Essex,General Assembly,29,Republican,Nicholas G. Campione,1409
+Essex,General Assembly,29,Republican,Jeannette Veras,1077
+Essex,General Assembly,29,Wake Up Jersey,Pablo Olivera,498
+Monmouth,General Assembly,30,Republican,Sean T. Kean,10845
+Monmouth,General Assembly,30,Republican,David P. Rible,10738
+Monmouth,General Assembly,30,Democratic,Jim Keady,6285
+Monmouth,General Assembly,30,Democratic,Lorna Phillipson,5332
+Monmouth,General Assembly,30,Economic Growth,Hank Schroeder,924
+Ocean,General Assembly,30,Republican,Sean T. Kean,8981
+Ocean,General Assembly,30,Republican,David P. Rible,8721
+Ocean,General Assembly,30,Democratic,Jim Keady,2863
+Ocean,General Assembly,30,Democratic,Lorna Phillipson,2535
+Ocean,General Assembly,30,Economic Growth,Hank Schroeder,177
+Hudson,General Assembly,31,Democratic,Angela V. McKnight,9597
+Hudson,General Assembly,31,Democratic,Nicholas Chiaravalloti,9212
+Hudson,General Assembly,31,Republican,Matthew Kopko,3872
+Hudson,General Assembly,31,Republican,Herminio Mendoza,2603
+Hudson,General Assembly,31,Your Independent Leadership,Anthony Zanowic,958
+Hudson,General Assembly,31,Your Independent Leadership,Alejandro Rodriguez,934
+Bergen,General Assembly,32,Democratic,Vincent Prieto,1452
+Bergen,General Assembly,32,Democratic,Angelica M. Jimenez,1433
+Bergen,General Assembly,32,Republican,LisaMarie Tusa,350
+Bergen,General Assembly,32,Republican,Frank Miqueli,338
+Hudson,General Assembly,32,Democratic,Vincent Prieto,10824
+Hudson,General Assembly,32,Democratic,Angelica M. Jimenez,10372
+Hudson,General Assembly,32,Republican,LisaMarie Tusa,1873
+Hudson,General Assembly,32,Republican,Frank Miqueli,1874
+Hudson,General Assembly,33,Democratic,Raj Mukherji,11978
+Hudson,General Assembly,33,Democratic,Annette Chaparro,12338
+Hudson,General Assembly,33,Republican,Garrett P. Simulcik Jr.,3556
+Hudson,General Assembly,33,Republican,Javier Sosa,3260
+Essex,General Assembly,34,Democratic,Sheila Y. Oliver,9291
+Essex,General Assembly,34,Democratic,Thomas P. Giblin,9166
+Essex,General Assembly,34,Republican,John M. Traier,571
+Essex,General Assembly,34,Republican,Clenard H. Childress Jr.,483
+Passaic,General Assembly,34,Democratic,Sheila Y. Oliver,4003
+Passaic,General Assembly,34,Democratic,Thomas P. Giblin,4270
+Passaic,General Assembly,34,Republican,John M. Traier,3454
+Passaic,General Assembly,34,Republican,Clenard H. Childress Jr.,494
+Bergen,General Assembly,35,Democratic,Shavonda E. Sumter,2352
+Bergen,General Assembly,35,Democratic,Benjie E. Wimberly,2360
+Bergen,General Assembly,35,Republican,David Jimenez,1803
+Bergen,General Assembly,35,Republican,Ilia Villanueva,1707
+Passaic,General Assembly,35,Democratic,Shavonda E. Sumter,9552
+Passaic,General Assembly,35,Democratic,Benjie E. Wimberly,9545
+Passaic,General Assembly,35,Republican,David Jimenez,2719
+Passaic,General Assembly,35,Republican,Ilia Villanueva,2626
+Bergen,General Assembly,36,Democratic,Gary Schaer,11728
+Bergen,General Assembly,36,Democratic,Marlene Caride,11566
+Bergen,General Assembly,36,Republican,Forrest Elliott Jr.,7441
+Bergen,General Assembly,36,Republican,James A. Lenoy,7153
+Bergen,General Assembly,36,NSA Did 911,Jeff Boss,370
+Passaic,General Assembly,36,Democratic,Gary Schaer,3397
+Passaic,General Assembly,36,Democratic,Marlene Caride,3222
+Passaic,General Assembly,36,Republican,Forrest Elliott Jr.,394
+Passaic,General Assembly,36,Republican,James A. Lenoy,357
+Passaic,General Assembly,36,NSA Did 911,Jeff Boss,60
+Bergen,General Assembly,37,Democratic,Gordon M. Johnson,18869
+Bergen,General Assembly,37,Democratic,Valerie Vainieri Huttle,18930
+Bergen,General Assembly,37,Republican,Joseph M. Fiscella,7598
+Bergen,General Assembly,37,Republican,Gino P. Tessaro,7338
+Bergen,General Assembly,38,Democratic,Tim Eustace,18410
+Bergen,General Assembly,38,Democratic,Joseph Lagana,18373
+Bergen,General Assembly,38,Republican,Mark Dipisa,13219
+Bergen,General Assembly,38,Republican,Anthony Cappola,11873
+Passaic,General Assembly,38,Democratic,Tim Eustace,1153
+Passaic,General Assembly,38,Democratic,Joseph Lagana,1138
+Passaic,General Assembly,38,Republican,Mark Dipisa,1502
+Passaic,General Assembly,38,Republican,Anthony Cappola,1466
+Bergen,General Assembly,39,Republican,Holly Schepisi,18884
+Bergen,General Assembly,39,Republican,Robert Auth,17177
+Bergen,General Assembly,39,Democratic,Jeffrey Goldsmith,11928
+Bergen,General Assembly,39,Democratic,John DeRienzo,12341
+Passaic,General Assembly,39,Republican,Holly Schepisi,3132
+Passaic,General Assembly,39,Republican,Robert Auth,3050
+Passaic,General Assembly,39,Democratic,Jeffrey Goldsmith,1912
+Passaic,General Assembly,39,Democratic,John DeRienzo,1917
+Bergen,General Assembly,40,Republican,David C. Russo,7081
+Bergen,General Assembly,40,Republican,Scott T. Rumana,6635
+Bergen,General Assembly,40,Democratic,Paul Vagianos,6972
+Bergen,General Assembly,40,Democratic,Christine Ordway,6952
+Essex,General Assembly,40,Republican,David C. Russo,859
+Essex,General Assembly,40,Republican,Scott T. Rumana,778
+Essex,General Assembly,40,Democratic,Paul Vagianos,716
+Essex,General Assembly,40,Democratic,Christine Ordway,768
+Morris,General Assembly,40,Republican,David C. Russo,1395
+Morris,General Assembly,40,Republican,Scott T. Rumana,1366
+Morris,General Assembly,40,Democratic,Paul Vagianos,1013
+Morris,General Assembly,40,Democratic,Christine Ordway,1060
+Passaic,General Assembly,40,Republican,David C. Russo,10340
+Passaic,General Assembly,40,Republican,Scott T. Rumana,10578
+Passaic,General Assembly,40,Democratic,Paul Vagianos,6872
+Passaic,General Assembly,40,Democratic,Christine Ordway,6849
