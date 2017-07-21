@@ -412,3 +412,19 @@ class VerifyMuni(VerifyCounty):
     def get_muni_index(self):
         return self.muni_index
 
+class VerifyPrecinct(VerifyCounty):
+
+    def __init__ (self, file_name, verbose, ignore_case):
+        VerifyCounty.__init__(self, file_name, verbose, ignore_case)
+        self.precinct_index = -1
+        self.__calc_precinct_column_indexes()
+
+    def __calc_precinct_column_indexes(self):
+        self.c_file.seek(0)
+        for row in self.c_reader:
+            if self.precinct_index == -1:
+                self.precinct_index = self.find_header_index("precinct", row)
+        
+    def get_precinct_index(self):
+        return self.precinct_index
+

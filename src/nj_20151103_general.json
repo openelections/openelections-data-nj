@@ -1,0 +1,289 @@
+{
+    "output_directory":"../2015/",
+    "output_file":"20151103__nj__temp.csv",
+    "nj_assembly":{
+        "input_directory":"../../openelections-sources-nj/2015/general/csv/",
+        "input_files": [
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-1st-ld-municipality.csv",
+                    "county":"*",
+                    "district":"1",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-2nd-ld-municipality.csv",
+                    "county":"*",
+                    "district":"2",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-3rd-ld-municipality.csv",
+                    "county":"*",
+                    "district":"3",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-4th-ld-municipality.csv",
+                    "county":"*",
+                    "district":"4",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-5th-ld-municipality.csv",
+                    "county":"*",
+                    "district":"5",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-6th-ld-municipality.csv",
+                    "county":"*",
+                    "district":"6",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-7th-ld-municipality.csv",
+                    "county":"*",
+                    "district":"7",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-8th-ld-municipality.csv",
+                    "county":"*",
+                    "district":"8",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-9th-ld-municipality.csv",
+                    "county":"*",
+                    "district":"9",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-10th-ld-municipality.csv",
+                    "county":"*",
+                    "district":"10",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-11th-ld-municipality.csv",
+                    "county":"*",
+                    "district":"11",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-12th-ld-municipality.csv",
+                    "county":"*",
+                    "district":"12",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-13th-ld-municipality.csv",
+                    "county":"*",
+                    "district":"13",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-14th-ld-municipality.csv",
+                    "county":"*",
+                    "district":"14",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-15th-ld-municipality.csv",
+                    "county":"*",
+                    "district":"15",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-16th-ld-municipality.csv",
+                    "county":"*",
+                    "district":"16",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-17th-ld-municipality.csv",
+                    "county":"*",
+                    "district":"17",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-18th-ld-municipality.csv",
+                    "county":"*",
+                    "district":"18",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-19th-ld-municipality.csv",
+                    "county":"*",
+                    "district":"19",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-20th-ld-municipality.csv",
+                    "county":"*",
+                    "district":"20",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-21st-ld-municipality.csv",
+                    "county":"*",
+                    "district":"21",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-22nd-ld-municipality.csv",
+                    "county":"*",
+                    "district":"22",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-23rd-ld-municipality.csv",
+                    "county":"*",
+                    "district":"23",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-24th-ld-municipality.csv",
+                    "county":"*",
+                    "district":"24",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-25th-ld-municipality.csv",
+                    "county":"*",
+                    "district":"25",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-26th-ld-municipality.csv",
+                    "county":"*",
+                    "district":"26",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-27th-ld-municipality.csv",
+                    "county":"*",
+                    "district":"27",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-28th-ld-municipality.csv",
+                    "county":"*",
+                    "district":"28",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-29th-ld-municipality.csv",
+                    "county":"*",
+                    "district":"29",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-30th-ld-municipality.csv",
+                    "county":"*",
+                    "district":"30",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-31st-ld-municipality.csv",
+                    "county":"*",
+                    "district":"31",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-32nd-ld-municipality.csv",
+                    "county":"*",
+                    "district":"32",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-33rd-ld-municipality.csv",
+                    "county":"*",
+                    "district":"33",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-34th-ld-municipality.csv",
+                    "county":"*",
+                    "district":"34",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-35th-ld-municipality.csv",
+                    "county":"*",
+                    "district":"35",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-36th-ld-municipality.csv",
+                    "county":"*",
+                    "district":"36",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-37th-ld-municipality.csv",
+                    "county":"*",
+                    "district":"37",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-38th-ld-municipality.csv",
+                    "county":"*",
+                    "district":"38",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-39th-ld-municipality.csv",
+                    "county":"*",
+                    "district":"39",
+                    "columns":"*"
+                },
+                {
+                    "office":"General Assembly",
+                    "file":"tabula-2015-GenAssembly-gen-elect-results-40th-ld-municipality.csv",
+                    "county":"*",
+                    "district":"40",
+                    "columns":"*"
+                }
+            ]
+        }
+}
