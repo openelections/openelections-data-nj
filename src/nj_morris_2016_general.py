@@ -113,6 +113,6 @@ def processXmlFile(in_file, out_file):
     return
 
 try:
-    processXmlFile('../../openelections-sources-nj/2016/Morris/general.xml', '../2016/nj_2016_morris_temp.csv')
+    processXmlFile('../../openelections-sources-nj/2016/Morris/general.xml', '../2016/20161108__nj__general__morris__precinct.csv')
 except Exception as e:
     print(e)
