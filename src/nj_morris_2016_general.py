@@ -28,7 +28,8 @@ import xml.etree.ElementTree
 
 class ContestConfig (object):
 
-    def __init__ (self, xmlKey, office, district):
+    def __init__ (self, xmlKey, county, office, district):
+        self.county = county
         self.xmlKey = xmlKey
         self.office = office
         self.district = district
@@ -48,8 +49,21 @@ class ContestConfig (object):
         return
 
     def printCSVLine(self, outFile):
-        outFile.writerow( ('Morris', self.precinct, self.office, self.district, self.candidate, self.party, self.votes) )
+        outFile.writerow( (self.county, self.precinct, self.office, self.district, self.candidate, self.party, self.votes) )
         return
+
+
+def validateArgs( p_args ):
+    counter = 0
+    if args.cumberland:
+        print ' ***** Running for Cumberland County *****'
+        counter+=1
+    if args.morris:
+        print ' ***** Running for Morris County *****'
+        counter+=1
+    if counter == 0:
+        sys.exit(' ***** ERROR -- No county specified *****')
+    return
 
 def openOutputFile(outputPath):
     try:
@@ -60,29 +74,30 @@ def openOutputFile(outputPath):
     return writer
 
 def processPrecinct(xmlNode, xmlConfig, outFile):
-    #print ('            ' + xmlNode.get('name'))
+    print ('            Precinct:' + xmlNode.get('name'))
     xmlConfig.precinct = xmlNode.get('name')
     xmlConfig.votes = xmlNode.get('votes')
     xmlConfig.printCSVLine(outFile)
     return
 
 def processVoteType(xmlNode, xmlConfig, outFile):
-    #print ('         ' + xmlNode.get('name'))
+    print ('         VoteType:' + xmlNode.get('name'))
     if (xmlNode.get('name') == 'Election'):
         for objPrecinct in xmlNode.findall('Precinct'):
             processPrecinct(objPrecinct, xmlConfig, outFile)
     return
 
 def processChoice(xmlNode, xmlConfig, outFile):
-    #print ('    ' + xmlNode.get('text'))
+    print ('    Choice:' + xmlNode.get('text'))
     xmlConfig.parsePartyCandidateLine(xmlNode.get('text'))
     for objVoteType in xmlNode.findall('VoteType'):
         processVoteType(objVoteType, xmlConfig, outFile)
+    print ('    Choice: DONE')
     return
 
 def processSingleContest(xmlRoot, xmlConfig, outFile):
     xmlNode = findContestByName(xmlRoot, xmlConfig.xmlKey)
-    #print (xmlNode.get('text'))
+    print ('Single Contest:' + xmlNode.get('text'))
     for objChoice in xmlNode.findall('Choice'):
         processChoice(objChoice, xmlConfig, outFile)
     return
@@ -95,24 +110,73 @@ def findContestByName(xmlNode, contestName):
             break
     return return_value
 
-def processXmlFile(in_file, out_file):
+def processCumberlandXmlFile(in_file, out_file):
 
     xmlRoot = xml.etree.ElementTree.parse(in_file).getroot()
     outFile = openOutputFile(out_file)
     outFile.writerow( ('county', 'precinct', 'office', 'district', 'candidate', 'party', 'votes') )
 
-    objConfig = ContestConfig('President', 'President', None)
+    print 'President'
+
+    objConfig = ContestConfig('President and Vice President', 
+                              'Cumberland', 
+                              'President', 
+                              None)
     processSingleContest(xmlRoot, objConfig, outFile)
 
-    objConfig = ContestConfig('House of Representatives 7th Congressional', 'U.S. House', '7')
+    #objConfig = ContestConfig('House of Representatives 7th Congressional', 
+    #                          'Cumberland', 
+    #                          'U.S. House', 
+    #                          '7')
+    #processSingleContest(xmlRoot, objConfig, outFile)
+
+    #objConfig = ContestConfig('House of Representatives 11th Congressional', 
+    #                          'Cumberland', 
+    #                          'U.S. House', 
+    #                          '11')
+    #processSingleContest(xmlRoot, objConfig, outFile)
+
+    return
+
+def processMorrisXmlFile(in_file, out_file):
+
+    xmlRoot = xml.etree.ElementTree.parse(in_file).getroot()
+    outFile = openOutputFile(out_file)
+    outFile.writerow( ('county', 'precinct', 'office', 'district', 'candidate', 'party', 'votes') )
+
+    objConfig = ContestConfig('President', 
+                              'Morris', 
+                              'President', 
+                              None)
     processSingleContest(xmlRoot, objConfig, outFile)
 
-    objConfig = ContestConfig('House of Representatives 11th Congressional', 'U.S. House', '11')
+    objConfig = ContestConfig('House of Representatives 7th Congressional', 
+                              'Morris', 
+                              'U.S. House', 
+                              '7')
+    processSingleContest(xmlRoot, objConfig, outFile)
+
+    objConfig = ContestConfig('House of Representatives 11th Congressional', 
+                              'Morris', 
+                              'U.S. House', 
+                              '11')
     processSingleContest(xmlRoot, objConfig, outFile)
 
     return
 
 try:
-    processXmlFile('../../openelections-sources-nj/2016/Morris/general.xml', '../2016/20161108__nj__general__morris__precinct.csv')
+    arg_parser = argparse.ArgumentParser(description='Parse New Jersey Count data.')
+    arg_parser.add_argument('--cumberland', help='run for cumberland county', action='store_true')
+    arg_parser.add_argument('--morris', help='run for morris county', action='store_true')
+    args = arg_parser.parse_args()
+
+    validateArgs(args)
+
+    if args.cumberland:
+        processCumberlandXmlFile('../../openelections-sources-nj/2016/Cumberland/general.xml', 
+                                 '../2016/20161108__nj__general__cumberland__precinct.csv')
+    if args.morris:
+        processMorrisXmlFile('../../openelections-sources-nj/2016/Morris/general.xml', 
+                             '../2016/20161108__nj__general__morris__precinct.csv')
 except Exception as e:
     print(e)
