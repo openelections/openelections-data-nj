@@ -58,6 +58,9 @@ def validateArgs( p_args ):
     if args.cumberland:
         print ' ***** Running for Cumberland County *****'
         counter+=1
+    if args.gloucester:
+        print ' ***** Running for Gloucester County *****'
+        counter+=1
     if args.morris:
         print ' ***** Running for Morris County *****'
         counter+=1
@@ -130,6 +133,32 @@ def processCumberlandXmlFile(in_file, out_file):
 
     return
 
+def processGloucesterXmlFile(in_file, out_file):
+
+    xmlRoot = xml.etree.ElementTree.parse(in_file).getroot()
+    outFile = openOutputFile(out_file)
+    outFile.writerow( ('county', 'precinct', 'office', 'district', 'candidate', 'party', 'votes') )
+
+    objConfig = ContestConfig('U.S. President', 
+                              'Gloucester', 
+                              'President', 
+                              None)
+    processSingleContest(xmlRoot, objConfig, outFile)
+
+    objConfig = ContestConfig('House of Reps. 1st Congressional District', 
+                              'Gloucester', 
+                              'U.S. House', 
+                              '1')
+    processSingleContest(xmlRoot, objConfig, outFile)
+
+    objConfig = ContestConfig('House of Reps. 2nd Congressional District', 
+                              'Gloucester', 
+                              'U.S. House', 
+                              '2')
+    processSingleContest(xmlRoot, objConfig, outFile)
+
+    return
+
 def processMorrisXmlFile(in_file, out_file):
 
     xmlRoot = xml.etree.ElementTree.parse(in_file).getroot()
@@ -159,6 +188,7 @@ def processMorrisXmlFile(in_file, out_file):
 try:
     arg_parser = argparse.ArgumentParser(description='Parse New Jersey Count data.')
     arg_parser.add_argument('--cumberland', help='run for cumberland county', action='store_true')
+    arg_parser.add_argument('--gloucester', help='run for gloucester county', action='store_true')
     arg_parser.add_argument('--morris', help='run for morris county', action='store_true')
     args = arg_parser.parse_args()
 
@@ -167,6 +197,9 @@ try:
     if args.cumberland:
         processCumberlandXmlFile('../../openelections-sources-nj/2016/Cumberland/general.xml', 
                                  '../2016/20161108__nj__general__cumberland__precinct.csv')
+    if args.gloucester:
+        processGloucesterXmlFile('../../openelections-sources-nj/2016/Gloucester/general.xml', 
+                             '../2016/20161108__nj__general__gloucester__precinct.csv')
     if args.morris:
         processMorrisXmlFile('../../openelections-sources-nj/2016/Morris/general.xml', 
                              '../2016/20161108__nj__general__morris__precinct.csv')
