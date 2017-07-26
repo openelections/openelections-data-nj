@@ -40,7 +40,7 @@ class ContestConfig (object):
 
     def parsePartyCandidateLine(self, textValue):
         if ((textValue != 'Write-In') and (textValue != 'Personal Choice')):
-            newValues = textValue.split('-')
+            newValues = textValue.split('-', 1)
             self.party = newValues[0].strip()
             self.candidate = newValues[1].strip()
         else:
@@ -60,6 +60,9 @@ def validateArgs( p_args ):
         counter+=1
     if args.gloucester:
         print ' ***** Running for Gloucester County *****'
+        counter+=1
+    if args.monmouth:
+        print ' ***** Running for Monmouth County *****'
         counter+=1
     if args.morris:
         print ' ***** Running for Morris County *****'
@@ -159,6 +162,32 @@ def processGloucesterXmlFile(in_file, out_file):
 
     return
 
+def processMonmouthXmlFile(in_file, out_file):
+
+    xmlRoot = xml.etree.ElementTree.parse(in_file).getroot()
+    outFile = openOutputFile(out_file)
+    outFile.writerow( ('county', 'precinct', 'office', 'district', 'candidate', 'party', 'votes') )
+
+    objConfig = ContestConfig('Presidential Electors', 
+                              'Monmouth', 
+                              'President', 
+                              None)
+    processSingleContest(xmlRoot, objConfig, outFile)
+
+    objConfig = ContestConfig('U.S. House of Representatives 4th District', 
+                              'Monmouth', 
+                              'U.S. House', 
+                              '4')
+    processSingleContest(xmlRoot, objConfig, outFile)
+
+    objConfig = ContestConfig('U.S. House of Representatives 6th District', 
+                              'Monmouth', 
+                              'U.S. House', 
+                              '6')
+    processSingleContest(xmlRoot, objConfig, outFile)
+
+    return
+
 def processMorrisXmlFile(in_file, out_file):
 
     xmlRoot = xml.etree.ElementTree.parse(in_file).getroot()
@@ -189,6 +218,7 @@ try:
     arg_parser = argparse.ArgumentParser(description='Parse New Jersey Count data.')
     arg_parser.add_argument('--cumberland', help='run for cumberland county', action='store_true')
     arg_parser.add_argument('--gloucester', help='run for gloucester county', action='store_true')
+    arg_parser.add_argument('--monmouth', help='run for monmouth county', action='store_true')
     arg_parser.add_argument('--morris', help='run for morris county', action='store_true')
     args = arg_parser.parse_args()
 
@@ -200,6 +230,9 @@ try:
     if args.gloucester:
         processGloucesterXmlFile('../../openelections-sources-nj/2016/Gloucester/general.xml', 
                              '../2016/20161108__nj__general__gloucester__precinct.csv')
+    if args.monmouth:
+        processMonmouthXmlFile('../../openelections-sources-nj/2016/Monmouth/general.xml', 
+                             '../2016/20161108__nj__general__monmouth__precinct.csv')
     if args.morris:
         processMorrisXmlFile('../../openelections-sources-nj/2016/Morris/general.xml', 
                              '../2016/20161108__nj__general__morris__precinct.csv')
