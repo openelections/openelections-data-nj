@@ -39,7 +39,7 @@ class ContestConfig (object):
         self.votes = 0
 
     def parsePartyCandidateLine(self, textValue):
-        if (textValue != 'Write-In'):
+        if ((textValue != 'Write-In') and (textValue != 'Personal Choice')):
             newValues = textValue.split('-')
             self.party = newValues[0].strip()
             self.candidate = newValues[1].strip()
@@ -74,30 +74,29 @@ def openOutputFile(outputPath):
     return writer
 
 def processPrecinct(xmlNode, xmlConfig, outFile):
-    print ('            Precinct:' + xmlNode.get('name'))
+    #print ('            Precinct:' + xmlNode.get('name'))
     xmlConfig.precinct = xmlNode.get('name')
     xmlConfig.votes = xmlNode.get('votes')
     xmlConfig.printCSVLine(outFile)
     return
 
 def processVoteType(xmlNode, xmlConfig, outFile):
-    print ('         VoteType:' + xmlNode.get('name'))
+    #print ('         VoteType:' + xmlNode.get('name'))
     if (xmlNode.get('name') == 'Election'):
         for objPrecinct in xmlNode.findall('Precinct'):
             processPrecinct(objPrecinct, xmlConfig, outFile)
     return
 
 def processChoice(xmlNode, xmlConfig, outFile):
-    print ('    Choice:' + xmlNode.get('text'))
+    #print ('    Choice:' + xmlNode.get('text'))
     xmlConfig.parsePartyCandidateLine(xmlNode.get('text'))
     for objVoteType in xmlNode.findall('VoteType'):
         processVoteType(objVoteType, xmlConfig, outFile)
-    print ('    Choice: DONE')
     return
 
 def processSingleContest(xmlRoot, xmlConfig, outFile):
     xmlNode = findContestByName(xmlRoot, xmlConfig.xmlKey)
-    print ('Single Contest:' + xmlNode.get('text'))
+    #print ('Single Contest:' + xmlNode.get('text'))
     for objChoice in xmlNode.findall('Choice'):
         processChoice(objChoice, xmlConfig, outFile)
     return
@@ -116,25 +115,18 @@ def processCumberlandXmlFile(in_file, out_file):
     outFile = openOutputFile(out_file)
     outFile.writerow( ('county', 'precinct', 'office', 'district', 'candidate', 'party', 'votes') )
 
-    print 'President'
-
     objConfig = ContestConfig('President and Vice President', 
                               'Cumberland', 
                               'President', 
                               None)
     processSingleContest(xmlRoot, objConfig, outFile)
 
-    #objConfig = ContestConfig('House of Representatives 7th Congressional', 
-    #                          'Cumberland', 
-    #                          'U.S. House', 
-    #                          '7')
-    #processSingleContest(xmlRoot, objConfig, outFile)
+    objConfig = ContestConfig('House of Representatives', 
+                              'Cumberland', 
+                              'U.S. House', 
+                              '2')
+    processSingleContest(xmlRoot, objConfig, outFile)
 
-    #objConfig = ContestConfig('House of Representatives 11th Congressional', 
-    #                          'Cumberland', 
-    #                          'U.S. House', 
-    #                          '11')
-    #processSingleContest(xmlRoot, objConfig, outFile)
 
     return
 
