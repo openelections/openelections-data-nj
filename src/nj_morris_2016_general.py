@@ -39,7 +39,8 @@ class ContestConfig (object):
         self.votes = 0
 
     def parsePartyCandidateLine(self, textValue):
-        if ((textValue.lower() != 'write-in') and (textValue.lower != 'personal choice')):
+        #print '       Parsing Party/Candidate: ' + textValue
+        if ((textValue.lower() != 'write-in') and (textValue.lower() != 'personal choice')):
             newValues = textValue.split('-', 1)
             self.party = newValues[0].strip()
             self.candidate = newValues[1].strip()
@@ -69,6 +70,9 @@ def validateArgs( p_args ):
         counter+=1
     if args.ocean:
         print ' ***** Running for Ocean County *****'
+        counter+=1
+    if args.union:
+        print ' ***** Running for Union County *****'
         counter+=1
     if counter == 0:
         sys.exit(' ***** ERROR -- No county specified *****')
@@ -105,7 +109,7 @@ def processChoice(xmlNode, xmlConfig, outFile):
 
 def processSingleContest(xmlRoot, xmlConfig, outFile):
     xmlNode = findContestByName(xmlRoot, xmlConfig.xmlKey)
-    #print ('Single Contest:' + xmlNode.get('text'))
+    print ('Single Contest:' + xmlNode.get('text'))
     for objChoice in xmlNode.findall('Choice'):
         processChoice(objChoice, xmlConfig, outFile)
     return
@@ -249,6 +253,44 @@ def processOceanXmlFile(in_file, out_file):
 
     return
 
+def processUnionXmlFile(in_file, out_file):
+
+    xmlRoot = xml.etree.ElementTree.parse(in_file).getroot()
+    outFile = openOutputFile(out_file)
+    outFile.writerow( ('county', 'precinct', 'office', 'district', 'candidate', 'party', 'votes') )
+
+    objConfig = ContestConfig('President', 
+                              'Union', 
+                              'President', 
+                              None)
+    processSingleContest(xmlRoot, objConfig, outFile)
+
+    objConfig = ContestConfig('House of Representatives-7th' ,
+                              'Union', 
+                              'U.S. House', 
+                              '7')
+    processSingleContest(xmlRoot, objConfig, outFile)
+
+    objConfig = ContestConfig('House of Representatives- 8th', 
+                              'Union', 
+                              'U.S. House', 
+                              '8')
+    processSingleContest(xmlRoot, objConfig, outFile)
+
+    objConfig = ContestConfig('House of Representatives-10th', 
+                              'Union', 
+                              'U.S. House', 
+                              '10')
+    processSingleContest(xmlRoot, objConfig, outFile)
+
+    objConfig = ContestConfig('House Of Representatives-12th', 
+                              'Union', 
+                              'U.S. House', 
+                              '12')
+    processSingleContest(xmlRoot, objConfig, outFile)
+
+    return
+
 try:
     arg_parser = argparse.ArgumentParser(description='Parse New Jersey Count data.')
     arg_parser.add_argument('--cumberland', help='run for cumberland county', action='store_true')
@@ -256,6 +298,7 @@ try:
     arg_parser.add_argument('--monmouth', help='run for monmouth county', action='store_true')
     arg_parser.add_argument('--morris', help='run for morris county', action='store_true')
     arg_parser.add_argument('--ocean', help='run for ocean county', action='store_true')
+    arg_parser.add_argument('--union', help='run for union county', action='store_true')
     args = arg_parser.parse_args()
 
     validateArgs(args)
@@ -275,5 +318,8 @@ try:
     if args.ocean:
         processOceanXmlFile('../../openelections-sources-nj/2016/Ocean/general.xml', 
                              '../2016/20161108__nj__general__ocean__precinct.csv')
+    if args.union:
+        processUnionXmlFile('../../openelections-sources-nj/2016/Union/general.xml', 
+                             '../2016/20161108__nj__general__union__precinct.csv')
 except Exception as e:
     print(e)
