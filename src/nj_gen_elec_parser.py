@@ -29,11 +29,14 @@ import csv
 arg_parser = argparse.ArgumentParser(description='Parse New Jersey Count data.')
 arg_parser.add_argument('configfile', type=str, nargs=1) 
 arg_parser.add_argument('--muni', help='run in municipality mode', action='store_true')
+arg_parser.add_argument('--prec', help='run in precinct mode', action='store_true')
 args = arg_parser.parse_args()
 
 def validateArgs( p_args ):
     if args.muni:
         print ' ***** Running in Municipality Mode *****'
+    if args.prec:
+        print ' ***** Running in Precinct Mode *****'
     if os.path.isfile(args.configfile[0]) != True:
         sys.exit('ERROR: Config File ' + args.configfile[0] + ' does not exist')
     else:
@@ -57,6 +60,8 @@ def openOutputFile( p_config ):
 def print_header( p_outfile):
     if args.muni:
         p_outfile.writerow( ('county','municipality','office','district','party','candidate','votes') )
+    if args.prec:
+        p_outfile.writerow( ('county','precinct','office','district','party','candidate','votes') )
     else:
         p_outfile.writerow( ('county','office','district','party','candidate','votes') )
     return
@@ -172,6 +177,8 @@ def extract_county_name(p_line, p_config, p_county_name):
 
 def process_data_line( p_candidateList, p_partyList, p_line, p_outfile, p_config, county_name):
     if args.muni:
+        process_muni_line(p_candidateList, p_partyList, p_line, p_outfile, p_config, county_name)
+    if args.prec:
         process_muni_line(p_candidateList, p_partyList, p_line, p_outfile, p_config, county_name)
     else:
         process_county_line(p_candidateList, p_partyList, p_line, p_outfile, p_config, county_name)
