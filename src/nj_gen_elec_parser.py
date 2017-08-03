@@ -227,6 +227,5 @@ config = readJsonConfig( args )
 out_file = openOutputFile(config)
 try:
     process_config_data(config, out_file)
-except:
-    print sys.exc_info()[0]
-
+except Exception as e:
+    print(e)
