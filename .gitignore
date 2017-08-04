@@ -6,3 +6,8 @@
 # vi Generated Files
 #######################
 *.swp
+
+# temp working files that 
+# should never be committed
+#######################
+*__nj__temp.csv
