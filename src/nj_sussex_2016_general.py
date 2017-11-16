@@ -48,6 +48,28 @@ class County(object):
                     outFile.writerow( (self.county, p.precinct, o.office, '', r.candidate, r.party, r.votes) )
         return
 
+    def writeToCsvByOffice(self, outFile, officeToPrint):
+        for p in self.precincts:
+            for o in p.offices: 
+                if o.office == officeToPrint:
+                    for r in o.results:
+                        outFile.writerow( (self.county, p.precinct, o.office, '', r.candidate, r.party, r.votes) )
+        return
+
+    def writeToScreen(self):
+        for p in self.precincts:
+            for o in p.offices: 
+                for r in o.results:
+                    print self.county + ":" + p.precinct + ":" + o.office + ":" + r.candidate + ":" + r.party + ":" + str(r.votes)
+        return
+
+    def writeToScreenByOffice(self, officeToPrint):
+        for p in self.precincts:
+            for o in p.offices: 
+                if o.office == officeToPrint:
+                    for r in o.results:
+                        print self.county + ":" + p.precinct + ":" + o.office + ":" + r.candidate + ":" + r.party + ":" + str(r.votes)
+        return
 
 class Precinct(object):
     def __init__ (self, precinct):
@@ -56,14 +78,14 @@ class Precinct(object):
 
 class Office(object):
     def __init__ (self, office):
-        self.name = office
+        self.office = office
         self.results = []
 
 class CandidateResults(object):
     def __init__ (self, candidate, party, votes):
-        self.candidate = ''
-        self.party = ''
-        self.votes = 0
+        self.candidate = candidate
+        self.party = party
+        self.votes = votes
 
 class ContestRecord (object):
 
@@ -166,9 +188,35 @@ def extractPrecinctName(current_line):
 
 def extractRaceName(current_line):
     rName = ""
-    if "PRESIDENT" in current_line or "HOUSE OF REPRESENTATIVES" in current_line:
-        rName = current_line.rstrip()
+    #if "PRESIDENT" in current_line or "HOUSE OF REPRESENTATIVES" in current_line:
+    rName = current_line.rstrip()
     return rName
+
+def extractCandidateName(current_line):
+    cName = ""
+    if current_line.startswith(" WRITE-IN"):
+        cName = "WRITE-IN"
+    else:
+        parenPos = current_line.find("(")
+        if parenPos > 1:
+            cName = current_line[1:parenPos].rstrip()
+    return cName
+
+def extractCandidateParty(current_line):
+    cParty = ""
+    if current_line.startswith(" WRITE-IN"):
+        cParty = ""
+    else:
+        openPos = current_line.find("(")
+        closePos = current_line.find(")")
+        if openPos > 1 and closePos > openPos:
+            cParty = current_line[openPos+1:closePos].rstrip()
+    return cParty
+
+def extractCandidateVotes(current_line):
+    cVotes = 0
+    cVotes = int(current_line[45:51])
+    return cVotes
 
 def processLine(current_line, countyObj):
     line_type = determineLineType(current_line) 
@@ -177,20 +225,30 @@ def processLine(current_line, countyObj):
         precinctObj = Precinct(extractPrecinctName(current_line))
         countyObj.precincts.append(precinctObj)
     elif line_type == LineType.RACE:
-        print "RACE    :" + current_line
+        #print "RACE    :" + current_line
         race_name = extractRaceName(current_line)
         if len(race_name) > 0:
             officeObj = Office(race_name)
             pLen = len(countyObj.precincts)
             countyObj.precincts[pLen - 1].offices.append(officeObj)
-    #elif line_type == LineType.VOTEFOR:
-    #    print "VOTEFOR :" + current_line
-    #elif line_type == LineType.CANDIDATE:
-    #    print "CAND    :" + current_line
-    #elif line_type == LineType.OTHER:
-    #    print "OTHER   :" + current_line
+    elif line_type == LineType.CANDIDATE:
+        #print "CAND    :" + current_line
+        candidate_name = extractCandidateName(current_line)
+        candidate_party = extractCandidateParty(current_line)
+        candidate_votes = extractCandidateVotes(current_line)
+        candidateObj = CandidateResults(candidate_name, candidate_party, candidate_votes)
+        pLen = len(countyObj.precincts)
+        oLen = len(countyObj.precincts[pLen-1].offices)
+        countyObj.precincts[pLen - 1].offices[oLen - 1].results.append(candidateObj)
 
-def stepThruData():
+def printFile(countyObj, outputPath):
+    ofile = openOutputFile(outputPath)
+    ofile.writerow( ("County", "Precinct", "Office", "District", "Candidate", "Party", "Votes") )
+    countyObj.writeToCsvByOffice(ofile, "PRESIDENT")
+    countyObj.writeToCsvByOffice(ofile, "HOUSE OF REPRESENTATIVES 5TH CONGRESSIONAL DISTRICT")
+    countyObj.writeToCsvByOffice(ofile, "HOUSE OF REPRESENTATIVES 11TH CONGRESSIONAL DISTRICT")
+
+def processFile():
     use_line = False
     line_type = LineType.OTHER
     countyObj = County('Sussex')
@@ -198,14 +256,16 @@ def stepThruData():
         use_line = inPreTag(line, use_line)
         if use_line:
             processLine(line, countyObj)
+    #countyObj.writeToScreenByOffice("PRESIDENT")
+    #countyObj.writeToScreenByOffice("HOUSE OF REPRESENTATIVES 5TH CONGRESSIONAL DISTRICT")
+    #countyObj.writeToScreenByOffice("HOUSE OF REPRESENTATIVES 11TH CONGRESSIONAL DISTRICT")
+    printFile(countyObj, '../2016/2016-temp.csv')
 
 try:
     arg_parser = argparse.ArgumentParser(description='Parse New Jersey Sussex County data.')
     args = arg_parser.parse_args()
-
     validateArgs(args)
-
-    stepThruData()
+    processFile()
 
 except Exception as e:
     print(e)
