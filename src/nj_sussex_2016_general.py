@@ -48,12 +48,12 @@ class County(object):
                     outFile.writerow( (self.county, p.precinct, o.office, '', r.candidate, r.party, r.votes) )
         return
 
-    def writeToCsvByOffice(self, outFile, officeToPrint):
+    def writeToCsvByOffice(self, outFile, officeToSelect, officeToPrint, districtToPrint):
         for p in self.precincts:
             for o in p.offices: 
-                if o.office == officeToPrint:
+                if o.office == officeToSelect:
                     for r in o.results:
-                        outFile.writerow( (self.county, p.precinct, o.office, '', r.candidate, r.party, r.votes) )
+                        outFile.writerow( (self.county, p.precinct, officeToPrint, districtToPrint, r.candidate, r.party, r.votes) )
         return
 
     def writeToScreen(self):
@@ -244,9 +244,9 @@ def processLine(current_line, countyObj):
 def printFile(countyObj, outputPath):
     ofile = openOutputFile(outputPath)
     ofile.writerow( ("County", "Precinct", "Office", "District", "Candidate", "Party", "Votes") )
-    countyObj.writeToCsvByOffice(ofile, "PRESIDENT")
-    countyObj.writeToCsvByOffice(ofile, "HOUSE OF REPRESENTATIVES 5TH CONGRESSIONAL DISTRICT")
-    countyObj.writeToCsvByOffice(ofile, "HOUSE OF REPRESENTATIVES 11TH CONGRESSIONAL DISTRICT")
+    countyObj.writeToCsvByOffice(ofile, "PRESIDENT", "President", "")
+    countyObj.writeToCsvByOffice(ofile, "HOUSE OF REPRESENTATIVES 5TH CONGRESSIONAL DISTRICT", "U.S. House", "5")
+    countyObj.writeToCsvByOffice(ofile, "HOUSE OF REPRESENTATIVES 11TH CONGRESSIONAL DISTRICT", "U.S. House", "11")
 
 def processFile():
     use_line = False
