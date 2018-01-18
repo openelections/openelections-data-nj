@@ -189,12 +189,14 @@ def process_single_file(p_config, p_outfile, p_infile):
     candidateList = []
     partyList = []
     county_name = 'unknown'
+    #print 'Processing ' + p_infile
     if os.path.isfile(p_infile) != True:
         print 'ERROR: Input File ' + p_infile + ' does not exist'
     else:
         with open(p_infile, 'rb') as csvfile:
             csvreader = csv.reader(csvfile, delimiter=',', quotechar='"')
             for line in csvreader:
+                #print line
                 counter = counter + 1
                 if counter == 1:
                     process_header_line(candidateList, partyList, line, p_config)
