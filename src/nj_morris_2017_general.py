@@ -125,7 +125,7 @@ def print_county_totals( p_candidateList, p_partyList, p_line, p_outfile, p_conf
                                ))
     return
 
-def print_muni_totals( p_candidateList, p_partyList, p_line, p_outfile, p_config, p_county_name):
+def print_muni_totals( p_candidateList, p_partyList, p_line, p_outfile, p_config, p_county_name, p_muni_name):
     valid_column = p_config['columns'].split(",")
     for i in range(len(p_line)):
         print_value=False
@@ -137,7 +137,7 @@ def print_muni_totals( p_candidateList, p_partyList, p_line, p_outfile, p_config
                     print_value=True
         if print_value == True:
             p_outfile.writerow((p_county_name,
-                                p_line[0],
+                                p_muni_name, 
                                 p_config['office'],
                                 p_config['district'],
                                 p_partyList[i-1], 
@@ -162,9 +162,9 @@ def process_county_line(p_candidateList, p_partyList, p_line, p_outfile, p_confi
         if search_text in p_line[0].upper():
             print_county_totals(p_candidateList, p_partyList, p_line, p_outfile, p_config, p_county_name)
 
-def process_muni_line(p_candidateList, p_partyList, p_line, p_outfile, p_config, p_county_name):
+def process_muni_line(p_candidateList, p_partyList, p_line, p_outfile, p_config, p_county_name, p_muni_name):
     if "TOTAL" not in p_line[0].upper() and "COUNTY" not in p_line[0].upper():
-        print_muni_totals(p_candidateList, p_partyList, p_line, p_outfile, p_config, p_county_name)
+        print_muni_totals(p_candidateList, p_partyList, p_line, p_outfile, p_config, p_county_name, p_muni_name)
 
 def extract_county_name(p_line, p_config, p_county_name):
     return_value = p_county_name
@@ -175,11 +175,31 @@ def extract_county_name(p_line, p_config, p_county_name):
         return_value = p_config['county']
     return return_value
 
-def process_data_line( p_candidateList, p_partyList, p_line, p_outfile, p_config, county_name):
+def is_muni_name_line(p_line):
+    return_value = False
+    if len(p_line[1]) == 0 and len(p_line[2]) == 0:
+        return_value = True
+    return return_value
+
+def extract_muni_name(p_line, p_config, p_previous_muni):
+    return_value = p_previous_muni
+    if is_muni_name_line(p_line):
+        return_value = p_line[0]
+    return return_value
+
+def translate_district_ward_names(p_abbrev):
+    return_value = p_abbrev
+    return_value = p_abbrev.replace("D", " District ")
+    return_value = return_value.replace("W", " Ward ")
+    return_value = return_value.replace("  ", " ")
+    return return_value.strip()
+
+def process_data_line( p_candidateList, p_partyList, p_line, p_outfile, p_config, county_name, muni_name):
     if args.muni:
         process_muni_line(p_candidateList, p_partyList, p_line, p_outfile, p_config, county_name)
     if args.prec:
-        process_muni_line(p_candidateList, p_partyList, p_line, p_outfile, p_config, county_name)
+        precinct_name = muni_name + ' ' + translate_district_ward_names( p_line[0] )
+        process_muni_line(p_candidateList, p_partyList, p_line, p_outfile, p_config, county_name, precinct_name)
     else:
         process_county_line(p_candidateList, p_partyList, p_line, p_outfile, p_config, county_name)
     return
@@ -189,20 +209,23 @@ def process_single_file(p_config, p_outfile, p_infile):
     candidateList = []
     partyList = []
     county_name = 'unknown'
-    #print 'Processing ' + p_infile
+    muni_name = 'unknown'
     if os.path.isfile(p_infile) != True:
         print 'ERROR: Input File ' + p_infile + ' does not exist'
     else:
         with open(p_infile, 'rb') as csvfile:
             csvreader = csv.reader(csvfile, delimiter=',', quotechar='"')
             for line in csvreader:
-                #print line
                 counter = counter + 1
                 if counter == 1:
                     process_header_line(candidateList, partyList, line, p_config)
                 else:
-                    county_name = extract_county_name(line, p_config, county_name)
-                    process_data_line(candidateList, partyList, line, p_outfile, p_config, county_name)
+                    #county_name = extract_county_name(line, p_config, county_name)
+                    county_name = 'Morris'
+                    if is_muni_name_line(line):
+                        muni_name = extract_muni_name(line, p_config, muni_name)
+                    else:
+                        process_data_line(candidateList, partyList, line, p_outfile, p_config, county_name, muni_name)
     return
 
 def process_input_files(p_config, p_outfile, p_config_key):
@@ -223,9 +246,9 @@ def process_single_race( p_config, p_outfile, p_config_key):
 
 def process_config_data(p_config, p_outfile):
     print_header(p_outfile)
-    process_single_race(p_config, p_outfile, 'president')
-    process_single_race(p_config, p_outfile, 'us_house')
-    process_single_race(p_config, p_outfile, 'us_senate')
+    #process_single_race(p_config, p_outfile, 'president')
+    #process_single_race(p_config, p_outfile, 'us_house')
+    #process_single_race(p_config, p_outfile, 'us_senate')
     process_single_race(p_config, p_outfile, 'nj_senate')
     process_single_race(p_config, p_outfile, 'nj_assembly')
     process_single_race(p_config, p_outfile, 'governor')
@@ -234,7 +257,8 @@ def process_config_data(p_config, p_outfile):
 validateArgs( args )
 config = readJsonConfig( args )
 out_file = openOutputFile(config)
-try:
-    process_config_data(config, out_file)
-except Exception as e:
-    print(e)
+process_config_data(config, out_file)
+#try:
+#    process_config_data(config, out_file)
+#except Exception as e:
+#    print(e)
