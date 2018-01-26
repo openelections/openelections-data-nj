@@ -1,4 +1,4 @@
-county,precinct,office,district,party,candidate,votes
+county,municipality,office,district,party,candidate,votes
 Atlantic,Corbin City,State Senate,1,Democratic,Jeff Van Drew,120
 Atlantic,Corbin City,State Senate,1,Republican,Mary Gruccio,61
 Atlantic,Corbin City,State Senate,1,Cannot Be Bought,Anthony Parisi Sanchez,1
@@ -478,7 +478,7 @@ Burlington,North Hanover Twp.,State Senate,12,Democratic,David H. Lande,413
 Burlington,North Hanover Twp.,State Senate,12,Coach Kev,Kevin Antoine,7
 Burlington,Wrightstown Boro,State Senate,12,Republican,Samuel D. Thompson,45
 Burlington,Wrightstown Boro,State Senate,12,Democratic,David H. Lande,46
-Burlington,Wrightstown Boro,State Senate,12,Coach Kev,Kevin Antoine,-
+Burlington,Wrightstown Boro,State Senate,12,Coach Kev,Kevin Antoine,0
 Middlesex,Old Bridge Twp.,State Senate,12,Republican,Samuel D. Thompson,7004
 Middlesex,Old Bridge Twp.,State Senate,12,Democratic,David H. Lande,6751
 Middlesex,Old Bridge Twp.,State Senate,12,Coach Kev,Kevin Antoine,277
@@ -808,16 +808,14 @@ Sussex,Sparta Twp.,State Senate,24,Republican,Steven V. Oroho,3296
 Sussex,Sparta Twp.,State Senate,24,Democratic,Jennifer Hamilton,2440
 Sussex,Stanhope Boro,State Senate,24,Republican,Steven V. Oroho,527
 Sussex,Stanhope Boro,State Senate,24,Democratic,Jennifer Hamilton,446
-Sussex,Stillwater Twp.,State Senate,24,Republican,Steven V. Oroho,790
-Sussex,Stillwater Twp.,State Senate,24,Democratic,Jennifer Hamilton,705
-Sussex,SUSSEX (cont'd),State Senate,24,Republican,Steven V. Oroho,0
-Sussex,SUSSEX (cont'd),State Senate,24,Democratic,Jennifer Hamilton,0
+Sussex,Stillwater Twp.,State Senate,24,Republican,Steven V. Oroho,847
+Sussex,Stillwater Twp.,State Senate,24,Democratic,Jennifer Hamilton,489
 Sussex,Sussex Boro,State Senate,24,Republican,Steven V. Oroho,219
 Sussex,Sussex Boro,State Senate,24,Democratic,Jennifer Hamilton,140
 Sussex,Vernon Twp.,State Senate,24,Republican,Steven V. Oroho,3943
 Sussex,Vernon Twp.,State Senate,24,Democratic,Jennifer Hamilton,2495
 Sussex,Walpack Twp.,State Senate,24,Republican,Steven V. Oroho,5
-Sussex,Walpack Twp.,State Senate,24,Democratic,Jennifer Hamilton,-
+Sussex,Walpack Twp.,State Senate,24,Democratic,Jennifer Hamilton,0
 Sussex,Wantage Twp.,State Senate,24,Republican,Steven V. Oroho,1991
 Sussex,Wantage Twp.,State Senate,24,Democratic,Jennifer Hamilton,1011
 Warren,Allamuchy Twp.,State Senate,24,Republican,Steven V. Oroho,897
@@ -948,12 +946,12 @@ Essex,Newark City,State Senate,28,Democratic,Ronald L. Rice,12041
 Essex,Newark City,State Senate,28,Green Party,Troy Knight-Napper,116
 Essex,Nutley Twp.,State Senate,28,Democratic,Ronald L. Rice,3266
 Essex,Nutley Twp.,State Senate,28,Green Party,Troy Knight-Napper,418
-unknown,Belleville Twp.,State Senate,29,Democratic,M. Teresa Ruiz,3065
-unknown,Belleville Twp.,State Senate,29,Republican,Maria E. Lopez,1411
-unknown,Belleville Twp.,State Senate,29,One Nation Party,Pablo Olivera,112
-unknown,Newark City,State Senate,29,Democratic,M. Teresa Ruiz,17441
-unknown,Newark City,State Senate,29,Republican,Maria E. Lopez,1136
-unknown,Newark City,State Senate,29,One Nation Party,Pablo Olivera,337
+Essex,Belleville Twp.,State Senate,29,Democratic,M. Teresa Ruiz,3065
+Essex,Belleville Twp.,State Senate,29,Republican,Maria E. Lopez,1411
+Essex,Belleville Twp.,State Senate,29,One Nation Party,Pablo Olivera,112
+Essex,Newark City,State Senate,29,Democratic,M. Teresa Ruiz,17441
+Essex,Newark City,State Senate,29,Republican,Maria E. Lopez,1136
+Essex,Newark City,State Senate,29,One Nation Party,Pablo Olivera,337
 Monmouth,Avon-by-the-Sea Boro,State Senate,30,Republican,Robert W. Singer,463
 Monmouth,Avon-by-the-Sea Boro,State Senate,30,Democratic,Amy Sara Cores,293
 Monmouth,Belmar Boro,State Senate,30,Republican,Robert W. Singer,949
@@ -3015,18 +3013,12 @@ Sussex,Stanhope Boro,General Assembly,24,Democratic,Kate Matteson,414
 Sussex,Stanhope Boro,General Assembly,24,Democratic,Gina Trish,382
 Sussex,Stanhope Boro,General Assembly,24,Green Party,Aaron Hyndman,35
 Sussex,Stanhope Boro,General Assembly,24,Green Party,Kenny Collins,34
-Sussex,Stillwater Twp.,General Assembly,24,Republican,F. Parker Space,502
-Sussex,Stillwater Twp.,General Assembly,24,Republican,Harold J. Wirths,479
-Sussex,Stillwater Twp.,General Assembly,24,Democratic,Kate Matteson,38
-Sussex,Stillwater Twp.,General Assembly,24,Democratic,Gina Trish,41
-Sussex,Stillwater Twp.,General Assembly,24,Green Party,Aaron Hyndman,0
-Sussex,Stillwater Twp.,General Assembly,24,Green Party,Kenny Collins,0
-Sussex,SUSSEX (cont'd),General Assembly,24,Republican,F. Parker Space,0
-Sussex,SUSSEX (cont'd),General Assembly,24,Republican,Harold J. Wirths,0
-Sussex,SUSSEX (cont'd),General Assembly,24,Democratic,Kate Matteson,0
-Sussex,SUSSEX (cont'd),General Assembly,24,Democratic,Gina Trish,0
-Sussex,SUSSEX (cont'd),General Assembly,24,Green Party,Aaron Hyndman,0
-Sussex,SUSSEX (cont'd),General Assembly,24,Green Party,Kenny Collins,0
+Sussex,Stillwater Twp.,General Assembly,24,Republican,F. Parker Space,790
+Sussex,Stillwater Twp.,General Assembly,24,Republican,Harold J. Wirths,705
+Sussex,Stillwater Twp.,General Assembly,24,Democratic,Kate Matteson,502
+Sussex,Stillwater Twp.,General Assembly,24,Democratic,Gina Trish,479
+Sussex,Stillwater Twp.,General Assembly,24,Green Party,Aaron Hyndman,38
+Sussex,Stillwater Twp.,General Assembly,24,Green Party,Kenny Collins,41
 Sussex,Sussex Boro,General Assembly,24,Republican,F. Parker Space,221
 Sussex,Sussex Boro,General Assembly,24,Republican,Harold J. Wirths,210
 Sussex,Sussex Boro,General Assembly,24,Democratic,Kate Matteson,138
@@ -3339,14 +3331,14 @@ Essex,Nutley Twp.,General Assembly,28,Republican,James Boydston,1924
 Essex,Nutley Twp.,General Assembly,28,Republican,Veronica Branch,1909
 Essex,Nutley Twp.,General Assembly,28,Time For Change,Joanne Miller,168
 Essex,Nutley Twp.,General Assembly,28,A New Hope,Scott Thomas Nicastro Jr.,163
-unknown,Belleville Twp.,General Assembly,29,Democratic,Eliana Pintor Marin,2754
-unknown,Belleville Twp.,General Assembly,29,Democratic,Shanique Speight,2556
-unknown,Belleville Twp.,General Assembly,29,Republican,Jeannette Veras,1419
-unknown,Belleville Twp.,General Assembly,29,Republican,Charles G. Hood,1571
-unknown,Newark City,General Assembly,29,Democratic,Eliana Pintor Marin,16334
-unknown,Newark City,General Assembly,29,Democratic,Shanique Speight,15752
-unknown,Newark City,General Assembly,29,Republican,Jeannette Veras,1155
-unknown,Newark City,General Assembly,29,Republican,Charles G. Hood,1051
+Essex,Belleville Twp.,General Assembly,29,Democratic,Eliana Pintor Marin,2754
+Essex,Belleville Twp.,General Assembly,29,Democratic,Shanique Speight,2556
+Essex,Belleville Twp.,General Assembly,29,Republican,Jeannette Veras,1419
+Essex,Belleville Twp.,General Assembly,29,Republican,Charles G. Hood,1571
+Essex,Newark City,General Assembly,29,Democratic,Eliana Pintor Marin,16334
+Essex,Newark City,General Assembly,29,Democratic,Shanique Speight,15752
+Essex,Newark City,General Assembly,29,Republican,Jeannette Veras,1155
+Essex,Newark City,General Assembly,29,Republican,Charles G. Hood,1051
 Monmouth,Avon-by-the-Sea Boro,General Assembly,30,Republican,Sean T. Kean,561
 Monmouth,Avon-by-the-Sea Boro,General Assembly,30,Republican,Edward H. Thomson III,464
 Monmouth,Avon-by-the-Sea Boro,General Assembly,30,Democratic,Eliot Arlo Colon,234
