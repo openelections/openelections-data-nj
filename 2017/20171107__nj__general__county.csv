@@ -161,12 +161,17 @@ Passaic,State Senate,38,Republican,Kelly Langschultz,2214
 Bergen,State Senate,39,Republican,Gerald Cardinale,29342
 Bergen,State Senate,39,Democratic,Linda H. Schwager,25340
 Bergen,State Senate,39,Libertarian Party,James Tosone,409
+Passaic,State Senate,39,Republican,Gerald Cardinale,4410
+Passaic,State Senate,39,Democratic,Linda H. Schwager,4291
+Passaic,State Senate,39,Libertarian Party,James Tosone,165
 Bergen,State Senate,40,Republican,Kristin M. Corrado,12817
 Bergen,State Senate,40,Democratic,Thomas Duch,11524
 Essex,State Senate,40,Republican,Kristin M. Corrado,1717
 Essex,State Senate,40,Democratic,Thomas Duch,1411
 Morris,State Senate,40,Republican,Kristin M. Corrado,3551
 Morris,State Senate,40,Democratic,Thomas Duch,2361
+Passaic,State Senate,40,Republican,Kristin M. Corrado,15410
+Passaic,State Senate,40,Democratic,Thomas Duch,10764
 Atlantic,General Assembly,1,Democratic,Bob Andrzejczak,975
 Atlantic,General Assembly,1,Democratic,R. Bruce Land,888
 Atlantic,General Assembly,1,Republican,James R. Sauro,715
@@ -440,11 +445,11 @@ Passaic,General Assembly,26,Democratic,E. William Edge,2594
 Essex,General Assembly,27,Democratic,John F. McKeon,30738
 Essex,General Assembly,27,Democratic,Mila M. Jasey,29649
 Essex,General Assembly,27,Republican,Ronald DeRose,9556
-Essex,General Assembly,27,Republican,Angelo TedescoJr.,9439
+Essex,General Assembly,27,Republican,Angelo Tedesco Jr.,9439
 Morris,General Assembly,27,Democratic,John F. McKeon,9004
 Morris,General Assembly,27,Democratic,Mila M. Jasey,8662
 Morris,General Assembly,27,Republican,Ronald DeRose,11069
-Morris,General Assembly,27,Republican,Angelo TedescoJr.,11012
+Morris,General Assembly,27,Republican,Angelo Tedesco Jr.,11012
 Essex,General Assembly,28,Democratic,Cleopatra G. Tucker,29643
 Essex,General Assembly,28,Democratic,Ralph R. Caputo,30084
 Essex,General Assembly,28,Republican,James Boydston,4672
@@ -521,6 +526,10 @@ Bergen,General Assembly,39,Republican,Robert Auth,28284
 Bergen,General Assembly,39,Republican,Holly Schepisi,29583
 Bergen,General Assembly,39,Democratic,Jannie Chung,24963
 Bergen,General Assembly,39,Democratic,Annie Hausmann,24565
+Passaic,General Assembly,39,Republican,Robert Auth,4455
+Passaic,General Assembly,39,Republican,Holly Schepisi,4575
+Passaic,General Assembly,39,Democratic,Jannie Chung,4163
+Passaic,General Assembly,39,Democratic,Annie Hausmann,4297
 Bergen,General Assembly,40,Republican,Kevin J. Rooney,12344
 Bergen,General Assembly,40,Republican,Christopher P. DePhillips,12246
 Bergen,General Assembly,40,Democratic,Paul Vagianos,11608
@@ -536,6 +545,11 @@ Morris,General Assembly,40,Republican,Christopher P. DePhillips,3292
 Morris,General Assembly,40,Democratic,Paul Vagianos,2414
 Morris,General Assembly,40,Democratic,Christine Ordway,2485
 Morris,General Assembly,40,You Tell Me,Anthony J. Pellechia,82
+Passaic,General Assembly,40,Republican,Kevin J. Rooney,13861
+Passaic,General Assembly,40,Republican,Christopher P. DePhillips,13505
+Passaic,General Assembly,40,Democratic,Paul Vagianos,11378
+Passaic,General Assembly,40,Democratic,Christine Ordway,11476
+Passaic,General Assembly,40,You Tell Me,Anthony J. Pellechia,478
 Atlantic,Governor,,Democratic,Philip Murphy - Shelia Oliver,36952
 Atlantic,Governor,,Republican,Kim Guadagno - Carlos A. Rendo,28456
 Atlantic,Governor,,Reduce Property Taxes,Gina Genovese - Lt. Governor Not Filed,645
@@ -676,3 +690,10 @@ Union,Governor,,Libertarian Party,Peter J. Rohrman - Karese J. Laguerre,469
 Union,Governor,,Green Party,Seth Kaper-Dale - Lisa Durden,458
 Union,Governor,,Constitution Party,Matthew Riccardi - Lt. Governor Not Filed,562
 Union,Governor,,We The People,Vincent Ross - April A. Johnson,165
+Warren,Governor,,Democratic,Philip Murphy - Shelia Oliver,10065
+Warren,Governor,,Republican,Kim Guadagno - Carlos A. Rendo,17409
+Warren,Governor,,Reduce Property Taxes,Gina Genovese - Lt. Governor Not Filed,319
+Warren,Governor,,Libertarian Party,Peter J. Rohrman - Karese J. Laguerre,181
+Warren,Governor,,Green Party,Seth Kaper-Dale - Lisa Durden,170
+Warren,Governor,,Constitution Party,Matthew Riccardi - Lt. Governor Not Filed,134
+Warren,Governor,,We The People,Vincent Ross - April A. Johnson,154
