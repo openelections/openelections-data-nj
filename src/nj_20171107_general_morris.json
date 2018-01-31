@@ -64,46 +64,46 @@
         "input_directory":"../../openelections-sources-nj/2017/Morris/",
         "input_files": [
                 {
-                    "office":"State Assembly",
+                    "office":"General Assembly",
                     "file":"tabula-2017-General-County-Results-State-Assembly-District21.csv",
                     "county":"Morris",
                     "district":"21",
-                    "columns":"1,2"
+                    "columns":"1,2,3,4"
                 },
                 {
-                    "office":"State Assembly",
+                    "office":"General Assembly",
                     "file":"tabula-2017-General-County-Results-State-Assembly-District24.csv",
                     "county":"Morris",
                     "district":"24",
-                    "columns":"1,2"
+                    "columns":"1,2,3,4,5,6"
                 },
                 {
-                    "office":"State Assembly",
+                    "office":"General Assembly",
                     "file":"tabula-2017-General-County-Results-State-Assembly-District25.csv",
                     "county":"Morris",
                     "district":"25",
-                    "columns":"1,2"
+                    "columns":"1,2,3,4"
                 },
                 {
-                    "office":"State Assembly",
+                    "office":"General Assembly",
                     "file":"tabula-2017-General-County-Results-State-Assembly-District26.csv",
                     "county":"Morris",
                     "district":"26",
-                    "columns":"1,2"
+                    "columns":"1,2,3,4"
                 },
                 {
-                    "office":"State Assembly",
+                    "office":"General Assembly",
                     "file":"tabula-2017-General-County-Results-State-Assembly-District27.csv",
                     "county":"Morris",
                     "district":"27",
-                    "columns":"1,2"
+                    "columns":"1,2,3,4"
                 },
                 {
-                    "office":"State Assembly",
+                    "office":"General Assembly",
                     "file":"tabula-2017-General-County-Results-State-Assembly-District40.csv",
                     "county":"Morris",
                     "district":"40",
-                    "columns":"1,2"
+                    "columns":"1,2,3,4,5"
                 }
             ]
         }

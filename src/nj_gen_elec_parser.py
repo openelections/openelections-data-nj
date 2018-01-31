@@ -60,7 +60,7 @@ def openOutputFile( p_config ):
 def print_header( p_outfile):
     if args.muni:
         p_outfile.writerow( ('county','municipality','office','district','party','candidate','votes') )
-    if args.prec:
+    elif args.prec:
         p_outfile.writerow( ('county','precinct','office','district','party','candidate','votes') )
     else:
         p_outfile.writerow( ('county','office','district','party','candidate','votes') )
@@ -178,7 +178,7 @@ def extract_county_name(p_line, p_config, p_county_name):
 def process_data_line( p_candidateList, p_partyList, p_line, p_outfile, p_config, county_name):
     if args.muni:
         process_muni_line(p_candidateList, p_partyList, p_line, p_outfile, p_config, county_name)
-    if args.prec:
+    elif args.prec:
         process_muni_line(p_candidateList, p_partyList, p_line, p_outfile, p_config, county_name)
     else:
         process_county_line(p_candidateList, p_partyList, p_line, p_outfile, p_config, county_name)
