@@ -64,13 +64,6 @@
                     "county":"Passaic",
                     "district":"40",
                     "columns":"4,5,6"
-                },
-                {
-                    "office":"State Senate",
-                    "file":"tabula-Passaic-General-Senate40.csv",
-                    "county":"Passaic",
-                    "district":"40",
-                    "columns":"4,5,6"
                 }
             ]
         },
@@ -78,49 +71,49 @@
         "input_directory":"../../openelections-sources-nj/2017/Passaic/",
         "input_files": [
                 {
-                    "office":"State Assembly",
+                    "office":"General Assembly",
                     "file":"tabula-Passaic-General-Assembly26.csv",
                     "county":"Passaic",
                     "district":"26",
                     "columns":"4,5,6,7,8"
                 },
                 {
-                    "office":"State Assembly",
+                    "office":"General Assembly",
                     "file":"tabula-Passaic-General-Assembly34.csv",
                     "county":"Passaic",
                     "district":"34",
                     "columns":"4,5,6,7,8"
                 },
                 {
-                    "office":"State Assembly",
+                    "office":"General Assembly",
                     "file":"tabula-Passaic-General-Assembly35.csv",
                     "county":"Passaic",
                     "district":"35",
                     "columns":"4,5,6,7,8"
                 },
                 {
-                    "office":"State Assembly",
+                    "office":"General Assembly",
                     "file":"tabula-Passaic-General-Assembly36.csv",
                     "county":"Passaic",
                     "district":"36",
                     "columns":"4,5,6,7,8"
                 },
                 {
-                    "office":"State Assembly",
+                    "office":"General Assembly",
                     "file":"tabula-Passaic-General-Assembly38.csv",
                     "county":"Passaic",
                     "district":"38",
                     "columns":"4,5,6,7,8,9"
                 },
                 {
-                    "office":"State Assembly",
+                    "office":"General Assembly",
                     "file":"tabula-Passaic-General-Assembly39.csv",
                     "county":"Passaic",
                     "district":"39",
                     "columns":"4,5,6,7,8"
                 },
                 {
-                    "office":"State Assembly",
+                    "office":"General Assembly",
                     "file":"tabula-Passaic-General-Assembly40.csv",
                     "county":"Passaic",
                     "district":"40",
