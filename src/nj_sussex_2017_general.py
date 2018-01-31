@@ -286,7 +286,7 @@ def printFile(countyObj, outputPath):
     ofile = openOutputFile(outputPath)
     ofile.writerow( ("County", "Precinct", "Office", "District", "Candidate", "Party", "Votes") )
     countyObj.writeToCsvByOffice(ofile, "GOVERNOR", "Governor", "")
-    countyObj.writeToCsvByOffice(ofile, "GENERAL ASSEMBLY", "State Assembly", "24")
+    countyObj.writeToCsvByOffice(ofile, "GENERAL ASSEMBLY", "General Assembly", "24")
     countyObj.writeToCsvByOffice(ofile, "SENATE", "State Senate", "24")
 
 def processFile():
