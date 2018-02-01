@@ -123,6 +123,8 @@ def findContestByName(xmlNode, contestName):
         if (objContest.get('text') == contestName):
             return_value = objContest
             break
+    if return_value is None:
+        print '**** WARNING *****   Unable to find XML Node for contest ' + contestName
     return return_value
 
 def processCumberlandXmlFile(in_file, out_file):
@@ -284,31 +286,31 @@ def processMonmouthXmlFile(in_file, out_file):
 
     return
 
-def processMorrisXmlFile(in_file, out_file):
-
-    xmlRoot = xml.etree.ElementTree.parse(in_file).getroot()
-    outFile = openOutputFile(out_file)
-    outFile.writerow( ('county', 'precinct', 'office', 'district', 'candidate', 'party', 'votes') )
-
-    objConfig = ContestConfig('President', 
-                              'Morris', 
-                              'President', 
-                              None)
-    processSingleContest(xmlRoot, objConfig, outFile)
-
-    objConfig = ContestConfig('House of Representatives 7th Congressional', 
-                              'Morris', 
-                              'U.S. House', 
-                              '7')
-    processSingleContest(xmlRoot, objConfig, outFile)
-
-    objConfig = ContestConfig('House of Representatives 11th Congressional', 
-                              'Morris', 
-                              'U.S. House', 
-                              '11')
-    processSingleContest(xmlRoot, objConfig, outFile)
-
-    return
+#def processMorrisXmlFile(in_file, out_file):
+#
+#    xmlRoot = xml.etree.ElementTree.parse(in_file).getroot()
+#    outFile = openOutputFile(out_file)
+#    outFile.writerow( ('county', 'precinct', 'office', 'district', 'candidate', 'party', 'votes') )
+#
+#    objConfig = ContestConfig('President', 
+#                              'Morris', 
+#                              'President', 
+#                              None)
+#    processSingleContest(xmlRoot, objConfig, outFile)
+#
+#    objConfig = ContestConfig('House of Representatives 7th Congressional', 
+#                              'Morris', 
+#                              'U.S. House', 
+#                              '7')
+#    processSingleContest(xmlRoot, objConfig, outFile)
+#
+#    objConfig = ContestConfig('House of Representatives 11th Congressional', 
+#                              'Morris', 
+#                              'U.S. House', 
+#                              '11')
+#    processSingleContest(xmlRoot, objConfig, outFile)
+#
+#    return
 
 def processOceanXmlFile(in_file, out_file):
 
@@ -348,34 +350,46 @@ def processUnionXmlFile(in_file, out_file):
     outFile = openOutputFile(out_file)
     outFile.writerow( ('county', 'precinct', 'office', 'district', 'candidate', 'party', 'votes') )
 
-    objConfig = ContestConfig('President', 
+    objConfig = ContestConfig('Governor / Lieutenant Governor', 
                               'Union', 
-                              'President', 
+                              'Governor', 
                               None)
     processSingleContest(xmlRoot, objConfig, outFile)
 
-    objConfig = ContestConfig('House of Representatives-7th' ,
-                              'Union', 
-                              'U.S. House', 
-                              '7')
+    objConfig = ContestConfig('General Assembly-20th', 
+			      'Union', 
+                              'General Assembly', 
+                              '20')
     processSingleContest(xmlRoot, objConfig, outFile)
 
-    objConfig = ContestConfig('House of Representatives- 8th', 
+    objConfig = ContestConfig('General Assembly-21st', 
                               'Union', 
-                              'U.S. House', 
-                              '8')
+                              'General Assembly', 
+                              '21')
     processSingleContest(xmlRoot, objConfig, outFile)
 
-    objConfig = ContestConfig('House of Representatives-10th', 
+    objConfig = ContestConfig('General Assembly-22nd', 
                               'Union', 
-                              'U.S. House', 
-                              '10')
+                              'General Assembly', 
+                              '22')
     processSingleContest(xmlRoot, objConfig, outFile)
 
-    objConfig = ContestConfig('House Of Representatives-12th', 
+    objConfig = ContestConfig('State Senator-20th', 
                               'Union', 
-                              'U.S. House', 
-                              '12')
+                              'State Senate', 
+                              '20')
+    processSingleContest(xmlRoot, objConfig, outFile)
+
+    objConfig = ContestConfig('State Senator-21st', 
+                              'Union', 
+                              'State Senate', 
+                              '21')
+    processSingleContest(xmlRoot, objConfig, outFile)
+
+    objConfig = ContestConfig('State Senator-22nd', 
+                              'Union', 
+                              'State Senate', 
+                              '22')
     processSingleContest(xmlRoot, objConfig, outFile)
 
     return
@@ -411,8 +425,8 @@ try:
     #if args.ocean:
     #    processOceanXmlFile('../../openelections-sources-nj/2017/Ocean/general.xml', 
     #                         '../2017/20171107__nj__general__ocean__precinct.csv')
-    #if args.union:
-    #    processUnionXmlFile('../../openelections-sources-nj/2017/Union/general.xml', 
-    #                         '../2017/20171107__nj__general__union__precinct.csv')
+    if args.union:
+        processUnionXmlFile('../../openelections-sources-nj/2017/Union/general-2017-union-precinct.xml', 
+                             '../2017/20171107__nj__general__union__precinct.csv')
 except Exception as e:
     print(e)
