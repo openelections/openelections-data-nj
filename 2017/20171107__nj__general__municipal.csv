@@ -453,8 +453,8 @@ Monmouth,Long Branch City,State Senate,11,Democratic,Vin Gopal,3086
 Monmouth,Long Branch City,State Senate,11,Republican,Jennifer Beck,1802
 Monmouth,Neptune City Boro,State Senate,11,Democratic,Vin Gopal,783
 Monmouth,Neptune City Boro,State Senate,11,Republican,Jennifer Beck,699
-Monmouth,Neptune Twp.,State Senate,11,Democratic,Vin Gopal,5499
-Monmouth,Neptune Twp.,State Senate,11,Republican,Jennifer Beck,2688
+Monmouth,Neptune Twp,State Senate,11,Democratic,Vin Gopal,5499
+Monmouth,Neptune Twp,State Senate,11,Republican,Jennifer Beck,2688
 Monmouth,Ocean Twp.,State Senate,11,Democratic,Vin Gopal,4332
 Monmouth,Ocean Twp.,State Senate,11,Republican,Jennifer Beck,4052
 Monmouth,Red Bank Boro,State Senate,11,Democratic,Vin Gopal,1711
@@ -2151,10 +2151,10 @@ Monmouth,Neptune City Boro,General Assembly,11,Democratic,Eric Houghtaling,803
 Monmouth,Neptune City Boro,General Assembly,11,Democratic,Joann Downey,787
 Monmouth,Neptune City Boro,General Assembly,11,Republican,Robert Acerra,636
 Monmouth,Neptune City Boro,General Assembly,11,Republican,Michael Whelan,655
-Monmouth,Neptune Twp.,General Assembly,11,Democratic,Eric Houghtaling,5642
-Monmouth,Neptune Twp.,General Assembly,11,Democratic,Joann Downey,5587
-Monmouth,Neptune Twp.,General Assembly,11,Republican,Robert Acerra,2432
-Monmouth,Neptune Twp.,General Assembly,11,Republican,Michael Whelan,2444
+Monmouth,Neptune Twp,General Assembly,11,Democratic,Eric Houghtaling,5642
+Monmouth,Neptune Twp,General Assembly,11,Democratic,Joann Downey,5587
+Monmouth,Neptune Twp,General Assembly,11,Republican,Robert Acerra,2432
+Monmouth,Neptune Twp,General Assembly,11,Republican,Michael Whelan,2444
 Monmouth,Ocean Twp.,General Assembly,11,Democratic,Eric Houghtaling,4188
 Monmouth,Ocean Twp.,General Assembly,11,Democratic,Joann Downey,4327
 Monmouth,Ocean Twp.,General Assembly,11,Republican,Robert Acerra,4002
@@ -6359,20 +6359,20 @@ Monmouth,Monmouth Beach Boro,Governor,,Libertarian Party,Peter J. Rohrman - Kare
 Monmouth,Monmouth Beach Boro,Governor,,Green Party,Seth Kaper-Dale - Lisa Durden,1
 Monmouth,Monmouth Beach Boro,Governor,,Constitution Party,Matthew Riccardi - Lt. Governor Not Filed,1
 Monmouth,Monmouth Beach Boro,Governor,,We The People,Vincent Ross - April A. Johnson,0
-Monmouth,Neptune City Boro,Governor,,Democratic,Philip Murphy - Shelia Oliver,5489
-Monmouth,Neptune City Boro,Governor,,Republican,Kim Guadagno - Carlos A. Rendo,2782
-Monmouth,Neptune City Boro,Governor,,Reduce Property Taxes,Gina Genovese - Lt. Governor Not Filed,86
-Monmouth,Neptune City Boro,Governor,,Libertarian Party,Peter J. Rohrman - Karese J. Laguerre,25
-Monmouth,Neptune City Boro,Governor,,Green Party,Seth Kaper-Dale - Lisa Durden,42
-Monmouth,Neptune City Boro,Governor,,Constitution Party,Matthew Riccardi - Lt. Governor Not Filed,31
-Monmouth,Neptune City Boro,Governor,,We The People,Vincent Ross - April A. Johnson,23
-Monmouth,Neptune Twp,Governor,,Democratic,Philip Murphy - Shelia Oliver,770
-Monmouth,Neptune Twp,Governor,,Republican,Kim Guadagno - Carlos A. Rendo,742
-Monmouth,Neptune Twp,Governor,,Reduce Property Taxes,Gina Genovese - Lt. Governor Not Filed,12
-Monmouth,Neptune Twp,Governor,,Libertarian Party,Peter J. Rohrman - Karese J. Laguerre,8
-Monmouth,Neptune Twp,Governor,,Green Party,Seth Kaper-Dale - Lisa Durden,8
-Monmouth,Neptune Twp,Governor,,Constitution Party,Matthew Riccardi - Lt. Governor Not Filed,15
-Monmouth,Neptune Twp,Governor,,We The People,Vincent Ross - April A. Johnson,8
+Monmouth,Neptune Twp,Governor,,Democratic,Philip Murphy - Shelia Oliver,5489
+Monmouth,Neptune Twp,Governor,,Republican,Kim Guadagno - Carlos A. Rendo,2782
+Monmouth,Neptune Twp,Governor,,Reduce Property Taxes,Gina Genovese - Lt. Governor Not Filed,86
+Monmouth,Neptune Twp,Governor,,Libertarian Party,Peter J. Rohrman - Karese J. Laguerre,25
+Monmouth,Neptune Twp,Governor,,Green Party,Seth Kaper-Dale - Lisa Durden,42
+Monmouth,Neptune Twp,Governor,,Constitution Party,Matthew Riccardi - Lt. Governor Not Filed,31
+Monmouth,Neptune Twp,Governor,,We The People,Vincent Ross - April A. Johnson,23
+Monmouth,Neptune City Boro,Governor,,Democratic,Philip Murphy - Shelia Oliver,770
+Monmouth,Neptune City Boro,Governor,,Republican,Kim Guadagno - Carlos A. Rendo,742
+Monmouth,Neptune City Boro,Governor,,Reduce Property Taxes,Gina Genovese - Lt. Governor Not Filed,12
+Monmouth,Neptune City Boro,Governor,,Libertarian Party,Peter J. Rohrman - Karese J. Laguerre,8
+Monmouth,Neptune City Boro,Governor,,Green Party,Seth Kaper-Dale - Lisa Durden,8
+Monmouth,Neptune City Boro,Governor,,Constitution Party,Matthew Riccardi - Lt. Governor Not Filed,15
+Monmouth,Neptune City Boro,Governor,,We The People,Vincent Ross - April A. Johnson,8
 Monmouth,Ocean Twp,Governor,,Democratic,Philip Murphy - Shelia Oliver,4245
 Monmouth,Ocean Twp,Governor,,Republican,Kim Guadagno - Carlos A. Rendo,4264
 Monmouth,Ocean Twp,Governor,,Reduce Property Taxes,Gina Genovese - Lt. Governor Not Filed,43
