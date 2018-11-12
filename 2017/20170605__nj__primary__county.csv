@@ -1,0 +1,810 @@
+county,office,district,party,candidate,votes
+ATLANTIC,Governor,,Democratic,PHILIP MURPHY (w),"6,876"
+BERGEN,Governor,,Democratic,PHILIP MURPHY (w),"21,236"
+BURLINGTON,Governor,,Democratic,PHILIP MURPHY (w),"11,902"
+CAMDEN,Governor,,Democratic,PHILIP MURPHY (w),"18,028"
+CAPE MAY,Governor,,Democratic,PHILIP MURPHY (w),"1,578"
+CUMBERLAND,Governor,,Democratic,PHILIP MURPHY (w),"1,791"
+ESSEX,Governor,,Democratic,PHILIP MURPHY (w),"35,779"
+GLOUCESTER,Governor,,Democratic,PHILIP MURPHY (w),"7,424"
+HUDSON,Governor,,Democratic,PHILIP MURPHY (w),"32,084"
+HUNTERDON,Governor,,Democratic,PHILIP MURPHY (w),"2,562"
+MERCER,Governor,,Democratic,PHILIP MURPHY (w),"11,784"
+MIDDLESEX,Governor,,Democratic,PHILIP MURPHY (w),"20,466"
+MONMOUTH,Governor,,Democratic,PHILIP MURPHY (w),"12,903"
+MORRIS,Governor,,Democratic,PHILIP MURPHY (w),"10,436"
+OCEAN,Governor,,Democratic,PHILIP MURPHY (w),"6,987"
+PASSAIC,Governor,,Democratic,PHILIP MURPHY (w),"11,796"
+SALEM,Governor,,Democratic,PHILIP MURPHY (w),859
+SOMERSET,Governor,,Democratic,PHILIP MURPHY (w),"7,170"
+SUSSEX,Governor,,Democratic,PHILIP MURPHY (w),"1,893"
+UNION,Governor,,Democratic,PHILIP MURPHY (w),"18,681"
+WARREN,Governor,,Democratic,PHILIP MURPHY (w),"1,408"
+ATLANTIC,Governor,,Republican,KIM GUADAGNO (w),"4,937"
+BERGEN,Governor,,Republican,KIM GUADAGNO (w),"12,142"
+BURLINGTON,Governor,,Republican,KIM GUADAGNO (w),"5,684"
+CAMDEN,Governor,,Republican,KIM GUADAGNO (w),"4,553"
+CAPE MAY,Governor,,Republican,KIM GUADAGNO (w),"3,412"
+CUMBERLAND,Governor,,Republican,KIM GUADAGNO (w),"1,382"
+ESSEX,Governor,,Republican,KIM GUADAGNO (w),"2,057"
+GLOUCESTER,Governor,,Republican,KIM GUADAGNO (w),"2,343"
+HUDSON,Governor,,Republican,KIM GUADAGNO (w),"2,024"
+HUNTERDON,Governor,,Republican,KIM GUADAGNO (w),"3,440"
+MERCER,Governor,,Republican,KIM GUADAGNO (w),"2,323"
+MIDDLESEX,Governor,,Republican,KIM GUADAGNO (w),"4,944"
+MONMOUTH,Governor,,Republican,KIM GUADAGNO (w),"12,756"
+MORRIS,Governor,,Republican,KIM GUADAGNO (w),"10,687"
+OCEAN,Governor,,Republican,KIM GUADAGNO (w),"18,057"
+PASSAIC,Governor,,Republican,KIM GUADAGNO (w),"8,253"
+SALEM,Governor,,Republican,KIM GUADAGNO (w),582
+SOMERSET,Governor,,Republican,KIM GUADAGNO (w),"3,573"
+SUSSEX,Governor,,Republican,KIM GUADAGNO (w),"4,500"
+UNION,Governor,,Republican,KIM GUADAGNO (w),"3,396"
+WARREN,Governor,,Republican,KIM GUADAGNO (w),"2,801"
+ATLANTIC,Governor,,Democratic,JIM JOHNSON,"2,459"
+BERGEN,Governor,,Democratic,JIM JOHNSON,"10,750"
+BURLINGTON,Governor,,Democratic,JIM JOHNSON,"6,139"
+CAMDEN,Governor,,Democratic,JIM JOHNSON,"7,419"
+CAPE MAY,Governor,,Democratic,JIM JOHNSON,692
+CUMBERLAND,Governor,,Democratic,JIM JOHNSON,876
+ESSEX,Governor,,Democratic,JIM JOHNSON,"18,444"
+GLOUCESTER,Governor,,Democratic,JIM JOHNSON,"2,481"
+HUDSON,Governor,,Democratic,JIM JOHNSON,"9,577"
+HUNTERDON,Governor,,Democratic,JIM JOHNSON,"1,374"
+MERCER,Governor,,Democratic,JIM JOHNSON,"5,950"
+MIDDLESEX,Governor,,Democratic,JIM JOHNSON,"10,365"
+MONMOUTH,Governor,,Democratic,JIM JOHNSON,"5,098"
+MORRIS,Governor,,Democratic,JIM JOHNSON,"5,168"
+OCEAN,Governor,,Democratic,JIM JOHNSON,"2,873"
+PASSAIC,Governor,,Democratic,JIM JOHNSON,"4,349"
+SALEM,Governor,,Democratic,JIM JOHNSON,497
+SOMERSET,Governor,,Democratic,JIM JOHNSON,"4,653"
+SUSSEX,Governor,,Democratic,JIM JOHNSON,"1,072"
+UNION,Governor,,Democratic,JIM JOHNSON,"9,207"
+WARREN,Governor,,Democratic,JIM JOHNSON,807
+ATLANTIC,Governor,,Democratic,JOHN S. WISNIEWSKI,"2,944"
+BERGEN,Governor,,Democratic,JOHN S. WISNIEWSKI,"10,910"
+BURLINGTON,Governor,,Democratic,JOHN S. WISNIEWSKI,"7,631"
+CAMDEN,Governor,,Democratic,JOHN S. WISNIEWSKI,"7,296"
+CAPE MAY,Governor,,Democratic,JOHN S. WISNIEWSKI,"1,100"
+CUMBERLAND,Governor,,Democratic,JOHN S. WISNIEWSKI,"1,268"
+ESSEX,Governor,,Democratic,JOHN S. WISNIEWSKI,"7,293"
+GLOUCESTER,Governor,,Democratic,JOHN S. WISNIEWSKI,"3,990"
+HUDSON,Governor,,Democratic,JOHN S. WISNIEWSKI,"5,845"
+HUNTERDON,Governor,,Democratic,JOHN S. WISNIEWSKI,"2,212"
+MERCER,Governor,,Democratic,JOHN S. WISNIEWSKI,"6,033"
+MIDDLESEX,Governor,,Democratic,JOHN S. WISNIEWSKI,"12,691"
+MONMOUTH,Governor,,Democratic,JOHN S. WISNIEWSKI,"8,937"
+MORRIS,Governor,,Democratic,JOHN S. WISNIEWSKI,"6,449"
+OCEAN,Governor,,Democratic,JOHN S. WISNIEWSKI,"6,633"
+PASSAIC,Governor,,Democratic,JOHN S. WISNIEWSKI,"3,455"
+SALEM,Governor,,Democratic,JOHN S. WISNIEWSKI,862
+SOMERSET,Governor,,Democratic,JOHN S. WISNIEWSKI,"4,786"
+SUSSEX,Governor,,Democratic,JOHN S. WISNIEWSKI,"1,655"
+UNION,Governor,,Democratic,JOHN S. WISNIEWSKI,"5,308"
+WARREN,Governor,,Democratic,JOHN S. WISNIEWSKI,"1,234"
+ATLANTIC,Governor,,Republican,JACK CIATTARELLI,"2,093"
+BERGEN,Governor,,Republican,JACK CIATTARELLI,"5,920"
+BURLINGTON,Governor,,Republican,JACK CIATTARELLI,"7,084"
+CAMDEN,Governor,,Republican,JACK CIATTARELLI,"2,258"
+CAPE MAY,Governor,,Republican,JACK CIATTARELLI,"1,153"
+CUMBERLAND,Governor,,Republican,JACK CIATTARELLI,538
+ESSEX,Governor,,Republican,JACK CIATTARELLI,"3,035"
+GLOUCESTER,Governor,,Republican,JACK CIATTARELLI,"2,359"
+HUDSON,Governor,,Republican,JACK CIATTARELLI,640
+HUNTERDON,Governor,,Republican,JACK CIATTARELLI,"4,617"
+MERCER,Governor,,Republican,JACK CIATTARELLI,"2,118"
+MIDDLESEX,Governor,,Republican,JACK CIATTARELLI,"4,167"
+MONMOUTH,Governor,,Republican,JACK CIATTARELLI,"4,635"
+MORRIS,Governor,,Republican,JACK CIATTARELLI,"9,391"
+OCEAN,Governor,,Republican,JACK CIATTARELLI,"5,931"
+PASSAIC,Governor,,Republican,JACK CIATTARELLI,"2,751"
+SALEM,Governor,,Republican,JACK CIATTARELLI,703
+SOMERSET,Governor,,Republican,JACK CIATTARELLI,"7,929"
+SUSSEX,Governor,,Republican,JACK CIATTARELLI,"2,810"
+UNION,Governor,,Republican,JACK CIATTARELLI,"3,599"
+WARREN,Governor,,Republican,JACK CIATTARELLI,"1,825"
+ATLANTIC,Governor,,Democratic,RAYMOND J. LESNIAK,405
+BERGEN,Governor,,Democratic,RAYMOND J. LESNIAK,"1,354"
+BURLINGTON,Governor,,Democratic,RAYMOND J. LESNIAK,"1,117"
+CAMDEN,Governor,,Democratic,RAYMOND J. LESNIAK,"2,829"
+CAPE MAY,Governor,,Democratic,RAYMOND J. LESNIAK,240
+CUMBERLAND,Governor,,Democratic,RAYMOND J. LESNIAK,389
+ESSEX,Governor,,Democratic,RAYMOND J. LESNIAK,"1,099"
+GLOUCESTER,Governor,,Democratic,RAYMOND J. LESNIAK,540
+HUDSON,Governor,,Democratic,RAYMOND J. LESNIAK,"1,136"
+HUNTERDON,Governor,,Democratic,RAYMOND J. LESNIAK,626
+MERCER,Governor,,Democratic,RAYMOND J. LESNIAK,802
+MIDDLESEX,Governor,,Democratic,RAYMOND J. LESNIAK,"2,659"
+MONMOUTH,Governor,,Democratic,RAYMOND J. LESNIAK,"1,754"
+MORRIS,Governor,,Democratic,RAYMOND J. LESNIAK,"2,106"
+OCEAN,Governor,,Democratic,RAYMOND J. LESNIAK,"1,172"
+PASSAIC,Governor,,Democratic,RAYMOND J. LESNIAK,558
+SALEM,Governor,,Democratic,RAYMOND J. LESNIAK,352
+SOMERSET,Governor,,Democratic,RAYMOND J. LESNIAK,997
+SUSSEX,Governor,,Democratic,RAYMOND J. LESNIAK,512
+UNION,Governor,,Democratic,RAYMOND J. LESNIAK,"3,324"
+WARREN,Governor,,Democratic,RAYMOND J. LESNIAK,347
+ATLANTIC,Governor,,Republican,HIRSH SINGH,966
+BERGEN,Governor,,Republican,HIRSH SINGH,"1,743"
+BURLINGTON,Governor,,Republican,HIRSH SINGH,"1,193"
+CAMDEN,Governor,,Republican,HIRSH SINGH,"1,183"
+CAPE MAY,Governor,,Republican,HIRSH SINGH,389
+CUMBERLAND,Governor,,Republican,HIRSH SINGH,231
+ESSEX,Governor,,Republican,HIRSH SINGH,688
+GLOUCESTER,Governor,,Republican,HIRSH SINGH,615
+HUDSON,Governor,,Republican,HIRSH SINGH,649
+HUNTERDON,Governor,,Republican,HIRSH SINGH,"1,046"
+MERCER,Governor,,Republican,HIRSH SINGH,569
+MIDDLESEX,Governor,,Republican,HIRSH SINGH,"1,240"
+MONMOUTH,Governor,,Republican,HIRSH SINGH,"1,912"
+MORRIS,Governor,,Republican,HIRSH SINGH,"2,922"
+OCEAN,Governor,,Republican,HIRSH SINGH,"2,895"
+PASSAIC,Governor,,Republican,HIRSH SINGH,"1,241"
+SALEM,Governor,,Republican,HIRSH SINGH,169
+SOMERSET,Governor,,Republican,HIRSH SINGH,"1,059"
+SUSSEX,Governor,,Republican,HIRSH SINGH,"1,286"
+UNION,Governor,,Republican,HIRSH SINGH,852
+WARREN,Governor,,Republican,HIRSH SINGH,880
+ATLANTIC,Governor,,Republican,JOSEPH R. RULLO,447
+BERGEN,Governor,,Republican,JOSEPH R. RULLO,611
+BURLINGTON,Governor,,Republican,JOSEPH R. RULLO,"1,070"
+CAMDEN,Governor,,Republican,JOSEPH R. RULLO,889
+CAPE MAY,Governor,,Republican,JOSEPH R. RULLO,561
+CUMBERLAND,Governor,,Republican,JOSEPH R. RULLO,280
+ESSEX,Governor,,Republican,JOSEPH R. RULLO,247
+GLOUCESTER,Governor,,Republican,JOSEPH R. RULLO,687
+HUDSON,Governor,,Republican,JOSEPH R. RULLO,360
+HUNTERDON,Governor,,Republican,JOSEPH R. RULLO,480
+MERCER,Governor,,Republican,JOSEPH R. RULLO,260
+MIDDLESEX,Governor,,Republican,JOSEPH R. RULLO,"1,574"
+MONMOUTH,Governor,,Republican,JOSEPH R. RULLO,"1,676"
+MORRIS,Governor,,Republican,JOSEPH R. RULLO,"1,330"
+OCEAN,Governor,,Republican,JOSEPH R. RULLO,"2,104"
+PASSAIC,Governor,,Republican,JOSEPH R. RULLO,563
+SALEM,Governor,,Republican,JOSEPH R. RULLO,258
+SOMERSET,Governor,,Republican,JOSEPH R. RULLO,782
+SUSSEX,Governor,,Republican,JOSEPH R. RULLO,738
+UNION,Governor,,Republican,JOSEPH R. RULLO,364
+WARREN,Governor,,Republican,JOSEPH R. RULLO,535
+ATLANTIC,Governor,,Republican,STEVEN ROGERS,217
+BERGEN,Governor,,Republican,STEVEN ROGERS,858
+BURLINGTON,Governor,,Republican,STEVEN ROGERS,684
+CAMDEN,Governor,,Republican,STEVEN ROGERS,560
+CAPE MAY,Governor,,Republican,STEVEN ROGERS,200
+CUMBERLAND,Governor,,Republican,STEVEN ROGERS,189
+ESSEX,Governor,,Republican,STEVEN ROGERS,985
+GLOUCESTER,Governor,,Republican,STEVEN ROGERS,849
+HUDSON,Governor,,Republican,STEVEN ROGERS,407
+HUNTERDON,Governor,,Republican,STEVEN ROGERS,492
+MERCER,Governor,,Republican,STEVEN ROGERS,556
+MIDDLESEX,Governor,,Republican,STEVEN ROGERS,"1,037"
+MONMOUTH,Governor,,Republican,STEVEN ROGERS,"1,024"
+MORRIS,Governor,,Republican,STEVEN ROGERS,"1,616"
+OCEAN,Governor,,Republican,STEVEN ROGERS,"1,074"
+PASSAIC,Governor,,Republican,STEVEN ROGERS,627
+SALEM,Governor,,Republican,STEVEN ROGERS,163
+SOMERSET,Governor,,Republican,STEVEN ROGERS,529
+SUSSEX,Governor,,Republican,STEVEN ROGERS,"1,185"
+UNION,Governor,,Republican,STEVEN ROGERS,454
+WARREN,Governor,,Republican,STEVEN ROGERS,481
+ATLANTIC,Governor,,Democratic,WILLIAM BRENNAN,865
+BERGEN,Governor,,Democratic,WILLIAM BRENNAN,720
+BURLINGTON,Governor,,Democratic,WILLIAM BRENNAN,392
+CAMDEN,Governor,,Democratic,WILLIAM BRENNAN,"2,260"
+CAPE MAY,Governor,,Democratic,WILLIAM BRENNAN,61
+CUMBERLAND,Governor,,Democratic,WILLIAM BRENNAN,48
+ESSEX,Governor,,Democratic,WILLIAM BRENNAN,879
+GLOUCESTER,Governor,,Democratic,WILLIAM BRENNAN,474
+HUDSON,Governor,,Democratic,WILLIAM BRENNAN,796
+HUNTERDON,Governor,,Democratic,WILLIAM BRENNAN,154
+MERCER,Governor,,Democratic,WILLIAM BRENNAN,530
+MIDDLESEX,Governor,,Democratic,WILLIAM BRENNAN,649
+MONMOUTH,Governor,,Democratic,WILLIAM BRENNAN,364
+MORRIS,Governor,,Democratic,WILLIAM BRENNAN,707
+OCEAN,Governor,,Democratic,WILLIAM BRENNAN,507
+PASSAIC,Governor,,Democratic,WILLIAM BRENNAN,343
+SALEM,Governor,,Democratic,WILLIAM BRENNAN,65
+SOMERSET,Governor,,Democratic,WILLIAM BRENNAN,861
+SUSSEX,Governor,,Democratic,WILLIAM BRENNAN,112
+UNION,Governor,,Democratic,WILLIAM BRENNAN,362
+WARREN,Governor,,Democratic,WILLIAM BRENNAN,114
+ATLANTIC,Governor,,Democratic,MARK ZINNA,97
+BERGEN,Governor,,Democratic,MARK ZINNA,542
+BURLINGTON,Governor,,Democratic,MARK ZINNA,189
+CAMDEN,Governor,,Democratic,MARK ZINNA,490
+CAPE MAY,Governor,,Democratic,MARK ZINNA,46
+CUMBERLAND,Governor,,Democratic,MARK ZINNA,28
+ESSEX,Governor,,Democratic,MARK ZINNA,180
+GLOUCESTER,Governor,,Democratic,MARK ZINNA,217
+HUDSON,Governor,,Democratic,MARK ZINNA,292
+HUNTERDON,Governor,,Democratic,MARK ZINNA,66
+MERCER,Governor,,Democratic,MARK ZINNA,172
+MIDDLESEX,Governor,,Democratic,MARK ZINNA,"1,102"
+MONMOUTH,Governor,,Democratic,MARK ZINNA,188
+MORRIS,Governor,,Democratic,MARK ZINNA,205
+OCEAN,Governor,,Democratic,MARK ZINNA,670
+PASSAIC,Governor,,Democratic,MARK ZINNA,194
+SALEM,Governor,,Democratic,MARK ZINNA,66
+SOMERSET,Governor,,Democratic,MARK ZINNA,151
+SUSSEX,Governor,,Democratic,MARK ZINNA,76
+UNION,Governor,,Democratic,MARK ZINNA,192
+WARREN,Governor,,Democratic,MARK ZINNA,50
+ATLANTIC,State Senate,1,Democratic,JEFF VAN DREW (w) *,197
+CAPE MAY,State Senate,1,Democratic,JEFF VAN DREW (w) *,"3,172"
+CUMBERLAND,State Senate,1,Democratic,JEFF VAN DREW (w) *,"3,041"
+ATLANTIC,State Senate,1,Republican,MARY GRUCCIO (w),232
+CAPE MAY,State Senate,1,Republican,MARY GRUCCIO (w),"4,221"
+CUMBERLAND,State Senate,1,Republican,MARY GRUCCIO (w),"1,826"
+ATLANTIC,State Senate,2,Democratic,COLIN BELL (w),"7,928"
+ATLANTIC,State Senate,2,Republican,CHRIS BROWN (w),"5,981"
+CUMBERLAND,State Senate,3,Democratic,STEVE SWEENEY (w) *,529
+GLOUCESTER,State Senate,3,Democratic,STEVE SWEENEY (w) *,"5,069"
+SALEM,State Senate,3,Democratic,STEVE SWEENEY (w) *,"2,150"
+CUMBERLAND,State Senate,3,Republican,FRAN GRENIER (w),351
+GLOUCESTER,State Senate,3,Republican,FRAN GRENIER (w),"2,037"
+SALEM,State Senate,3,Republican,FRAN GRENIER (w),"1,756"
+CAMDEN,State Senate,4,Democratic,FRED H. MADDEN (w) *,"7,226"
+GLOUCESTER,State Senate,4,Democratic,FRED H. MADDEN (w) *,"4,123"
+CAMDEN,State Senate,4,Republican,MICHAEL PASCETTA (w),"2,027"
+GLOUCESTER,State Senate,4,Republican,MICHAEL PASCETTA (w),"1,686"
+CAMDEN,State Senate,5,Democratic,NILSA CRUZ-PEREZ (w) *,"7,982"
+GLOUCESTER,State Senate,5,Democratic,NILSA CRUZ-PEREZ (w) *,"3,087"
+CAMDEN,State Senate,5,Republican,KEITH WALKER (w),"1,181"
+GLOUCESTER,State Senate,5,Republican,KEITH WALKER (w),"1,376"
+BURLINGTON,State Senate,6,Democratic,JAMES BEACH (w) *,736
+CAMDEN,State Senate,6,Democratic,JAMES BEACH (w) *,"13,608"
+BURLINGTON,State Senate,6,Republican,ROBERT SHAPIRO (w),293
+CAMDEN,State Senate,6,Republican,ROBERT SHAPIRO (w),"3,744"
+BURLINGTON,State Senate,7,Democratic,TROY SINGLETON (w) *,"13,434"
+BURLINGTON,State Senate,7,Republican,ROB PRISCO (w),"5,803"
+ATLANTIC,State Senate,8,Democratic,GEORGE B. YOUNGKIN (w),238
+BURLINGTON,State Senate,8,Democratic,GEORGE B. YOUNGKIN (w),"7,109"
+CAMDEN,State Senate,8,Democratic,GEORGE B. YOUNGKIN (w),990
+ATLANTIC,State Senate,8,Republican,DAWN MARIE ADDIEGO (w) *,310
+BURLINGTON,State Senate,8,Republican,DAWN MARIE ADDIEGO (w) *,"5,825"
+CAMDEN,State Senate,8,Republican,DAWN MARIE ADDIEGO (w) *,533
+ATLANTIC,State Senate,9,Republican,CHRISTOPHER J. CONNORS (w) *,"1,108"
+BURLINGTON,State Senate,9,Republican,CHRISTOPHER J. CONNORS (w) *,446
+OCEAN,State Senate,9,Republican,CHRISTOPHER J. CONNORS (w) *,"7,714"
+ATLANTIC,State Senate,9,Democratic,BRIAN CORLEY WHITE (w),"1,354"
+BURLINGTON,State Senate,9,Democratic,BRIAN CORLEY WHITE (w),234
+OCEAN,State Senate,9,Democratic,BRIAN CORLEY WHITE (w),"4,128"
+OCEAN,State Senate,10,Republican,JIM HOLZAPFEL (w) *,"8,876"
+OCEAN,State Senate,10,Democratic,EMMA L. MAMMANO (w),"5,565"
+MONMOUTH,State Senate,11,Democratic,VIN GOPAL (w),"8,496"
+MONMOUTH,State Senate,11,Republican,JENNIFER BECK (w) *,"5,093"
+BURLINGTON,State Senate,12,Democratic,DAVID H. LANDE (w),356
+MIDDLESEX,State Senate,12,Democratic,DAVID H. LANDE (w),"1,972"
+MONMOUTH,State Senate,12,Democratic,DAVID H. LANDE (w),"2,143"
+OCEAN,State Senate,12,Democratic,DAVID H. LANDE (w),"1,347"
+BURLINGTON,State Senate,12,Republican,SAMUEL D. THOMPSON (w) *,293
+MIDDLESEX,State Senate,12,Republican,SAMUEL D. THOMPSON (w) *,"1,013"
+MONMOUTH,State Senate,12,Republican,SAMUEL D. THOMPSON (w) *,"1,301"
+OCEAN,State Senate,12,Republican,SAMUEL D. THOMPSON (w) *,"1,670"
+BURLINGTON,State Senate,12,Republican,ART HANEY,242
+MIDDLESEX,State Senate,12,Republican,ART HANEY,"1,033"
+MONMOUTH,State Senate,12,Republican,ART HANEY,697
+OCEAN,State Senate,12,Republican,ART HANEY,901
+MONMOUTH,State Senate,13,Democratic,SEAN F. BYRNES (w),"7,252"
+MONMOUTH,State Senate,13,Republican,DECLAN O'SCANLON (w),"5,943"
+MONMOUTH,State Senate,13,Democratic,JOSHUA LEINSDORF,566
+MERCER,State Senate,14,Democratic,LINDA R. GREENSTEIN (w) *,"6,006"
+MIDDLESEX,State Senate,14,Democratic,LINDA R. GREENSTEIN (w) *,"4,884"
+MERCER,State Senate,14,Republican,ILEANA SCHIRMER (w),"2,308"
+MIDDLESEX,State Senate,14,Republican,ILEANA SCHIRMER (w),"1,173"
+MERCER,State Senate,14,Republican,BRUCE C. MAC DONALD,222
+MIDDLESEX,State Senate,14,Republican,BRUCE C. MAC DONALD,602
+HUNTERDON,State Senate,15,Democratic,SHIRLEY K. TURNER (w) *,"1,030"
+MERCER,State Senate,15,Democratic,SHIRLEY K. TURNER (w) *,"12,753"
+HUNTERDON,State Senate,15,Republican,LEE ERIC NEWTON (w),415
+MERCER,State Senate,15,Republican,LEE ERIC NEWTON (w),"1,830"
+HUNTERDON,State Senate,16,Democratic,LAURIE POPPE (w),"2,149"
+MERCER,State Senate,16,Democratic,LAURIE POPPE (w),"2,636"
+MIDDLESEX,State Senate,16,Democratic,LAURIE POPPE (w),"1,896"
+SOMERSET,State Senate,16,Democratic,LAURIE POPPE (w),"4,046"
+HUNTERDON,State Senate,16,Republican,"CHRISTOPHER ""KIP"" BATEMAN (w) *","3,569"
+MERCER,State Senate,16,Republican,"CHRISTOPHER ""KIP"" BATEMAN (w) *",262
+MIDDLESEX,State Senate,16,Republican,"CHRISTOPHER ""KIP"" BATEMAN (w) *",521
+SOMERSET,State Senate,16,Republican,"CHRISTOPHER ""KIP"" BATEMAN (w) *","4,050"
+MIDDLESEX,State Senate,17,Democratic,BOB SMITH (w) *,"6,384"
+SOMERSET,State Senate,17,Democratic,BOB SMITH (w) *,"3,719"
+MIDDLESEX,State Senate,17,Democratic,WILLIAM J. IRWIN,"2,673"
+SOMERSET,State Senate,17,Democratic,WILLIAM J. IRWIN,"1,260"
+MIDDLESEX,State Senate,17,Republican,DARYL J. KIPNIS (w),"1,100"
+SOMERSET,State Senate,17,Republican,DARYL J. KIPNIS (w),969
+MIDDLESEX,State Senate,18,Democratic,PATRICK J. DIEGNAN JR. (w) *,"11,461"
+MIDDLESEX,State Senate,18,Republican,MARK CSIZMAR (w),"2,561"
+MIDDLESEX,State Senate,19,Democratic,JOSEPH F. VITALE (w) *,"9,038"
+MIDDLESEX,State Senate,19,Republican,ARTHUR J. RITTENHOUSE JR. (w),"1,838"
+UNION,State Senate,20,Democratic,JOSEPH P. CRYAN (w),"9,666"
+UNION,State Senate,20,Republican,ASHRAF HANNA (w),690
+MORRIS,State Senate,21,Republican,THOMAS H. KEAN JR. (w) *,770
+SOMERSET,State Senate,21,Republican,THOMAS H. KEAN JR. (w) *,"2,509"
+UNION,State Senate,21,Republican,THOMAS H. KEAN JR. (w) *,"4,510"
+MORRIS,State Senate,21,Democratic,JILL LAZARE (w),296
+SOMERSET,State Senate,21,Democratic,JILL LAZARE (w),"1,130"
+UNION,State Senate,21,Democratic,JILL LAZARE (w),"4,260"
+MIDDLESEX,State Senate,22,Democratic,NICHOLAS P. SCUTARI (w) *,620
+SOMERSET,State Senate,22,Democratic,NICHOLAS P. SCUTARI (w) *,"1,068"
+UNION,State Senate,22,Democratic,NICHOLAS P. SCUTARI (w) *,"9,638"
+MIDDLESEX,State Senate,22,Republican,JOSEPH A. BONILLA (w),419
+SOMERSET,State Senate,22,Republican,JOSEPH A. BONILLA (w),444
+UNION,State Senate,22,Republican,JOSEPH A. BONILLA (w),"1,468"
+HUNTERDON,State Senate,23,Republican,MICHAEL J. DOHERTY (w) *,"4,734"
+SOMERSET,State Senate,23,Republican,MICHAEL J. DOHERTY (w) *,"2,975"
+WARREN,State Senate,23,Republican,MICHAEL J. DOHERTY (w) *,"3,039"
+HUNTERDON,State Senate,23,Democratic,CHRISTINE LUI CHEN (w),"2,995"
+SOMERSET,State Senate,23,Democratic,CHRISTINE LUI CHEN (w),"2,545"
+WARREN,State Senate,23,Democratic,CHRISTINE LUI CHEN (w),"2,205"
+MORRIS,State Senate,24,Republican,STEVEN V. OROHO (w) *,709
+SUSSEX,State Senate,24,Republican,STEVEN V. OROHO (w) *,"7,865"
+WARREN,State Senate,24,Republican,STEVEN V. OROHO (w) *,"2,254"
+MORRIS,State Senate,24,Democratic,JENNIFER HAMILTON (w),704
+SUSSEX,State Senate,24,Democratic,JENNIFER HAMILTON (w),"4,775"
+WARREN,State Senate,24,Democratic,JENNIFER HAMILTON (w),"1,236"
+MORRIS,State Senate,24,Republican,WILLIAM J. HAYDEN,296
+SUSSEX,State Senate,24,Republican,WILLIAM J. HAYDEN,"2,676"
+WARREN,State Senate,24,Republican,WILLIAM J. HAYDEN,768
+MORRIS,State Senate,25,Republican,ANTHONY R. BUCCO (w) *,"8,247"
+SOMERSET,State Senate,25,Republican,ANTHONY R. BUCCO (w) *,506
+MORRIS,State Senate,25,Democratic,LISA BHIMANI (w),"8,249"
+SOMERSET,State Senate,25,Democratic,LISA BHIMANI (w),347
+ESSEX,State Senate,26,Republican,JOE PENNACCHIO (w) *,"1,060"
+MORRIS,State Senate,26,Republican,JOE PENNACCHIO (w) *,"8,107"
+PASSAIC,State Senate,26,Republican,JOE PENNACCHIO (w) *,"1,211"
+ESSEX,State Senate,26,Democratic,ELLIOT ISIBOR (w),"1,434"
+MORRIS,State Senate,26,Democratic,ELLIOT ISIBOR (w),"5,352"
+PASSAIC,State Senate,26,Democratic,ELLIOT ISIBOR (w),659
+ESSEX,State Senate,27,Democratic,RICHARD CODEY (w) *,"12,314"
+MORRIS,State Senate,27,Democratic,RICHARD CODEY (w) *,"2,830"
+ESSEX,State Senate,27,Republican,PASQUALE CAPOZZOLI (w),"1,646"
+MORRIS,State Senate,27,Republican,PASQUALE CAPOZZOLI (w),"3,026"
+ESSEX,State Senate,28,Democratic,RONALD L. RICE (w) *,"12,090"
+ESSEX,State Senate,29,Democratic,M. TERESA RUIZ (w) *,"7,965"
+ESSEX,State Senate,29,Republican,MARIA E. LOPEZ (w),509
+MONMOUTH,State Senate,30,Republican,ROBERT W. SINGER (w) *,"3,238"
+OCEAN,State Senate,30,Republican,ROBERT W. SINGER (w) *,"5,269"
+MONMOUTH,State Senate,30,Democratic,AMY SARA CORES (w),"3,270"
+OCEAN,State Senate,30,Democratic,AMY SARA CORES (w),"1,592"
+HUDSON,State Senate,31,Democratic,SANDRA B. CUNNINGHAM (w) *,"12,089"
+HUDSON,State Senate,31,Republican,HERMINIO MENDOZA (w),665
+BERGEN,State Senate,32,Democratic,NICHOLAS J. SACCO (w) *,729
+HUDSON,State Senate,32,Democratic,NICHOLAS J. SACCO (w) *,"9,703"
+BERGEN,State Senate,32,Republican,PAUL CASTELLI (w),101
+HUDSON,State Senate,32,Republican,PAUL CASTELLI (w),823
+HUDSON,State Senate,33,Democratic,BRIAN P. STACK (w) *,"20,952"
+HUDSON,State Senate,33,Republican,BETH HAMBURGER (w),947
+ESSEX,State Senate,34,Democratic,NIA H. GILL (w) *,"13,484"
+PASSAIC,State Senate,34,Democratic,NIA H. GILL (w) *,"2,819"
+ESSEX,State Senate,34,Republican,MAHIR SALEH (w),268
+PASSAIC,State Senate,34,Republican,MAHIR SALEH (w),776
+BERGEN,State Senate,35,Democratic,NELIDA POU (w) *,"1,410"
+PASSAIC,State Senate,35,Democratic,NELIDA POU (w) *,"5,837"
+BERGEN,State Senate,35,Republican,MARWAN SHOLAKH (w),441
+PASSAIC,State Senate,35,Republican,MARWAN SHOLAKH (w),576
+BERGEN,State Senate,35,Democratic,HAYTHAM YOUNES,110
+PASSAIC,State Senate,35,Democratic,HAYTHAM YOUNES,275
+BERGEN,State Senate,36,Democratic,PAUL A. SARLO (w) *,"5,105"
+PASSAIC,State Senate,36,Democratic,PAUL A. SARLO (w) *,"1,230"
+BERGEN,State Senate,36,Republican,JEANINE FERRARA (w),"1,824"
+PASSAIC,State Senate,36,Republican,JEANINE FERRARA (w),154
+BERGEN,State Senate,37,Democratic,LORETTA WEINBERG (w) *,"11,063"
+BERGEN,State Senate,37,Republican,MODESTO ROMERO (w),"1,133"
+BERGEN,State Senate,37,Republican,ERIC P. FISHER,"1,018"
+BERGEN,State Senate,38,Democratic,BOB GORDON (w) *,"6,840"
+PASSAIC,State Senate,38,Democratic,BOB GORDON (w) *,711
+BERGEN,State Senate,38,Republican,KELLY LANGSCHULTZ (w),"3,197"
+PASSAIC,State Senate,38,Republican,KELLY LANGSCHULTZ (w),"1,048"
+BERGEN,State Senate,39,Democratic,LINDA H. SCHWAGER (w),"5,672"
+PASSAIC,State Senate,39,Democratic,LINDA H. SCHWAGER (w),"1,159"
+BERGEN,State Senate,39,Republican,GERALD CARDINALE (w) *,"5,384"
+PASSAIC,State Senate,39,Republican,GERALD CARDINALE (w) *,968
+BERGEN,State Senate,40,Republican,KRISTIN M. CORRADO (w),"1,896"
+ESSEX,State Senate,40,Republican,KRISTIN M. CORRADO (w),170
+MORRIS,State Senate,40,Republican,KRISTIN M. CORRADO (w),536
+PASSAIC,State Senate,40,Republican,KRISTIN M. CORRADO (w),"5,190"
+BERGEN,State Senate,40,Democratic,THOMAS DUCH (w),"3,057"
+ESSEX,State Senate,40,Democratic,THOMAS DUCH (w),352
+MORRIS,State Senate,40,Democratic,THOMAS DUCH (w),631
+PASSAIC,State Senate,40,Democratic,THOMAS DUCH (w),"3,226"
+BERGEN,State Senate,40,Republican,PAUL DIGAETANO,"1,949"
+ESSEX,State Senate,40,Republican,PAUL DIGAETANO,111
+MORRIS,State Senate,40,Republican,PAUL DIGAETANO,320
+PASSAIC,State Senate,40,Republican,PAUL DIGAETANO,"1,388"
+BERGEN,State Senate,40,Republican,EDWARD BUTTIMORE,102
+ESSEX,State Senate,40,Republican,EDWARD BUTTIMORE,286
+MORRIS,State Senate,40,Republican,EDWARD BUTTIMORE,206
+PASSAIC,State Senate,40,Republican,EDWARD BUTTIMORE,411
+ATLANTIC,General Assembly,1,Democratic,BOB ANDRZEJCZAK (w) * (bracketed with R. BRUCE LAND),195
+CAPE MAY,General Assembly,1,Democratic,BOB ANDRZEJCZAK (w) * (bracketed with R. BRUCE LAND),"3,066"
+CUMBERLAND,General Assembly,1,Democratic,BOB ANDRZEJCZAK (w) * (bracketed with R. BRUCE LAND),"2,902"
+ATLANTIC,General Assembly,1,Democratic,R. BRUCE LAND (w) * (bracketed with BOB ANDRZEJCZAK),188
+CAPE MAY,General Assembly,1,Democratic,R. BRUCE LAND (w) * (bracketed with BOB ANDRZEJCZAK),"2,828"
+CUMBERLAND,General Assembly,1,Democratic,R. BRUCE LAND (w) * (bracketed with BOB ANDRZEJCZAK),"2,854"
+ATLANTIC,General Assembly,1,Republican,JAMES R. SAURO (w),221
+CAPE MAY,General Assembly,1,Republican,JAMES R. SAURO (w),"3,866"
+CUMBERLAND,General Assembly,1,Republican,JAMES R. SAURO (w),"1,756"
+ATLANTIC,General Assembly,1,Republican,ROBERT G. CAMPBELL (w),26
+CAPE MAY,General Assembly,1,Republican,ROBERT G. CAMPBELL (w),"1,472"
+CUMBERLAND,General Assembly,1,Republican,ROBERT G. CAMPBELL (w),"1,682"
+ATLANTIC,General Assembly,1,Republican,BRIAN MCDOWELL,225
+CAPE MAY,General Assembly,1,Republican,BRIAN MCDOWELL,"1,314"
+CUMBERLAND,General Assembly,1,Republican,BRIAN MCDOWELL,211
+ATLANTIC,General Assembly,2,Democratic,VINCE MAZZEO (w) * (bracketed with JOHN ARMATO),"7,197"
+ATLANTIC,General Assembly,2,Democratic,JOHN ARMATO (w) (bracketed with VINCE MAZZEO),"5,596"
+ATLANTIC,General Assembly,2,Republican,VINCE SERA (w),"5,551"
+ATLANTIC,General Assembly,2,Republican,BRENDA TAUBE (w),"5,398"
+ATLANTIC,General Assembly,2,Democratic,ERNEST D. COURSEY,"3,852"
+ATLANTIC,General Assembly,2,Democratic,JIM A. CARNEY,"1,278"
+ATLANTIC,General Assembly,2,Democratic,THERESA D. WATTS,925
+ATLANTIC,General Assembly,2,Democratic,RIZWAN MALIK,365
+CUMBERLAND,General Assembly,3,Democratic,JOHN J. BURZICHELLI (w) * (bracketed with ADAM TALIAFERRO),592
+GLOUCESTER,General Assembly,3,Democratic,JOHN J. BURZICHELLI (w) * (bracketed with ADAM TALIAFERRO),"5,606"
+SALEM,General Assembly,3,Democratic,JOHN J. BURZICHELLI (w) * (bracketed with ADAM TALIAFERRO),"2,203"
+CUMBERLAND,General Assembly,3,Democratic,ADAM TALIAFERRO (w) * (bracketed with JOHN J. BURZICHELLI),572
+GLOUCESTER,General Assembly,3,Democratic,ADAM TALIAFERRO (w) * (bracketed with JOHN J. BURZICHELLI),"5,865"
+SALEM,General Assembly,3,Democratic,ADAM TALIAFERRO (w) * (bracketed with JOHN J. BURZICHELLI),"2,086"
+CUMBERLAND,General Assembly,3,Republican,PHILIP J. DONOHUE (w) (bracketed with LINWOOD H. DONELSON III),348
+GLOUCESTER,General Assembly,3,Republican,PHILIP J. DONOHUE (w) (bracketed with LINWOOD H. DONELSON III),"2,202"
+SALEM,General Assembly,3,Republican,PHILIP J. DONOHUE (w) (bracketed with LINWOOD H. DONELSON III),"1,718"
+CUMBERLAND,General Assembly,3,Republican,LINWOOD H. DONELSON III (w) (bracketed with PHILIP J. DONOHUE),330
+GLOUCESTER,General Assembly,3,Republican,LINWOOD H. DONELSON III (w) (bracketed with PHILIP J. DONOHUE),"2,133"
+SALEM,General Assembly,3,Republican,LINWOOD H. DONELSON III (w) (bracketed with PHILIP J. DONOHUE),"1,699"
+CUMBERLAND,General Assembly,3,Democratic,JOHN KALNAS JOHN KALNAS,53
+GLOUCESTER,General Assembly,3,Democratic,JOHN KALNAS JOHN KALNAS,774
+SALEM,General Assembly,3,Democratic,JOHN KALNAS JOHN KALNAS,612
+CAMDEN,General Assembly,4,Democratic,PAUL D. MORIARTY (w) * (bracketed with GABRIELA M. MOSQUERA),"7,439"
+GLOUCESTER,General Assembly,4,Democratic,PAUL D. MORIARTY (w) * (bracketed with GABRIELA M. MOSQUERA),"4,071"
+CAMDEN,General Assembly,4,Democratic,GABRIELA M. MOSQUERA (w) * (bracketed with PAUL D. MORIARTY),"7,166"
+GLOUCESTER,General Assembly,4,Democratic,GABRIELA M. MOSQUERA (w) * (bracketed with PAUL D. MORIARTY),"4,111"
+CAMDEN,General Assembly,4,Republican,PATRICIA JEFFERSON KLINE (w) (bracketed with EDUARDO J. MALDONADO),"2,069"
+GLOUCESTER,General Assembly,4,Republican,PATRICIA JEFFERSON KLINE (w) (bracketed with EDUARDO J. MALDONADO),"1,724"
+CAMDEN,General Assembly,4,Republican,EDUARDO J. MALDONADO (w) (bracketed with PATRICIA JEFFERSON KLINE),"2,009"
+GLOUCESTER,General Assembly,4,Republican,EDUARDO J. MALDONADO (w) (bracketed with PATRICIA JEFFERSON KLINE),"1,721"
+CAMDEN,General Assembly,5,Democratic,PATRICIA EGAN JONES (w) * (bracketed with ARTHUR BARCLAY),"7,887"
+GLOUCESTER,General Assembly,5,Democratic,PATRICIA EGAN JONES (w) * (bracketed with ARTHUR BARCLAY),"3,172"
+CAMDEN,General Assembly,5,Democratic,ARTHUR BARCLAY (w) * (bracketed with PATRICIA EGAN JONES),"7,454"
+GLOUCESTER,General Assembly,5,Democratic,ARTHUR BARCLAY (w) * (bracketed with PATRICIA EGAN JONES),"3,117"
+CAMDEN,General Assembly,5,Republican,KEVIN EHRET (w) (bracketed with TERESA L. GORDON),"1,151"
+GLOUCESTER,General Assembly,5,Republican,KEVIN EHRET (w) (bracketed with TERESA L. GORDON),"1,431"
+CAMDEN,General Assembly,5,Republican,TERESA L. GORDON (w) (bracketed with KEVIN EHRET),"1,151"
+GLOUCESTER,General Assembly,5,Republican,TERESA L. GORDON (w) (bracketed with KEVIN EHRET),"1,446"
+BURLINGTON,General Assembly,6,Democratic,LOUIS D. GREENWALD (w) * (bracketed with PAMELA R. LAMPITT),682
+CAMDEN,General Assembly,6,Democratic,LOUIS D. GREENWALD (w) * (bracketed with PAMELA R. LAMPITT),"12,600"
+BURLINGTON,General Assembly,6,Democratic,PAMELA R. LAMPITT (w) * (bracketed with LOUIS D. GREENWALD),706
+CAMDEN,General Assembly,6,Democratic,PAMELA R. LAMPITT (w) * (bracketed with LOUIS D. GREENWALD),"13,040"
+BURLINGTON,General Assembly,6,Democratic,FREDERICK DANDE,97
+CAMDEN,General Assembly,6,Democratic,FREDERICK DANDE,"4,119"
+BURLINGTON,General Assembly,6,Republican,WINSTON EXTAVOUR (w) (bracketed with DAVID C. MOY),285
+CAMDEN,General Assembly,6,Republican,WINSTON EXTAVOUR (w) (bracketed with DAVID C. MOY),"3,603"
+BURLINGTON,General Assembly,6,Republican,DAVID C. MOY (w) (bracketed with WINSTON EXTAVOUR),278
+CAMDEN,General Assembly,6,Republican,DAVID C. MOY (w) (bracketed with WINSTON EXTAVOUR),"3,613"
+BURLINGTON,General Assembly,7,Democratic,HERB CONAWAY (w) * (bracketed with CAROL MURPHY),"11,952"
+BURLINGTON,General Assembly,7,Democratic,CAROL MURPHY (w) (bracketed with HERB CONAWAY),"11,688"
+BURLINGTON,General Assembly,7,Republican,OCTAVIA SCOTT (w) (bracketed with MIKE PIPER),"5,708"
+BURLINGTON,General Assembly,7,Republican,MIKE PIPER (w) (bracketed with OCTAVIA SCOTT),"5,699"
+BURLINGTON,General Assembly,7,Democratic,JENNIFER HINLU CHUANG,"3,522"
+ATLANTIC,General Assembly,8,Democratic,JOANNE SCHWARTZ (w) (bracketed with MARYANN MERLINO),243
+BURLINGTON,General Assembly,8,Democratic,JOANNE SCHWARTZ (w) (bracketed with MARYANN MERLINO),"7,229"
+CAMDEN,General Assembly,8,Democratic,JOANNE SCHWARTZ (w) (bracketed with MARYANN MERLINO),"1,062"
+ATLANTIC,General Assembly,8,Democratic,MARYANN MERLINO (w) (bracketed with JOANNE SCHWARTZ),237
+BURLINGTON,General Assembly,8,Democratic,MARYANN MERLINO (w) (bracketed with JOANNE SCHWARTZ),"6,943"
+CAMDEN,General Assembly,8,Democratic,MARYANN MERLINO (w) (bracketed with JOANNE SCHWARTZ),"1,046"
+ATLANTIC,General Assembly,8,Republican,MARIA RODRIGUEZ-GREGG (w) * (bracketed with JOE HOWARTH),301
+BURLINGTON,General Assembly,8,Republican,MARIA RODRIGUEZ-GREGG (w) * (bracketed with JOE HOWARTH),"5,580"
+CAMDEN,General Assembly,8,Republican,MARIA RODRIGUEZ-GREGG (w) * (bracketed with JOE HOWARTH),519
+ATLANTIC,General Assembly,8,Republican,JOE HOWARTH (w) * (bracketed with MARIA RODRIGUEZ-GREGG),305
+BURLINGTON,General Assembly,8,Republican,JOE HOWARTH (w) * (bracketed with MARIA RODRIGUEZ-GREGG),"5,671"
+CAMDEN,General Assembly,8,Republican,JOE HOWARTH (w) * (bracketed with MARIA RODRIGUEZ-GREGG),531
+ATLANTIC,General Assembly,9,Republican,BRIAN E. RUMPF (w) * (bracketed with DIANNE C. GOVE),"1,094"
+BURLINGTON,General Assembly,9,Republican,BRIAN E. RUMPF (w) * (bracketed with DIANNE C. GOVE),430
+OCEAN,General Assembly,9,Republican,BRIAN E. RUMPF (w) * (bracketed with DIANNE C. GOVE),"7,613"
+ATLANTIC,General Assembly,9,Republican,DIANNE C. GOVE (w) * (bracketed with BRIAN E. RUMPF),"1,070"
+BURLINGTON,General Assembly,9,Republican,DIANNE C. GOVE (w) * (bracketed with BRIAN E. RUMPF),414
+OCEAN,General Assembly,9,Republican,DIANNE C. GOVE (w) * (bracketed with BRIAN E. RUMPF),"7,506"
+ATLANTIC,General Assembly,9,Democratic,JILL DOBROWANSKY (w) (bracketed with RYAN YOUNG),"1,358"
+BURLINGTON,General Assembly,9,Democratic,JILL DOBROWANSKY (w) (bracketed with RYAN YOUNG),253
+OCEAN,General Assembly,9,Democratic,JILL DOBROWANSKY (w) (bracketed with RYAN YOUNG),"4,437"
+ATLANTIC,General Assembly,9,Democratic,RYAN YOUNG (w) (bracketed with JILL DOBROWANSKY),"1,344"
+BURLINGTON,General Assembly,9,Democratic,RYAN YOUNG (w) (bracketed with JILL DOBROWANSKY),234
+OCEAN,General Assembly,9,Democratic,RYAN YOUNG (w) (bracketed with JILL DOBROWANSKY),"4,159"
+OCEAN,General Assembly,10,Republican,DAVE WOLFE (w) * (bracketed with GREGORY P. MCGUCKIN),"8,833"
+OCEAN,General Assembly,10,Republican,GREGORY P. MCGUCKIN (w) * (bracketed with DAVE WOLFE),"8,684"
+OCEAN,General Assembly,10,Democratic,MICHAEL B. COOKE (w) (bracketed with RAYMOND BAKER),"5,628"
+OCEAN,General Assembly,10,Democratic,RAYMOND BAKER (w) (bracketed with MICHAEL B. COOKE),"5,419"
+MONMOUTH,General Assembly,11,Democratic,ERIC HOUGHTALING (w) * (bracketed with JOANN DOWNEY),"8,652"
+MONMOUTH,General Assembly,11,Democratic,JOANN DOWNEY (w) * (bracketed with ERIC HOUGHTALING),"8,889"
+MONMOUTH,General Assembly,11,Republican,ROBERT ACERRA (w) (bracketed with MICHAEL WHELAN),"4,949"
+MONMOUTH,General Assembly,11,Republican,MICHAEL WHELAN (w) (bracketed with ROBERT ACERRA),"4,856"
+MONMOUTH,General Assembly,11,Democratic,AASIM JOHNSON,0
+BURLINGTON,General Assembly,12,Democratic,GENE DAVIS (w) (bracketed with NIRAV PATEL),360
+MIDDLESEX,General Assembly,12,Democratic,GENE DAVIS (w) (bracketed with NIRAV PATEL),"1,946"
+MONMOUTH,General Assembly,12,Democratic,GENE DAVIS (w) (bracketed with NIRAV PATEL),"2,216"
+OCEAN,General Assembly,12,Democratic,GENE DAVIS (w) (bracketed with NIRAV PATEL),"1,406"
+BURLINGTON,General Assembly,12,Democratic,NIRAV PATEL (w) (bracketed with GENE DAVIS),348
+MIDDLESEX,General Assembly,12,Democratic,NIRAV PATEL (w) (bracketed with GENE DAVIS),"1,762"
+MONMOUTH,General Assembly,12,Democratic,NIRAV PATEL (w) (bracketed with GENE DAVIS),"2,145"
+OCEAN,General Assembly,12,Democratic,NIRAV PATEL (w) (bracketed with GENE DAVIS),"1,308"
+BURLINGTON,General Assembly,12,Republican,RONALD S. DANCER (w) * (bracketed with ROBERT D. CLIFTON),344
+MIDDLESEX,General Assembly,12,Republican,RONALD S. DANCER (w) * (bracketed with ROBERT D. CLIFTON),915
+MONMOUTH,General Assembly,12,Republican,RONALD S. DANCER (w) * (bracketed with ROBERT D. CLIFTON),"1,362"
+OCEAN,General Assembly,12,Republican,RONALD S. DANCER (w) * (bracketed with ROBERT D. CLIFTON),"1,804"
+BURLINGTON,General Assembly,12,Republican,ROBERT D. CLIFTON (w) * (bracketed with RONALD S. DANCER),317
+MIDDLESEX,General Assembly,12,Republican,ROBERT D. CLIFTON (w) * (bracketed with RONALD S. DANCER),864
+MONMOUTH,General Assembly,12,Republican,ROBERT D. CLIFTON (w) * (bracketed with RONALD S. DANCER),"1,348"
+OCEAN,General Assembly,12,Republican,ROBERT D. CLIFTON (w) * (bracketed with RONALD S. DANCER),"1,674"
+BURLINGTON,General Assembly,12,Republican,"ROBERT D. CLIFTON (w) * (bracketed with RONALD S. DANCER) ALEX ROBOTIN (bracketed with ELEANOR ""DEBBIE"" WALKER)",232
+MIDDLESEX,General Assembly,12,Republican,"ROBERT D. CLIFTON (w) * (bracketed with RONALD S. DANCER) ALEX ROBOTIN (bracketed with ELEANOR ""DEBBIE"" WALKER)",704
+MONMOUTH,General Assembly,12,Republican,"ROBERT D. CLIFTON (w) * (bracketed with RONALD S. DANCER) ALEX ROBOTIN (bracketed with ELEANOR ""DEBBIE"" WALKER)",642
+OCEAN,General Assembly,12,Republican,"ROBERT D. CLIFTON (w) * (bracketed with RONALD S. DANCER) ALEX ROBOTIN (bracketed with ELEANOR ""DEBBIE"" WALKER)",753
+BURLINGTON,General Assembly,12,Republican,"ELEANOR ""DEBBIE"" WALKER (bracketed with ALEX ROBOTIN)",230
+MIDDLESEX,General Assembly,12,Republican,"ELEANOR ""DEBBIE"" WALKER (bracketed with ALEX ROBOTIN)",977
+MONMOUTH,General Assembly,12,Republican,"ELEANOR ""DEBBIE"" WALKER (bracketed with ALEX ROBOTIN)",659
+OCEAN,General Assembly,12,Republican,"ELEANOR ""DEBBIE"" WALKER (bracketed with ALEX ROBOTIN)",847
+BURLINGTON,General Assembly,12,Republican,JOHN FRANKLIN SHEARD,8
+MIDDLESEX,General Assembly,12,Republican,JOHN FRANKLIN SHEARD,231
+MONMOUTH,General Assembly,12,Republican,JOHN FRANKLIN SHEARD,58
+OCEAN,General Assembly,12,Republican,JOHN FRANKLIN SHEARD,149
+MONMOUTH,General Assembly,13,Democratic,TOM GIAIMO (w) (bracketed with MARIEL DIDATO),"7,495"
+MONMOUTH,General Assembly,13,Democratic,MARIEL DIDATO (w) (bracketed with TOM GIAIMO),"7,539"
+MONMOUTH,General Assembly,13,Republican,AMY HANDLIN (w) *,"6,372"
+MONMOUTH,General Assembly,13,Republican,SERENA DIMASO (w),"6,025"
+MERCER,General Assembly,14,Democratic,WAYNE P. DEANGELO (w) * (bracketed with DANIEL R. BENSON),"5,926"
+MIDDLESEX,General Assembly,14,Democratic,WAYNE P. DEANGELO (w) * (bracketed with DANIEL R. BENSON),"4,548"
+MERCER,General Assembly,14,Democratic,DANIEL R. BENSON (w) * (bracketed with WAYNE P. DEANGELO),"5,737"
+MIDDLESEX,General Assembly,14,Democratic,DANIEL R. BENSON (w) * (bracketed with WAYNE P. DEANGELO),"4,428"
+MERCER,General Assembly,14,Republican,KRISTIAN STOUT (w) (bracketed with STEVEN UCCIO),"2,439"
+MIDDLESEX,General Assembly,14,Republican,KRISTIAN STOUT (w) (bracketed with STEVEN UCCIO),"1,557"
+MERCER,General Assembly,14,Republican,STEVEN UCCIO (w) (bracketed with KRISTIAN STOUT),"2,368"
+MIDDLESEX,General Assembly,14,Republican,STEVEN UCCIO (w) (bracketed with KRISTIAN STOUT),"1,504"
+HUNTERDON,General Assembly,15,Democratic,REED GUSCIORA (w) * (bracketed with ELIZABETH MAHER MUOIO),735
+MERCER,General Assembly,15,Democratic,REED GUSCIORA (w) * (bracketed with ELIZABETH MAHER MUOIO),"11,464"
+HUNTERDON,General Assembly,15,Democratic,ELIZABETH MAHER MUOIO (w) * (bracketed with REED GUSCIORA),921
+MERCER,General Assembly,15,Democratic,ELIZABETH MAHER MUOIO (w) * (bracketed with REED GUSCIORA),"11,300"
+HUNTERDON,General Assembly,15,Republican,RIMMA YAKOBOVICH (w) (bracketed with EMILY RICH),398
+MERCER,General Assembly,15,Republican,RIMMA YAKOBOVICH (w) (bracketed with EMILY RICH),"1,811"
+HUNTERDON,General Assembly,15,Republican,EMILY RICH (w) (bracketed with RIMMA YAKOBOVICH),407
+MERCER,General Assembly,15,Republican,EMILY RICH (w) (bracketed with RIMMA YAKOBOVICH),"1,818"
+HUNTERDON,General Assembly,15,Democratic,GAIL BOYLE BOYLAND,374
+MERCER,General Assembly,15,Democratic,GAIL BOYLE BOYLAND,777
+HUNTERDON,General Assembly,16,Democratic,ANDREW ZWICKER (w) * (bracketed with ROY FREIMAN),"2,111"
+MERCER,General Assembly,16,Democratic,ANDREW ZWICKER (w) * (bracketed with ROY FREIMAN),"2,803"
+MIDDLESEX,General Assembly,16,Democratic,ANDREW ZWICKER (w) * (bracketed with ROY FREIMAN),"1,958"
+SOMERSET,General Assembly,16,Democratic,ANDREW ZWICKER (w) * (bracketed with ROY FREIMAN),"4,046"
+HUNTERDON,General Assembly,16,Democratic,ROY FREIMAN (w) (bracketed with ANDREW ZWICKER),"2,085"
+MERCER,General Assembly,16,Democratic,ROY FREIMAN (w) (bracketed with ANDREW ZWICKER),"2,551"
+MIDDLESEX,General Assembly,16,Democratic,ROY FREIMAN (w) (bracketed with ANDREW ZWICKER),"1,775"
+SOMERSET,General Assembly,16,Democratic,ROY FREIMAN (w) (bracketed with ANDREW ZWICKER),"3,947"
+HUNTERDON,General Assembly,16,Republican,DONNA M. SIMON (w) (bracketed with MARK CALIGUIRE),"3,422"
+MERCER,General Assembly,16,Republican,DONNA M. SIMON (w) (bracketed with MARK CALIGUIRE),252
+MIDDLESEX,General Assembly,16,Republican,DONNA M. SIMON (w) (bracketed with MARK CALIGUIRE),487
+SOMERSET,General Assembly,16,Republican,DONNA M. SIMON (w) (bracketed with MARK CALIGUIRE),"3,887"
+HUNTERDON,General Assembly,16,Republican,MARK CALIGUIRE (w) (bracketed with DONNA M. SIMON),"3,333"
+MERCER,General Assembly,16,Republican,MARK CALIGUIRE (w) (bracketed with DONNA M. SIMON),256
+MIDDLESEX,General Assembly,16,Republican,MARK CALIGUIRE (w) (bracketed with DONNA M. SIMON),481
+SOMERSET,General Assembly,16,Republican,MARK CALIGUIRE (w) (bracketed with DONNA M. SIMON),"3,842"
+MIDDLESEX,General Assembly,17,Republican,MARK CALIGUIRE (w) (bracketed with DONNA M. SIMON) JOSEPH V. EGAN (w) * (bracketed with JOE DANIELSEN),"6,060"
+SOMERSET,General Assembly,17,Republican,MARK CALIGUIRE (w) (bracketed with DONNA M. SIMON) JOSEPH V. EGAN (w) * (bracketed with JOE DANIELSEN),"3,545"
+MIDDLESEX,General Assembly,17,Democratic,JOE DANIELSEN (w) * (bracketed with JOSEPH V. EGAN),"5,537"
+SOMERSET,General Assembly,17,Democratic,JOE DANIELSEN (w) * (bracketed with JOSEPH V. EGAN),"3,470"
+MIDDLESEX,General Assembly,17,Democratic,HEATHER M. FENYK (bracketed with RALPH E. JOHNSON),"3,026"
+SOMERSET,General Assembly,17,Democratic,HEATHER M. FENYK (bracketed with RALPH E. JOHNSON),"1,487"
+MIDDLESEX,General Assembly,17,Democratic,RALPH E. JOHNSON (bracketed with HEATHER M. FENYK),"2,929"
+SOMERSET,General Assembly,17,Democratic,RALPH E. JOHNSON (bracketed with HEATHER M. FENYK),"1,489"
+MIDDLESEX,General Assembly,17,Republican,ROBERT A. QUINN (w) (bracketed with NADINE WILKINS),"1,073"
+SOMERSET,General Assembly,17,Republican,ROBERT A. QUINN (w) (bracketed with NADINE WILKINS),962
+MIDDLESEX,General Assembly,17,Republican,NADINE WILKINS (w) (bracketed with ROBERT A. QUINN),"1,006"
+SOMERSET,General Assembly,17,Republican,NADINE WILKINS (w) (bracketed with ROBERT A. QUINN),949
+MIDDLESEX,General Assembly,18,Democratic,NANCY J. PINKIN (w) * (bracketed with ROBERT J. KARABINCHAK),"11,339"
+MIDDLESEX,General Assembly,18,Democratic,ROBERT J. KARABINCHAK (w) * (bracketed with NANCY J. PINKIN),"10,560"
+MIDDLESEX,General Assembly,18,Republican,LEWIS GLOGOWER (w) (bracketed with APRIL BENGIVENGA),"2,415"
+MIDDLESEX,General Assembly,18,Republican,APRIL BENGIVENGA (w) (bracketed with LEWIS GLOGOWER),"2,491"
+MIDDLESEX,General Assembly,19,Democratic,CRAIG J. COUGHLIN (w) *,"8,529"
+MIDDLESEX,General Assembly,19,Democratic,YVONNE LOPEZ (w),"8,129"
+MIDDLESEX,General Assembly,19,Republican,DEEPAK MALHOTRA (w) (bracketed with AMARJIT K. RIAR),"1,596"
+MIDDLESEX,General Assembly,19,Republican,AMARJIT K. RIAR (w) (bracketed with DEEPAK MALHOTRA),"1,443"
+UNION,General Assembly,20,Democratic,ANNETTE QUIJANO (w) * (bracketed with JAMEL C. HOLLEY),"9,348"
+UNION,General Assembly,20,Democratic,JAMEL C. HOLLEY (w) * (bracketed with ANNETTE QUIJANO),"9,435"
+UNION,General Assembly,20,Republican,JOSEPH G. AUBOURG (w),706
+MORRIS,General Assembly,21,Democratic,DAVID BARNETT (w) (bracketed with LACEY RZESZOWSKI),688
+SOMERSET,General Assembly,21,Democratic,DAVID BARNETT (w) (bracketed with LACEY RZESZOWSKI),"1,802"
+UNION,General Assembly,21,Democratic,DAVID BARNETT (w) (bracketed with LACEY RZESZOWSKI),"7,030"
+MORRIS,General Assembly,21,Democratic,LACEY RZESZOWSKI (w) (bracketed with DAVID BARNETT),729
+SOMERSET,General Assembly,21,Democratic,LACEY RZESZOWSKI (w) (bracketed with DAVID BARNETT),"1,788"
+UNION,General Assembly,21,Democratic,LACEY RZESZOWSKI (w) (bracketed with DAVID BARNETT),"7,032"
+MORRIS,General Assembly,21,Republican,JON BRAMNICK (w) * (bracketed with NANCY F. MUNOZ),747
+SOMERSET,General Assembly,21,Republican,JON BRAMNICK (w) * (bracketed with NANCY F. MUNOZ),"2,387"
+UNION,General Assembly,21,Republican,JON BRAMNICK (w) * (bracketed with NANCY F. MUNOZ),"4,328"
+MORRIS,General Assembly,21,Republican,NANCY F. MUNOZ (w) * (bracketed with JON BRAMNICK),733
+SOMERSET,General Assembly,21,Republican,NANCY F. MUNOZ (w) * (bracketed with JON BRAMNICK),"2,352"
+UNION,General Assembly,21,Republican,NANCY F. MUNOZ (w) * (bracketed with JON BRAMNICK),"4,263"
+MIDDLESEX,General Assembly,22,Democratic,"GERALD ""JERRY"" GREEN (w) * (bracketed with JAMES J. KENNEDY)",539
+SOMERSET,General Assembly,22,Democratic,"GERALD ""JERRY"" GREEN (w) * (bracketed with JAMES J. KENNEDY)",931
+UNION,General Assembly,22,Democratic,"GERALD ""JERRY"" GREEN (w) * (bracketed with JAMES J. KENNEDY)","9,025"
+MIDDLESEX,General Assembly,22,Democratic,"JAMES J. KENNEDY (w) * (bracketed with GERALD ""JERRY"" GREEN)",539
+SOMERSET,General Assembly,22,Democratic,"JAMES J. KENNEDY (w) * (bracketed with GERALD ""JERRY"" GREEN)","1,033"
+UNION,General Assembly,22,Democratic,"JAMES J. KENNEDY (w) * (bracketed with GERALD ""JERRY"" GREEN)","9,350"
+MIDDLESEX,General Assembly,22,Republican,RICHARD S. FORTUNATO (w) (bracketed with JOHN QUATTROCCHI),415
+SOMERSET,General Assembly,22,Republican,RICHARD S. FORTUNATO (w) (bracketed with JOHN QUATTROCCHI),445
+UNION,General Assembly,22,Republican,RICHARD S. FORTUNATO (w) (bracketed with JOHN QUATTROCCHI),"1,473"
+MIDDLESEX,General Assembly,22,Republican,JOHN QUATTROCCHI (w) (bracketed with RICHARD FORTUNATO),397
+SOMERSET,General Assembly,22,Republican,JOHN QUATTROCCHI (w) (bracketed with RICHARD FORTUNATO),434
+UNION,General Assembly,22,Republican,JOHN QUATTROCCHI (w) (bracketed with RICHARD FORTUNATO),"1,431"
+MIDDLESEX,General Assembly,22,Democratic,PAUL M. ALIRANGUES PAUL M. ALIRANGUES,158
+SOMERSET,General Assembly,22,Democratic,PAUL M. ALIRANGUES PAUL M. ALIRANGUES,254
+UNION,General Assembly,22,Democratic,PAUL M. ALIRANGUES PAUL M. ALIRANGUES,"1,641"
+HUNTERDON,General Assembly,23,Republican,JOHN DIMAIO (w) * (bracketed with ERIK PETERSON),"4,549"
+SOMERSET,General Assembly,23,Republican,JOHN DIMAIO (w) * (bracketed with ERIK PETERSON),"2,971"
+WARREN,General Assembly,23,Republican,JOHN DIMAIO (w) * (bracketed with ERIK PETERSON),"2,833"
+HUNTERDON,General Assembly,23,Republican,ERIK PETERSON (w) * (bracketed with JOHN DIMAIO),"4,580"
+SOMERSET,General Assembly,23,Republican,ERIK PETERSON (w) * (bracketed with JOHN DIMAIO),"2,909"
+WARREN,General Assembly,23,Republican,ERIK PETERSON (w) * (bracketed with JOHN DIMAIO),"2,688"
+HUNTERDON,General Assembly,23,Democratic,LAURA SHAW (w) (bracketed with ISAAC HADZOVIC),"2,972"
+SOMERSET,General Assembly,23,Democratic,LAURA SHAW (w) (bracketed with ISAAC HADZOVIC),"2,573"
+WARREN,General Assembly,23,Democratic,LAURA SHAW (w) (bracketed with ISAAC HADZOVIC),"2,161"
+HUNTERDON,General Assembly,23,Democratic,ISAAC HADZOVIC (w) (bracketed with LAURA SHAW),"2,823"
+SOMERSET,General Assembly,23,Democratic,ISAAC HADZOVIC (w) (bracketed with LAURA SHAW),"2,451"
+WARREN,General Assembly,23,Democratic,ISAAC HADZOVIC (w) (bracketed with LAURA SHAW),"1,873"
+MORRIS,General Assembly,24,Republican,F. PARKER SPACE (w) * (bracketed with HAROLD J. WIRTHS),678
+SUSSEX,General Assembly,24,Republican,F. PARKER SPACE (w) * (bracketed with HAROLD J. WIRTHS),"8,214"
+WARREN,General Assembly,24,Republican,F. PARKER SPACE (w) * (bracketed with HAROLD J. WIRTHS),"2,257"
+MORRIS,General Assembly,24,Republican,HAROLD J. WIRTHS (w) (bracketed with F. PARKER SPACE),552
+SUSSEX,General Assembly,24,Republican,HAROLD J. WIRTHS (w) (bracketed with F. PARKER SPACE),"7,417"
+WARREN,General Assembly,24,Republican,HAROLD J. WIRTHS (w) (bracketed with F. PARKER SPACE),"1,873"
+MORRIS,General Assembly,24,Democratic,KATE MATTESON (w) (bracketed with GINA TRISH),449
+SUSSEX,General Assembly,24,Democratic,KATE MATTESON (w) (bracketed with GINA TRISH),"4,399"
+WARREN,General Assembly,24,Democratic,KATE MATTESON (w) (bracketed with GINA TRISH),"1,149"
+MORRIS,General Assembly,24,Democratic,GINA TRISH (w) (bracketed with KATE MATTESON),405
+SUSSEX,General Assembly,24,Democratic,GINA TRISH (w) (bracketed with KATE MATTESON),"3,972"
+WARREN,General Assembly,24,Democratic,GINA TRISH (w) (bracketed with KATE MATTESON),"1,037"
+MORRIS,General Assembly,24,Republican,NATHAN ORR (bracketed with DAVID ATWOOD),354
+SUSSEX,General Assembly,24,Republican,NATHAN ORR (bracketed with DAVID ATWOOD),"2,611"
+WARREN,General Assembly,24,Republican,NATHAN ORR (bracketed with DAVID ATWOOD),822
+MORRIS,General Assembly,24,Republican,DAVID ATWOOD (bracketed with NATHAN ORR),340
+SUSSEX,General Assembly,24,Republican,DAVID ATWOOD (bracketed with NATHAN ORR),"1,985"
+WARREN,General Assembly,24,Republican,DAVID ATWOOD (bracketed with NATHAN ORR),658
+MORRIS,General Assembly,24,Democratic,MICHAEL THOMAS PIROG,436
+SUSSEX,General Assembly,24,Democratic,MICHAEL THOMAS PIROG,801
+WARREN,General Assembly,24,Democratic,MICHAEL THOMAS PIROG,252
+MORRIS,General Assembly,25,Republican,ANTHONY M. BUCCO (w) * (bracketed with MICHAEL PATRICK CARROLL),"8,456"
+SOMERSET,General Assembly,25,Republican,ANTHONY M. BUCCO (w) * (bracketed with MICHAEL PATRICK CARROLL),498
+MORRIS,General Assembly,25,Republican,MICHAEL PATRICK CARROLL (w) * (bracketed with ANTHONY M. BUCCO),"8,049"
+SOMERSET,General Assembly,25,Republican,MICHAEL PATRICK CARROLL (w) * (bracketed with ANTHONY M. BUCCO),497
+MORRIS,General Assembly,25,Democratic,THOMAS MORAN (w) (bracketed with RICHARD CORCORAN),"8,181"
+SOMERSET,General Assembly,25,Democratic,THOMAS MORAN (w) (bracketed with RICHARD CORCORAN),341
+MORRIS,General Assembly,25,Democratic,RICHARD CORCORAN (w) (bracketed with THOMAS MORAN),"7,966"
+SOMERSET,General Assembly,25,Democratic,RICHARD CORCORAN (w) (bracketed with THOMAS MORAN),333
+ESSEX,General Assembly,26,Republican,JAY WEBBER (w) *,"1,073"
+MORRIS,General Assembly,26,Republican,JAY WEBBER (w) *,"6,375"
+PASSAIC,General Assembly,26,Republican,JAY WEBBER (w) *,"1,126"
+ESSEX,General Assembly,26,Republican,BETTYLOU DECROCE (w) *,859
+MORRIS,General Assembly,26,Republican,BETTYLOU DECROCE (w) *,"5,564"
+PASSAIC,General Assembly,26,Republican,BETTYLOU DECROCE (w) *,816
+ESSEX,General Assembly,26,Democratic,JOSEPH R. RAICH (w) (bracketed with E. WILLIAM EDGE),"1,112"
+MORRIS,General Assembly,26,Democratic,JOSEPH R. RAICH (w) (bracketed with E. WILLIAM EDGE),"4,406"
+PASSAIC,General Assembly,26,Democratic,JOSEPH R. RAICH (w) (bracketed with E. WILLIAM EDGE),536
+ESSEX,General Assembly,26,Democratic,E. WILLIAM EDGE (w) (bracketed with JOSEPH R. RAICH),"1,345"
+MORRIS,General Assembly,26,Democratic,E. WILLIAM EDGE (w) (bracketed with JOSEPH R. RAICH),"4,715"
+PASSAIC,General Assembly,26,Democratic,E. WILLIAM EDGE (w) (bracketed with JOSEPH R. RAICH),609
+ESSEX,General Assembly,26,Republican,"WILLIAM ""HANK"" LYON",336
+MORRIS,General Assembly,26,Republican,"WILLIAM ""HANK"" LYON","4,366"
+PASSAIC,General Assembly,26,Republican,"WILLIAM ""HANK"" LYON",648
+ESSEX,General Assembly,26,Republican,JOHN CESARO,248
+MORRIS,General Assembly,26,Republican,JOHN CESARO,"4,322"
+PASSAIC,General Assembly,26,Republican,JOHN CESARO,286
+ESSEX,General Assembly,26,Democratic,LAURA FORTGANG,741
+MORRIS,General Assembly,26,Democratic,LAURA FORTGANG,"1,870"
+PASSAIC,General Assembly,26,Democratic,LAURA FORTGANG,224
+ESSEX,General Assembly,27,Democratic,JOHN F. MCKEON (w) * (bracketed with MILA M. JASEY),"11,780"
+MORRIS,General Assembly,27,Democratic,JOHN F. MCKEON (w) * (bracketed with MILA M. JASEY),"2,713"
+ESSEX,General Assembly,27,Democratic,MILA M. JASEY (w) * (bracketed with JOHN F. MCKEON),"11,564"
+MORRIS,General Assembly,27,Democratic,MILA M. JASEY (w) * (bracketed with JOHN F. MCKEON),"2,677"
+ESSEX,General Assembly,27,Republican,RONALD DEROSE (w) (bracketed with ANGELO TEDESCO JR.),"1,628"
+MORRIS,General Assembly,27,Republican,RONALD DEROSE (w) (bracketed with ANGELO TEDESCO JR.),"3,374"
+ESSEX,General Assembly,27,Republican,ANGELO TEDESCO JR. (w) (bracketed with RONALD DE ROSE),"1,621"
+MORRIS,General Assembly,27,Republican,ANGELO TEDESCO JR. (w) (bracketed with RONALD DE ROSE),"3,437"
+ESSEX,General Assembly,28,Democratic,CLEOPATRA G. TUCKER (w) * (bracketed with RALPH R. CAPUTO),"11,229"
+ESSEX,General Assembly,28,Democratic,RALPH R. CAPUTO (w) * (bracketed with CLEOPATRA G. TUCKER),"10,433"
+ESSEX,General Assembly,28,Republican,JAMES BOYDSTON (w) (bracketed with VERONICA BRANCH),865
+ESSEX,General Assembly,28,Republican,VERONICA BRANCH (w) (bracketed with JAMES BOYDSTON),860
+ESSEX,General Assembly,29,Democratic,ELIANA PINTOR MARIN (w) * (bracketed with SHANIQUE SPEIGHT),"7,174"
+ESSEX,General Assembly,29,Democratic,SHANIQUE SPEIGHT (w) (bracketed with ELIANA PINTOR MARIN),"7,007"
+ESSEX,General Assembly,29,Republican,JEANNETTE VERAS (w) (bracketed with CHARLES G. HOOD),486
+ESSEX,General Assembly,29,Republican,CHARLES G. HOOD (w) (bracketed with JEANETTE VERAS),499
+MONMOUTH,General Assembly,30,Republican,SEAN T. KEAN (w) * (bracketed with DAVID P. RIBLE,"3,708"
+OCEAN,General Assembly,30,Republican,SEAN T. KEAN (w) * (bracketed with DAVID P. RIBLE,"5,561"
+MONMOUTH,General Assembly,30,Republican,DAVID P. RIBLE (w) * (bracketed with SEAN T. KEAN),"3,508"
+OCEAN,General Assembly,30,Republican,DAVID P. RIBLE (w) * (bracketed with SEAN T. KEAN),"5,408"
+MONMOUTH,General Assembly,30,Democratic,ELIOT ARLO COLON (w) (bracketed with KEVIN SCOTT),"3,275"
+OCEAN,General Assembly,30,Democratic,ELIOT ARLO COLON (w) (bracketed with KEVIN SCOTT),"1,545"
+MONMOUTH,General Assembly,30,Democratic,KEVIN SCOTT (w) (bracketed with ELIOT ARLO COLON),"3,338"
+OCEAN,General Assembly,30,Democratic,KEVIN SCOTT (w) (bracketed with ELIOT ARLO COLON),"1,619"
+HUDSON,General Assembly,31,Democratic,NICHOLAS CHIARAVALLOTI (w) * (bracketed with ANGELA V. MCKNIGHT),"9,073"
+HUDSON,General Assembly,31,Democratic,ANGELA V. MCKNIGHT (w) * (bracketed with NICHOLAS CHIARAVALLOTI),"9,621"
+HUDSON,General Assembly,31,Democratic,CHRISTOPHER MUNOZ (bracketed with KRISTEN ZADROGA-HART),"3,000"
+HUDSON,General Assembly,31,Democratic,KRISTEN ZADROGA-HART (bracketed with CHRISTOPHER MUNOZ),"4,081"
+HUDSON,General Assembly,31,Republican,MICHAEL J. ALONSO (w) (bracketed with LAUREN DIGIARO),593
+HUDSON,General Assembly,31,Republican,LAUREN DIGIARO (w) (bracketed with MICHAEL J. ALONSO),559
+BERGEN,General Assembly,32,Democratic,VINCENT PRIETO (w) * (bracketed with ANGELICA M. JIMENEZ),663
+HUDSON,General Assembly,32,Democratic,VINCENT PRIETO (w) * (bracketed with ANGELICA M. JIMENEZ),"9,249"
+BERGEN,General Assembly,32,Democratic,ANGELICA M. JIMENEZ (w) * (bracketed with VINCENT PRIETO),683
+HUDSON,General Assembly,32,Democratic,ANGELICA M. JIMENEZ (w) * (bracketed with VINCENT PRIETO),"9,194"
+BERGEN,General Assembly,32,Republican,ANN M. CORLETTA (w) (bracketed with BARTHOLOMEW J. TALAMINI),102
+HUDSON,General Assembly,32,Republican,ANN M. CORLETTA (w) (bracketed with BARTHOLOMEW J. TALAMINI),778
+BERGEN,General Assembly,32,Republican,BARTHOLOMEW J. TALAMINI (w) (bracketed with ANN M. CORLETTA),93
+HUDSON,General Assembly,32,Republican,BARTHOLOMEW J. TALAMINI (w) (bracketed with ANN M. CORLETTA),748
+HUDSON,General Assembly,33,Democratic,RAJ MUKHERJI (w) * (bracketed with ANNETTE CHAPARRO),"17,786"
+HUDSON,General Assembly,33,Democratic,ANNETTE CHAPARRO (w) * (bracketed with RAJ MUKHERJI),"18,006"
+HUDSON,General Assembly,33,Republican,HOLLY LUCYK (w) (bracketed with FRANCISCO AGUILAR),916
+HUDSON,General Assembly,33,Republican,FRANCISCO AGUILAR (w) (bracketed with HOLLY LUCYK),932
+ESSEX,General Assembly,34,Democratic,THOMAS P. GIBLIN (w) * (bracketed with SHEILA OLIVER),"12,020"
+PASSAIC,General Assembly,34,Democratic,THOMAS P. GIBLIN (w) * (bracketed with SHEILA OLIVER),"2,733"
+ESSEX,General Assembly,34,Democratic,SHEILA OLIVER (w) * (bracketed with THOMAS P. GIBLIN),"12,992"
+PASSAIC,General Assembly,34,Democratic,SHEILA OLIVER (w) * (bracketed with THOMAS P. GIBLIN),"2,762"
+ESSEX,General Assembly,34,Republican,GHALIB MAHMOUD (w) (bracketed with NICHOLAS G. SURGENT),260
+PASSAIC,General Assembly,34,Republican,GHALIB MAHMOUD (w) (bracketed with NICHOLAS G. SURGENT),747
+ESSEX,General Assembly,34,Republican,NICHOLAS G. SURGENT (w) (bracketed with GHALIB MAHMOUD),277
+PASSAIC,General Assembly,34,Republican,NICHOLAS G. SURGENT (w) (bracketed with GHALIB MAHMOUD),870
+BERGEN,General Assembly,35,Democratic,SHAVONDA E. SUMTER (w) * (bracketed with BENJIE E. WIMBERLY),"1,385"
+PASSAIC,General Assembly,35,Democratic,SHAVONDA E. SUMTER (w) * (bracketed with BENJIE E. WIMBERLY),"6,037"
+BERGEN,General Assembly,35,Democratic,BENJIE E. WIMBERLY (w) * (bracketed with SHAVONDA E. SUMTER),"1,388"
+PASSAIC,General Assembly,35,Democratic,BENJIE E. WIMBERLY (w) * (bracketed with SHAVONDA E. SUMTER),"6,122"
+BERGEN,General Assembly,35,Republican,IBRAHIM MAHMOUD (w) (bracketed with NIHAD YOUNES),412
+PASSAIC,General Assembly,35,Republican,IBRAHIM MAHMOUD (w) (bracketed with NIHAD YOUNES),573
+BERGEN,General Assembly,35,Republican,NIHAD YOUNES (w) (bracketed with IBRAHIM MAHMOUD),397
+PASSAIC,General Assembly,35,Republican,NIHAD YOUNES (w) (bracketed with IBRAHIM MAHMOUD),584
+BERGEN,General Assembly,36,Democratic,MARLENE CARIDE (w) * (bracketed with GARY SCHAER),"4,830"
+PASSAIC,General Assembly,36,Democratic,MARLENE CARIDE (w) * (bracketed with GARY SCHAER),"1,160"
+BERGEN,General Assembly,36,Democratic,GARY SCHAER (w) * (bracketed with MARLENE CARIDE),"4,586"
+PASSAIC,General Assembly,36,Democratic,GARY SCHAER (w) * (bracketed with MARLENE CARIDE),"1,193"
+BERGEN,General Assembly,36,Republican,PAUL PASSAMANO JR. (w) (bracketed with MARC MARSI),"1,851"
+PASSAIC,General Assembly,36,Republican,PAUL PASSAMANO JR. (w) (bracketed with MARC MARSI),155
+BERGEN,General Assembly,36,Republican,MARC MARSI (w) (bracketed with PAUL PASSAMANO JR.),"1,712"
+PASSAIC,General Assembly,36,Republican,MARC MARSI (w) (bracketed with PAUL PASSAMANO JR.),145
+BERGEN,General Assembly,37,Democratic,GORDON M. JOHNSON (w) * (bracketed with VALERIE VAINIERI HUTTLE),"10,417"
+BERGEN,General Assembly,37,Democratic,VALERIE VAINIERI HUTTLE (w) * (bracketed with GORDON M. JOHNSON),"10,149"
+BERGEN,General Assembly,37,Republican,GINO P. TESSARO (w) (bracketed with ANGELA HENDRICKS),"1,182"
+BERGEN,General Assembly,37,Republican,ANGELA HENDRICKS (w) (bracketed with GINO P. TESSARO),"1,106"
+BERGEN,General Assembly,37,Republican,MARGARET S. AHN (bracketed with PAUL A. DUGGAN),957
+BERGEN,General Assembly,37,Republican,PAUL A. DUGGAN (bracketed with MARGARET S. AHN),966
+BERGEN,General Assembly,38,Democratic,TIM EUSTACE (w) * (bracketed with JOSEPH A. LAGANA),"6,599"
+PASSAIC,General Assembly,38,Democratic,TIM EUSTACE (w) * (bracketed with JOSEPH A. LAGANA),700
+BERGEN,General Assembly,38,Democratic,JOSEPH A. LAGANA (w) * (bracketed with TIM EUSTACE),"6,370"
+PASSAIC,General Assembly,38,Democratic,JOSEPH A. LAGANA (w) * (bracketed with TIM EUSTACE),690
+BERGEN,General Assembly,38,Republican,MATTHEW S. SEYMOUR (w),"3,149"
+PASSAIC,General Assembly,38,Republican,MATTHEW S. SEYMOUR (w),"1,042"
+BERGEN,General Assembly,38,Republican,CHRISTOPHER B. WOLF (w),"3,078"
+PASSAIC,General Assembly,38,Republican,CHRISTOPHER B. WOLF (w),"1,051"
+BERGEN,General Assembly,39,Democratic,JANNIE CHUNG (w) (bracketed with ANNIE HAUSMAN),"5,461"
+PASSAIC,General Assembly,39,Democratic,JANNIE CHUNG (w) (bracketed with ANNIE HAUSMAN),"1,130"
+BERGEN,General Assembly,39,Democratic,ANNIE HAUSMAN (w) (bracketed with JANNIE CHUNG),"5,325"
+PASSAIC,General Assembly,39,Democratic,ANNIE HAUSMAN (w) (bracketed with JANNIE CHUNG),"1,149"
+BERGEN,General Assembly,39,Republican,ROBERT AUTH (w) *,"5,157"
+PASSAIC,General Assembly,39,Republican,ROBERT AUTH (w) *,974
+BERGEN,General Assembly,39,Republican,HOLLY SCHEPISI (w) *,"5,276"
+PASSAIC,General Assembly,39,Republican,HOLLY SCHEPISI (w) *,978
+BERGEN,General Assembly,40,Republican,KEVIN J. ROONEY (w) * (bracketed with CHRISTOPHER P. DEPHILLIPS),"2,316"
+ESSEX,General Assembly,40,Republican,KEVIN J. ROONEY (w) * (bracketed with CHRISTOPHER P. DEPHILLIPS),258
+MORRIS,General Assembly,40,Republican,KEVIN J. ROONEY (w) * (bracketed with CHRISTOPHER P. DEPHILLIPS),673
+PASSAIC,General Assembly,40,Republican,KEVIN J. ROONEY (w) * (bracketed with CHRISTOPHER P. DEPHILLIPS),"5,004"
+BERGEN,General Assembly,40,Republican,CHRISTOPHER P. DEPHILLIPS (w) (bracketed with KEVIN J. ROONEY),"2,221"
+ESSEX,General Assembly,40,Republican,CHRISTOPHER P. DEPHILLIPS (w) (bracketed with KEVIN J. ROONEY),238
+MORRIS,General Assembly,40,Republican,CHRISTOPHER P. DEPHILLIPS (w) (bracketed with KEVIN J. ROONEY),549
+PASSAIC,General Assembly,40,Republican,CHRISTOPHER P. DEPHILLIPS (w) (bracketed with KEVIN J. ROONEY),"4,639"
+BERGEN,General Assembly,40,Democratic,PAUL VAGIANOS (w) (bracketed with CHRISTINE ORDWAY),"2,991"
+ESSEX,General Assembly,40,Democratic,PAUL VAGIANOS (w) (bracketed with CHRISTINE ORDWAY),322
+MORRIS,General Assembly,40,Democratic,PAUL VAGIANOS (w) (bracketed with CHRISTINE ORDWAY),620
+PASSAIC,General Assembly,40,Democratic,PAUL VAGIANOS (w) (bracketed with CHRISTINE ORDWAY),"3,254"
+BERGEN,General Assembly,40,Democratic,CHRISTINE ORDWAY (w) (bracketed with PAUL VAGIANOS),"3,073"
+ESSEX,General Assembly,40,Democratic,CHRISTINE ORDWAY (w) (bracketed with PAUL VAGIANOS),344
+MORRIS,General Assembly,40,Democratic,CHRISTINE ORDWAY (w) (bracketed with PAUL VAGIANOS),632
+PASSAIC,General Assembly,40,Democratic,CHRISTINE ORDWAY (w) (bracketed with PAUL VAGIANOS),"3,250"
+BERGEN,General Assembly,40,Democratic,CHRISTINE ORDWAY (w) (bracketed with PAUL VAGIANOS) NORMAN M. ROBERTSON (bracketed with JOSEPH L. BUBBA JR.),"1,643"
+ESSEX,General Assembly,40,Democratic,CHRISTINE ORDWAY (w) (bracketed with PAUL VAGIANOS) NORMAN M. ROBERTSON (bracketed with JOSEPH L. BUBBA JR.),188
+MORRIS,General Assembly,40,Democratic,CHRISTINE ORDWAY (w) (bracketed with PAUL VAGIANOS) NORMAN M. ROBERTSON (bracketed with JOSEPH L. BUBBA JR.),342
+PASSAIC,General Assembly,40,Democratic,CHRISTINE ORDWAY (w) (bracketed with PAUL VAGIANOS) NORMAN M. ROBERTSON (bracketed with JOSEPH L. BUBBA JR.),"1,375"
+BERGEN,General Assembly,40,Republican,JOSEPH L. BUBBA JR. (bracketed with NORMAN M. ROBERTSON),"1,530"
+ESSEX,General Assembly,40,Republican,JOSEPH L. BUBBA JR. (bracketed with NORMAN M. ROBERTSON),164
+MORRIS,General Assembly,40,Republican,JOSEPH L. BUBBA JR. (bracketed with NORMAN M. ROBERTSON),324
+PASSAIC,General Assembly,40,Republican,JOSEPH L. BUBBA JR. (bracketed with NORMAN M. ROBERTSON),"1,504"

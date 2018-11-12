@@ -1,0 +1,416 @@
+county,office,district,party,candidate,votes
+ATLANTIC,President,,Democratic,BARACK OBAMA (w),"6,494"
+BERGEN,President,,Democratic,BARACK OBAMA (w),"32,182"
+BURLINGTON,President,,Democratic,BARACK OBAMA (w),"12,489"
+CAMDEN,President,,Democratic,BARACK OBAMA (w),"15,527"
+CAPE MAY,President,,Democratic,BARACK OBAMA (w),"1,613"
+CUMBERLAND,President,,Democratic,BARACK OBAMA (w),"2,496"
+ESSEX,President,,Democratic,BARACK OBAMA (w),"50,733"
+GLOUCESTER,President,,Democratic,BARACK OBAMA (w),"7,616"
+HUDSON,President,,Democratic,BARACK OBAMA (w),"31,441"
+HUNTERDON,President,,Democratic,BARACK OBAMA (w),"1,913"
+MERCER,President,,Democratic,BARACK OBAMA (w),"12,066"
+MIDDLESEX,President,,Democratic,BARACK OBAMA (w),"19,257"
+MONMOUTH,President,,Democratic,BARACK OBAMA (w),"11,739"
+MORRIS,President,,Democratic,BARACK OBAMA (w),"7,674"
+OCEAN,President,,Democratic,BARACK OBAMA (w),"7,589"
+PASSAIC,President,,Democratic,BARACK OBAMA (w),"25,104"
+SALEM,President,,Democratic,BARACK OBAMA (w),"2,120"
+SOMERSET,President,,Democratic,BARACK OBAMA (w),"6,414"
+SUSSEX,President,,Democratic,BARACK OBAMA (w),"1,772"
+UNION,President,,Democratic,BARACK OBAMA (w),"25,966"
+WARREN,President,,Democratic,BARACK OBAMA (w),"1,468"
+ATLANTIC,President,,Republican,MITT ROMNEY (w),"6,664"
+BERGEN,President,,Republican,MITT ROMNEY (w),"18,387"
+BURLINGTON,President,,Republican,MITT ROMNEY (w),"10,470"
+CAMDEN,President,,Republican,MITT ROMNEY (w),"5,381"
+CAPE MAY,President,,Republican,MITT ROMNEY (w),"5,092"
+CUMBERLAND,President,,Republican,MITT ROMNEY (w),"1,807"
+ESSEX,President,,Republican,MITT ROMNEY (w),"6,728"
+GLOUCESTER,President,,Republican,MITT ROMNEY (w),"5,866"
+HUDSON,President,,Republican,MITT ROMNEY (w),"3,529"
+HUNTERDON,President,,Republican,MITT ROMNEY (w),"7,704"
+MERCER,President,,Republican,MITT ROMNEY (w),"4,197"
+MIDDLESEX,President,,Republican,MITT ROMNEY (w),"8,408"
+MONMOUTH,President,,Republican,MITT ROMNEY (w),"16,698"
+MORRIS,President,,Republican,MITT ROMNEY (w),"24,889"
+OCEAN,President,,Republican,MITT ROMNEY (w),"19,956"
+PASSAIC,President,,Republican,MITT ROMNEY (w),"8,961"
+SALEM,President,,Republican,MITT ROMNEY (w),"1,408"
+SOMERSET,President,,Republican,MITT ROMNEY (w),"11,128"
+SUSSEX,President,,Republican,MITT ROMNEY (w),"7,779"
+UNION,President,,Republican,MITT ROMNEY (w),"7,921"
+WARREN,President,,Republican,MITT ROMNEY (w),"5,148"
+ATLANTIC,President,,Republican,RON PAUL,"1,085"
+BERGEN,President,,Republican,RON PAUL,"1,878"
+BURLINGTON,President,,Republican,RON PAUL,"1,384"
+CAMDEN,President,,Republican,RON PAUL,"1,060"
+CAPE MAY,President,,Republican,RON PAUL,830
+CUMBERLAND,President,,Republican,RON PAUL,419
+ESSEX,President,,Republican,RON PAUL,636
+GLOUCESTER,President,,Republican,RON PAUL,843
+HUDSON,President,,Republican,RON PAUL,656
+HUNTERDON,President,,Republican,RON PAUL,"1,168"
+MERCER,President,,Republican,RON PAUL,718
+MIDDLESEX,President,,Republican,RON PAUL,"1,263"
+MONMOUTH,President,,Republican,RON PAUL,"2,014"
+MORRIS,President,,Republican,RON PAUL,"2,589"
+OCEAN,President,,Republican,RON PAUL,"1,829"
+PASSAIC,President,,Republican,RON PAUL,835
+SALEM,President,,Republican,RON PAUL,217
+SOMERSET,President,,Republican,RON PAUL,"1,336"
+SUSSEX,President,,Republican,RON PAUL,"1,438"
+UNION,President,,Republican,RON PAUL,892
+WARREN,President,,Republican,RON PAUL,927
+ATLANTIC,President,,Republican,RICK SANTORUM,395
+BERGEN,President,,Republican,RICK SANTORUM,803
+BURLINGTON,President,,Republican,RICK SANTORUM,698
+CAMDEN,President,,Republican,RICK SANTORUM,465
+CAPE MAY,President,,Republican,RICK SANTORUM,298
+CUMBERLAND,President,,Republican,RICK SANTORUM,189
+ESSEX,President,,Republican,RICK SANTORUM,299
+GLOUCESTER,President,,Republican,RICK SANTORUM,473
+HUDSON,President,,Republican,RICK SANTORUM,187
+HUNTERDON,President,,Republican,RICK SANTORUM,527
+MERCER,President,,Republican,RICK SANTORUM,329
+MIDDLESEX,President,,Republican,RICK SANTORUM,998
+MONMOUTH,President,,Republican,RICK SANTORUM,864
+MORRIS,President,,Republican,RICK SANTORUM,"1,173"
+OCEAN,President,,Republican,RICK SANTORUM,969
+PASSAIC,President,,Republican,RICK SANTORUM,444
+SALEM,President,,Republican,RICK SANTORUM,185
+SOMERSET,President,,Republican,RICK SANTORUM,657
+SUSSEX,President,,Republican,RICK SANTORUM,811
+UNION,President,,Republican,RICK SANTORUM,671
+WARREN,President,,Republican,RICK SANTORUM,680
+ATLANTIC,President,,Republican,NEWT GINGRICH,204
+BERGEN,President,,Republican,NEWT GINGRICH,650
+BURLINGTON,President,,Republican,NEWT GINGRICH,334
+CAMDEN,President,,Republican,NEWT GINGRICH,184
+CAPE MAY,President,,Republican,NEWT GINGRICH,185
+CUMBERLAND,President,,Republican,NEWT GINGRICH,121
+ESSEX,President,,Republican,NEWT GINGRICH,192
+GLOUCESTER,President,,Republican,NEWT GINGRICH,190
+HUDSON,President,,Republican,NEWT GINGRICH,126
+HUNTERDON,President,,Republican,NEWT GINGRICH,389
+MERCER,President,,Republican,NEWT GINGRICH,252
+MIDDLESEX,President,,Republican,NEWT GINGRICH,340
+MONMOUTH,President,,Republican,NEWT GINGRICH,535
+MORRIS,President,,Republican,NEWT GINGRICH,772
+OCEAN,President,,Republican,NEWT GINGRICH,674
+PASSAIC,President,,Republican,NEWT GINGRICH,394
+SALEM,President,,Republican,NEWT GINGRICH,46
+SOMERSET,President,,Republican,NEWT GINGRICH,439
+SUSSEX,President,,Republican,NEWT GINGRICH,646
+UNION,President,,Republican,NEWT GINGRICH,258
+WARREN,President,,Republican,NEWT GINGRICH,281
+ATLANTIC,US Senate,,Democratic,ROBERT MENENDEZ (w),"6,370"
+BERGEN,US Senate,,Democratic,ROBERT MENENDEZ (w),"31,703"
+BURLINGTON,US Senate,,Democratic,ROBERT MENENDEZ (w),"12,085"
+CAMDEN,US Senate,,Democratic,ROBERT MENENDEZ (w),"15,695"
+CAPE MAY,US Senate,,Democratic,ROBERT MENENDEZ (w),"1,673"
+CUMBERLAND,US Senate,,Democratic,ROBERT MENENDEZ (w),"2,408"
+ESSEX,US Senate,,Democratic,ROBERT MENENDEZ (w),"43,748"
+GLOUCESTER,US Senate,,Democratic,ROBERT MENENDEZ (w),"8,027"
+HUDSON,US Senate,,Democratic,ROBERT MENENDEZ (w),"30,247"
+HUNTERDON,US Senate,,Democratic,ROBERT MENENDEZ (w),"1,925"
+MERCER,US Senate,,Democratic,ROBERT MENENDEZ (w),"11,852"
+MIDDLESEX,US Senate,,Democratic,ROBERT MENENDEZ (w),"19,211"
+MONMOUTH,US Senate,,Democratic,ROBERT MENENDEZ (w),"11,937"
+MORRIS,US Senate,,Democratic,ROBERT MENENDEZ (w),"7,706"
+OCEAN,US Senate,,Democratic,ROBERT MENENDEZ (w),"7,845"
+PASSAIC,US Senate,,Democratic,ROBERT MENENDEZ (w),"21,967"
+SALEM,US Senate,,Democratic,ROBERT MENENDEZ (w),"2,143"
+SOMERSET,US Senate,,Democratic,ROBERT MENENDEZ (w),"6,428"
+SUSSEX,US Senate,,Democratic,ROBERT MENENDEZ (w),"1,867"
+UNION,US Senate,,Democratic,ROBERT MENENDEZ (w),"25,830"
+WARREN,US Senate,,Democratic,ROBERT MENENDEZ (w),"1,534"
+ATLANTIC,US Senate,,Republican,JOE KYRILLOS (w),"6,517"
+BERGEN,US Senate,,Republican,JOE KYRILLOS (w),"15,898"
+BURLINGTON,US Senate,,Republican,JOE KYRILLOS (w),"9,412"
+CAMDEN,US Senate,,Republican,JOE KYRILLOS (w),"5,367"
+CAPE MAY,US Senate,,Republican,JOE KYRILLOS (w),"4,278"
+CUMBERLAND,US Senate,,Republican,JOE KYRILLOS (w),"1,706"
+ESSEX,US Senate,,Republican,JOE KYRILLOS (w),"6,087"
+GLOUCESTER,US Senate,,Republican,JOE KYRILLOS (w),"5,286"
+HUDSON,US Senate,,Republican,JOE KYRILLOS (w),"2,709"
+HUNTERDON,US Senate,,Republican,JOE KYRILLOS (w),"5,755"
+MERCER,US Senate,,Republican,JOE KYRILLOS (w),"4,070"
+MIDDLESEX,US Senate,,Republican,JOE KYRILLOS (w),"7,811"
+MONMOUTH,US Senate,,Republican,JOE KYRILLOS (w),"16,454"
+MORRIS,US Senate,,Republican,JOE KYRILLOS (w),"21,803"
+OCEAN,US Senate,,Republican,JOE KYRILLOS (w),"17,606"
+PASSAIC,US Senate,,Republican,JOE KYRILLOS (w),"7,542"
+SALEM,US Senate,,Republican,JOE KYRILLOS (w),799
+SOMERSET,US Senate,,Republican,JOE KYRILLOS (w),"9,878"
+SUSSEX,US Senate,,Republican,JOE KYRILLOS (w),"4,676"
+UNION,US Senate,,Republican,JOE KYRILLOS (w),"6,968"
+WARREN,US Senate,,Republican,JOE KYRILLOS (w),"3,195"
+ATLANTIC,US Senate,,Republican,DAVID DOUGLAS BROWN,707
+BERGEN,US Senate,,Republican,DAVID DOUGLAS BROWN,"1,049"
+BURLINGTON,US Senate,,Republican,DAVID DOUGLAS BROWN,"1,463"
+CAMDEN,US Senate,,Republican,DAVID DOUGLAS BROWN,780
+CAPE MAY,US Senate,,Republican,DAVID DOUGLAS BROWN,460
+CUMBERLAND,US Senate,,Republican,DAVID DOUGLAS BROWN,257
+ESSEX,US Senate,,Republican,DAVID DOUGLAS BROWN,539
+GLOUCESTER,US Senate,,Republican,DAVID DOUGLAS BROWN,556
+HUDSON,US Senate,,Republican,DAVID DOUGLAS BROWN,251
+HUNTERDON,US Senate,,Republican,DAVID DOUGLAS BROWN,"1,333"
+MERCER,US Senate,,Republican,DAVID DOUGLAS BROWN,512
+MIDDLESEX,US Senate,,Republican,DAVID DOUGLAS BROWN,536
+MONMOUTH,US Senate,,Republican,DAVID DOUGLAS BROWN,"1,096"
+MORRIS,US Senate,,Republican,DAVID DOUGLAS BROWN,"1,284"
+OCEAN,US Senate,,Republican,DAVID DOUGLAS BROWN,"2,145"
+PASSAIC,US Senate,,Republican,DAVID DOUGLAS BROWN,841
+SALEM,US Senate,,Republican,DAVID DOUGLAS BROWN,242
+SOMERSET,US Senate,,Republican,DAVID DOUGLAS BROWN,"1,138"
+SUSSEX,US Senate,,Republican,DAVID DOUGLAS BROWN,"1,411"
+UNION,US Senate,,Republican,DAVID DOUGLAS BROWN,"1,130"
+WARREN,US Senate,,Republican,DAVID DOUGLAS BROWN,"1,508"
+ATLANTIC,US Senate,,Republican,JOE RUDY RULLO,183
+BERGEN,US Senate,,Republican,JOE RUDY RULLO,"1,090"
+BURLINGTON,US Senate,,Republican,JOE RUDY RULLO,559
+CAMDEN,US Senate,,Republican,JOE RUDY RULLO,392
+CAPE MAY,US Senate,,Republican,JOE RUDY RULLO,845
+CUMBERLAND,US Senate,,Republican,JOE RUDY RULLO,145
+ESSEX,US Senate,,Republican,JOE RUDY RULLO,338
+GLOUCESTER,US Senate,,Republican,JOE RUDY RULLO,793
+HUDSON,US Senate,,Republican,JOE RUDY RULLO,198
+HUNTERDON,US Senate,,Republican,JOE RUDY RULLO,"1,471"
+MERCER,US Senate,,Republican,JOE RUDY RULLO,440
+MIDDLESEX,US Senate,,Republican,JOE RUDY RULLO,"1,009"
+MONMOUTH,US Senate,,Republican,JOE RUDY RULLO,"1,739"
+MORRIS,US Senate,,Republican,JOE RUDY RULLO,"1,488"
+OCEAN,US Senate,,Republican,JOE RUDY RULLO,"1,383"
+PASSAIC,US Senate,,Republican,JOE RUDY RULLO,547
+SALEM,US Senate,,Republican,JOE RUDY RULLO,550
+SOMERSET,US Senate,,Republican,JOE RUDY RULLO,963
+SUSSEX,US Senate,,Republican,JOE RUDY RULLO,"1,646"
+UNION,US Senate,,Republican,JOE RUDY RULLO,328
+WARREN,US Senate,,Republican,JOE RUDY RULLO,"1,054"
+ATLANTIC,US Senate,,Republican,BADER G. QARMOUT,99
+BERGEN,US Senate,,Republican,BADER G. QARMOUT,699
+BURLINGTON,US Senate,,Republican,BADER G. QARMOUT,434
+CAMDEN,US Senate,,Republican,BADER G. QARMOUT,293
+CAPE MAY,US Senate,,Republican,BADER G. QARMOUT,152
+CUMBERLAND,US Senate,,Republican,BADER G. QARMOUT,148
+ESSEX,US Senate,,Republican,BADER G. QARMOUT,277
+GLOUCESTER,US Senate,,Republican,BADER G. QARMOUT,319
+HUDSON,US Senate,,Republican,BADER G. QARMOUT,275
+HUNTERDON,US Senate,,Republican,BADER G. QARMOUT,427
+MERCER,US Senate,,Republican,BADER G. QARMOUT,175
+MIDDLESEX,US Senate,,Republican,BADER G. QARMOUT,813
+MONMOUTH,US Senate,,Republican,BADER G. QARMOUT,809
+MORRIS,US Senate,,Republican,BADER G. QARMOUT,"1,100"
+OCEAN,US Senate,,Republican,BADER G. QARMOUT,"1,268"
+PASSAIC,US Senate,,Republican,BADER G. QARMOUT,759
+SALEM,US Senate,,Republican,BADER G. QARMOUT,227
+SOMERSET,US Senate,,Republican,BADER G. QARMOUT,751
+SUSSEX,US Senate,,Republican,BADER G. QARMOUT,"2,508"
+UNION,US Senate,,Republican,BADER G. QARMOUT,399
+WARREN,US Senate,,Republican,BADER G. QARMOUT,891
+BURLINGTON,House of Representatives,1,Democratic,ROBERT E. ANDREWS (w),654
+CAMDEN,House of Representatives,1,Democratic,ROBERT E. ANDREWS (w),"14,769"
+GLOUCESTER,House of Representatives,1,Democratic,ROBERT E. ANDREWS (w),"5,895"
+BURLINGTON,House of Representatives,1,Republican,GREGORY W. HORTON (w),410
+CAMDEN,House of Representatives,1,Republican,GREGORY W. HORTON (w),"6,245"
+GLOUCESTER,House of Representatives,1,Republican,GREGORY W. HORTON (w),"4,534"
+BURLINGTON,House of Representatives,1,Democratic,FRANCIS X. TENAGLIO,56
+CAMDEN,House of Representatives,1,Democratic,FRANCIS X. TENAGLIO,"2,017"
+GLOUCESTER,House of Representatives,1,Democratic,FRANCIS X. TENAGLIO,724
+ATLANTIC,House of Representatives,2,Republican,FRANK A. LOBIONDO (w),"7,436"
+BURLINGTON,House of Representatives,2,Republican,FRANK A. LOBIONDO (w),113
+CAMDEN,House of Representatives,2,Republican,FRANK A. LOBIONDO (w),176
+CAPE MAY,House of Representatives,2,Republican,FRANK A. LOBIONDO (w),"5,411"
+CUMBERLAND,House of Representatives,2,Republican,FRANK A. LOBIONDO (w),"2,092"
+GLOUCESTER,House of Representatives,2,Republican,FRANK A. LOBIONDO (w),"1,750"
+OCEAN,House of Representatives,2,Republican,FRANK A. LOBIONDO (w),"2,019"
+SALEM,House of Representatives,2,Republican,FRANK A. LOBIONDO (w),"1,554"
+ATLANTIC,House of Representatives,2,Democratic,CASSANDRA SHOBER (w),"5,160"
+BURLINGTON,House of Representatives,2,Democratic,CASSANDRA SHOBER (w),25
+CAMDEN,House of Representatives,2,Democratic,CASSANDRA SHOBER (w),123
+CAPE MAY,House of Representatives,2,Democratic,CASSANDRA SHOBER (w),"1,265"
+CUMBERLAND,House of Representatives,2,Democratic,CASSANDRA SHOBER (w),127
+GLOUCESTER,House of Representatives,2,Democratic,CASSANDRA SHOBER (w),"1,507"
+OCEAN,House of Representatives,2,Democratic,CASSANDRA SHOBER (w),543
+SALEM,House of Representatives,2,Democratic,CASSANDRA SHOBER (w),"1,060"
+ATLANTIC,House of Representatives,2,Democratic,VIOLA HUGHES,591
+BURLINGTON,House of Representatives,2,Democratic,VIOLA HUGHES,2
+CAMDEN,House of Representatives,2,Democratic,VIOLA HUGHES,24
+CAPE MAY,House of Representatives,2,Democratic,VIOLA HUGHES,225
+CUMBERLAND,House of Representatives,2,Democratic,VIOLA HUGHES,"2,161"
+GLOUCESTER,House of Representatives,2,Democratic,VIOLA HUGHES,202
+OCEAN,House of Representatives,2,Democratic,VIOLA HUGHES,45
+SALEM,House of Representatives,2,Democratic,VIOLA HUGHES,721
+ATLANTIC,House of Representatives,2,Republican,MIKE ASSAD,970
+BURLINGTON,House of Representatives,2,Republican,MIKE ASSAD,8
+CAMDEN,House of Representatives,2,Republican,MIKE ASSAD,21
+CAPE MAY,House of Representatives,2,Republican,MIKE ASSAD,700
+CUMBERLAND,House of Representatives,2,Republican,MIKE ASSAD,295
+GLOUCESTER,House of Representatives,2,Republican,MIKE ASSAD,332
+OCEAN,House of Representatives,2,Republican,MIKE ASSAD,274
+SALEM,House of Representatives,2,Republican,MIKE ASSAD,314
+ATLANTIC,House of Representatives,2,Democratic,GARY STEIN,604
+BURLINGTON,House of Representatives,2,Democratic,GARY STEIN,3
+CAMDEN,House of Representatives,2,Democratic,GARY STEIN,13
+CAPE MAY,House of Representatives,2,Democratic,GARY STEIN,146
+CUMBERLAND,House of Representatives,2,Democratic,GARY STEIN,162
+GLOUCESTER,House of Representatives,2,Democratic,GARY STEIN,68
+OCEAN,House of Representatives,2,Democratic,GARY STEIN,58
+SALEM,House of Representatives,2,Democratic,GARY STEIN,273
+BURLINGTON,House of Representatives,3,Republican,JON RUNYAN (w),"11,081"
+OCEAN,House of Representatives,3,Republican,JON RUNYAN (w),"10,932"
+BURLINGTON,House of Representatives,3,Democratic,SHELLEY ADLER (w),"11,085"
+OCEAN,House of Representatives,3,Democratic,SHELLEY ADLER (w),"4,091"
+MERCER,House of Representatives,4,Republican,CHRISTOPHER H. SMITH (w),"1,903"
+MONMOUTH,House of Representatives,4,Republican,CHRISTOPHER H. SMITH (w),"12,057"
+OCEAN,House of Representatives,4,Republican,CHRISTOPHER H. SMITH (w),"7,560"
+MERCER,House of Representatives,4,Democratic,BRIAN P. FROELICH (w),"1,636"
+MONMOUTH,House of Representatives,4,Democratic,BRIAN P. FROELICH (w),"7,462"
+OCEAN,House of Representatives,4,Democratic,BRIAN P. FROELICH (w),"3,012"
+MERCER,House of Representatives,4,Republican,TERRENCE MCGOWAN,266
+MONMOUTH,House of Representatives,4,Republican,TERRENCE MCGOWAN,"2,693"
+OCEAN,House of Representatives,4,Republican,TERRENCE MCGOWAN,"1,250"
+BERGEN,House of Representatives,5,Republican,SCOTT GARRETT (w),"12,751"
+PASSAIC,House of Representatives,5,Republican,SCOTT GARRETT (w),"1,848"
+SUSSEX,House of Representatives,5,Republican,SCOTT GARRETT (w),"6,227"
+WARREN,House of Representatives,5,Republican,SCOTT GARRETT (w),"3,883"
+BERGEN,House of Representatives,5,Democratic,ADAM GUSSEN (w),"9,689"
+PASSAIC,House of Representatives,5,Democratic,ADAM GUSSEN (w),333
+SUSSEX,House of Representatives,5,Democratic,ADAM GUSSEN (w),110
+WARREN,House of Representatives,5,Democratic,ADAM GUSSEN (w),76
+BERGEN,House of Representatives,5,Democratic,JASON CASTLE,"4,642"
+PASSAIC,House of Representatives,5,Democratic,JASON CASTLE,72
+SUSSEX,House of Representatives,5,Democratic,JASON CASTLE,975
+WARREN,House of Representatives,5,Democratic,JASON CASTLE,759
+BERGEN,House of Representatives,5,Republican,MICHAEL J. CINO,771
+PASSAIC,House of Representatives,5,Republican,MICHAEL J. CINO,83
+SUSSEX,House of Representatives,5,Republican,MICHAEL J. CINO,687
+WARREN,House of Representatives,5,Republican,MICHAEL J. CINO,566
+BERGEN,House of Representatives,5,Democratic,DIANE SARE,"1,475"
+PASSAIC,House of Representatives,5,Democratic,DIANE SARE,57
+SUSSEX,House of Representatives,5,Democratic,DIANE SARE,208
+WARREN,House of Representatives,5,Democratic,DIANE SARE,185
+BERGEN,House of Representatives,5,Republican,BONNIE SOMER,295
+PASSAIC,House of Representatives,5,Republican,BONNIE SOMER,112
+SUSSEX,House of Representatives,5,Republican,BONNIE SOMER,598
+WARREN,House of Representatives,5,Republican,BONNIE SOMER,506
+MIDDLESEX,House of Representatives,6,Democratic,FRANK PALLONE JR. (w),"12,175"
+MONMOUTH,House of Representatives,6,Democratic,FRANK PALLONE JR. (w),"4,418"
+MIDDLESEX,House of Representatives,6,Republican,ANNA LITTLE (w),"4,253"
+MONMOUTH,House of Representatives,6,Republican,ANNA LITTLE (w),"3,439"
+MIDDLESEX,House of Representatives,6,Republican,ERNESTO CULLARI,876
+MONMOUTH,House of Representatives,6,Republican,ERNESTO CULLARI,"2,401"
+ESSEX,House of Representatives,7,Republican,LEONARD LANCE (w),456
+HUNTERDON,House of Representatives,7,Republican,LEONARD LANCE (w),"6,271"
+MORRIS,House of Representatives,7,Republican,LEONARD LANCE (w),"2,938"
+SOMERSET,House of Representatives,7,Republican,LEONARD LANCE (w),"7,593"
+UNION,House of Representatives,7,Republican,LEONARD LANCE (w),"4,878"
+WARREN,House of Representatives,7,Republican,LEONARD LANCE (w),"1,296"
+ESSEX,House of Representatives,7,Republican,DAVID LARSEN,122
+HUNTERDON,House of Representatives,7,Republican,DAVID LARSEN,"4,151"
+MORRIS,House of Representatives,7,Republican,DAVID LARSEN,"3,588"
+SOMERSET,House of Representatives,7,Republican,DAVID LARSEN,"4,796"
+UNION,House of Representatives,7,Republican,DAVID LARSEN,"1,695"
+WARREN,House of Representatives,7,Republican,DAVID LARSEN,901
+ESSEX,House of Representatives,7,Democratic,UPENDRA J. CHIVUKULA (w),309
+HUNTERDON,House of Representatives,7,Democratic,UPENDRA J. CHIVUKULA (w),"1,823"
+MORRIS,House of Representatives,7,Democratic,UPENDRA J. CHIVUKULA (w),"1,532"
+SOMERSET,House of Representatives,7,Democratic,UPENDRA J. CHIVUKULA (w),"3,747"
+UNION,House of Representatives,7,Democratic,UPENDRA J. CHIVUKULA (w),"3,583"
+WARREN,House of Representatives,7,Democratic,UPENDRA J. CHIVUKULA (w),512
+BERGEN,House of Representatives,8,Democratic,ALBIO SIRES (w),362
+ESSEX,House of Representatives,8,Democratic,ALBIO SIRES (w),"5,041"
+HUDSON,House of Representatives,8,Democratic,ALBIO SIRES (w),"19,001"
+UNION,House of Representatives,8,Democratic,ALBIO SIRES (w),"6,436"
+BERGEN,House of Representatives,8,Democratic,MICHAEL J. SHURIN,30
+ESSEX,House of Representatives,8,Democratic,MICHAEL J. SHURIN,264
+HUDSON,House of Representatives,8,Democratic,MICHAEL J. SHURIN,"2,057"
+UNION,House of Representatives,8,Democratic,MICHAEL J. SHURIN,"1,457"
+BERGEN,House of Representatives,8,Republican,MARIA KARCZEWSKI (w),75
+ESSEX,House of Representatives,8,Republican,MARIA KARCZEWSKI (w),709
+HUDSON,House of Representatives,8,Republican,MARIA KARCZEWSKI (w),"2,094"
+UNION,House of Representatives,8,Republican,MARIA KARCZEWSKI (w),103
+BERGEN,House of Representatives,9,Democratic,BILL PASCRELL JR. (w),"5,728"
+HUDSON,House of Representatives,9,Democratic,BILL PASCRELL JR. (w),608
+PASSAIC,House of Representatives,9,Democratic,BILL PASCRELL JR. (w),"25,099"
+BERGEN,House of Representatives,9,Democratic,STEVEN ROTHMAN,"15,573"
+HUDSON,House of Representatives,9,Democratic,STEVEN ROTHMAN,"1,722"
+PASSAIC,House of Representatives,9,Democratic,STEVEN ROTHMAN,"2,652"
+BERGEN,House of Representatives,9,Republican,SHMULEY BOTEACH (w),"4,587"
+HUDSON,House of Representatives,9,Republican,SHMULEY BOTEACH (w),228
+PASSAIC,House of Representatives,9,Republican,SHMULEY BOTEACH (w),549
+BERGEN,House of Representatives,9,Republican,HECTOR L. CASTILLO,306
+HUDSON,House of Representatives,9,Republican,HECTOR L. CASTILLO,33
+PASSAIC,House of Representatives,9,Republican,HECTOR L. CASTILLO,"2,284"
+BERGEN,House of Representatives,9,Republican,BLASE BILLACK,708
+HUDSON,House of Representatives,9,Republican,BLASE BILLACK,44
+PASSAIC,House of Representatives,9,Republican,BLASE BILLACK,526
+ESSEX,House of Representatives,10,Democratic,DONALD M. PAYNE JR. (w),"25,631"
+HUDSON,House of Representatives,10,Democratic,DONALD M. PAYNE JR. (w),"3,177"
+UNION,House of Representatives,10,Democratic,DONALD M. PAYNE JR. (w),"7,768"
+ESSEX,House of Representatives,10,Democratic,RONALD C. RICE,"9,676"
+HUDSON,House of Representatives,10,Democratic,RONALD C. RICE,474
+UNION,House of Representatives,10,Democratic,RONALD C. RICE,"1,789"
+ESSEX,House of Representatives,10,Democratic,NIA H. GILL,"5,467"
+HUDSON,House of Representatives,10,Democratic,NIA H. GILL,"3,961"
+UNION,House of Representatives,10,Democratic,NIA H. GILL,779
+ESSEX,House of Representatives,10,Republican,BRIAN C. KELEMEN (w),"1,263"
+HUDSON,House of Representatives,10,Republican,BRIAN C. KELEMEN (w),489
+UNION,House of Representatives,10,Republican,BRIAN C. KELEMEN (w),343
+ESSEX,House of Representatives,10,Democratic,WAYNE SMITH,927
+HUDSON,House of Representatives,10,Democratic,WAYNE SMITH,127
+UNION,House of Representatives,10,Democratic,WAYNE SMITH,302
+ESSEX,House of Representatives,10,Democratic,DENNIS R. FLYNN,157
+HUDSON,House of Representatives,10,Democratic,DENNIS R. FLYNN,264
+UNION,House of Representatives,10,Democratic,DENNIS R. FLYNN,358
+ESSEX,House of Representatives,10,Democratic,CATHY WRIGHT,223
+HUDSON,House of Representatives,10,Democratic,CATHY WRIGHT,100
+UNION,House of Representatives,10,Democratic,CATHY WRIGHT,178
+ESSEX,House of Representatives,11,Republican,RODNEY P. FRELINGHUYSEN (w),"4,384"
+MORRIS,House of Representatives,11,Republican,RODNEY P. FRELINGHUYSEN (w),"19,520"
+PASSAIC,House of Representatives,11,Republican,RODNEY P. FRELINGHUYSEN (w),"4,508"
+SUSSEX,House of Representatives,11,Republican,RODNEY P. FRELINGHUYSEN (w),"2,419"
+ESSEX,House of Representatives,11,Democratic,JOHN ARVANITES (w),"5,081"
+MORRIS,House of Representatives,11,Democratic,JOHN ARVANITES (w),"5,436"
+PASSAIC,House of Representatives,11,Democratic,JOHN ARVANITES (w),"2,251"
+SUSSEX,House of Representatives,11,Democratic,JOHN ARVANITES (w),619
+MERCER,House of Representatives,12,Democratic,RUSH HOLT (w),"10,435"
+MIDDLESEX,House of Representatives,12,Democratic,RUSH HOLT (w),"7,028"
+SOMERSET,House of Representatives,12,Democratic,RUSH HOLT (w),"2,427"
+UNION,House of Representatives,12,Democratic,RUSH HOLT (w),"4,449"
+MERCER,House of Representatives,12,Republican,ERIC A. BECK (w),"2,857"
+MIDDLESEX,House of Representatives,12,Republican,ERIC A. BECK (w),"4,267"
+SOMERSET,House of Representatives,12,Republican,ERIC A. BECK (w),"1,309"
+UNION,House of Representatives,12,Republican,ERIC A. BECK (w),928
+ESSEX,Special House Election,10,Democratic,DONALD M. PAYNE JR. (w),"23,080"
+HUDSON,Special House Election,10,Democratic,DONALD M. PAYNE JR. (w),"1,199"
+UNION,Special House Election,10,Democratic,DONALD M. PAYNE JR. (w),"10,079"
+ESSEX,Special House Election,10,Democratic,RONALD C. RICE,"9,062"
+HUDSON,Special House Election,10,Democratic,RONALD C. RICE,276
+UNION,Special House Election,10,Democratic,RONALD C. RICE,"2,597"
+ESSEX,Special House Election,10,Democratic,WAYNE SMITH,"1,092"
+HUDSON,Special House Election,10,Democratic,WAYNE SMITH,74
+UNION,Special House Election,10,Democratic,WAYNE SMITH,"1,152"
+CAMDEN,Special General Assembly,4,Democratic,GABRIELA M. MOSQUERA (w),"3,890"
+GLOUCESTER,Special General Assembly,4,Democratic,GABRIELA M. MOSQUERA (w),"2,534"
+CAMDEN,Special General Assembly,4,Republican,SHELLEY LOVETT (w),"1,537"
+GLOUCESTER,Special General Assembly,4,Republican,SHELLEY LOVETT (w),"2,900"
+HUNTERDON,Special General Assembly,16,Republican,DONNA M. SIMON (w),"3,280"
+MERCER,Special General Assembly,16,Republican,DONNA M. SIMON (w),463
+MIDDLESEX,Special General Assembly,16,Republican,DONNA M. SIMON (w),574
+SOMERSET,Special General Assembly,16,Republican,DONNA M. SIMON (w),"3,506"
+HUNTERDON,Special General Assembly,16,Democratic,MARIE CORFIELD (w),749
+MERCER,Special General Assembly,16,Democratic,MARIE CORFIELD (w),729
+MIDDLESEX,Special General Assembly,16,Democratic,MARIE CORFIELD (w),"1,277"
+SOMERSET,Special General Assembly,16,Democratic,MARIE CORFIELD (w),"1,527"
+HUNTERDON,Special General Assembly,16,Democratic,SUE NEMETH,164
+MERCER,Special General Assembly,16,Democratic,SUE NEMETH,"2,155"
+MIDDLESEX,Special General Assembly,16,Democratic,SUE NEMETH,312
+SOMERSET,Special General Assembly,16,Democratic,SUE NEMETH,542
+ESSEX,Special General Assembly,26,Republican,BETTY LOU DECROCE (w),"1,243"
+MORRIS,Special General Assembly,26,Republican,BETTY LOU DECROCE (w),"6,167"
+PASSAIC,Special General Assembly,26,Republican,BETTY LOU DECROCE (w),"1,284"
+ESSEX,Special General Assembly,26,Democratic,JOSEPH R. RAICH (w),739
+MORRIS,Special General Assembly,26,Democratic,JOSEPH R. RAICH (w),"2,019"
+PASSAIC,Special General Assembly,26,Democratic,JOSEPH R. RAICH (w),269
