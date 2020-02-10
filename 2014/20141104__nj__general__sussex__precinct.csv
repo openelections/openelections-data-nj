@@ -1,0 +1,257 @@
+county,precinct,office,district,party,candidate,votes
+Sussex,Andover Boro,U.S. House,5,Republican,Scott Garrett,80
+Sussex,Andover Twp,U.S. House,5,Republican,Scott Garrett,1002
+Sussex,Branchville,U.S. House,5,Republican,Scott Garrett,168
+Sussex,Frankford,U.S. House,5,Republican,Scott Garrett,1115
+Sussex,Franklin,U.S. House,5,Republican,Scott Garrett,671
+Sussex,Fredon,U.S. House,5,Republican,Scott Garrett,765
+Sussex,Green,U.S. House,5,Republican,Scott Garrett,706
+Sussex,Hamburg,U.S. House,5,Republican,Scott Garrett,414
+Sussex,Hampton,U.S. House,5,Republican,Scott Garrett,880
+Sussex,Hardyston,U.S. House,5,Republican,Scott Garrett,1377
+Sussex,Lafayette,U.S. House,5,Republican,Scott Garrett,539
+Sussex,Montague,U.S. House,5,Republican,Scott Garrett,710
+Sussex,Newton,U.S. House,5,Republican,Scott Garrett,883
+Sussex,Sandyston,U.S. House,5,Republican,Scott Garrett,523
+Sussex,Stillwater,U.S. House,5,Republican,Scott Garrett,741
+Sussex,Sussex,U.S. House,5,Republican,Scott Garrett,300
+Sussex,Vernon,U.S. House,5,Republican,Scott Garrett,3448
+Sussex,Walpack,U.S. House,5,Republican,Scott Garrett,6
+Sussex,Wantage,U.S. House,5,Republican,Scott Garrett,1982
+Sussex,Total,U.S. House,5,Republican,Scott Garrett,16310
+Sussex,Andover Boro,U.S. House,5,Democratic,Roy Cho,60
+Sussex,Andover Twp,U.S. House,5,Democratic,Roy Cho,479
+Sussex,Branchville,U.S. House,5,Democratic,Roy Cho,59
+Sussex,Frankford,U.S. House,5,Democratic,Roy Cho,425
+Sussex,Franklin,U.S. House,5,Democratic,Roy Cho,281
+Sussex,Fredon,U.S. House,5,Democratic,Roy Cho,257
+Sussex,Green,U.S. House,5,Democratic,Roy Cho,232
+Sussex,Hamburg,U.S. House,5,Democratic,Roy Cho,244
+Sussex,Hampton,U.S. House,5,Democratic,Roy Cho,453
+Sussex,Hardyston,U.S. House,5,Democratic,Roy Cho,640
+Sussex,Lafayette,U.S. House,5,Democratic,Roy Cho,142
+Sussex,Montague,U.S. House,5,Democratic,Roy Cho,245
+Sussex,Newton,U.S. House,5,Democratic,Roy Cho,568
+Sussex,Sandyston,U.S. House,5,Democratic,Roy Cho,174
+Sussex,Stillwater,U.S. House,5,Democratic,Roy Cho,324
+Sussex,Sussex,U.S. House,5,Democratic,Roy Cho,117
+Sussex,Vernon,U.S. House,5,Democratic,Roy Cho,1646
+Sussex,Walpack,U.S. House,5,Democratic,Roy Cho,1
+Sussex,Wantage,U.S. House,5,Democratic,Roy Cho,781
+Sussex,Total,U.S. House,5,Democratic,Roy Cho,7128
+Sussex,Andover Boro,U.S. House,5,For Americans,Mark D. Quick,3
+Sussex,Andover Twp,U.S. House,5,For Americans,Mark D. Quick,39
+Sussex,Branchville,U.S. House,5,For Americans,Mark D. Quick,8
+Sussex,Frankford,U.S. House,5,For Americans,Mark D. Quick,53
+Sussex,Franklin,U.S. House,5,For Americans,Mark D. Quick,37
+Sussex,Fredon,U.S. House,5,For Americans,Mark D. Quick,27
+Sussex,Green,U.S. House,5,For Americans,Mark D. Quick,21
+Sussex,Hamburg,U.S. House,5,For Americans,Mark D. Quick,15
+Sussex,Hampton,U.S. House,5,For Americans,Mark D. Quick,26
+Sussex,Hardyston,U.S. House,5,For Americans,Mark D. Quick,28
+Sussex,Lafayette,U.S. House,5,For Americans,Mark D. Quick,20
+Sussex,Montague,U.S. House,5,For Americans,Mark D. Quick,36
+Sussex,Newton,U.S. House,5,For Americans,Mark D. Quick,42
+Sussex,Sandyston,U.S. House,5,For Americans,Mark D. Quick,25
+Sussex,Stillwater,U.S. House,5,For Americans,Mark D. Quick,31
+Sussex,Sussex,U.S. House,5,For Americans,Mark D. Quick,27
+Sussex,Vernon,U.S. House,5,For Americans,Mark D. Quick,145
+Sussex,Walpack,U.S. House,5,For Americans,Mark D. Quick,0
+Sussex,Wantage,U.S. House,5,For Americans,Mark D. Quick,59
+Sussex,Total,U.S. House,5,For Americans,Mark D. Quick,642
+Sussex,Byram Twp,U.S. House,11,Republican,Rodney P. Frelinghuyen,1477
+Sussex,Hopatcong,U.S. House,11,Republican,Rodney P. Frelinghuyen,2261
+Sussex,Ogdensburg,U.S. House,11,Republican,Rodney P. Frelinghuyen,417
+Sussex,Sparta,U.S. House,11,Republican,Rodney P. Frelinghuyen,3692
+Sussex,Stanhope,U.S. House,11,Republican,Rodney P. Frelinghuyen,518
+Sussex,Federal Overseas,U.S. House,11,Republican,Rodney P. Frelinghuyen,1
+Sussex,Total,U.S. House,11,Republican,Rodney P. Frelinghuyen,8366
+Sussex,Byram Twp,U.S. House,11,Democratic,Mark Dunec,557
+Sussex,Hopatcong,U.S. House,11,Democratic,Mark Dunec,1001
+Sussex,Ogdensburg,U.S. House,11,Democratic,Mark Dunec,129
+Sussex,Sparta,U.S. House,11,Democratic,Mark Dunec,1456
+Sussex,Stanhope,U.S. House,11,Democratic,Mark Dunec,229
+Sussex,Federal Overseas,U.S. House,11,Democratic,Mark Dunec,3
+Sussex,Total,U.S. House,11,Democratic,Mark Dunec,3375
+Sussex,Andover Boro,U.S. Senate,,Republican,Jeff Bell,74
+Sussex,Andover Twp,U.S. Senate,,Republican,Jeff Bell,942
+Sussex,Branchville Boro,U.S. Senate,,Republican,Jeff Bell,141
+Sussex,Byram Twp,U.S. Senate,,Republican,Jeff Bell,1308
+Sussex,Frankford Twp,U.S. Senate,,Republican,Jeff Bell,1066
+Sussex,Franklin Boro,U.S. Senate,,Republican,Jeff Bell,604
+Sussex,Fredon Twp,U.S. Senate,,Republican,Jeff Bell,709
+Sussex,Green Twp,U.S. Senate,,Republican,Jeff Bell,663
+Sussex,Hamburg Boro,U.S. Senate,,Republican,Jeff Bell,380
+Sussex,Hampton Twp,U.S. Senate,,Republican,Jeff Bell,822
+Sussex,Hardyston Twp,U.S. Senate,,Republican,Jeff Bell,1281
+Sussex,Hopatcong Boro,U.S. Senate,,Republican,Jeff Bell,1945
+Sussex,Lafayette Twp,U.S. Senate,,Republican,Jeff Bell,490
+Sussex,Montague Twp,U.S. Senate,,Republican,Jeff Bell,640
+Sussex,Newton Town,U.S. Senate,,Republican,Jeff Bell,790
+Sussex,Ogdensburg Boro,U.S. Senate,,Republican,Jeff Bell,338
+Sussex,Sandyston Twp,U.S. Senate,,Republican,Jeff Bell,454
+Sussex,Sparta Twp,U.S. Senate,,Republican,Jeff Bell,3226
+Sussex,Stanhope Boro,U.S. Senate,,Republican,Jeff Bell,437
+Sussex,Stillwater Twp,U.S. Senate,,Republican,Jeff Bell,686
+Sussex,Sussex Boro,U.S. Senate,,Republican,Jeff Bell,245
+Sussex,Vernon Twp,U.S. Senate,,Republican,Jeff Bell,3156
+Sussex,Walpack Twp,U.S. Senate,,Republican,Jeff Bell,6
+Sussex,Wantage Twp,U.S. Senate,,Republican,Jeff Bell,1888
+Sussex,Federal Overseas,U.S. Senate,,Republican,Jeff Bell,1
+Sussex,Total,U.S. Senate,,Republican,Jeff Bell,22292
+Sussex,Andover Boro,U.S. Senate,,Democratic,Cory Booker,63
+Sussex,Andover Twp,U.S. Senate,,Democratic,Cory Booker,558
+Sussex,Branchville Boro,U.S. Senate,,Democratic,Cory Booker,88
+Sussex,Byram Twp,U.S. Senate,,Democratic,Cory Booker,691
+Sussex,Frankford Twp,U.S. Senate,,Democratic,Cory Booker,464
+Sussex,Franklin Boro,U.S. Senate,,Democratic,Cory Booker,356
+Sussex,Fredon Twp,U.S. Senate,,Democratic,Cory Booker,307
+Sussex,Green Twp,U.S. Senate,,Democratic,Cory Booker,268
+Sussex,Hamburg Boro,U.S. Senate,,Democratic,Cory Booker,275
+Sussex,Hampton Twp,U.S. Senate,,Democratic,Cory Booker,503
+Sussex,Hardyston Twp,U.S. Senate,,Democratic,Cory Booker,732
+Sussex,Hopatcong Boro,U.S. Senate,,Democratic,Cory Booker,1312
+Sussex,Lafayette Twp,U.S. Senate,,Democratic,Cory Booker,188
+Sussex,Montague Twp,U.S. Senate,,Democratic,Cory Booker,299
+Sussex,Newton Town,U.S. Senate,,Democratic,Cory Booker,659
+Sussex,Ogdensburg Boro,U.S. Senate,,Democratic,Cory Booker,194
+Sussex,Sandyston Twp,U.S. Senate,,Democratic,Cory Booker,234
+Sussex,Sparta Twp,U.S. Senate,,Democratic,Cory Booker,1884
+Sussex,Stanhope Boro,U.S. Senate,,Democratic,Cory Booker,303
+Sussex,Stillwater Twp,U.S. Senate,,Democratic,Cory Booker,369
+Sussex,Sussex Boro,U.S. Senate,,Democratic,Cory Booker,176
+Sussex,Vernon Twp,U.S. Senate,,Democratic,Cory Booker,1938
+Sussex,Walpack Twp,U.S. Senate,,Democratic,Cory Booker,1
+Sussex,Wantage Twp,U.S. Senate,,Democratic,Cory Booker,857
+Sussex,Federal Overseas,U.S. Senate,,Democratic,Cory Booker,3
+Sussex,Total,U.S. Senate,,Democratic,Cory Booker,12722
+Sussex,Andover Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,1
+Sussex,Andover Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,17
+Sussex,Branchville Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,1
+Sussex,Byram Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,42
+Sussex,Frankford Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,31
+Sussex,Franklin Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,18
+Sussex,Fredon Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,16
+Sussex,Green Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,20
+Sussex,Hamburg Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,13
+Sussex,Hampton Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,20
+Sussex,Hardyston Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,24
+Sussex,Hopatcong Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,40
+Sussex,Lafayette Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,14
+Sussex,Montague Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,29
+Sussex,Newton Town,U.S. Senate,,Libertarian Party,Joseph Baratelli,19
+Sussex,Ogdensburg Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,9
+Sussex,Sandyston Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,13
+Sussex,Sparta Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,91
+Sussex,Stanhope Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,6
+Sussex,Stillwater Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,19
+Sussex,Sussex Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,12
+Sussex,Vernon Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,106
+Sussex,Walpack Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,0
+Sussex,Wantage Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,38
+Sussex,Federal Overseas,U.S. Senate,,Libertarian Party,Joseph Baratelli,0
+Sussex,Total,U.S. Senate,,Libertarian Party,Joseph Baratelli,599
+Sussex,Andover Boro,U.S. Senate,,Economic Growth,Hank Schroeder,1
+Sussex,Andover Twp,U.S. Senate,,Economic Growth,Hank Schroeder,8
+Sussex,Branchville Boro,U.S. Senate,,Economic Growth,Hank Schroeder,1
+Sussex,Byram Twp,U.S. Senate,,Economic Growth,Hank Schroeder,6
+Sussex,Frankford Twp,U.S. Senate,,Economic Growth,Hank Schroeder,7
+Sussex,Franklin Boro,U.S. Senate,,Economic Growth,Hank Schroeder,5
+Sussex,Fredon Twp,U.S. Senate,,Economic Growth,Hank Schroeder,3
+Sussex,Green Twp,U.S. Senate,,Economic Growth,Hank Schroeder,3
+Sussex,Hamburg Boro,U.S. Senate,,Economic Growth,Hank Schroeder,2
+Sussex,Hampton Twp,U.S. Senate,,Economic Growth,Hank Schroeder,7
+Sussex,Hardyston Twp,U.S. Senate,,Economic Growth,Hank Schroeder,7
+Sussex,Hopatcong Boro,U.S. Senate,,Economic Growth,Hank Schroeder,27
+Sussex,Lafayette Twp,U.S. Senate,,Economic Growth,Hank Schroeder,2
+Sussex,Montague Twp,U.S. Senate,,Economic Growth,Hank Schroeder,11
+Sussex,Newton Town,U.S. Senate,,Economic Growth,Hank Schroeder,11
+Sussex,Ogdensburg Boro,U.S. Senate,,Economic Growth,Hank Schroeder,6
+Sussex,Sandyston Twp,U.S. Senate,,Economic Growth,Hank Schroeder,6
+Sussex,Sparta Twp,U.S. Senate,,Economic Growth,Hank Schroeder,14
+Sussex,Stanhope Boro,U.S. Senate,,Economic Growth,Hank Schroeder,8
+Sussex,Stillwater Twp,U.S. Senate,,Economic Growth,Hank Schroeder,9
+Sussex,Sussex Boro,U.S. Senate,,Economic Growth,Hank Schroeder,1
+Sussex,Vernon Twp,U.S. Senate,,Economic Growth,Hank Schroeder,25
+Sussex,Walpack Twp,U.S. Senate,,Economic Growth,Hank Schroeder,0
+Sussex,Wantage Twp,U.S. Senate,,Economic Growth,Hank Schroeder,12
+Sussex,Federal Overseas,U.S. Senate,,Economic Growth,Hank Schroeder,0
+Sussex,Total,U.S. Senate,,Economic Growth,Hank Schroeder,182
+Sussex,Andover Boro,U.S. Senate,,Independent,Antonio N. Sabas,0
+Sussex,Andover Twp,U.S. Senate,,Independent,Antonio N. Sabas,3
+Sussex,Branchville Boro,U.S. Senate,,Independent,Antonio N. Sabas,0
+Sussex,Byram Twp,U.S. Senate,,Independent,Antonio N. Sabas,6
+Sussex,Frankford Twp,U.S. Senate,,Independent,Antonio N. Sabas,9
+Sussex,Franklin Boro,U.S. Senate,,Independent,Antonio N. Sabas,3
+Sussex,Fredon Twp,U.S. Senate,,Independent,Antonio N. Sabas,4
+Sussex,Green Twp,U.S. Senate,,Independent,Antonio N. Sabas,1
+Sussex,Hamburg Boro,U.S. Senate,,Independent,Antonio N. Sabas,4
+Sussex,Hampton Twp,U.S. Senate,,Independent,Antonio N. Sabas,6
+Sussex,Hardyston Twp,U.S. Senate,,Independent,Antonio N. Sabas,7
+Sussex,Hopatcong Boro,U.S. Senate,,Independent,Antonio N. Sabas,12
+Sussex,Lafayette Twp,U.S. Senate,,Independent,Antonio N. Sabas,3
+Sussex,Montague Twp,U.S. Senate,,Independent,Antonio N. Sabas,3
+Sussex,Newton Town,U.S. Senate,,Independent,Antonio N. Sabas,8
+Sussex,Ogdensburg Boro,U.S. Senate,,Independent,Antonio N. Sabas,0
+Sussex,Sandyston Twp,U.S. Senate,,Independent,Antonio N. Sabas,3
+Sussex,Sparta Twp,U.S. Senate,,Independent,Antonio N. Sabas,12
+Sussex,Stanhope Boro,U.S. Senate,,Independent,Antonio N. Sabas,3
+Sussex,Stillwater Twp,U.S. Senate,,Independent,Antonio N. Sabas,7
+Sussex,Sussex Boro,U.S. Senate,,Independent,Antonio N. Sabas,1
+Sussex,Vernon Twp,U.S. Senate,,Independent,Antonio N. Sabas,17
+Sussex,Walpack Twp,U.S. Senate,,Independent,Antonio N. Sabas,0
+Sussex,Wantage Twp,U.S. Senate,,Independent,Antonio N. Sabas,7
+Sussex,Federal Overseas,U.S. Senate,,Independent,Antonio N. Sabas,0
+Sussex,Total,U.S. Senate,,Independent,Antonio N. Sabas,119
+Sussex,Andover Boro,U.S. Senate,,Independent,Jeff Boss,0
+Sussex,Andover Twp,U.S. Senate,,Independent,Jeff Boss,5
+Sussex,Branchville Boro,U.S. Senate,,Independent,Jeff Boss,0
+Sussex,Byram Twp,U.S. Senate,,Independent,Jeff Boss,10
+Sussex,Frankford Twp,U.S. Senate,,Independent,Jeff Boss,2
+Sussex,Franklin Boro,U.S. Senate,,Independent,Jeff Boss,2
+Sussex,Fredon Twp,U.S. Senate,,Independent,Jeff Boss,1
+Sussex,Green Twp,U.S. Senate,,Independent,Jeff Boss,3
+Sussex,Hamburg Boro,U.S. Senate,,Independent,Jeff Boss,3
+Sussex,Hampton Twp,U.S. Senate,,Independent,Jeff Boss,0
+Sussex,Hardyston Twp,U.S. Senate,,Independent,Jeff Boss,2
+Sussex,Hopatcong Boro,U.S. Senate,,Independent,Jeff Boss,10
+Sussex,Lafayette Twp,U.S. Senate,,Independent,Jeff Boss,1
+Sussex,Montague Twp,U.S. Senate,,Independent,Jeff Boss,2
+Sussex,Newton Town,U.S. Senate,,Independent,Jeff Boss,8
+Sussex,Ogdensburg Boro,U.S. Senate,,Independent,Jeff Boss,1
+Sussex,Sandyston Twp,U.S. Senate,,Independent,Jeff Boss,3
+Sussex,Sparta Twp,U.S. Senate,,Independent,Jeff Boss,8
+Sussex,Stanhope Boro,U.S. Senate,,Independent,Jeff Boss,1
+Sussex,Stillwater Twp,U.S. Senate,,Independent,Jeff Boss,3
+Sussex,Sussex Boro,U.S. Senate,,Independent,Jeff Boss,2
+Sussex,Vernon Twp,U.S. Senate,,Independent,Jeff Boss,11
+Sussex,Walpack Twp,U.S. Senate,,Independent,Jeff Boss,0
+Sussex,Wantage Twp,U.S. Senate,,Independent,Jeff Boss,10
+Sussex,Federal Overseas,U.S. Senate,,Independent,Jeff Boss,0
+Sussex,Total,U.S. Senate,,Independent,Jeff Boss,88
+Sussex,Andover Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,0
+Sussex,Andover Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,0
+Sussex,Branchville Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,0
+Sussex,Byram Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,2
+Sussex,Frankford Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,2
+Sussex,Franklin Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,1
+Sussex,Fredon Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,5
+Sussex,Green Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,1
+Sussex,Hamburg Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,1
+Sussex,Hampton Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,3
+Sussex,Hardyston Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,1
+Sussex,Hopatcong Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,6
+Sussex,Lafayette Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,1
+Sussex,Montague Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,2
+Sussex,Newton Town,U.S. Senate,,D-R Party,Eugene Martin LaVergne,3
+Sussex,Ogdensburg Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,1
+Sussex,Sandyston Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,2
+Sussex,Sparta Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,9
+Sussex,Stanhope Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,4
+Sussex,Stillwater Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,1
+Sussex,Sussex Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,1
+Sussex,Vernon Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,8
+Sussex,Walpack Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,0
+Sussex,Wantage Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,4
+Sussex,Federal Overseas,U.S. Senate,,D-R Party,Eugene Martin LaVergne,0
+Sussex,Total,U.S. Senate,,D-R Party,Eugene Martin LaVergne,58

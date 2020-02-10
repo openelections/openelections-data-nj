@@ -1,0 +1,234 @@
+county,precinct,office,district,party,candidate,votes
+Warren,Allamuchy,U.S. House,5,Republican,Scott Garrett,844
+Warren,Belvidere,U.S. House,5,Republican,Scott Garrett,440
+Warren,Blairstown,U.S. House,5,Republican,Scott Garrett,1144
+Warren,Frelinghuysen,U.S. House,5,Republican,Scott Garrett,463
+Warren,Hackettstown,U.S. House,5,Republican,Scott Garrett,1141
+Warren,Hardwick,U.S. House,5,Republican,Scott Garrett,256
+Warren,Hope,U.S. House,5,Republican,Scott Garrett,372
+Warren,Independence,U.S. House,5,Republican,Scott Garrett,860
+Warren,Knowlton,U.S. House,5,Republican,Scott Garrett,490
+Warren,Liberty,U.S. House,5,Republican,Scott Garrett,469
+Warren,Mansfield,U.S. House,5,Republican,Scott Garrett,1116
+Warren,Oxford,U.S. House,5,Republican,Scott Garrett,377
+Warren,Washington Boro,U.S. House,5,Republican,Scott Garrett,633
+Warren,Washington Twp,U.S. House,5,Republican,Scott Garrett,1078
+Warren,White,U.S. House,5,Republican,Scott Garrett,980
+Warren,Total,U.S. House,5,Republican,Scott Garrett,10663
+Warren,Allamuchy,U.S. House,5,Democratic,Roy Cho,399
+Warren,Belvidere,U.S. House,5,Democratic,Roy Cho,219
+Warren,Blairstown,U.S. House,5,Democratic,Roy Cho,447
+Warren,Frelinghuysen,U.S. House,5,Democratic,Roy Cho,157
+Warren,Hackettstown,U.S. House,5,Democratic,Roy Cho,581
+Warren,Hardwick,U.S. House,5,Democratic,Roy Cho,137
+Warren,Hope,U.S. House,5,Democratic,Roy Cho,148
+Warren,Independence,U.S. House,5,Democratic,Roy Cho,385
+Warren,Knowlton,U.S. House,5,Democratic,Roy Cho,194
+Warren,Liberty,U.S. House,5,Democratic,Roy Cho,198
+Warren,Mansfield,U.S. House,5,Democratic,Roy Cho,404
+Warren,Oxford,U.S. House,5,Democratic,Roy Cho,174
+Warren,Washington Boro,U.S. House,5,Democratic,Roy Cho,470
+Warren,Washington Twp,U.S. House,5,Democratic,Roy Cho,431
+Warren,White,U.S. House,5,Democratic,Roy Cho,332
+Warren,Total,U.S. House,5,Democratic,Roy Cho,4676
+Warren,Allamuchy,U.S. House,5,For Americans,Mark D. Quick,21
+Warren,Belvidere,U.S. House,5,For Americans,Mark D. Quick,34
+Warren,Blairstown,U.S. House,5,For Americans,Mark D. Quick,38
+Warren,Frelinghuysen,U.S. House,5,For Americans,Mark D. Quick,34
+Warren,Hackettstown,U.S. House,5,For Americans,Mark D. Quick,45
+Warren,Hardwick,U.S. House,5,For Americans,Mark D. Quick,17
+Warren,Hope,U.S. House,5,For Americans,Mark D. Quick,16
+Warren,Independence,U.S. House,5,For Americans,Mark D. Quick,24
+Warren,Knowlton,U.S. House,5,For Americans,Mark D. Quick,19
+Warren,Liberty,U.S. House,5,For Americans,Mark D. Quick,18
+Warren,Mansfield,U.S. House,5,For Americans,Mark D. Quick,49
+Warren,Oxford,U.S. House,5,For Americans,Mark D. Quick,29
+Warren,Washington Boro,U.S. House,5,For Americans,Mark D. Quick,34
+Warren,Washington Twp,U.S. House,5,For Americans,Mark D. Quick,59
+Warren,White,U.S. House,5,For Americans,Mark D. Quick,44
+Warren,Total,U.S. House,5,For Americans,Mark D. Quick,481
+Warren,Alpha,U.S. House,7,Republican,Leonard Lance,271
+Warren,Franklin,U.S. House,7,Republican,Leonard Lance,518
+Warren,Greenwich,U.S. House,7,Republican,Leonard Lance,860
+Warren,Harmony,U.S. House,7,Republican,Leonard Lance,409
+Warren,Lopatcong,U.S. House,7,Republican,Leonard Lance,1309
+Warren,Phillipsburg,U.S. House,7,Republican,Leonard Lance,975
+Warren,Pohatcong,U.S. House,7,Republican,Leonard Lance,459
+Warren,Total,U.S. House,7,Republican,Leonard Lance,4801
+Warren,Alpha,U.S. House,7,Democratic,Janice Kovach,152
+Warren,Franklin,U.S. House,7,Democratic,Janice Kovach,183
+Warren,Greenwich,U.S. House,7,Democratic,Janice Kovach,381
+Warren,Harmony,U.S. House,7,Democratic,Janice Kovach,157
+Warren,Lopatcong,U.S. House,7,Democratic,Janice Kovach,679
+Warren,Phillipsburg,U.S. House,7,Democratic,Janice Kovach,815
+Warren,Pohatcong,U.S. House,7,Democratic,Janice Kovach,227
+Warren,Total,U.S. House,7,Democratic,Janice Kovach,2594
+Warren,Alpha,U.S. House,7,Libertarian Party,James Gawron,23
+Warren,Franklin,U.S. House,7,Libertarian Party,James Gawron,33
+Warren,Greenwich,U.S. House,7,Libertarian Party,James Gawron,45
+Warren,Harmony,U.S. House,7,Libertarian Party,James Gawron,32
+Warren,Lopatcong,U.S. House,7,Libertarian Party,James Gawron,78
+Warren,Phillipsburg,U.S. House,7,Libertarian Party,James Gawron,94
+Warren,Pohatcong,U.S. House,7,Libertarian Party,James Gawron,35
+Warren,Total,U.S. House,7,Libertarian Party,James Gawron,340
+Warren,Allamuchy Twp,U.S. Senate,,Republican,Jeff Bell,778
+Warren,Alpha Boro,U.S. Senate,,Republican,Jeff Bell,220
+Warren,Belvidere Town,U.S. Senate,,Republican,Jeff Bell,385
+Warren,Blairstown Twp,U.S. Senate,,Republican,Jeff Bell,1077
+Warren,Franklin Twp,U.S. Senate,,Republican,Jeff Bell,472
+Warren,Frelinghuysen Twp,U.S. Senate,,Republican,Jeff Bell,451
+Warren,Greenwich Twp,U.S. Senate,,Republican,Jeff Bell,776
+Warren,Hacketstown Town,U.S. Senate,,Republican,Jeff Bell,1041
+Warren,Hardwick Twp,U.S. Senate,,Republican,Jeff Bell,254
+Warren,Harmony Twp,U.S. Senate,,Republican,Jeff Bell,390
+Warren,Hope Twp,U.S. Senate,,Republican,Jeff Bell,363
+Warren,Independence Twp,U.S. Senate,,Republican,Jeff Bell,774
+Warren,Knowlton Twp,U.S. Senate,,Republican,Jeff Bell,449
+Warren,Liberty Twp,U.S. Senate,,Republican,Jeff Bell,421
+Warren,Lopatcong Twp,U.S. Senate,,Republican,Jeff Bell,1177
+Warren,Mansfield Twp,U.S. Senate,,Republican,Jeff Bell,1021
+Warren,Oxford Twp,U.S. Senate,,Republican,Jeff Bell,346
+Warren,Phillpsburg Town,U.S. Senate,,Republican,Jeff Bell,830
+Warren,Pohatcong Twp,U.S. Senate,,Republican,Jeff Bell,413
+Warren,Washington Boro,U.S. Senate,,Republican,Jeff Bell,555
+Warren,Washington Twp,U.S. Senate,,Republican,Jeff Bell,1031
+Warren,White Twp,U.S. Senate,,Republican,Jeff Bell,926
+Warren,Total,U.S. Senate,,Republican,Jeff Bell,14150
+Warren,Allamuchy Twp,U.S. Senate,,Democratic,Cory Booker,456
+Warren,Alpha Boro,U.S. Senate,,Democratic,Cory Booker,208
+Warren,Belvidere Town,U.S. Senate,,Democratic,Cory Booker,284
+Warren,Blairstown Twp,U.S. Senate,,Democratic,Cory Booker,502
+Warren,Franklin Twp,U.S. Senate,,Democratic,Cory Booker,217
+Warren,Frelinghuysen Twp,U.S. Senate,,Democratic,Cory Booker,175
+Warren,Greenwich Twp,U.S. Senate,,Democratic,Cory Booker,465
+Warren,Hacketstown Town,U.S. Senate,,Democratic,Cory Booker,680
+Warren,Hardwick Twp,U.S. Senate,,Democratic,Cory Booker,131
+Warren,Harmony Twp,U.S. Senate,,Democratic,Cory Booker,185
+Warren,Hope Twp,U.S. Senate,,Democratic,Cory Booker,156
+Warren,Independence Twp,U.S. Senate,,Democratic,Cory Booker,463
+Warren,Knowlton Twp,U.S. Senate,,Democratic,Cory Booker,221
+Warren,Liberty Twp,U.S. Senate,,Democratic,Cory Booker,230
+Warren,Lopatcong Twp,U.S. Senate,,Democratic,Cory Booker,882
+Warren,Mansfield Twp,U.S. Senate,,Democratic,Cory Booker,492
+Warren,Oxford Twp,U.S. Senate,,Democratic,Cory Booker,205
+Warren,Phillpsburg Town,U.S. Senate,,Democratic,Cory Booker,964
+Warren,Pohatcong Twp,U.S. Senate,,Democratic,Cory Booker,267
+Warren,Washington Boro,U.S. Senate,,Democratic,Cory Booker,545
+Warren,Washington Twp,U.S. Senate,,Democratic,Cory Booker,488
+Warren,White Twp,U.S. Senate,,Democratic,Cory Booker,393
+Warren,Total,U.S. Senate,,Democratic,Cory Booker,8609
+Warren,Allamuchy Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,9
+Warren,Alpha Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,14
+Warren,Belvidere Town,U.S. Senate,,Libertarian Party,Joseph Baratelli,17
+Warren,Blairstown Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,18
+Warren,Franklin Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,17
+Warren,Frelinghuysen Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,10
+Warren,Greenwich Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,29
+Warren,Hacketstown Town,U.S. Senate,,Libertarian Party,Joseph Baratelli,17
+Warren,Hardwick Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,5
+Warren,Harmony Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,14
+Warren,Hope Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,8
+Warren,Independence Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,19
+Warren,Knowlton Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,8
+Warren,Liberty Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,13
+Warren,Lopatcong Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,27
+Warren,Mansfield Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,21
+Warren,Oxford Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,3
+Warren,Phillpsburg Town,U.S. Senate,,Libertarian Party,Joseph Baratelli,42
+Warren,Pohatcong Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,10
+Warren,Washington Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,11
+Warren,Washington Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,25
+Warren,White Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,11
+Warren,Total,U.S. Senate,,Libertarian Party,Joseph Baratelli,348
+Warren,Allamuchy Twp,U.S. Senate,,Economic Growth,Hank Schroeder,12
+Warren,Alpha Boro,U.S. Senate,,Economic Growth,Hank Schroeder,3
+Warren,Belvidere Town,U.S. Senate,,Economic Growth,Hank Schroeder,6
+Warren,Blairstown Twp,U.S. Senate,,Economic Growth,Hank Schroeder,9
+Warren,Franklin Twp,U.S. Senate,,Economic Growth,Hank Schroeder,18
+Warren,Frelinghuysen Twp,U.S. Senate,,Economic Growth,Hank Schroeder,3
+Warren,Greenwich Twp,U.S. Senate,,Economic Growth,Hank Schroeder,12
+Warren,Hacketstown Town,U.S. Senate,,Economic Growth,Hank Schroeder,20
+Warren,Hardwick Twp,U.S. Senate,,Economic Growth,Hank Schroeder,5
+Warren,Harmony Twp,U.S. Senate,,Economic Growth,Hank Schroeder,8
+Warren,Hope Twp,U.S. Senate,,Economic Growth,Hank Schroeder,4
+Warren,Independence Twp,U.S. Senate,,Economic Growth,Hank Schroeder,10
+Warren,Knowlton Twp,U.S. Senate,,Economic Growth,Hank Schroeder,7
+Warren,Liberty Twp,U.S. Senate,,Economic Growth,Hank Schroeder,6
+Warren,Lopatcong Twp,U.S. Senate,,Economic Growth,Hank Schroeder,19
+Warren,Mansfield Twp,U.S. Senate,,Economic Growth,Hank Schroeder,16
+Warren,Oxford Twp,U.S. Senate,,Economic Growth,Hank Schroeder,6
+Warren,Phillpsburg Town,U.S. Senate,,Economic Growth,Hank Schroeder,36
+Warren,Pohatcong Twp,U.S. Senate,,Economic Growth,Hank Schroeder,12
+Warren,Washington Boro,U.S. Senate,,Economic Growth,Hank Schroeder,13
+Warren,Washington Twp,U.S. Senate,,Economic Growth,Hank Schroeder,11
+Warren,White Twp,U.S. Senate,,Economic Growth,Hank Schroeder,14
+Warren,Total,U.S. Senate,,Economic Growth,Hank Schroeder,250
+Warren,Allamuchy Twp,U.S. Senate,,Independent,Jeff Boss,7
+Warren,Alpha Boro,U.S. Senate,,Independent,Jeff Boss,2
+Warren,Belvidere Town,U.S. Senate,,Independent,Jeff Boss,5
+Warren,Blairstown Twp,U.S. Senate,,Independent,Jeff Boss,7
+Warren,Franklin Twp,U.S. Senate,,Independent,Jeff Boss,7
+Warren,Frelinghuysen Twp,U.S. Senate,,Independent,Jeff Boss,4
+Warren,Greenwich Twp,U.S. Senate,,Independent,Jeff Boss,4
+Warren,Hacketstown Town,U.S. Senate,,Independent,Jeff Boss,7
+Warren,Hardwick Twp,U.S. Senate,,Independent,Jeff Boss,5
+Warren,Harmony Twp,U.S. Senate,,Independent,Jeff Boss,8
+Warren,Hope Twp,U.S. Senate,,Independent,Jeff Boss,1
+Warren,Independence Twp,U.S. Senate,,Independent,Jeff Boss,4
+Warren,Knowlton Twp,U.S. Senate,,Independent,Jeff Boss,5
+Warren,Liberty Twp,U.S. Senate,,Independent,Jeff Boss,6
+Warren,Lopatcong Twp,U.S. Senate,,Independent,Jeff Boss,18
+Warren,Mansfield Twp,U.S. Senate,,Independent,Jeff Boss,9
+Warren,Oxford Twp,U.S. Senate,,Independent,Jeff Boss,3
+Warren,Phillpsburg Town,U.S. Senate,,Independent,Jeff Boss,19
+Warren,Pohatcong Twp,U.S. Senate,,Independent,Jeff Boss,7
+Warren,Washington Boro,U.S. Senate,,Independent,Jeff Boss,11
+Warren,Washington Twp,U.S. Senate,,Independent,Jeff Boss,9
+Warren,White Twp,U.S. Senate,,Independent,Jeff Boss,7
+Warren,Total,U.S. Senate,,Independent,Jeff Boss,155
+Warren,Allamuchy Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,2
+Warren,Alpha Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,3
+Warren,Belvidere Town,U.S. Senate,,D-R Party,Eugene Martin LaVergne,1
+Warren,Blairstown Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,1
+Warren,Franklin Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,1
+Warren,Frelinghuysen Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,1
+Warren,Greenwich Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,6
+Warren,Hacketstown Town,U.S. Senate,,D-R Party,Eugene Martin LaVergne,6
+Warren,Hardwick Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,0
+Warren,Harmony Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,0
+Warren,Hope Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,0
+Warren,Independence Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,3
+Warren,Knowlton Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,0
+Warren,Liberty Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,0
+Warren,Lopatcong Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,8
+Warren,Mansfield Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,3
+Warren,Oxford Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,4
+Warren,Phillpsburg Town,U.S. Senate,,D-R Party,Eugene Martin LaVergne,16
+Warren,Pohatcong Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,0
+Warren,Washington Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,4
+Warren,Washington Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,7
+Warren,White Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,5
+Warren,Total,U.S. Senate,,D-R Party,Eugene Martin LaVergne,71
+Warren,Allamuchy Twp,U.S. Senate,,Independent,Antonio N. Sabas,0
+Warren,Alpha Boro,U.S. Senate,,Independent,Antonio N. Sabas,2
+Warren,Belvidere Town,U.S. Senate,,Independent,Antonio N. Sabas,4
+Warren,Blairstown Twp,U.S. Senate,,Independent,Antonio N. Sabas,1
+Warren,Franklin Twp,U.S. Senate,,Independent,Antonio N. Sabas,5
+Warren,Frelinghuysen Twp,U.S. Senate,,Independent,Antonio N. Sabas,0
+Warren,Greenwich Twp,U.S. Senate,,Independent,Antonio N. Sabas,4
+Warren,Hacketstown Town,U.S. Senate,,Independent,Antonio N. Sabas,2
+Warren,Hardwick Twp,U.S. Senate,,Independent,Antonio N. Sabas,0
+Warren,Harmony Twp,U.S. Senate,,Independent,Antonio N. Sabas,2
+Warren,Hope Twp,U.S. Senate,,Independent,Antonio N. Sabas,2
+Warren,Independence Twp,U.S. Senate,,Independent,Antonio N. Sabas,4
+Warren,Knowlton Twp,U.S. Senate,,Independent,Antonio N. Sabas,2
+Warren,Liberty Twp,U.S. Senate,,Independent,Antonio N. Sabas,0
+Warren,Lopatcong Twp,U.S. Senate,,Independent,Antonio N. Sabas,6
+Warren,Mansfield Twp,U.S. Senate,,Independent,Antonio N. Sabas,1
+Warren,Oxford Twp,U.S. Senate,,Independent,Antonio N. Sabas,4
+Warren,Phillpsburg Town,U.S. Senate,,Independent,Antonio N. Sabas,11
+Warren,Pohatcong Twp,U.S. Senate,,Independent,Antonio N. Sabas,5
+Warren,Washington Boro,U.S. Senate,,Independent,Antonio N. Sabas,2
+Warren,Washington Twp,U.S. Senate,,Independent,Antonio N. Sabas,2
+Warren,White Twp,U.S. Senate,,Independent,Antonio N. Sabas,1
+Warren,Total,U.S. Senate,,Independent,Antonio N. Sabas,60
