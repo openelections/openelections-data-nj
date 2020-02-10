@@ -1,0 +1,168 @@
+county,precinct,office,district,party,candidate,votes
+Passaic,Ringwood,U.S. House,5,Republican,Scott Garrett,2008
+Passaic,West Milford,U.S. House,5,Republican,Scott Garrett,4379
+Passaic,Total,U.S. House,5,Republican,Scott Garrett,6387
+Passaic,Ringwood,U.S. House,5,Democratic,Roy Cho,1251
+Passaic,West Milford,U.S. House,5,Democratic,Roy Cho,1982
+Passaic,Total,U.S. House,5,Democratic,Roy Cho,3233
+Passaic,Ringwood,U.S. House,5,For Americans,Mark D. Quick,47
+Passaic,West Milford,U.S. House,5,For Americans,Mark D. Quick,132
+Passaic,Total,U.S. House,5,For Americans,Mark D. Quick,179
+Passaic,Clifton,U.S. House,9,Democratic,Bill Pascrell Jr.,9696
+Passaic,Haledon,U.S. House,9,Democratic,Bill Pascrell Jr.,1104
+Passaic,Hawthorne,U.S. House,9,Democratic,Bill Pascrell Jr.,2232
+Passaic,Passaic,U.S. House,9,Democratic,Bill Pascrell Jr.,4960
+Passaic,Patterson,U.S. House,9,Democratic,Bill Pascrell Jr.,16088
+Passaic,Prospect Park,U.S. House,9,Democratic,Bill Pascrell Jr.,907
+Passaic,Total,U.S. House,9,Democratic,Bill Pascrell Jr.,34987
+Passaic,Clifton,U.S. House,9,Republican,Dierdre G. Paul,4435
+Passaic,Haledon,U.S. House,9,Republican,Dierdre G. Paul,319
+Passaic,Hawthorne,U.S. House,9,Republican,Dierdre G. Paul,1779
+Passaic,Passaic,U.S. House,9,Republican,Dierdre G. Paul,1087
+Passaic,Patterson,U.S. House,9,Republican,Dierdre G. Paul,1025
+Passaic,Prospect Park,U.S. House,9,Republican,Dierdre G. Paul,175
+Passaic,Total,U.S. House,9,Republican,Dierdre G. Paul,8820
+Passaic,Clifton,U.S. House,9,Seeking Inclusion,Nestor Montilla,226
+Passaic,Haledon,U.S. House,9,Seeking Inclusion,Nestor Montilla,19
+Passaic,Hawthorne,U.S. House,9,Seeking Inclusion,Nestor Montilla,29
+Passaic,Passaic,U.S. House,9,Seeking Inclusion,Nestor Montilla,89
+Passaic,Patterson,U.S. House,9,Seeking Inclusion,Nestor Montilla,346
+Passaic,Prospect Park,U.S. House,9,Seeking Inclusion,Nestor Montilla,45
+Passaic,Total,U.S. House,9,Seeking Inclusion,Nestor Montilla,754
+Passaic,Bloomingdale,U.S. House,11,Republican,Rodney P. Frelinghuyen,1331
+Passaic,Little Falls,U.S. House,11,Republican,Rodney P. Frelinghuyen,1700
+Passaic,North Haledon,U.S. House,11,Republican,Rodney P. Frelinghuyen,2140
+Passaic,Pompton Lakes,U.S. House,11,Republican,Rodney P. Frelinghuyen,1476
+Passaic,Totowa,U.S. House,11,Republican,Rodney P. Frelinghuyen,2291
+Passaic,Wanaque,U.S. House,11,Republican,Rodney P. Frelinghuyen,1579
+Passaic,Wayne,U.S. House,11,Republican,Rodney P. Frelinghuyen,7595
+Passaic,Woodland Park,U.S. House,11,Republican,Rodney P. Frelinghuyen,1413
+Passaic,Total,U.S. House,11,Republican,Rodney P. Frelinghuyen,19525
+Passaic,Bloomingdale,U.S. House,11,Democratic,Mark Dunec,798
+Passaic,Little Falls,U.S. House,11,Democratic,Mark Dunec,1271
+Passaic,North Haledon,U.S. House,11,Democratic,Mark Dunec,915
+Passaic,Pompton Lakes,U.S. House,11,Democratic,Mark Dunec,866
+Passaic,Totowa,U.S. House,11,Democratic,Mark Dunec,599
+Passaic,Wanaque,U.S. House,11,Democratic,Mark Dunec,967
+Passaic,Wayne,U.S. House,11,Democratic,Mark Dunec,4167
+Passaic,Woodland Park,U.S. House,11,Democratic,Mark Dunec,1355
+Passaic,Total,U.S. House,11,Democratic,Mark Dunec,10938
+Passaic,Bloomingdale Boro,U.S. Senate,,Democratic,Cory Booker,1043
+Passaic,Clifton City,U.S. Senate,,Democratic,Cory Booker,8706
+Passaic,Haledon Boro,U.S. Senate,,Democratic,Cory Booker,1000
+Passaic,Hawthorne Boro,U.S. Senate,,Democratic,Cory Booker,2040
+Passaic,Little Falls Twp,U.S. Senate,,Democratic,Cory Booker,1624
+Passaic,North Haledon Boro,U.S. Senate,,Democratic,Cory Booker,1216
+Passaic,Passaic City,U.S. Senate,,Democratic,Cory Booker,5164
+Passaic,Paterson City,U.S. Senate,,Democratic,Cory Booker,16437
+Passaic,Pompton Lakes Boro,U.S. Senate,,Democratic,Cory Booker,1161
+Passaic,Prospect Park Boro,U.S. Senate,,Democratic,Cory Booker,868
+Passaic,Ringwood Boro,U.S. Senate,,Democratic,Cory Booker,1493
+Passaic,Totowa Boro,U.S. Senate,,Democratic,Cory Booker,928
+Passaic,Wanaque Boro,U.S. Senate,,Democratic,Cory Booker,1239
+Passaic,Wayne Twp,U.S. Senate,,Democratic,Cory Booker,5416
+Passaic,West Milford Twp,U.S. Senate,,Democratic,Cory Booker,2475
+Passaic,Woodland Park,U.S. Senate,,Democratic,Cory Booker,1723
+Passaic,Total,U.S. Senate,,Democratic,Cory Booker,52533
+Passaic,Bloomingdale Boro,U.S. Senate,,Republican,Jeff Bell,1107
+Passaic,Clifton City,U.S. Senate,,Republican,Jeff Bell,5203
+Passaic,Haledon Boro,U.S. Senate,,Republican,Jeff Bell,401
+Passaic,Hawthorne Boro,U.S. Senate,,Republican,Jeff Bell,1953
+Passaic,Little Falls Twp,U.S. Senate,,Republican,Jeff Bell,1449
+Passaic,North Haledon Boro,U.S. Senate,,Republican,Jeff Bell,1935
+Passaic,Passaic City,U.S. Senate,,Republican,Jeff Bell,1079
+Passaic,Paterson City,U.S. Senate,,Republican,Jeff Bell,1273
+Passaic,Pompton Lakes Boro,U.S. Senate,,Republican,Jeff Bell,1228
+Passaic,Prospect Park Boro,U.S. Senate,,Republican,Jeff Bell,202
+Passaic,Ringwood Boro,U.S. Senate,,Republican,Jeff Bell,1778
+Passaic,Totowa Boro,U.S. Senate,,Republican,Jeff Bell,2055
+Passaic,Wanaque Boro,U.S. Senate,,Republican,Jeff Bell,1357
+Passaic,Wayne Twp,U.S. Senate,,Republican,Jeff Bell,6588
+Passaic,West Milford Twp,U.S. Senate,,Republican,Jeff Bell,3853
+Passaic,Woodland Park,U.S. Senate,,Republican,Jeff Bell,1151
+Passaic,Total,U.S. Senate,,Republican,Jeff Bell,32612
+Passaic,Bloomingdale Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,12
+Passaic,Clifton City,U.S. Senate,,Libertarian Party,Joseph Baratelli,114
+Passaic,Haledon Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,4
+Passaic,Hawthorne Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,29
+Passaic,Little Falls Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,26
+Passaic,North Haledon Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,14
+Passaic,Passaic City,U.S. Senate,,Libertarian Party,Joseph Baratelli,25
+Passaic,Paterson City,U.S. Senate,,Libertarian Party,Joseph Baratelli,37
+Passaic,Pompton Lakes Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,14
+Passaic,Prospect Park Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,4
+Passaic,Ringwood Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,36
+Passaic,Totowa Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,8
+Passaic,Wanaque Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,24
+Passaic,Wayne Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,83
+Passaic,West Milford Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,67
+Passaic,Woodland Park,U.S. Senate,,Libertarian Party,Joseph Baratelli,28
+Passaic,Total,U.S. Senate,,Libertarian Party,Joseph Baratelli,525
+Passaic,Bloomingdale Boro,U.S. Senate,,Economic Growth,Hank Schroeder,18
+Passaic,Clifton City,U.S. Senate,,Economic Growth,Hank Schroeder,131
+Passaic,Haledon Boro,U.S. Senate,,Economic Growth,Hank Schroeder,3
+Passaic,Hawthorne Boro,U.S. Senate,,Economic Growth,Hank Schroeder,25
+Passaic,Little Falls Twp,U.S. Senate,,Economic Growth,Hank Schroeder,17
+Passaic,North Haledon Boro,U.S. Senate,,Economic Growth,Hank Schroeder,11
+Passaic,Passaic City,U.S. Senate,,Economic Growth,Hank Schroeder,28
+Passaic,Paterson City,U.S. Senate,,Economic Growth,Hank Schroeder,56
+Passaic,Pompton Lakes Boro,U.S. Senate,,Economic Growth,Hank Schroeder,4
+Passaic,Prospect Park Boro,U.S. Senate,,Economic Growth,Hank Schroeder,30
+Passaic,Ringwood Boro,U.S. Senate,,Economic Growth,Hank Schroeder,16
+Passaic,Totowa Boro,U.S. Senate,,Economic Growth,Hank Schroeder,4
+Passaic,Wanaque Boro,U.S. Senate,,Economic Growth,Hank Schroeder,14
+Passaic,Wayne Twp,U.S. Senate,,Economic Growth,Hank Schroeder,56
+Passaic,West Milford Twp,U.S. Senate,,Economic Growth,Hank Schroeder,81
+Passaic,Woodland Park,U.S. Senate,,Economic Growth,Hank Schroeder,16
+Passaic,Total,U.S. Senate,,Economic Growth,Hank Schroeder,510
+Passaic,Bloomingdale Boro,U.S. Senate,,Independent,Jeff Boss,5
+Passaic,Clifton City,U.S. Senate,,Independent,Jeff Boss,67
+Passaic,Haledon Boro,U.S. Senate,,Independent,Jeff Boss,1
+Passaic,Hawthorne Boro,U.S. Senate,,Independent,Jeff Boss,6
+Passaic,Little Falls Twp,U.S. Senate,,Independent,Jeff Boss,5
+Passaic,North Haledon Boro,U.S. Senate,,Independent,Jeff Boss,4
+Passaic,Passaic City,U.S. Senate,,Independent,Jeff Boss,19
+Passaic,Paterson City,U.S. Senate,,Independent,Jeff Boss,44
+Passaic,Pompton Lakes Boro,U.S. Senate,,Independent,Jeff Boss,7
+Passaic,Prospect Park Boro,U.S. Senate,,Independent,Jeff Boss,4
+Passaic,Ringwood Boro,U.S. Senate,,Independent,Jeff Boss,2
+Passaic,Totowa Boro,U.S. Senate,,Independent,Jeff Boss,3
+Passaic,Wanaque Boro,U.S. Senate,,Independent,Jeff Boss,5
+Passaic,Wayne Twp,U.S. Senate,,Independent,Jeff Boss,20
+Passaic,West Milford Twp,U.S. Senate,,Independent,Jeff Boss,21
+Passaic,Woodland Park,U.S. Senate,,Independent,Jeff Boss,9
+Passaic,Total,U.S. Senate,,Independent,Jeff Boss,222
+Passaic,Bloomingdale Boro,U.S. Senate,,Independent,Antonio N. Sabas,7
+Passaic,Clifton City,U.S. Senate,,Independent,Antonio N. Sabas,47
+Passaic,Haledon Boro,U.S. Senate,,Independent,Antonio N. Sabas,2
+Passaic,Hawthorne Boro,U.S. Senate,,Independent,Antonio N. Sabas,1
+Passaic,Little Falls Twp,U.S. Senate,,Independent,Antonio N. Sabas,7
+Passaic,North Haledon Boro,U.S. Senate,,Independent,Antonio N. Sabas,7
+Passaic,Passaic City,U.S. Senate,,Independent,Antonio N. Sabas,18
+Passaic,Paterson City,U.S. Senate,,Independent,Antonio N. Sabas,53
+Passaic,Pompton Lakes Boro,U.S. Senate,,Independent,Antonio N. Sabas,1
+Passaic,Prospect Park Boro,U.S. Senate,,Independent,Antonio N. Sabas,2
+Passaic,Ringwood Boro,U.S. Senate,,Independent,Antonio N. Sabas,4
+Passaic,Totowa Boro,U.S. Senate,,Independent,Antonio N. Sabas,1
+Passaic,Wanaque Boro,U.S. Senate,,Independent,Antonio N. Sabas,6
+Passaic,Wayne Twp,U.S. Senate,,Independent,Antonio N. Sabas,19
+Passaic,West Milford Twp,U.S. Senate,,Independent,Antonio N. Sabas,14
+Passaic,Woodland Park,U.S. Senate,,Independent,Antonio N. Sabas,6
+Passaic,Total,U.S. Senate,,Independent,Antonio N. Sabas,195
+Passaic,Bloomingdale Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,2
+Passaic,Clifton City,U.S. Senate,,D-R Party,Eugene Martin LaVergne,11
+Passaic,Haledon Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,0
+Passaic,Hawthorne Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,3
+Passaic,Little Falls Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,1
+Passaic,North Haledon Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,0
+Passaic,Passaic City,U.S. Senate,,D-R Party,Eugene Martin LaVergne,7
+Passaic,Paterson City,U.S. Senate,,D-R Party,Eugene Martin LaVergne,16
+Passaic,Pompton Lakes Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,1
+Passaic,Prospect Park Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,0
+Passaic,Ringwood Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,1
+Passaic,Totowa Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,0
+Passaic,Wanaque Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,0
+Passaic,Wayne Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,6
+Passaic,West Milford Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,6
+Passaic,Woodland Park,U.S. Senate,,D-R Party,Eugene Martin LaVergne,2
+Passaic,Total,U.S. Senate,,D-R Party,Eugene Martin LaVergne,56
