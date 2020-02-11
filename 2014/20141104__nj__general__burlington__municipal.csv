@@ -1,0 +1,438 @@
+county,municipality,office,district,party,candidate,votes
+Burlington,Maple Shade Twp,U.S House,1,Democratic,Donald W. Norcross,1983
+Burlington,Palmyra Boro,U.S House,1,Democratic,Donald W. Norcross,1165
+Burlington,Total,U.S House,1,Democratic,Donald W. Norcross,3148
+Burlington,Maple Shade Twp,U.S House,1,Republican,Garry W. Cobb,1409
+Burlington,Palmyra Boro,U.S House,1,Republican,Garry W. Cobb,835
+Burlington,Total,U.S House,1,Republican,Garry W. Cobb,2244
+Burlington,Maple Shade Twp,U.S House,1,We Deserve Better,Scot John Tomaszewski,32
+Burlington,Palmyra Boro,U.S House,1,We Deserve Better,Scot John Tomaszewski,8
+Burlington,Total,U.S House,1,We Deserve Better,Scot John Tomaszewski,40
+Burlington,Maple Shade Twp,U.S House,1,Stop Boss Politics,Robert Shapiro,10
+Burlington,Palmyra Boro,U.S House,1,Stop Boss Politics,Robert Shapiro,11
+Burlington,Total,U.S House,1,Stop Boss Politics,Robert Shapiro,21
+Burlington,Maple Shade Twp,U.S House,1,Change is Needed,Margaret M. Chapman,6
+Burlington,Palmyra Boro,U.S House,1,Change is Needed,Margaret M. Chapman,14
+Burlington,Total,U.S House,1,Change is Needed,Margaret M. Chapman,20
+Burlington,Maple Shade Twp,U.S House,1,Of The People,Mike Berman,7
+Burlington,Palmyra Boro,U.S House,1,Of The People,Mike Berman,2
+Burlington,Total,U.S House,1,Of The People,Mike Berman,9
+Burlington,Maple Shade Twp,U.S House,1,D-R Party,Donald E. Letton,2
+Burlington,Palmyra Boro,U.S House,1,D-R Party,Donald E. Letton,5
+Burlington,Total,U.S House,1,D-R Party,Donald E. Letton,7
+Burlington,Bass River,U.S House,2,Republican,Frank A. LoBiondo,248
+Burlington,Washington Twp,U.S House,2,Republican,Frank A. LoBiondo,161
+Burlington,Total,U.S House,2,Republican,Frank A. LoBiondo,409
+Burlington,Bass River,U.S House,2,Democratic,William J. Hughes Jr.,106
+Burlington,Washington Twp,U.S House,2,Democratic,William J. Hughes Jr.,57
+Burlington,Total,U.S House,2,Democratic,William J. Hughes Jr.,163
+Burlington,Bass River,U.S House,2,D-R Party,Alexander H. Spano,0
+Burlington,Washington Twp,U.S House,2,D-R Party,Alexander H. Spano,1
+Burlington,Total,U.S House,2,D-R Party,Alexander H. Spano,1
+Burlington,Bass River,U.S House,2,Independent,Gary Stein,0
+Burlington,Washington Twp,U.S House,2,Independent,Gary Stein,0
+Burlington,Total,U.S House,2,Independent,Gary Stein,0
+Burlington,Bass River,U.S House,2,American Labor Party,Constantino Rozzo,1
+Burlington,Washington Twp,U.S House,2,American Labor Party,Constantino Rozzo,0
+Burlington,Total,U.S House,2,American Labor Party,Constantino Rozzo,1
+Burlington,Bass River,U.S House,2,Independent,Bayode Olabisi,1
+Burlington,Washington Twp,U.S House,2,Independent,Bayode Olabisi,0
+Burlington,Total,U.S House,2,Independent,Bayode Olabisi,1
+Burlington,Beverly City,U.S. House,3,Republican,Tom MacArthur,244
+Burlington,Bordentown City,U.S. House,3,Republican,Tom MacArthur,415
+Burlington,Bordentown Twp,U.S. House,3,Republican,Tom MacArthur,1367
+Burlington,Burlington City,U.S. House,3,Republican,Tom MacArthur,787
+Burlington,Burlington Twp,U.S. House,3,Republican,Tom MacArthur,2076
+Burlington,Chesterfield Twp,U.S. House,3,Republican,Tom MacArthur,820
+Burlington,Cinnaminson Twp,U.S. House,3,Republican,Tom MacArthur,2860
+Burlington,Delanco Twp,U.S. House,3,Republican,Tom MacArthur,692
+Burlington,Delran Twp,U.S. House,3,Republican,Tom MacArthur,2174
+Burlington,Eastampton Twp,U.S. House,3,Republican,Tom MacArthur,743
+Burlington,Edgewater Park Twp.,U.S. House,3,Republican,Tom MacArthur,807
+Burlington,Evesham Twp,U.S. House,3,Republican,Tom MacArthur,6850
+Burlington,Fieldsboro Boro,U.S. House,3,Republican,Tom MacArthur,55
+Burlington,Florence Twp,U.S. House,3,Republican,Tom MacArthur,1770
+Burlington,Hainespirt Twp,U.S. House,3,Republican,Tom MacArthur,1098
+Burlington,Lumberton Twp,U.S. House,3,Republican,Tom MacArthur,1592
+Burlington,Mansfield Twp,U.S. House,3,Republican,Tom MacArthur,1832
+Burlington,Medford Lakes Boro,U.S. House,3,Republican,Tom MacArthur,821
+Burlington,Medford Twp,U.S. House,3,Republican,Tom MacArthur,4361
+Burlington,Moorestown Twp,U.S. House,3,Republican,Tom MacArthur,3778
+Burlington,Mount Holly Twp,U.S. House,3,Republican,Tom MacArthur,769
+Burlington,Mount Laurel Twp,U.S. House,3,Republican,Tom MacArthur,6303
+Burlington,New Hanover Twp,U.S. House,3,Republican,Tom MacArthur,158
+Burlington,North Hanover Twp,U.S. House,3,Republican,Tom MacArthur,766
+Burlington,Pemberton Boro,U.S. House,3,Republican,Tom MacArthur,220
+Burlington,Pemberton Twp,U.S. House,3,Republican,Tom MacArthur,2405
+Burlington,Riverside,U.S. House,3,Republican,Tom MacArthur,656
+Burlington,Riverton Boro,U.S. House,3,Republican,Tom MacArthur,462
+Burlington,Shamong Twp,U.S. House,3,Republican,Tom MacArthur,1207
+Burlington,Southampton Twp,U.S. House,3,Republican,Tom MacArthur,2273
+Burlington,Springfield Twp,U.S. House,3,Republican,Tom MacArthur,745
+Burlington,Tabernacle Twp,U.S. House,3,Republican,Tom MacArthur,1449
+Burlington,Westampton Twp,U.S. House,3,Republican,Tom MacArthur,1001
+Burlington,Willingboro Twp,U.S. House,3,Republican,Tom MacArthur,1063
+Burlington,Woodland Twp,U.S. House,3,Republican,Tom MacArthur,287
+Burlington,Wrightstown Boro,U.S. House,3,Republican,Tom MacArthur,47
+Burlington,Total,U.S. House,3,Republican,Tom MacArthur,54953
+Burlington,Beverly City,U.S. House,3,Democratic,Aimee Belgard,321
+Burlington,Bordentown City,U.S. House,3,Democratic,Aimee Belgard,626
+Burlington,Bordentown Twp,U.S. House,3,Democratic,Aimee Belgard,1299
+Burlington,Burlington City,U.S. House,3,Democratic,Aimee Belgard,1497
+Burlington,Burlington Twp,U.S. House,3,Democratic,Aimee Belgard,3715
+Burlington,Chesterfield Twp,U.S. House,3,Democratic,Aimee Belgard,602
+Burlington,Cinnaminson Twp,U.S. House,3,Democratic,Aimee Belgard,2041
+Burlington,Delanco Twp,U.S. House,3,Democratic,Aimee Belgard,695
+Burlington,Delran Twp,U.S. House,3,Democratic,Aimee Belgard,2072
+Burlington,Eastampton Twp,U.S. House,3,Democratic,Aimee Belgard,775
+Burlington,Edgewater Park Twp.,U.S. House,3,Democratic,Aimee Belgard,1388
+Burlington,Evesham Twp,U.S. House,3,Democratic,Aimee Belgard,5223
+Burlington,Fieldsboro Boro,U.S. House,3,Democratic,Aimee Belgard,81
+Burlington,Florence Twp,U.S. House,3,Democratic,Aimee Belgard,1405
+Burlington,Hainespirt Twp,U.S. House,3,Democratic,Aimee Belgard,737
+Burlington,Lumberton Twp,U.S. House,3,Democratic,Aimee Belgard,1596
+Burlington,Mansfield Twp,U.S. House,3,Democratic,Aimee Belgard,1240
+Burlington,Medford Lakes Boro,U.S. House,3,Democratic,Aimee Belgard,601
+Burlington,Medford Twp,U.S. House,3,Democratic,Aimee Belgard,2619
+Burlington,Moorestown Twp,U.S. House,3,Democratic,Aimee Belgard,3004
+Burlington,Mount Holly Twp,U.S. House,3,Democratic,Aimee Belgard,1114
+Burlington,Mount Laurel Twp,U.S. House,3,Democratic,Aimee Belgard,5677
+Burlington,New Hanover Twp,U.S. House,3,Democratic,Aimee Belgard,65
+Burlington,North Hanover Twp,U.S. House,3,Democratic,Aimee Belgard,435
+Burlington,Pemberton Boro,U.S. House,3,Democratic,Aimee Belgard,180
+Burlington,Pemberton Twp,U.S. House,3,Democratic,Aimee Belgard,2755
+Burlington,Riverside,U.S. House,3,Democratic,Aimee Belgard,639
+Burlington,Riverton Boro,U.S. House,3,Democratic,Aimee Belgard,437
+Burlington,Shamong Twp,U.S. House,3,Democratic,Aimee Belgard,496
+Burlington,Southampton Twp,U.S. House,3,Democratic,Aimee Belgard,1027
+Burlington,Springfield Twp,U.S. House,3,Democratic,Aimee Belgard,333
+Burlington,Tabernacle Twp,U.S. House,3,Democratic,Aimee Belgard,597
+Burlington,Westampton Twp,U.S. House,3,Democratic,Aimee Belgard,1600
+Burlington,Willingboro Twp,U.S. House,3,Democratic,Aimee Belgard,8239
+Burlington,Woodland Twp,U.S. House,3,Democratic,Aimee Belgard,136
+Burlington,Wrightstown Boro,U.S. House,3,Democratic,Aimee Belgard,38
+Burlington,Total,U.S. House,3,Democratic,Aimee Belgard,55305
+Burlington,Beverly City,U.S. House,3,D-R Party,Frederick John LaVergne,7
+Burlington,Bordentown City,U.S. House,3,D-R Party,Frederick John LaVergne,18
+Burlington,Bordentown Twp,U.S. House,3,D-R Party,Frederick John LaVergne,29
+Burlington,Burlington City,U.S. House,3,D-R Party,Frederick John LaVergne,35
+Burlington,Burlington Twp,U.S. House,3,D-R Party,Frederick John LaVergne,57
+Burlington,Chesterfield Twp,U.S. House,3,D-R Party,Frederick John LaVergne,10
+Burlington,Cinnaminson Twp,U.S. House,3,D-R Party,Frederick John LaVergne,33
+Burlington,Delanco Twp,U.S. House,3,D-R Party,Frederick John LaVergne,34
+Burlington,Delran Twp,U.S. House,3,D-R Party,Frederick John LaVergne,43
+Burlington,Eastampton Twp,U.S. House,3,D-R Party,Frederick John LaVergne,11
+Burlington,Edgewater Park Twp.,U.S. House,3,D-R Party,Frederick John LaVergne,28
+Burlington,Evesham Twp,U.S. House,3,D-R Party,Frederick John LaVergne,81
+Burlington,Fieldsboro Boro,U.S. House,3,D-R Party,Frederick John LaVergne,4
+Burlington,Florence Twp,U.S. House,3,D-R Party,Frederick John LaVergne,29
+Burlington,Hainespirt Twp,U.S. House,3,D-R Party,Frederick John LaVergne,13
+Burlington,Lumberton Twp,U.S. House,3,D-R Party,Frederick John LaVergne,18
+Burlington,Mansfield Twp,U.S. House,3,D-R Party,Frederick John LaVergne,20
+Burlington,Medford Lakes Boro,U.S. House,3,D-R Party,Frederick John LaVergne,9
+Burlington,Medford Twp,U.S. House,3,D-R Party,Frederick John LaVergne,46
+Burlington,Moorestown Twp,U.S. House,3,D-R Party,Frederick John LaVergne,37
+Burlington,Mount Holly Twp,U.S. House,3,D-R Party,Frederick John LaVergne,22
+Burlington,Mount Laurel Twp,U.S. House,3,D-R Party,Frederick John LaVergne,90
+Burlington,New Hanover Twp,U.S. House,3,D-R Party,Frederick John LaVergne,1
+Burlington,North Hanover Twp,U.S. House,3,D-R Party,Frederick John LaVergne,15
+Burlington,Pemberton Boro,U.S. House,3,D-R Party,Frederick John LaVergne,4
+Burlington,Pemberton Twp,U.S. House,3,D-R Party,Frederick John LaVergne,87
+Burlington,Riverside,U.S. House,3,D-R Party,Frederick John LaVergne,30
+Burlington,Riverton Boro,U.S. House,3,D-R Party,Frederick John LaVergne,8
+Burlington,Shamong Twp,U.S. House,3,D-R Party,Frederick John LaVergne,14
+Burlington,Southampton Twp,U.S. House,3,D-R Party,Frederick John LaVergne,30
+Burlington,Springfield Twp,U.S. House,3,D-R Party,Frederick John LaVergne,12
+Burlington,Tabernacle Twp,U.S. House,3,D-R Party,Frederick John LaVergne,27
+Burlington,Westampton Twp,U.S. House,3,D-R Party,Frederick John LaVergne,17
+Burlington,Willingboro Twp,U.S. House,3,D-R Party,Frederick John LaVergne,85
+Burlington,Woodland Twp,U.S. House,3,D-R Party,Frederick John LaVergne,11
+Burlington,Wrightstown Boro,U.S. House,3,D-R Party,Frederick John LaVergne,0
+Burlington,Total,U.S. House,3,D-R Party,Frederick John LaVergne,1015
+Burlington,Bass River Twp,U.S. Senate,,Democratic,Cory Booker,118
+Burlington,Beverly City,U.S. Senate,,Democratic,Cory Booker,351
+Burlington,Bordentown City,U.S. Senate,,Democratic,Cory Booker,693
+Burlington,Bordentown Twp,U.S. Senate,,Democratic,Cory Booker,1489
+Burlington,Burlington City,U.S. Senate,,Democratic,Cory Booker,1648
+Burlington,Burlington Twp,U.S. Senate,,Democratic,Cory Booker,4008
+Burlington,Chesterfield Twp,U.S. Senate,,Democratic,Cory Booker,647
+Burlington,Cinnaminson Twp,U.S. Senate,,Democratic,Cory Booker,2271
+Burlington,Delanco Twp,U.S. Senate,,Democratic,Cory Booker,801
+Burlington,Delran Twp,U.S. Senate,,Democratic,Cory Booker,2303
+Burlington,Eastampton Twp,U.S. Senate,,Democratic,Cory Booker,886
+Burlington,Edgewater Park Twp,U.S. Senate,,Democratic,Cory Booker,1532
+Burlington,Evesham Twp,U.S. Senate,,Democratic,Cory Booker,5970
+Burlington,Fieldsboro Boro,U.S. Senate,,Democratic,Cory Booker,89
+Burlington,Florence Twp,U.S. Senate,,Democratic,Cory Booker,1562
+Burlington,Hainesport Twp,U.S. Senate,,Democratic,Cory Booker,830
+Burlington,Lumberton Twp,U.S. Senate,,Democratic,Cory Booker,1792
+Burlington,Mansfield Twp,U.S. Senate,,Democratic,Cory Booker,1385
+Burlington,Maple Shade Twp,U.S. Senate,,Democratic,Cory Booker,2045
+Burlington,Medford Lakes Boro,U.S. Senate,,Democratic,Cory Booker,644
+Burlington,Medford Twp,U.S. Senate,,Democratic,Cory Booker,2897
+Burlington,Moorestown Twp,U.S. Senate,,Democratic,Cory Booker,3363
+Burlington,Mount Holly Twp,U.S. Senate,,Democratic,Cory Booker,1239
+Burlington,Mount Laurel Twp,U.S. Senate,,Democratic,Cory Booker,6391
+Burlington,New Hanover Twp,U.S. Senate,,Democratic,Cory Booker,71
+Burlington,North Hanover Twp,U.S. Senate,,Democratic,Cory Booker,434
+Burlington,Palmyra Boro,U.S. Senate,,Democratic,Cory Booker,1240
+Burlington,Pemberton Boro,U.S. Senate,,Democratic,Cory Booker,190
+Burlington,Pemberton Twp,U.S. Senate,,Democratic,Cory Booker,3086
+Burlington,Riverside Twp,U.S. Senate,,Democratic,Cory Booker,710
+Burlington,Riverton Boro,U.S. Senate,,Democratic,Cory Booker,480
+Burlington,Shamong Twp,U.S. Senate,,Democratic,Cory Booker,554
+Burlington,Southampton Twp,U.S. Senate,,Democratic,Cory Booker,1167
+Burlington,Springfield Twp,U.S. Senate,,Democratic,Cory Booker,365
+Burlington,Tabernacle Twp,U.S. Senate,,Democratic,Cory Booker,645
+Burlington,Washington Twp,U.S. Senate,,Democratic,Cory Booker,75
+Burlington,Westampton Twp,U.S. Senate,,Democratic,Cory Booker,1754
+Burlington,Willingboro Twp,U.S. Senate,,Democratic,Cory Booker,8822
+Burlington,Woodland Twp,U.S. Senate,,Democratic,Cory Booker,145
+Burlington,Wrightstown Boro,U.S. Senate,,Democratic,Cory Booker,38
+Burlington,Total,U.S. Senate,,Democratic,Cory Booker,64730
+Burlington,Bass River Twp,U.S. Senate,,Republican,Jeff Bell,222
+Burlington,Beverly City,U.S. Senate,,Republican,Jeff Bell,212
+Burlington,Bordentown City,U.S. Senate,,Republican,Jeff Bell,365
+Burlington,Bordentown Twp,U.S. Senate,,Republican,Jeff Bell,1222
+Burlington,Burlington City,U.S. Senate,,Republican,Jeff Bell,688
+Burlington,Burlington Twp,U.S. Senate,,Republican,Jeff Bell,1874
+Burlington,Chesterfield Twp,U.S. Senate,,Republican,Jeff Bell,760
+Burlington,Cinnaminson Twp,U.S. Senate,,Republican,Jeff Bell,2638
+Burlington,Delanco Twp,U.S. Senate,,Republican,Jeff Bell,612
+Burlington,Delran Twp,U.S. Senate,,Republican,Jeff Bell,1971
+Burlington,Eastampton Twp,U.S. Senate,,Republican,Jeff Bell,651
+Burlington,Edgewater Park Twp,U.S. Senate,,Republican,Jeff Bell,717
+Burlington,Evesham Twp,U.S. Senate,,Republican,Jeff Bell,6201
+Burlington,Fieldsboro Boro,U.S. Senate,,Republican,Jeff Bell,54
+Burlington,Florence Twp,U.S. Senate,,Republican,Jeff Bell,1644
+Burlington,Hainesport Twp,U.S. Senate,,Republican,Jeff Bell,1018
+Burlington,Lumberton Twp,U.S. Senate,,Republican,Jeff Bell,1417
+Burlington,Mansfield Twp,U.S. Senate,,Republican,Jeff Bell,1726
+Burlington,Maple Shade Twp,U.S. Senate,,Republican,Jeff Bell,1361
+Burlington,Medford Lakes Boro,U.S. Senate,,Republican,Jeff Bell,784
+Burlington,Medford Twp,U.S. Senate,,Republican,Jeff Bell,4110
+Burlington,Moorestown Twp,U.S. Senate,,Republican,Jeff Bell,3476
+Burlington,Mount Holly Twp,U.S. Senate,,Republican,Jeff Bell,667
+Burlington,Mount Laurel Twp,U.S. Senate,,Republican,Jeff Bell,5714
+Burlington,New Hanover Twp,U.S. Senate,,Republican,Jeff Bell,149
+Burlington,North Hanover Twp,U.S. Senate,,Republican,Jeff Bell,758
+Burlington,Palmyra Boro,U.S. Senate,,Republican,Jeff Bell,791
+Burlington,Pemberton Boro,U.S. Senate,,Republican,Jeff Bell,209
+Burlington,Pemberton Twp,U.S. Senate,,Republican,Jeff Bell,2153
+Burlington,Riverside Twp,U.S. Senate,,Republican,Jeff Bell,596
+Burlington,Riverton Boro,U.S. Senate,,Republican,Jeff Bell,412
+Burlington,Shamong Twp,U.S. Senate,,Republican,Jeff Bell,1170
+Burlington,Southampton Twp,U.S. Senate,,Republican,Jeff Bell,2127
+Burlington,Springfield Twp,U.S. Senate,,Republican,Jeff Bell,726
+Burlington,Tabernacle Twp,U.S. Senate,,Republican,Jeff Bell,1382
+Burlington,Washington Twp,U.S. Senate,,Republican,Jeff Bell,123
+Burlington,Westampton Twp,U.S. Senate,,Republican,Jeff Bell,882
+Burlington,Willingboro Twp,U.S. Senate,,Republican,Jeff Bell,820
+Burlington,Woodland Twp,U.S. Senate,,Republican,Jeff Bell,274
+Burlington,Wrightstown Boro,U.S. Senate,,Republican,Jeff Bell,45
+Burlington,Total,U.S. Senate,,Republican,Jeff Bell,52721
+Burlington,Bass River Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,4
+Burlington,Beverly City,U.S. Senate,,Libertarian Party,Joseph Baratelli,5
+Burlington,Bordentown City,U.S. Senate,,Libertarian Party,Joseph Baratelli,18
+Burlington,Bordentown Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,25
+Burlington,Burlington City,U.S. Senate,,Libertarian Party,Joseph Baratelli,16
+Burlington,Burlington Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,42
+Burlington,Chesterfield Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,19
+Burlington,Cinnaminson Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,32
+Burlington,Delanco Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,11
+Burlington,Delran Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,26
+Burlington,Eastampton Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,9
+Burlington,Edgewater Park Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,11
+Burlington,Evesham Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,91
+Burlington,Fieldsboro Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,4
+Burlington,Florence Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,36
+Burlington,Hainesport Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,18
+Burlington,Lumberton Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,17
+Burlington,Mansfield Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,25
+Burlington,Maple Shade Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,33
+Burlington,Medford Lakes Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,19
+Burlington,Medford Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,55
+Burlington,Moorestown Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,45
+Burlington,Mount Holly Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,17
+Burlington,Mount Laurel Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,86
+Burlington,New Hanover Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,1
+Burlington,North Hanover Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,14
+Burlington,Palmyra Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,21
+Burlington,Pemberton Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,1
+Burlington,Pemberton Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,45
+Burlington,Riverside Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,14
+Burlington,Riverton Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,9
+Burlington,Shamong Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,13
+Burlington,Southampton Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,25
+Burlington,Springfield Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,14
+Burlington,Tabernacle Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,30
+Burlington,Washington Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,2
+Burlington,Westampton Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,27
+Burlington,Willingboro Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,17
+Burlington,Woodland Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,9
+Burlington,Wrightstown Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,1
+Burlington,Total,U.S. Senate,,Libertarian Party,Joseph Baratelli,907
+Burlington,Bass River Twp,U.S. Senate,,Independent,Jeff Boss,1
+Burlington,Beverly City,U.S. Senate,,Independent,Jeff Boss,3
+Burlington,Bordentown City,U.S. Senate,,Independent,Jeff Boss,6
+Burlington,Bordentown Twp,U.S. Senate,,Independent,Jeff Boss,9
+Burlington,Burlington City,U.S. Senate,,Independent,Jeff Boss,8
+Burlington,Burlington Twp,U.S. Senate,,Independent,Jeff Boss,8
+Burlington,Chesterfield Twp,U.S. Senate,,Independent,Jeff Boss,6
+Burlington,Cinnaminson Twp,U.S. Senate,,Independent,Jeff Boss,11
+Burlington,Delanco Twp,U.S. Senate,,Independent,Jeff Boss,1
+Burlington,Delran Twp,U.S. Senate,,Independent,Jeff Boss,11
+Burlington,Eastampton Twp,U.S. Senate,,Independent,Jeff Boss,4
+Burlington,Edgewater Park Twp,U.S. Senate,,Independent,Jeff Boss,3
+Burlington,Evesham Twp,U.S. Senate,,Independent,Jeff Boss,19
+Burlington,Fieldsboro Boro,U.S. Senate,,Independent,Jeff Boss,1
+Burlington,Florence Twp,U.S. Senate,,Independent,Jeff Boss,7
+Burlington,Hainesport Twp,U.S. Senate,,Independent,Jeff Boss,4
+Burlington,Lumberton Twp,U.S. Senate,,Independent,Jeff Boss,4
+Burlington,Mansfield Twp,U.S. Senate,,Independent,Jeff Boss,9
+Burlington,Maple Shade Twp,U.S. Senate,,Independent,Jeff Boss,7
+Burlington,Medford Lakes Boro,U.S. Senate,,Independent,Jeff Boss,6
+Burlington,Medford Twp,U.S. Senate,,Independent,Jeff Boss,12
+Burlington,Moorestown Twp,U.S. Senate,,Independent,Jeff Boss,6
+Burlington,Mount Holly Twp,U.S. Senate,,Independent,Jeff Boss,4
+Burlington,Mount Laurel Twp,U.S. Senate,,Independent,Jeff Boss,18
+Burlington,New Hanover Twp,U.S. Senate,,Independent,Jeff Boss,3
+Burlington,North Hanover Twp,U.S. Senate,,Independent,Jeff Boss,3
+Burlington,Palmyra Boro,U.S. Senate,,Independent,Jeff Boss,8
+Burlington,Pemberton Boro,U.S. Senate,,Independent,Jeff Boss,1
+Burlington,Pemberton Twp,U.S. Senate,,Independent,Jeff Boss,22
+Burlington,Riverside Twp,U.S. Senate,,Independent,Jeff Boss,11
+Burlington,Riverton Boro,U.S. Senate,,Independent,Jeff Boss,0
+Burlington,Shamong Twp,U.S. Senate,,Independent,Jeff Boss,1
+Burlington,Southampton Twp,U.S. Senate,,Independent,Jeff Boss,10
+Burlington,Springfield Twp,U.S. Senate,,Independent,Jeff Boss,3
+Burlington,Tabernacle Twp,U.S. Senate,,Independent,Jeff Boss,10
+Burlington,Washington Twp,U.S. Senate,,Independent,Jeff Boss,0
+Burlington,Westampton Twp,U.S. Senate,,Independent,Jeff Boss,3
+Burlington,Willingboro Twp,U.S. Senate,,Independent,Jeff Boss,12
+Burlington,Woodland Twp,U.S. Senate,,Independent,Jeff Boss,5
+Burlington,Wrightstown Boro,U.S. Senate,,Independent,Jeff Boss,2
+Burlington,Total,U.S. Senate,,Independent,Jeff Boss,262
+Burlington,Bass River Twp,U.S. Senate,,Economic Growth,Hank Schroeder,2
+Burlington,Beverly City,U.S. Senate,,Economic Growth,Hank Schroeder,2
+Burlington,Bordentown City,U.S. Senate,,Economic Growth,Hank Schroeder,1
+Burlington,Bordentown Twp,U.S. Senate,,Economic Growth,Hank Schroeder,7
+Burlington,Burlington City,U.S. Senate,,Economic Growth,Hank Schroeder,11
+Burlington,Burlington Twp,U.S. Senate,,Economic Growth,Hank Schroeder,12
+Burlington,Chesterfield Twp,U.S. Senate,,Economic Growth,Hank Schroeder,5
+Burlington,Cinnaminson Twp,U.S. Senate,,Economic Growth,Hank Schroeder,12
+Burlington,Delanco Twp,U.S. Senate,,Economic Growth,Hank Schroeder,3
+Burlington,Delran Twp,U.S. Senate,,Economic Growth,Hank Schroeder,11
+Burlington,Eastampton Twp,U.S. Senate,,Economic Growth,Hank Schroeder,5
+Burlington,Edgewater Park Twp,U.S. Senate,,Economic Growth,Hank Schroeder,1
+Burlington,Evesham Twp,U.S. Senate,,Economic Growth,Hank Schroeder,32
+Burlington,Fieldsboro Boro,U.S. Senate,,Economic Growth,Hank Schroeder,0
+Burlington,Florence Twp,U.S. Senate,,Economic Growth,Hank Schroeder,9
+Burlington,Hainesport Twp,U.S. Senate,,Economic Growth,Hank Schroeder,2
+Burlington,Lumberton Twp,U.S. Senate,,Economic Growth,Hank Schroeder,5
+Burlington,Mansfield Twp,U.S. Senate,,Economic Growth,Hank Schroeder,3
+Burlington,Maple Shade Twp,U.S. Senate,,Economic Growth,Hank Schroeder,7
+Burlington,Medford Lakes Boro,U.S. Senate,,Economic Growth,Hank Schroeder,7
+Burlington,Medford Twp,U.S. Senate,,Economic Growth,Hank Schroeder,8
+Burlington,Moorestown Twp,U.S. Senate,,Economic Growth,Hank Schroeder,13
+Burlington,Mount Holly Twp,U.S. Senate,,Economic Growth,Hank Schroeder,3
+Burlington,Mount Laurel Twp,U.S. Senate,,Economic Growth,Hank Schroeder,15
+Burlington,New Hanover Twp,U.S. Senate,,Economic Growth,Hank Schroeder,0
+Burlington,North Hanover Twp,U.S. Senate,,Economic Growth,Hank Schroeder,7
+Burlington,Palmyra Boro,U.S. Senate,,Economic Growth,Hank Schroeder,7
+Burlington,Pemberton Boro,U.S. Senate,,Economic Growth,Hank Schroeder,1
+Burlington,Pemberton Twp,U.S. Senate,,Economic Growth,Hank Schroeder,15
+Burlington,Riverside Twp,U.S. Senate,,Economic Growth,Hank Schroeder,5
+Burlington,Riverton Boro,U.S. Senate,,Economic Growth,Hank Schroeder,2
+Burlington,Shamong Twp,U.S. Senate,,Economic Growth,Hank Schroeder,4
+Burlington,Southampton Twp,U.S. Senate,,Economic Growth,Hank Schroeder,7
+Burlington,Springfield Twp,U.S. Senate,,Economic Growth,Hank Schroeder,2
+Burlington,Tabernacle Twp,U.S. Senate,,Economic Growth,Hank Schroeder,1
+Burlington,Washington Twp,U.S. Senate,,Economic Growth,Hank Schroeder,1
+Burlington,Westampton Twp,U.S. Senate,,Economic Growth,Hank Schroeder,7
+Burlington,Willingboro Twp,U.S. Senate,,Economic Growth,Hank Schroeder,14
+Burlington,Woodland Twp,U.S. Senate,,Economic Growth,Hank Schroeder,5
+Burlington,Wrightstown Boro,U.S. Senate,,Economic Growth,Hank Schroeder,0
+Burlington,Total,U.S. Senate,,Economic Growth,Hank Schroeder,254
+Burlington,Bass River Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,1
+Burlington,Beverly City,U.S. Senate,,D-R Party,Eugene Martin LaVergne,2
+Burlington,Bordentown City,U.S. Senate,,D-R Party,Eugene Martin LaVergne,6
+Burlington,Bordentown Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,2
+Burlington,Burlington City,U.S. Senate,,D-R Party,Eugene Martin LaVergne,9
+Burlington,Burlington Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,8
+Burlington,Chesterfield Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,9
+Burlington,Cinnaminson Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,8
+Burlington,Delanco Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,13
+Burlington,Delran Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,9
+Burlington,Eastampton Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,2
+Burlington,Edgewater Park Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,5
+Burlington,Evesham Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,16
+Burlington,Fieldsboro Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,1
+Burlington,Florence Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,9
+Burlington,Hainesport Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,5
+Burlington,Lumberton Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,1
+Burlington,Mansfield Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,6
+Burlington,Maple Shade Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,2
+Burlington,Medford Lakes Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,2
+Burlington,Medford Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,17
+Burlington,Moorestown Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,8
+Burlington,Mount Holly Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,7
+Burlington,Mount Laurel Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,16
+Burlington,New Hanover Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,0
+Burlington,North Hanover Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,3
+Burlington,Palmyra Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,3
+Burlington,Pemberton Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,2
+Burlington,Pemberton Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,23
+Burlington,Riverside Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,5
+Burlington,Riverton Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,3
+Burlington,Shamong Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,1
+Burlington,Southampton Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,5
+Burlington,Springfield Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,2
+Burlington,Tabernacle Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,4
+Burlington,Washington Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,1
+Burlington,Westampton Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,3
+Burlington,Willingboro Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,18
+Burlington,Woodland Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,1
+Burlington,Wrightstown Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,0
+Burlington,Total,U.S. Senate,,D-R Party,Eugene Martin LaVergne,238
+Burlington,Bass River Twp,U.S. Senate,,Independent,Antonio N. Sabas,1
+Burlington,Beverly City,U.S. Senate,,Independent,Antonio N. Sabas,0
+Burlington,Bordentown City,U.S. Senate,,Independent,Antonio N. Sabas,5
+Burlington,Bordentown Twp,U.S. Senate,,Independent,Antonio N. Sabas,3
+Burlington,Burlington City,U.S. Senate,,Independent,Antonio N. Sabas,3
+Burlington,Burlington Twp,U.S. Senate,,Independent,Antonio N. Sabas,6
+Burlington,Chesterfield Twp,U.S. Senate,,Independent,Antonio N. Sabas,0
+Burlington,Cinnaminson Twp,U.S. Senate,,Independent,Antonio N. Sabas,1
+Burlington,Delanco Twp,U.S. Senate,,Independent,Antonio N. Sabas,1
+Burlington,Delran Twp,U.S. Senate,,Independent,Antonio N. Sabas,3
+Burlington,Eastampton Twp,U.S. Senate,,Independent,Antonio N. Sabas,2
+Burlington,Edgewater Park Twp,U.S. Senate,,Independent,Antonio N. Sabas,2
+Burlington,Evesham Twp,U.S. Senate,,Independent,Antonio N. Sabas,7
+Burlington,Fieldsboro Boro,U.S. Senate,,Independent,Antonio N. Sabas,1
+Burlington,Florence Twp,U.S. Senate,,Independent,Antonio N. Sabas,3
+Burlington,Hainesport Twp,U.S. Senate,,Independent,Antonio N. Sabas,2
+Burlington,Lumberton Twp,U.S. Senate,,Independent,Antonio N. Sabas,2
+Burlington,Mansfield Twp,U.S. Senate,,Independent,Antonio N. Sabas,4
+Burlington,Maple Shade Twp,U.S. Senate,,Independent,Antonio N. Sabas,3
+Burlington,Medford Lakes Boro,U.S. Senate,,Independent,Antonio N. Sabas,1
+Burlington,Medford Twp,U.S. Senate,,Independent,Antonio N. Sabas,5
+Burlington,Moorestown Twp,U.S. Senate,,Independent,Antonio N. Sabas,3
+Burlington,Mount Holly Twp,U.S. Senate,,Independent,Antonio N. Sabas,4
+Burlington,Mount Laurel Twp,U.S. Senate,,Independent,Antonio N. Sabas,5
+Burlington,New Hanover Twp,U.S. Senate,,Independent,Antonio N. Sabas,0
+Burlington,North Hanover Twp,U.S. Senate,,Independent,Antonio N. Sabas,0
+Burlington,Palmyra Boro,U.S. Senate,,Independent,Antonio N. Sabas,4
+Burlington,Pemberton Boro,U.S. Senate,,Independent,Antonio N. Sabas,0
+Burlington,Pemberton Twp,U.S. Senate,,Independent,Antonio N. Sabas,10
+Burlington,Riverside Twp,U.S. Senate,,Independent,Antonio N. Sabas,1
+Burlington,Riverton Boro,U.S. Senate,,Independent,Antonio N. Sabas,0
+Burlington,Shamong Twp,U.S. Senate,,Independent,Antonio N. Sabas,0
+Burlington,Southampton Twp,U.S. Senate,,Independent,Antonio N. Sabas,5
+Burlington,Springfield Twp,U.S. Senate,,Independent,Antonio N. Sabas,1
+Burlington,Tabernacle Twp,U.S. Senate,,Independent,Antonio N. Sabas,1
+Burlington,Washington Twp,U.S. Senate,,Independent,Antonio N. Sabas,0
+Burlington,Westampton Twp,U.S. Senate,,Independent,Antonio N. Sabas,0
+Burlington,Willingboro Twp,U.S. Senate,,Independent,Antonio N. Sabas,4
+Burlington,Woodland Twp,U.S. Senate,,Independent,Antonio N. Sabas,1
+Burlington,Wrightstown Boro,U.S. Senate,,Independent,Antonio N. Sabas,0
+Burlington,Total,U.S. Senate,,Independent,Antonio N. Sabas,94

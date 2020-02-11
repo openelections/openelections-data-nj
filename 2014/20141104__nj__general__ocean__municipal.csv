@@ -1,0 +1,386 @@
+county,municipality,office,district,party,candidate,votes
+Ocean,Barnegat Light,U.S. House,2,Republican,Frank A. LoBiondo,235
+Ocean,Beach Haven,U.S. House,2,Republican,Frank A. LoBiondo,308
+Ocean,Eagles wood Twp,U.S. House,2,Republican,Frank A. LoBiondo,295
+Ocean,Harvey Cedars Boro,U.S. House,2,Republican,Frank A. LoBiondo,127
+Ocean,Little Egg Harbor Twp,U.S. House,2,Republican,Frank A. LoBiondo,3444
+Ocean,Long Beach Twp,U.S. House,2,Republican,Frank A. LoBiondo,972
+Ocean,Ship Bottom Boro,U.S. House,2,Republican,Frank A. LoBiondo,272
+Ocean,Stafford Twp,U.S. House,2,Republican,Frank A. LoBiondo,1408
+Ocean,Surf City Boro,U.S. House,2,Republican,Frank A. LoBiondo,353
+Ocean,Tuckerton Boro,U.S. House,2,Republican,Frank A. LoBiondo,617
+Ocean,Total,U.S. House,2,Republican,Frank A. LoBiondo,8031
+Ocean,Barnegat Light,U.S. House,2,Democratic,William J. Hughes Jr.,105
+Ocean,Beach Haven,U.S. House,2,Democratic,William J. Hughes Jr.,125
+Ocean,Eagles wood Twp,U.S. House,2,Democratic,William J. Hughes Jr.,86
+Ocean,Harvey Cedars Boro,U.S. House,2,Democratic,William J. Hughes Jr.,78
+Ocean,Little Egg Harbor Twp,U.S. House,2,Democratic,William J. Hughes Jr.,1615
+Ocean,Long Beach Twp,U.S. House,2,Democratic,William J. Hughes Jr.,361
+Ocean,Ship Bottom Boro,U.S. House,2,Democratic,William J. Hughes Jr.,124
+Ocean,Stafford Twp,U.S. House,2,Democratic,William J. Hughes Jr.,593
+Ocean,Surf City Boro,U.S. House,2,Democratic,William J. Hughes Jr.,111
+Ocean,Tuckerton Boro,U.S. House,2,Democratic,William J. Hughes Jr.,240
+Ocean,Total,U.S. House,2,Democratic,William J. Hughes Jr.,3438
+Ocean,Barnegat Light,U.S. House,2,D-R Party,Alexander H. Spano,0
+Ocean,Beach Haven,U.S. House,2,D-R Party,Alexander H. Spano,4
+Ocean,Eagles wood Twp,U.S. House,2,D-R Party,Alexander H. Spano,1
+Ocean,Harvey Cedars Boro,U.S. House,2,D-R Party,Alexander H. Spano,1
+Ocean,Little Egg Harbor Twp,U.S. House,2,D-R Party,Alexander H. Spano,33
+Ocean,Long Beach Twp,U.S. House,2,D-R Party,Alexander H. Spano,13
+Ocean,Ship Bottom Boro,U.S. House,2,D-R Party,Alexander H. Spano,2
+Ocean,Stafford Twp,U.S. House,2,D-R Party,Alexander H. Spano,20
+Ocean,Surf City Boro,U.S. House,2,D-R Party,Alexander H. Spano,0
+Ocean,Tuckerton Boro,U.S. House,2,D-R Party,Alexander H. Spano,13
+Ocean,Total,U.S. House,2,D-R Party,Alexander H. Spano,87
+Ocean,Barnegat Light,U.S. House,2,Independent,Gary Stein,0
+Ocean,Beach Haven,U.S. House,2,Independent,Gary Stein,1
+Ocean,Eagles wood Twp,U.S. House,2,Independent,Gary Stein,1
+Ocean,Harvey Cedars Boro,U.S. House,2,Independent,Gary Stein,0
+Ocean,Little Egg Harbor Twp,U.S. House,2,Independent,Gary Stein,13
+Ocean,Long Beach Twp,U.S. House,2,Independent,Gary Stein,3
+Ocean,Ship Bottom Boro,U.S. House,2,Independent,Gary Stein,0
+Ocean,Stafford Twp,U.S. House,2,Independent,Gary Stein,5
+Ocean,Surf City Boro,U.S. House,2,Independent,Gary Stein,3
+Ocean,Tuckerton Boro,U.S. House,2,Independent,Gary Stein,4
+Ocean,Total,U.S. House,2,Independent,Gary Stein,30
+Ocean,Barnegat Light,U.S. House,2,American Labor Party,Constantino Rozzo,1
+Ocean,Beach Haven,U.S. House,2,American Labor Party,Constantino Rozzo,2
+Ocean,Eagles wood Twp,U.S. House,2,American Labor Party,Constantino Rozzo,2
+Ocean,Harvey Cedars Boro,U.S. House,2,American Labor Party,Constantino Rozzo,0
+Ocean,Little Egg Harbor Twp,U.S. House,2,American Labor Party,Constantino Rozzo,9
+Ocean,Long Beach Twp,U.S. House,2,American Labor Party,Constantino Rozzo,1
+Ocean,Ship Bottom Boro,U.S. House,2,American Labor Party,Constantino Rozzo,1
+Ocean,Stafford Twp,U.S. House,2,American Labor Party,Constantino Rozzo,2
+Ocean,Surf City Boro,U.S. House,2,American Labor Party,Constantino Rozzo,2
+Ocean,Tuckerton Boro,U.S. House,2,American Labor Party,Constantino Rozzo,2
+Ocean,Total,U.S. House,2,American Labor Party,Constantino Rozzo,22
+Ocean,Barnegat Light,U.S. House,2,Independent,Bayode Olabisi,1
+Ocean,Beach Haven,U.S. House,2,Independent,Bayode Olabisi,2
+Ocean,Eagles wood Twp,U.S. House,2,Independent,Bayode Olabisi,0
+Ocean,Harvey Cedars Boro,U.S. House,2,Independent,Bayode Olabisi,0
+Ocean,Little Egg Harbor Twp,U.S. House,2,Independent,Bayode Olabisi,24
+Ocean,Long Beach Twp,U.S. House,2,Independent,Bayode Olabisi,6
+Ocean,Ship Bottom Boro,U.S. House,2,Independent,Bayode Olabisi,1
+Ocean,Stafford Twp,U.S. House,2,Independent,Bayode Olabisi,6
+Ocean,Surf City Boro,U.S. House,2,Independent,Bayode Olabisi,2
+Ocean,Tuckerton Boro,U.S. House,2,Independent,Bayode Olabisi,4
+Ocean,Total,U.S. House,2,Independent,Bayode Olabisi,46
+Ocean,Barnegat Twp,U.S. House,3,Republican,Tom MacArthur,3330
+Ocean,Beachwood Boro,U.S. House,3,Republican,Tom MacArthur,1263
+Ocean,Berkeley Twp,U.S. House,3,Republican,Tom MacArthur,7027
+Ocean,Brick Twp,U.S. House,3,Republican,Tom MacArthur,9956
+Ocean,Island Heights Boro,U.S. House,3,Republican,Tom MacArthur,279
+Ocean,Lacey Twp,U.S. House,3,Republican,Tom MacArthur,4449
+Ocean,Lavallette Boro,U.S. House,3,Republican,Tom MacArthur,563
+Ocean,Mantoloking Boro,U.S. House,3,Republican,Tom MacArthur,115
+Ocean,Ocean Twp,U.S. House,3,Republican,Tom MacArthur,1877
+Ocean,Ocean Gate Boro,U.S. House,3,Republican,Tom MacArthur,365
+Ocean,Pine Beach Boro,U.S. House,3,Republican,Tom MacArthur,405
+Ocean,Point Pleasant Boro,U.S. House,3,Republican,Tom MacArthur,241
+Ocean,Seaside Heights Boro,U.S. House,3,Republican,Tom MacArthur,189
+Ocean,Seaside Park Boro,U.S. House,3,Republican,Tom MacArthur,401
+Ocean,South Toms River Boro,U.S. House,3,Republican,Tom MacArthur,342
+Ocean,Stafford Twp,U.S. House,3,Republican,Tom MacArthur,2380
+Ocean,Toms River Twp,U.S. House,3,Republican,Tom MacArthur,12336
+Ocean,Total,U.S. House,3,Republican,Tom MacArthur,45518
+Ocean,Barnegat Twp,U.S. House,3,Democratic,Aimee Belgard,2205
+Ocean,Beachwood Boro,U.S. House,3,Democratic,Aimee Belgard,888
+Ocean,Berkeley Twp,U.S. House,3,Democratic,Aimee Belgard,4170
+Ocean,Brick Twp,U.S. House,3,Democratic,Aimee Belgard,6536
+Ocean,Island Heights Boro,U.S. House,3,Democratic,Aimee Belgard,269
+Ocean,Lacey Twp,U.S. House,3,Democratic,Aimee Belgard,2206
+Ocean,Lavallette Boro,U.S. House,3,Democratic,Aimee Belgard,212
+Ocean,Mantoloking Boro,U.S. House,3,Democratic,Aimee Belgard,26
+Ocean,Ocean Twp,U.S. House,3,Democratic,Aimee Belgard,801
+Ocean,Ocean Gate Boro,U.S. House,3,Democratic,Aimee Belgard,286
+Ocean,Pine Beach Boro,U.S. House,3,Democratic,Aimee Belgard,271
+Ocean,Point Pleasant Boro,U.S. House,3,Democratic,Aimee Belgard,211
+Ocean,Seaside Heights Boro,U.S. House,3,Democratic,Aimee Belgard,65
+Ocean,Seaside Park Boro,U.S. House,3,Democratic,Aimee Belgard,193
+Ocean,South Toms River Boro,U.S. House,3,Democratic,Aimee Belgard,386
+Ocean,Stafford Twp,U.S. House,3,Democratic,Aimee Belgard,1376
+Ocean,Toms River Twp,U.S. House,3,Democratic,Aimee Belgard,7131
+Ocean,Total,U.S. House,3,Democratic,Aimee Belgard,27232
+Ocean,Barnegat Twp,U.S. House,3,D-R Party,Frederick John LaVergne,132
+Ocean,Beachwood Boro,U.S. House,3,D-R Party,Frederick John LaVergne,70
+Ocean,Berkeley Twp,U.S. House,3,D-R Party,Frederick John LaVergne,313
+Ocean,Brick Twp,U.S. House,3,D-R Party,Frederick John LaVergne,519
+Ocean,Island Heights Boro,U.S. House,3,D-R Party,Frederick John LaVergne,19
+Ocean,Lacey Twp,U.S. House,3,D-R Party,Frederick John LaVergne,263
+Ocean,Lavallette Boro,U.S. House,3,D-R Party,Frederick John LaVergne,9
+Ocean,Mantoloking Boro,U.S. House,3,D-R Party,Frederick John LaVergne,3
+Ocean,Ocean Twp,U.S. House,3,D-R Party,Frederick John LaVergne,67
+Ocean,Ocean Gate Boro,U.S. House,3,D-R Party,Frederick John LaVergne,16
+Ocean,Pine Beach Boro,U.S. House,3,D-R Party,Frederick John LaVergne,20
+Ocean,Point Pleasant Boro,U.S. House,3,D-R Party,Frederick John LaVergne,21
+Ocean,Seaside Heights Boro,U.S. House,3,D-R Party,Frederick John LaVergne,1
+Ocean,Seaside Park Boro,U.S. House,3,D-R Party,Frederick John LaVergne,10
+Ocean,South Toms River Boro,U.S. House,3,D-R Party,Frederick John LaVergne,37
+Ocean,Stafford Twp,U.S. House,3,D-R Party,Frederick John LaVergne,114
+Ocean,Toms River Twp,U.S. House,3,D-R Party,Frederick John LaVergne,466
+Ocean,Total,U.S. House,3,D-R Party,Frederick John LaVergne,2080
+Ocean,Bay Head Boro,U.S. House,4,Republican,Christopher H. Smith,340
+Ocean,Jackson Twp,U.S. House,4,Republican,Christopher H. Smith,8567
+Ocean,Lakehurst Boro,U.S. House,4,Republican,Christopher H. Smith,309
+Ocean,Lakewood Twp,U.S. House,4,Republican,Christopher H. Smith,11210
+Ocean,Manchester Twp,U.S. House,4,Republican,Christopher H. Smith,10343
+Ocean,Plumsted Twp,U.S. House,4,Republican,Christopher H. Smith,1502
+Ocean,Point Pleasant Boro,U.S. House,4,Republican,Christopher H. Smith,1073
+Ocean,PointPleasant Beach Bor<,U.S. House,4,Republican,Christopher H. Smith,3544
+Ocean,Total,U.S. House,4,Republican,Christopher H. Smith,36888
+Ocean,Bay Head Boro,U.S. House,4,Democratic,Ruben M. Scolavino,91
+Ocean,Jackson Twp,U.S. House,4,Democratic,Ruben M. Scolavino,3610
+Ocean,Lakehurst Boro,U.S. House,4,Democratic,Ruben M. Scolavino,95
+Ocean,Lakewood Twp,U.S. House,4,Democratic,Ruben M. Scolavino,2377
+Ocean,Manchester Twp,U.S. House,4,Democratic,Ruben M. Scolavino,3833
+Ocean,Plumsted Twp,U.S. House,4,Democratic,Ruben M. Scolavino,334
+Ocean,Point Pleasant Boro,U.S. House,4,Democratic,Ruben M. Scolavino,320
+Ocean,PointPleasant Beach Bor<,U.S. House,4,Democratic,Ruben M. Scolavino,1156
+Ocean,Total,U.S. House,4,Democratic,Ruben M. Scolavino,11816
+Ocean,Bay Head Boro,U.S. House,4,D-R Party,Scott Neuman,11
+Ocean,Jackson Twp,U.S. House,4,D-R Party,Scott Neuman,206
+Ocean,Lakehurst Boro,U.S. House,4,D-R Party,Scott Neuman,9
+Ocean,Lakewood Twp,U.S. House,4,D-R Party,Scott Neuman,103
+Ocean,Manchester Twp,U.S. House,4,D-R Party,Scott Neuman,256
+Ocean,Plumsted Twp,U.S. House,4,D-R Party,Scott Neuman,40
+Ocean,Point Pleasant Boro,U.S. House,4,D-R Party,Scott Neuman,22
+Ocean,PointPleasant Beach Bor<,U.S. House,4,D-R Party,Scott Neuman,70
+Ocean,Total,U.S. House,4,D-R Party,Scott Neuman,717
+Ocean,Barnegat Twp,U.S. Senate,,Republican,Jeff Bell,3214
+Ocean,Barnegat Light Boro,U.S. Senate,,Republican,Jeff Bell,199
+Ocean,Bay Head Boro,U.S. Senate,,Republican,Jeff Bell,297
+Ocean,Beach Haven Boro,U.S. Senate,,Republican,Jeff Bell,279
+Ocean,Beachwood Boro,U.S. Senate,,Republican,Jeff Bell,1240
+Ocean,Berkeley Twp,U.S. Senate,,Republican,Jeff Bell,6952
+Ocean,Brick Twp,U.S. Senate,,Republican,Jeff Bell,10079
+Ocean,Eagleswood Twp,U.S. Senate,,Republican,Jeff Bell,253
+Ocean,Harvey Cedars Boro,U.S. Senate,,Republican,Jeff Bell,114
+Ocean,Island Heights Boro,U.S. Senate,,Republican,Jeff Bell,277
+Ocean,Jackson Twp,U.S. Senate,,Republican,Jeff Bell,7267
+Ocean,Lacey Twp,U.S. Senate,,Republican,Jeff Bell,4294
+Ocean,Lakehurst Boro,U.S. Senate,,Republican,Jeff Bell,225
+Ocean,Lakewood Twp,U.S. Senate,,Republican,Jeff Bell,5769
+Ocean,Lavallette Boro,U.S. Senate,,Republican,Jeff Bell,541
+Ocean,Little Egg Harbor Twp,U.S. Senate,,Republican,Jeff Bell,3208
+Ocean,Long Beach Twp,U.S. Senate,,Republican,Jeff Bell,883
+Ocean,Manchester Twp,U.S. Senate,,Republican,Jeff Bell,8485
+Ocean,Mantoloking Boro,U.S. Senate,,Republican,Jeff Bell,113
+Ocean,Ocean Twp,U.S. Senate,,Republican,Jeff Bell,1796
+Ocean,Ocean Gate Boro,U.S. Senate,,Republican,Jeff Bell,357
+Ocean,Pine Beach Boro,U.S. Senate,,Republican,Jeff Bell,409
+Ocean,Plumsted Twp,U.S. Senate,,Republican,Jeff Bell,1251
+Ocean,Point Pleasant Boro,U.S. Senate,,Republican,Jeff Bell,3063
+Ocean,Point Pleasant Beach Boro,U.S. Senate,,Republican,Jeff Bell,889
+Ocean,Seaside Heights Boro,U.S. Senate,,Republican,Jeff Bell,175
+Ocean,Seaside Park Boro,U.S. Senate,,Republican,Jeff Bell,387
+Ocean,Ship Bottom Boro,U.S. Senate,,Republican,Jeff Bell,251
+Ocean,South Toms River Boro,U.S. Senate,,Republican,Jeff Bell,292
+Ocean,Stafford Twp,U.S. Senate,,Republican,Jeff Bell,3640
+Ocean,Surf City Boro,U.S. Senate,,Republican,Jeff Bell,309
+Ocean,Toms River Twp,U.S. Senate,,Republican,Jeff Bell,12216
+Ocean,Tuckerton Boro,U.S. Senate,,Republican,Jeff Bell,530
+Ocean,Total,U.S. Senate,,Republican,Jeff Bell,79254
+Ocean,Barnegat Twp,U.S. Senate,,Democratic,Cory Booker,2442
+Ocean,Barnegat Light Boro,U.S. Senate,,Democratic,Cory Booker,126
+Ocean,Bay Head Boro,U.S. Senate,,Democratic,Cory Booker,147
+Ocean,Beach Haven Boro,U.S. Senate,,Democratic,Cory Booker,156
+Ocean,Beachwood Boro,U.S. Senate,,Democratic,Cory Booker,968
+Ocean,Berkeley Twp,U.S. Senate,,Democratic,Cory Booker,4593
+Ocean,Brick Twp,U.S. Senate,,Democratic,Cory Booker,6895
+Ocean,Eagleswood Twp,U.S. Senate,,Democratic,Cory Booker,124
+Ocean,Harvey Cedars Boro,U.S. Senate,,Democratic,Cory Booker,93
+Ocean,Island Heights Boro,U.S. Senate,,Democratic,Cory Booker,298
+Ocean,Jackson Twp,U.S. Senate,,Democratic,Cory Booker,5013
+Ocean,Lacey Twp,U.S. Senate,,Democratic,Cory Booker,2501
+Ocean,Lakehurst Boro,U.S. Senate,,Democratic,Cory Booker,177
+Ocean,Lakewood Twp,U.S. Senate,,Democratic,Cory Booker,7511
+Ocean,Lavallette Boro,U.S. Senate,,Democratic,Cory Booker,257
+Ocean,Little Egg Harbor Twp,U.S. Senate,,Democratic,Cory Booker,1814
+Ocean,Long Beach Twp,U.S. Senate,,Democratic,Cory Booker,475
+Ocean,Manchester Twp,U.S. Senate,,Democratic,Cory Booker,5779
+Ocean,Mantoloking Boro,U.S. Senate,,Democratic,Cory Booker,37
+Ocean,Ocean Twp,U.S. Senate,,Democratic,Cory Booker,933
+Ocean,Ocean Gate Boro,U.S. Senate,,Democratic,Cory Booker,310
+Ocean,Pine Beach Boro,U.S. Senate,,Democratic,Cory Booker,283
+Ocean,Plumsted Twp,U.S. Senate,,Democratic,Cory Booker,548
+Ocean,Point Pleasant Boro,U.S. Senate,,Democratic,Cory Booker,2073
+Ocean,Point Pleasant Beach Boro,U.S. Senate,,Democratic,Cory Booker,520
+Ocean,Seaside Heights Boro,U.S. Senate,,Democratic,Cory Booker,91
+Ocean,Seaside Park Boro,U.S. Senate,,Democratic,Cory Booker,221
+Ocean,Ship Bottom Boro,U.S. Senate,,Democratic,Cory Booker,146
+Ocean,South Toms River Boro,U.S. Senate,,Democratic,Cory Booker,455
+Ocean,Stafford Twp,U.S. Senate,,Democratic,Cory Booker,2252
+Ocean,Surf City Boro,U.S. Senate,,Democratic,Cory Booker,159
+Ocean,Toms River Twp,U.S. Senate,,Democratic,Cory Booker,7906
+Ocean,Tuckerton Boro,U.S. Senate,,Democratic,Cory Booker,328
+Ocean,Total,U.S. Senate,,Democratic,Cory Booker,55631
+Ocean,Barnegat Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,72
+Ocean,Barnegat Light Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,2
+Ocean,Bay Head Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,4
+Ocean,Beach Haven Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,3
+Ocean,Beachwood Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,39
+Ocean,Berkeley Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,137
+Ocean,Brick Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,257
+Ocean,Eagleswood Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,7
+Ocean,Harvey Cedars Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,0
+Ocean,Island Heights Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,10
+Ocean,Jackson Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,148
+Ocean,Lacey Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,125
+Ocean,Lakehurst Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,6
+Ocean,Lakewood Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,51
+Ocean,Lavallette Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,2
+Ocean,Little Egg Harbor Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,56
+Ocean,Long Beach Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,8
+Ocean,Manchester Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,143
+Ocean,Mantoloking Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,3
+Ocean,Ocean Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,29
+Ocean,Ocean Gate Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,9
+Ocean,Pine Beach Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,10
+Ocean,Plumsted Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,34
+Ocean,Point Pleasant Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,71
+Ocean,Point Pleasant Beach Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,13
+Ocean,Seaside Heights Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,4
+Ocean,Seaside Park Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,8
+Ocean,Ship Bottom Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,4
+Ocean,South Toms River Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,18
+Ocean,Stafford Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,70
+Ocean,Surf City Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,4
+Ocean,Toms River Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,233
+Ocean,Tuckerton Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,4
+Ocean,Total,U.S. Senate,,Libertarian Party,Joseph Baratelli,1584
+Ocean,Barnegat Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,30
+Ocean,Barnegat Light Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,0
+Ocean,Bay Head Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,1
+Ocean,Beach Haven Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,1
+Ocean,Beachwood Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,18
+Ocean,Berkeley Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,92
+Ocean,Brick Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,97
+Ocean,Eagleswood Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,0
+Ocean,Harvey Cedars Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,1
+Ocean,Island Heights Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,5
+Ocean,Jackson Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,76
+Ocean,Lacey Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,81
+Ocean,Lakehurst Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,4
+Ocean,Lakewood Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,24
+Ocean,Lavallette Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,3
+Ocean,Little Egg Harbor Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,27
+Ocean,Long Beach Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,6
+Ocean,Manchester Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,92
+Ocean,Mantoloking Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,1
+Ocean,Ocean Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,9
+Ocean,Ocean Gate Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,6
+Ocean,Pine Beach Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,6
+Ocean,Plumsted Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,11
+Ocean,Point Pleasant Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,19
+Ocean,Point Pleasant Beach Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,4
+Ocean,Seaside Heights Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,1
+Ocean,Seaside Park Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,2
+Ocean,Ship Bottom Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,1
+Ocean,South Toms River Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,12
+Ocean,Stafford Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,48
+Ocean,Surf City Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,0
+Ocean,Toms River Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,122
+Ocean,Tuckerton Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,8
+Ocean,Total,U.S. Senate,,D-R Party,Eugene Martin LaVergne,808
+Ocean,Barnegat Twp,U.S. Senate,,Economic Growth,Hank Schroeder,14
+Ocean,Barnegat Light Boro,U.S. Senate,,Economic Growth,Hank Schroeder,0
+Ocean,Bay Head Boro,U.S. Senate,,Economic Growth,Hank Schroeder,1
+Ocean,Beach Haven Boro,U.S. Senate,,Economic Growth,Hank Schroeder,2
+Ocean,Beachwood Boro,U.S. Senate,,Economic Growth,Hank Schroeder,7
+Ocean,Berkeley Twp,U.S. Senate,,Economic Growth,Hank Schroeder,42
+Ocean,Brick Twp,U.S. Senate,,Economic Growth,Hank Schroeder,78
+Ocean,Eagleswood Twp,U.S. Senate,,Economic Growth,Hank Schroeder,0
+Ocean,Harvey Cedars Boro,U.S. Senate,,Economic Growth,Hank Schroeder,0
+Ocean,Island Heights Boro,U.S. Senate,,Economic Growth,Hank Schroeder,2
+Ocean,Jackson Twp,U.S. Senate,,Economic Growth,Hank Schroeder,30
+Ocean,Lacey Twp,U.S. Senate,,Economic Growth,Hank Schroeder,29
+Ocean,Lakehurst Boro,U.S. Senate,,Economic Growth,Hank Schroeder,1
+Ocean,Lakewood Twp,U.S. Senate,,Economic Growth,Hank Schroeder,18
+Ocean,Lavallette Boro,U.S. Senate,,Economic Growth,Hank Schroeder,2
+Ocean,Little Egg Harbor Twp,U.S. Senate,,Economic Growth,Hank Schroeder,13
+Ocean,Long Beach Twp,U.S. Senate,,Economic Growth,Hank Schroeder,2
+Ocean,Manchester Twp,U.S. Senate,,Economic Growth,Hank Schroeder,46
+Ocean,Mantoloking Boro,U.S. Senate,,Economic Growth,Hank Schroeder,0
+Ocean,Ocean Twp,U.S. Senate,,Economic Growth,Hank Schroeder,7
+Ocean,Ocean Gate Boro,U.S. Senate,,Economic Growth,Hank Schroeder,4
+Ocean,Pine Beach Boro,U.S. Senate,,Economic Growth,Hank Schroeder,4
+Ocean,Plumsted Twp,U.S. Senate,,Economic Growth,Hank Schroeder,10
+Ocean,Point Pleasant Boro,U.S. Senate,,Economic Growth,Hank Schroeder,36
+Ocean,Point Pleasant Beach Boro,U.S. Senate,,Economic Growth,Hank Schroeder,3
+Ocean,Seaside Heights Boro,U.S. Senate,,Economic Growth,Hank Schroeder,0
+Ocean,Seaside Park Boro,U.S. Senate,,Economic Growth,Hank Schroeder,1
+Ocean,Ship Bottom Boro,U.S. Senate,,Economic Growth,Hank Schroeder,0
+Ocean,South Toms River Boro,U.S. Senate,,Economic Growth,Hank Schroeder,2
+Ocean,Stafford Twp,U.S. Senate,,Economic Growth,Hank Schroeder,18
+Ocean,Surf City Boro,U.S. Senate,,Economic Growth,Hank Schroeder,0
+Ocean,Toms River Twp,U.S. Senate,,Economic Growth,Hank Schroeder,54
+Ocean,Tuckerton Boro,U.S. Senate,,Economic Growth,Hank Schroeder,2
+Ocean,Total,U.S. Senate,,Economic Growth,Hank Schroeder,428
+Ocean,Barnegat Twp,U.S. Senate,,Independent,Antonio N. Sabas,10
+Ocean,Barnegat Light Boro,U.S. Senate,,Independent,Antonio N. Sabas,1
+Ocean,Bay Head Boro,U.S. Senate,,Independent,Antonio N. Sabas,1
+Ocean,Beach Haven Boro,U.S. Senate,,Independent,Antonio N. Sabas,0
+Ocean,Beachwood Boro,U.S. Senate,,Independent,Antonio N. Sabas,3
+Ocean,Berkeley Twp,U.S. Senate,,Independent,Antonio N. Sabas,21
+Ocean,Brick Twp,U.S. Senate,,Independent,Antonio N. Sabas,23
+Ocean,Eagleswood Twp,U.S. Senate,,Independent,Antonio N. Sabas,0
+Ocean,Harvey Cedars Boro,U.S. Senate,,Independent,Antonio N. Sabas,0
+Ocean,Island Heights Boro,U.S. Senate,,Independent,Antonio N. Sabas,2
+Ocean,Jackson Twp,U.S. Senate,,Independent,Antonio N. Sabas,16
+Ocean,Lacey Twp,U.S. Senate,,Independent,Antonio N. Sabas,15
+Ocean,Lakehurst Boro,U.S. Senate,,Independent,Antonio N. Sabas,0
+Ocean,Lakewood Twp,U.S. Senate,,Independent,Antonio N. Sabas,4
+Ocean,Lavallette Boro,U.S. Senate,,Independent,Antonio N. Sabas,1
+Ocean,Little Egg Harbor Twp,U.S. Senate,,Independent,Antonio N. Sabas,9
+Ocean,Long Beach Twp,U.S. Senate,,Independent,Antonio N. Sabas,0
+Ocean,Manchester Twp,U.S. Senate,,Independent,Antonio N. Sabas,13
+Ocean,Mantoloking Boro,U.S. Senate,,Independent,Antonio N. Sabas,0
+Ocean,Ocean Twp,U.S. Senate,,Independent,Antonio N. Sabas,5
+Ocean,Ocean Gate Boro,U.S. Senate,,Independent,Antonio N. Sabas,1
+Ocean,Pine Beach Boro,U.S. Senate,,Independent,Antonio N. Sabas,0
+Ocean,Plumsted Twp,U.S. Senate,,Independent,Antonio N. Sabas,3
+Ocean,Point Pleasant Boro,U.S. Senate,,Independent,Antonio N. Sabas,2
+Ocean,Point Pleasant Beach Boro,U.S. Senate,,Independent,Antonio N. Sabas,1
+Ocean,Seaside Heights Boro,U.S. Senate,,Independent,Antonio N. Sabas,0
+Ocean,Seaside Park Boro,U.S. Senate,,Independent,Antonio N. Sabas,0
+Ocean,Ship Bottom Boro,U.S. Senate,,Independent,Antonio N. Sabas,1
+Ocean,South Toms River Boro,U.S. Senate,,Independent,Antonio N. Sabas,1
+Ocean,Stafford Twp,U.S. Senate,,Independent,Antonio N. Sabas,5
+Ocean,Surf City Boro,U.S. Senate,,Independent,Antonio N. Sabas,0
+Ocean,Toms River Twp,U.S. Senate,,Independent,Antonio N. Sabas,25
+Ocean,Tuckerton Boro,U.S. Senate,,Independent,Antonio N. Sabas,2
+Ocean,Total,U.S. Senate,,Independent,Antonio N. Sabas,165
+Ocean,Barnegat Twp,U.S. Senate,,Independent,Jeff Boss,4
+Ocean,Barnegat Light Boro,U.S. Senate,,Independent,Jeff Boss,0
+Ocean,Bay Head Boro,U.S. Senate,,Independent,Jeff Boss,0
+Ocean,Beach Haven Boro,U.S. Senate,,Independent,Jeff Boss,0
+Ocean,Beachwood Boro,U.S. Senate,,Independent,Jeff Boss,5
+Ocean,Berkeley Twp,U.S. Senate,,Independent,Jeff Boss,9
+Ocean,Brick Twp,U.S. Senate,,Independent,Jeff Boss,10
+Ocean,Eagleswood Twp,U.S. Senate,,Independent,Jeff Boss,0
+Ocean,Harvey Cedars Boro,U.S. Senate,,Independent,Jeff Boss,0
+Ocean,Island Heights Boro,U.S. Senate,,Independent,Jeff Boss,0
+Ocean,Jackson Twp,U.S. Senate,,Independent,Jeff Boss,6
+Ocean,Lacey Twp,U.S. Senate,,Independent,Jeff Boss,5
+Ocean,Lakehurst Boro,U.S. Senate,,Independent,Jeff Boss,0
+Ocean,Lakewood Twp,U.S. Senate,,Independent,Jeff Boss,6
+Ocean,Lavallette Boro,U.S. Senate,,Independent,Jeff Boss,1
+Ocean,Little Egg Harbor Twp,U.S. Senate,,Independent,Jeff Boss,2
+Ocean,Long Beach Twp,U.S. Senate,,Independent,Jeff Boss,0
+Ocean,Manchester Twp,U.S. Senate,,Independent,Jeff Boss,14
+Ocean,Mantoloking Boro,U.S. Senate,,Independent,Jeff Boss,0
+Ocean,Ocean Twp,U.S. Senate,,Independent,Jeff Boss,0
+Ocean,Ocean Gate Boro,U.S. Senate,,Independent,Jeff Boss,1
+Ocean,Pine Beach Boro,U.S. Senate,,Independent,Jeff Boss,1
+Ocean,Plumsted Twp,U.S. Senate,,Independent,Jeff Boss,2
+Ocean,Point Pleasant Boro,U.S. Senate,,Independent,Jeff Boss,5
+Ocean,Point Pleasant Beach Boro,U.S. Senate,,Independent,Jeff Boss,0
+Ocean,Seaside Heights Boro,U.S. Senate,,Independent,Jeff Boss,0
+Ocean,Seaside Park Boro,U.S. Senate,,Independent,Jeff Boss,2
+Ocean,Ship Bottom Boro,U.S. Senate,,Independent,Jeff Boss,0
+Ocean,South Toms River Boro,U.S. Senate,,Independent,Jeff Boss,0
+Ocean,Stafford Twp,U.S. Senate,,Independent,Jeff Boss,1
+Ocean,Surf City Boro,U.S. Senate,,Independent,Jeff Boss,2
+Ocean,Toms River Twp,U.S. Senate,,Independent,Jeff Boss,20
+Ocean,Tuckerton Boro,U.S. Senate,,Independent,Jeff Boss,1
+Ocean,Total,U.S. Senate,,Independent,Jeff Boss,97
