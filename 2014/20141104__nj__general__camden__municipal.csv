@@ -1,0 +1,538 @@
+county,municipality,office,district,party,candidate,votes
+Camden,Audubon Boro,U.S. House,1,Democratic,Donald W. Norcross,1141
+Camden,Audubon Park Boro,U.S. House,1,Democratic,Donald W. Norcross,199
+Camden,Barrington Boro,U.S. House,1,Democratic,Donald W. Norcross,855
+Camden,Bellmawr Boro,U.S. House,1,Democratic,Donald W. Norcross,1708
+Camden,Berlin Boro,U.S. House,1,Democratic,Donald W. Norcross,813
+Camden,Berlin Twp.,U.S. House,1,Democratic,Donald W. Norcross,622
+Camden,Brooklawn Boro,U.S. House,1,Democratic,Donald W. Norcross,302
+Camden,Camden City,U.S. House,1,Democratic,Donald W. Norcross,6950
+Camden,Cherry Hill Twp.,U.S. House,1,Democratic,Donald W. Norcross,9930
+Camden,Chesilhurst Boro,U.S. House,1,Democratic,Donald W. Norcross,290
+Camden,Clementon Boro,U.S. House,1,Democratic,Donald W. Norcross,620
+Camden,Collingswood Boro,U.S. House,1,Democratic,Donald W. Norcross,2360
+Camden,Gibbsboro Boro,U.S. House,1,Democratic,Donald W. Norcross,302
+Camden,Gloucester City,U.S. House,1,Democratic,Donald W. Norcross,1304
+Camden,Gloucester Twp.,U.S. House,1,Democratic,Donald W. Norcross,7187
+Camden,Haddon Heights Boro,U.S. House,1,Democratic,Donald W. Norcross,1253
+Camden,Haddon Twp.,U.S. House,1,Democratic,Donald W. Norcross,2293
+Camden,Haddonfield Boro,U.S. House,1,Democratic,Donald W. Norcross,1956
+Camden,Hi-Nella Boro,U.S. House,1,Democratic,Donald W. Norcross,79
+Camden,Laurel Springs Boro,U.S. House,1,Democratic,Donald W. Norcross,257
+Camden,Lawnside Boro,U.S. House,1,Democratic,Donald W. Norcross,836
+Camden,Lindenwold Boro,U.S. House,1,Democratic,Donald W. Norcross,1920
+Camden,Magnolia Boro,U.S. House,1,Democratic,Donald W. Norcross,652
+Camden,Merchantville Boro,U.S. House,1,Democratic,Donald W. Norcross,555
+Camden,Mt. Ephraim Boro,U.S. House,1,Democratic,Donald W. Norcross,565
+Camden,Oaklyn Boro,U.S. House,1,Democratic,Donald W. Norcross,535
+Camden,Pennsauken Twp,U.S. House,1,Democratic,Donald W. Norcross,4980
+Camden,Pine Hill Boro,U.S. House,1,Democratic,Donald W. Norcross,1243
+Camden,Pine Valley Boro,U.S. House,1,Democratic,Donald W. Norcross,2
+Camden,Runnemede Boro,U.S. House,1,Democratic,Donald W. Norcross,933
+Camden,Somerdale Boro,U.S. House,1,Democratic,Donald W. Norcross,793
+Camden,Stratford Boro,U.S. House,1,Democratic,Donald W. Norcross,885
+Camden,Tavistok Boro,U.S. House,1,Democratic,Donald W. Norcross,2
+Camden,Voorhees Twp.,U.S. House,1,Democratic,Donald W. Norcross,3998
+Camden,Winslow Twp.,U.S. House,1,Democratic,Donald W. Norcross,5527
+Camden,Woodlynne Boro,U.S. House,1,Democratic,Donald W. Norcross,305
+Camden,Total,U.S. House,1,Democratic,Donald W. Norcross,64152
+Camden,Audubon Boro,U.S. House,1,Republican,Garry W. Cobb,973
+Camden,Audubon Park Boro,U.S. House,1,Republican,Garry W. Cobb,88
+Camden,Barrington Boro,U.S. House,1,Republican,Garry W. Cobb,766
+Camden,Bellmawr Boro,U.S. House,1,Republican,Garry W. Cobb,1087
+Camden,Berlin Boro,U.S. House,1,Republican,Garry W. Cobb,1046
+Camden,Berlin Twp.,U.S. House,1,Republican,Garry W. Cobb,437
+Camden,Brooklawn Boro,U.S. House,1,Republican,Garry W. Cobb,166
+Camden,Camden City,U.S. House,1,Republican,Garry W. Cobb,815
+Camden,Cherry Hill Twp.,U.S. House,1,Republican,Garry W. Cobb,7655
+Camden,Chesilhurst Boro,U.S. House,1,Republican,Garry W. Cobb,77
+Camden,Clementon Boro,U.S. House,1,Republican,Garry W. Cobb,372
+Camden,Collingswood Boro,U.S. House,1,Republican,Garry W. Cobb,1168
+Camden,Gibbsboro Boro,U.S. House,1,Republican,Garry W. Cobb,290
+Camden,Gloucester City,U.S. House,1,Republican,Garry W. Cobb,675
+Camden,Gloucester Twp.,U.S. House,1,Republican,Garry W. Cobb,5485
+Camden,Haddon Heights Boro,U.S. House,1,Republican,Garry W. Cobb,1324
+Camden,Haddon Twp.,U.S. House,1,Republican,Garry W. Cobb,1935
+Camden,Haddonfield Boro,U.S. House,1,Republican,Garry W. Cobb,2049
+Camden,Hi-Nella Boro,U.S. House,1,Republican,Garry W. Cobb,58
+Camden,Laurel Springs Boro,U.S. House,1,Republican,Garry W. Cobb,234
+Camden,Lawnside Boro,U.S. House,1,Republican,Garry W. Cobb,86
+Camden,Lindenwold Boro,U.S. House,1,Republican,Garry W. Cobb,678
+Camden,Magnolia Boro,U.S. House,1,Republican,Garry W. Cobb,342
+Camden,Merchantville Boro,U.S. House,1,Republican,Garry W. Cobb,407
+Camden,Mt. Ephraim Boro,U.S. House,1,Republican,Garry W. Cobb,414
+Camden,Oaklyn Boro,U.S. House,1,Republican,Garry W. Cobb,407
+Camden,Pennsauken Twp,U.S. House,1,Republican,Garry W. Cobb,1981
+Camden,Pine Hill Boro,U.S. House,1,Republican,Garry W. Cobb,542
+Camden,Pine Valley Boro,U.S. House,1,Republican,Garry W. Cobb,8
+Camden,Runnemede Boro,U.S. House,1,Republican,Garry W. Cobb,621
+Camden,Somerdale Boro,U.S. House,1,Republican,Garry W. Cobb,369
+Camden,Stratford Boro,U.S. House,1,Republican,Garry W. Cobb,860
+Camden,Tavistok Boro,U.S. House,1,Republican,Garry W. Cobb,3
+Camden,Voorhees Twp.,U.S. House,1,Republican,Garry W. Cobb,3456
+Camden,Winslow Twp.,U.S. House,1,Republican,Garry W. Cobb,2727
+Camden,Woodlynne Boro,U.S. House,1,Republican,Garry W. Cobb,67
+Camden,Total,U.S. House,1,Republican,Garry W. Cobb,39668
+Camden,Audubon Boro,U.S. House,1,We Deserve Better,Scot John Tomaszewski,37
+Camden,Audubon Park Boro,U.S. House,1,We Deserve Better,Scot John Tomaszewski,8
+Camden,Barrington Boro,U.S. House,1,We Deserve Better,Scot John Tomaszewski,21
+Camden,Bellmawr Boro,U.S. House,1,We Deserve Better,Scot John Tomaszewski,72
+Camden,Berlin Boro,U.S. House,1,We Deserve Better,Scot John Tomaszewski,33
+Camden,Berlin Twp.,U.S. House,1,We Deserve Better,Scot John Tomaszewski,10
+Camden,Brooklawn Boro,U.S. House,1,We Deserve Better,Scot John Tomaszewski,3
+Camden,Camden City,U.S. House,1,We Deserve Better,Scot John Tomaszewski,109
+Camden,Cherry Hill Twp.,U.S. House,1,We Deserve Better,Scot John Tomaszewski,241
+Camden,Chesilhurst Boro,U.S. House,1,We Deserve Better,Scot John Tomaszewski,2
+Camden,Clementon Boro,U.S. House,1,We Deserve Better,Scot John Tomaszewski,13
+Camden,Collingswood Boro,U.S. House,1,We Deserve Better,Scot John Tomaszewski,121
+Camden,Gibbsboro Boro,U.S. House,1,We Deserve Better,Scot John Tomaszewski,9
+Camden,Gloucester City,U.S. House,1,We Deserve Better,Scot John Tomaszewski,29
+Camden,Gloucester Twp.,U.S. House,1,We Deserve Better,Scot John Tomaszewski,116
+Camden,Haddon Heights Boro,U.S. House,1,We Deserve Better,Scot John Tomaszewski,34
+Camden,Haddon Twp.,U.S. House,1,We Deserve Better,Scot John Tomaszewski,113
+Camden,Haddonfield Boro,U.S. House,1,We Deserve Better,Scot John Tomaszewski,62
+Camden,Hi-Nella Boro,U.S. House,1,We Deserve Better,Scot John Tomaszewski,7
+Camden,Laurel Springs Boro,U.S. House,1,We Deserve Better,Scot John Tomaszewski,6
+Camden,Lawnside Boro,U.S. House,1,We Deserve Better,Scot John Tomaszewski,7
+Camden,Lindenwold Boro,U.S. House,1,We Deserve Better,Scot John Tomaszewski,24
+Camden,Magnolia Boro,U.S. House,1,We Deserve Better,Scot John Tomaszewski,6
+Camden,Merchantville Boro,U.S. House,1,We Deserve Better,Scot John Tomaszewski,28
+Camden,Mt. Ephraim Boro,U.S. House,1,We Deserve Better,Scot John Tomaszewski,19
+Camden,Oaklyn Boro,U.S. House,1,We Deserve Better,Scot John Tomaszewski,30
+Camden,Pennsauken Twp,U.S. House,1,We Deserve Better,Scot John Tomaszewski,126
+Camden,Pine Hill Boro,U.S. House,1,We Deserve Better,Scot John Tomaszewski,23
+Camden,Pine Valley Boro,U.S. House,1,We Deserve Better,Scot John Tomaszewski,0
+Camden,Runnemede Boro,U.S. House,1,We Deserve Better,Scot John Tomaszewski,26
+Camden,Somerdale Boro,U.S. House,1,We Deserve Better,Scot John Tomaszewski,16
+Camden,Stratford Boro,U.S. House,1,We Deserve Better,Scot John Tomaszewski,14
+Camden,Tavistok Boro,U.S. House,1,We Deserve Better,Scot John Tomaszewski,0
+Camden,Voorhees Twp.,U.S. House,1,We Deserve Better,Scot John Tomaszewski,59
+Camden,Winslow Twp.,U.S. House,1,We Deserve Better,Scot John Tomaszewski,75
+Camden,Woodlynne Boro,U.S. House,1,We Deserve Better,Scot John Tomaszewski,8
+Camden,Total,U.S. House,1,We Deserve Better,Scot John Tomaszewski,1507
+Camden,Audubon Boro,U.S. House,1,Stop Boss Politics,Robert Shapiro,21
+Camden,Audubon Park Boro,U.S. House,1,Stop Boss Politics,Robert Shapiro,1
+Camden,Barrington Boro,U.S. House,1,Stop Boss Politics,Robert Shapiro,18
+Camden,Bellmawr Boro,U.S. House,1,Stop Boss Politics,Robert Shapiro,32
+Camden,Berlin Boro,U.S. House,1,Stop Boss Politics,Robert Shapiro,19
+Camden,Berlin Twp.,U.S. House,1,Stop Boss Politics,Robert Shapiro,2
+Camden,Brooklawn Boro,U.S. House,1,Stop Boss Politics,Robert Shapiro,3
+Camden,Camden City,U.S. House,1,Stop Boss Politics,Robert Shapiro,84
+Camden,Cherry Hill Twp.,U.S. House,1,Stop Boss Politics,Robert Shapiro,194
+Camden,Chesilhurst Boro,U.S. House,1,Stop Boss Politics,Robert Shapiro,1
+Camden,Clementon Boro,U.S. House,1,Stop Boss Politics,Robert Shapiro,6
+Camden,Collingswood Boro,U.S. House,1,Stop Boss Politics,Robert Shapiro,58
+Camden,Gibbsboro Boro,U.S. House,1,Stop Boss Politics,Robert Shapiro,6
+Camden,Gloucester City,U.S. House,1,Stop Boss Politics,Robert Shapiro,14
+Camden,Gloucester Twp.,U.S. House,1,Stop Boss Politics,Robert Shapiro,85
+Camden,Haddon Heights Boro,U.S. House,1,Stop Boss Politics,Robert Shapiro,19
+Camden,Haddon Twp.,U.S. House,1,Stop Boss Politics,Robert Shapiro,59
+Camden,Haddonfield Boro,U.S. House,1,Stop Boss Politics,Robert Shapiro,43
+Camden,Hi-Nella Boro,U.S. House,1,Stop Boss Politics,Robert Shapiro,4
+Camden,Laurel Springs Boro,U.S. House,1,Stop Boss Politics,Robert Shapiro,8
+Camden,Lawnside Boro,U.S. House,1,Stop Boss Politics,Robert Shapiro,5
+Camden,Lindenwold Boro,U.S. House,1,Stop Boss Politics,Robert Shapiro,17
+Camden,Magnolia Boro,U.S. House,1,Stop Boss Politics,Robert Shapiro,8
+Camden,Merchantville Boro,U.S. House,1,Stop Boss Politics,Robert Shapiro,7
+Camden,Mt. Ephraim Boro,U.S. House,1,Stop Boss Politics,Robert Shapiro,5
+Camden,Oaklyn Boro,U.S. House,1,Stop Boss Politics,Robert Shapiro,11
+Camden,Pennsauken Twp,U.S. House,1,Stop Boss Politics,Robert Shapiro,48
+Camden,Pine Hill Boro,U.S. House,1,Stop Boss Politics,Robert Shapiro,13
+Camden,Pine Valley Boro,U.S. House,1,Stop Boss Politics,Robert Shapiro,0
+Camden,Runnemede Boro,U.S. House,1,Stop Boss Politics,Robert Shapiro,10
+Camden,Somerdale Boro,U.S. House,1,Stop Boss Politics,Robert Shapiro,11
+Camden,Stratford Boro,U.S. House,1,Stop Boss Politics,Robert Shapiro,7
+Camden,Tavistok Boro,U.S. House,1,Stop Boss Politics,Robert Shapiro,0
+Camden,Voorhees Twp.,U.S. House,1,Stop Boss Politics,Robert Shapiro,58
+Camden,Winslow Twp.,U.S. House,1,Stop Boss Politics,Robert Shapiro,38
+Camden,Woodlynne Boro,U.S. House,1,Stop Boss Politics,Robert Shapiro,5
+Camden,Total,U.S. House,1,Stop Boss Politics,Robert Shapiro,920
+Camden,Audubon Boro,U.S. House,1,Change is Needed,Margaret M. Chapman,7
+Camden,Audubon Park Boro,U.S. House,1,Change is Needed,Margaret M. Chapman,2
+Camden,Barrington Boro,U.S. House,1,Change is Needed,Margaret M. Chapman,10
+Camden,Bellmawr Boro,U.S. House,1,Change is Needed,Margaret M. Chapman,37
+Camden,Berlin Boro,U.S. House,1,Change is Needed,Margaret M. Chapman,6
+Camden,Berlin Twp.,U.S. House,1,Change is Needed,Margaret M. Chapman,6
+Camden,Brooklawn Boro,U.S. House,1,Change is Needed,Margaret M. Chapman,1
+Camden,Camden City,U.S. House,1,Change is Needed,Margaret M. Chapman,75
+Camden,Cherry Hill Twp.,U.S. House,1,Change is Needed,Margaret M. Chapman,79
+Camden,Chesilhurst Boro,U.S. House,1,Change is Needed,Margaret M. Chapman,0
+Camden,Clementon Boro,U.S. House,1,Change is Needed,Margaret M. Chapman,8
+Camden,Collingswood Boro,U.S. House,1,Change is Needed,Margaret M. Chapman,33
+Camden,Gibbsboro Boro,U.S. House,1,Change is Needed,Margaret M. Chapman,3
+Camden,Gloucester City,U.S. House,1,Change is Needed,Margaret M. Chapman,11
+Camden,Gloucester Twp.,U.S. House,1,Change is Needed,Margaret M. Chapman,79
+Camden,Haddon Heights Boro,U.S. House,1,Change is Needed,Margaret M. Chapman,10
+Camden,Haddon Twp.,U.S. House,1,Change is Needed,Margaret M. Chapman,29
+Camden,Haddonfield Boro,U.S. House,1,Change is Needed,Margaret M. Chapman,27
+Camden,Hi-Nella Boro,U.S. House,1,Change is Needed,Margaret M. Chapman,3
+Camden,Laurel Springs Boro,U.S. House,1,Change is Needed,Margaret M. Chapman,4
+Camden,Lawnside Boro,U.S. House,1,Change is Needed,Margaret M. Chapman,4
+Camden,Lindenwold Boro,U.S. House,1,Change is Needed,Margaret M. Chapman,18
+Camden,Magnolia Boro,U.S. House,1,Change is Needed,Margaret M. Chapman,5
+Camden,Merchantville Boro,U.S. House,1,Change is Needed,Margaret M. Chapman,9
+Camden,Mt. Ephraim Boro,U.S. House,1,Change is Needed,Margaret M. Chapman,5
+Camden,Oaklyn Boro,U.S. House,1,Change is Needed,Margaret M. Chapman,7
+Camden,Pennsauken Twp,U.S. House,1,Change is Needed,Margaret M. Chapman,57
+Camden,Pine Hill Boro,U.S. House,1,Change is Needed,Margaret M. Chapman,16
+Camden,Pine Valley Boro,U.S. House,1,Change is Needed,Margaret M. Chapman,0
+Camden,Runnemede Boro,U.S. House,1,Change is Needed,Margaret M. Chapman,10
+Camden,Somerdale Boro,U.S. House,1,Change is Needed,Margaret M. Chapman,14
+Camden,Stratford Boro,U.S. House,1,Change is Needed,Margaret M. Chapman,2
+Camden,Tavistok Boro,U.S. House,1,Change is Needed,Margaret M. Chapman,0
+Camden,Voorhees Twp.,U.S. House,1,Change is Needed,Margaret M. Chapman,30
+Camden,Winslow Twp.,U.S. House,1,Change is Needed,Margaret M. Chapman,60
+Camden,Woodlynne Boro,U.S. House,1,Change is Needed,Margaret M. Chapman,5
+Camden,Total,U.S. House,1,Change is Needed,Margaret M. Chapman,672
+Camden,Audubon Boro,U.S. House,1,Of The People,Mike Berman,11
+Camden,Audubon Park Boro,U.S. House,1,Of The People,Mike Berman,1
+Camden,Barrington Boro,U.S. House,1,Of The People,Mike Berman,1
+Camden,Bellmawr Boro,U.S. House,1,Of The People,Mike Berman,21
+Camden,Berlin Boro,U.S. House,1,Of The People,Mike Berman,4
+Camden,Berlin Twp.,U.S. House,1,Of The People,Mike Berman,3
+Camden,Brooklawn Boro,U.S. House,1,Of The People,Mike Berman,0
+Camden,Camden City,U.S. House,1,Of The People,Mike Berman,27
+Camden,Cherry Hill Twp.,U.S. House,1,Of The People,Mike Berman,37
+Camden,Chesilhurst Boro,U.S. House,1,Of The People,Mike Berman,0
+Camden,Clementon Boro,U.S. House,1,Of The People,Mike Berman,2
+Camden,Collingswood Boro,U.S. House,1,Of The People,Mike Berman,7
+Camden,Gibbsboro Boro,U.S. House,1,Of The People,Mike Berman,1
+Camden,Gloucester City,U.S. House,1,Of The People,Mike Berman,2
+Camden,Gloucester Twp.,U.S. House,1,Of The People,Mike Berman,33
+Camden,Haddon Heights Boro,U.S. House,1,Of The People,Mike Berman,7
+Camden,Haddon Twp.,U.S. House,1,Of The People,Mike Berman,9
+Camden,Haddonfield Boro,U.S. House,1,Of The People,Mike Berman,12
+Camden,Hi-Nella Boro,U.S. House,1,Of The People,Mike Berman,1
+Camden,Laurel Springs Boro,U.S. House,1,Of The People,Mike Berman,0
+Camden,Lawnside Boro,U.S. House,1,Of The People,Mike Berman,0
+Camden,Lindenwold Boro,U.S. House,1,Of The People,Mike Berman,7
+Camden,Magnolia Boro,U.S. House,1,Of The People,Mike Berman,3
+Camden,Merchantville Boro,U.S. House,1,Of The People,Mike Berman,1
+Camden,Mt. Ephraim Boro,U.S. House,1,Of The People,Mike Berman,2
+Camden,Oaklyn Boro,U.S. House,1,Of The People,Mike Berman,2
+Camden,Pennsauken Twp,U.S. House,1,Of The People,Mike Berman,17
+Camden,Pine Hill Boro,U.S. House,1,Of The People,Mike Berman,8
+Camden,Pine Valley Boro,U.S. House,1,Of The People,Mike Berman,0
+Camden,Runnemede Boro,U.S. House,1,Of The People,Mike Berman,7
+Camden,Somerdale Boro,U.S. House,1,Of The People,Mike Berman,5
+Camden,Stratford Boro,U.S. House,1,Of The People,Mike Berman,6
+Camden,Tavistok Boro,U.S. House,1,Of The People,Mike Berman,0
+Camden,Voorhees Twp.,U.S. House,1,Of The People,Mike Berman,6
+Camden,Winslow Twp.,U.S. House,1,Of The People,Mike Berman,11
+Camden,Woodlynne Boro,U.S. House,1,Of The People,Mike Berman,0
+Camden,Total,U.S. House,1,Of The People,Mike Berman,254
+Camden,Audubon Boro,U.S. House,1,D-R Party,Donald E. Letton,8
+Camden,Audubon Park Boro,U.S. House,1,D-R Party,Donald E. Letton,1
+Camden,Barrington Boro,U.S. House,1,D-R Party,Donald E. Letton,4
+Camden,Bellmawr Boro,U.S. House,1,D-R Party,Donald E. Letton,14
+Camden,Berlin Boro,U.S. House,1,D-R Party,Donald E. Letton,4
+Camden,Berlin Twp.,U.S. House,1,D-R Party,Donald E. Letton,2
+Camden,Brooklawn Boro,U.S. House,1,D-R Party,Donald E. Letton,4
+Camden,Camden City,U.S. House,1,D-R Party,Donald E. Letton,87
+Camden,Cherry Hill Twp.,U.S. House,1,D-R Party,Donald E. Letton,49
+Camden,Chesilhurst Boro,U.S. House,1,D-R Party,Donald E. Letton,1
+Camden,Clementon Boro,U.S. House,1,D-R Party,Donald E. Letton,3
+Camden,Collingswood Boro,U.S. House,1,D-R Party,Donald E. Letton,16
+Camden,Gibbsboro Boro,U.S. House,1,D-R Party,Donald E. Letton,3
+Camden,Gloucester City,U.S. House,1,D-R Party,Donald E. Letton,7
+Camden,Gloucester Twp.,U.S. House,1,D-R Party,Donald E. Letton,38
+Camden,Haddon Heights Boro,U.S. House,1,D-R Party,Donald E. Letton,6
+Camden,Haddon Twp.,U.S. House,1,D-R Party,Donald E. Letton,9
+Camden,Haddonfield Boro,U.S. House,1,D-R Party,Donald E. Letton,14
+Camden,Hi-Nella Boro,U.S. House,1,D-R Party,Donald E. Letton,2
+Camden,Laurel Springs Boro,U.S. House,1,D-R Party,Donald E. Letton,0
+Camden,Lawnside Boro,U.S. House,1,D-R Party,Donald E. Letton,2
+Camden,Lindenwold Boro,U.S. House,1,D-R Party,Donald E. Letton,6
+Camden,Magnolia Boro,U.S. House,1,D-R Party,Donald E. Letton,3
+Camden,Merchantville Boro,U.S. House,1,D-R Party,Donald E. Letton,3
+Camden,Mt. Ephraim Boro,U.S. House,1,D-R Party,Donald E. Letton,1
+Camden,Oaklyn Boro,U.S. House,1,D-R Party,Donald E. Letton,4
+Camden,Pennsauken Twp,U.S. House,1,D-R Party,Donald E. Letton,32
+Camden,Pine Hill Boro,U.S. House,1,D-R Party,Donald E. Letton,5
+Camden,Pine Valley Boro,U.S. House,1,D-R Party,Donald E. Letton,0
+Camden,Runnemede Boro,U.S. House,1,D-R Party,Donald E. Letton,0
+Camden,Somerdale Boro,U.S. House,1,D-R Party,Donald E. Letton,2
+Camden,Stratford Boro,U.S. House,1,D-R Party,Donald E. Letton,3
+Camden,Tavistok Boro,U.S. House,1,D-R Party,Donald E. Letton,0
+Camden,Voorhees Twp.,U.S. House,1,D-R Party,Donald E. Letton,13
+Camden,Winslow Twp.,U.S. House,1,D-R Party,Donald E. Letton,21
+Camden,Woodlynne Boro,U.S. House,1,D-R Party,Donald E. Letton,1
+Camden,Total,U.S. House,1,D-R Party,Donald E. Letton,368
+Camden,Waterford Twp,U.S. House,2,Republican,Frank A. LoBiondo,1653
+Camden,Total,U.S. House,2,Republican,Frank A. LoBiondo,1653
+Camden,Waterford Twp,U.S. House,2,Democratic,William J. Hughes Jr.,864
+Camden,Total,U.S. House,2,Democratic,William J. Hughes Jr.,864
+Camden,Waterford Twp,U.S. House,2,D-R Party,Alexander H. Spano,6
+Camden,Total,U.S. House,2,D-R Party,Alexander H. Spano,6
+Camden,Waterford Twp,U.S. House,2,Independent,Gary Stein,5
+Camden,Total,U.S. House,2,Independent,Gary Stein,5
+Camden,Waterford Twp,U.S. House,2,American Labor Party,Constantino Rozzo,11
+Camden,Total,U.S. House,2,American Labor Party,Constantino Rozzo,11
+Camden,Waterford Twp,U.S. House,2,Independent,Bayode Olabisi,6
+Camden,Total,U.S. House,2,Independent,Bayode Olabisi,6
+Camden,Audubon Boro,U.S. Senate,,Democratic,Cory Booker,1259
+Camden,Audubon Park Boro,U.S. Senate,,Democratic,Cory Booker,208
+Camden,Barrington Boro,U.S. Senate,,Democratic,Cory Booker,957
+Camden,Bellmawr Boro,U.S. Senate,,Democratic,Cory Booker,1825
+Camden,Berlin Boro,U.S. Senate,,Democratic,Cory Booker,903
+Camden,Berlin Twp,U.S. Senate,,Democratic,Cory Booker,678
+Camden,Brooklawn Boro,U.S. Senate,,Democratic,Cory Booker,307
+Camden,Camden City,U.S. Senate,,Democratic,Cory Booker,8214
+Camden,Cherry Hill Twp,U.S. Senate,,Democratic,Cory Booker,11480
+Camden,Chesilhurst Boro,U.S. Senate,,Democratic,Cory Booker,329
+Camden,Clementon Boro,U.S. Senate,,Democratic,Cory Booker,665
+Camden,Collingswood Boro,U.S. Senate,,Democratic,Cory Booker,2719
+Camden,Gibbsboro Boro,U.S. Senate,,Democratic,Cory Booker,330
+Camden,Gloucester City,U.S. Senate,,Democratic,Cory Booker,1382
+Camden,Gloucester Twp,U.S. Senate,,Democratic,Cory Booker,8072
+Camden,Haddon Heights Boro,U.S. Senate,,Democratic,Cory Booker,1422
+Camden,Haddon Twp,U.S. Senate,,Democratic,Cory Booker,2705
+Camden,Haddonfield Boro,U.S. Senate,,Democratic,Cory Booker,2489
+Camden,Hi-Nella Boro,U.S. Senate,,Democratic,Cory Booker,86
+Camden,Laurel Springs Boro,U.S. Senate,,Democratic,Cory Booker,288
+Camden,Lawnside Boro,U.S. Senate,,Democratic,Cory Booker,987
+Camden,Lindenwood Boro,U.S. Senate,,Democratic,Cory Booker,2101
+Camden,Magnolia Boro,U.S. Senate,,Democratic,Cory Booker,704
+Camden,Merchantville Boro,U.S. Senate,,Democratic,Cory Booker,665
+Camden,Mount Ephriam Boro,U.S. Senate,,Democratic,Cory Booker,582
+Camden,Oaklyn Boro,U.S. Senate,,Democratic,Cory Booker,601
+Camden,Pennsauken Twp,U.S. Senate,,Democratic,Cory Booker,5692
+Camden,Pine Hill Boro,U.S. Senate,,Democratic,Cory Booker,1363
+Camden,Pine Valley Boro,U.S. Senate,,Democratic,Cory Booker,2
+Camden,Runnemede Boro,U.S. Senate,,Democratic,Cory Booker,1000
+Camden,Somerdale Boro,U.S. Senate,,Democratic,Cory Booker,867
+Camden,Stratford Boro,U.S. Senate,,Democratic,Cory Booker,953
+Camden,Travistock Boro,U.S. Senate,,Democratic,Cory Booker,2
+Camden,Voorhees Twp,U.S. Senate,,Democratic,Cory Booker,4638
+Camden,Waterford Twp,U.S. Senate,,Democratic,Cory Booker,1101
+Camden,Winslow Twp,U.S. Senate,,Democratic,Cory Booker,5964
+Camden,Woodlynne Boro,U.S. Senate,,Democratic,Cory Booker,341
+Camden,Total,U.S. Senate,,Democratic,Cory Booker,73881
+Camden,Audubon Boro,U.S. Senate,,Republican,Jeff Bell,918
+Camden,Audubon Park Boro,U.S. Senate,,Republican,Jeff Bell,92
+Camden,Barrington Boro,U.S. Senate,,Republican,Jeff Bell,727
+Camden,Bellmawr Boro,U.S. Senate,,Republican,Jeff Bell,1051
+Camden,Berlin Boro,U.S. Senate,,Republican,Jeff Bell,1007
+Camden,Berlin Twp,U.S. Senate,,Republican,Jeff Bell,419
+Camden,Brooklawn Boro,U.S. Senate,,Republican,Jeff Bell,155
+Camden,Camden City,U.S. Senate,,Republican,Jeff Bell,453
+Camden,Cherry Hill Twp,U.S. Senate,,Republican,Jeff Bell,6930
+Camden,Chesilhurst Boro,U.S. Senate,,Republican,Jeff Bell,59
+Camden,Clementon Boro,U.S. Senate,,Republican,Jeff Bell,371
+Camden,Collingswood Boro,U.S. Senate,,Republican,Jeff Bell,1055
+Camden,Gibbsboro Boro,U.S. Senate,,Republican,Jeff Bell,283
+Camden,Gloucester City,U.S. Senate,,Republican,Jeff Bell,637
+Camden,Gloucester Twp,U.S. Senate,,Republican,Jeff Bell,5082
+Camden,Haddon Heights Boro,U.S. Senate,,Republican,Jeff Bell,1243
+Camden,Haddon Twp,U.S. Senate,,Republican,Jeff Bell,1779
+Camden,Haddonfield Boro,U.S. Senate,,Republican,Jeff Bell,1776
+Camden,Hi-Nella Boro,U.S. Senate,,Republican,Jeff Bell,61
+Camden,Laurel Springs Boro,U.S. Senate,,Republican,Jeff Bell,216
+Camden,Lawnside Boro,U.S. Senate,,Republican,Jeff Bell,25
+Camden,Lindenwood Boro,U.S. Senate,,Republican,Jeff Bell,618
+Camden,Magnolia Boro,U.S. Senate,,Republican,Jeff Bell,304
+Camden,Merchantville Boro,U.S. Senate,,Republican,Jeff Bell,363
+Camden,Mount Ephriam Boro,U.S. Senate,,Republican,Jeff Bell,413
+Camden,Oaklyn Boro,U.S. Senate,,Republican,Jeff Bell,374
+Camden,Pennsauken Twp,U.S. Senate,,Republican,Jeff Bell,1751
+Camden,Pine Hill Boro,U.S. Senate,,Republican,Jeff Bell,496
+Camden,Pine Valley Boro,U.S. Senate,,Republican,Jeff Bell,9
+Camden,Runnemede Boro,U.S. Senate,,Republican,Jeff Bell,582
+Camden,Somerdale Boro,U.S. Senate,,Republican,Jeff Bell,344
+Camden,Stratford Boro,U.S. Senate,,Republican,Jeff Bell,831
+Camden,Travistock Boro,U.S. Senate,,Republican,Jeff Bell,3
+Camden,Voorhees Twp,U.S. Senate,,Republican,Jeff Bell,3054
+Camden,Waterford Twp,U.S. Senate,,Republican,Jeff Bell,1428
+Camden,Winslow Twp,U.S. Senate,,Republican,Jeff Bell,2574
+Camden,Woodlynne Boro,U.S. Senate,,Republican,Jeff Bell,60
+Camden,Total,U.S. Senate,,Republican,Jeff Bell,37543
+Camden,Audubon Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,30
+Camden,Audubon Park Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,2
+Camden,Barrington Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,17
+Camden,Bellmawr Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,34
+Camden,Berlin Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,21
+Camden,Berlin Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,8
+Camden,Brooklawn Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,4
+Camden,Camden City,U.S. Senate,,Libertarian Party,Joseph Baratelli,11
+Camden,Cherry Hill Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,102
+Camden,Chesilhurst Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,1
+Camden,Clementon Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,10
+Camden,Collingswood Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,41
+Camden,Gibbsboro Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,8
+Camden,Gloucester City,U.S. Senate,,Libertarian Party,Joseph Baratelli,18
+Camden,Gloucester Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,96
+Camden,Haddon Heights Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,24
+Camden,Haddon Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,32
+Camden,Haddonfield Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,20
+Camden,Hi-Nella Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,6
+Camden,Laurel Springs Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,6
+Camden,Lawnside Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,0
+Camden,Lindenwood Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,13
+Camden,Magnolia Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,7
+Camden,Merchantville Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,16
+Camden,Mount Ephriam Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,9
+Camden,Oaklyn Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,15
+Camden,Pennsauken Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,34
+Camden,Pine Hill Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,16
+Camden,Pine Valley Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,0
+Camden,Runnemede Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,10
+Camden,Somerdale Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,5
+Camden,Stratford Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,18
+Camden,Travistock Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,0
+Camden,Voorhees Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,42
+Camden,Waterford Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,15
+Camden,Winslow Twp,U.S. Senate,,Libertarian Party,Joseph Baratelli,49
+Camden,Woodlynne Boro,U.S. Senate,,Libertarian Party,Joseph Baratelli,2
+Camden,Total,U.S. Senate,,Libertarian Party,Joseph Baratelli,742
+Camden,Audubon Boro,U.S. Senate,,Independent,Antonio N. Sabas,7
+Camden,Audubon Park Boro,U.S. Senate,,Independent,Antonio N. Sabas,1
+Camden,Barrington Boro,U.S. Senate,,Independent,Antonio N. Sabas,4
+Camden,Bellmawr Boro,U.S. Senate,,Independent,Antonio N. Sabas,28
+Camden,Berlin Boro,U.S. Senate,,Independent,Antonio N. Sabas,10
+Camden,Berlin Twp,U.S. Senate,,Independent,Antonio N. Sabas,3
+Camden,Brooklawn Boro,U.S. Senate,,Independent,Antonio N. Sabas,4
+Camden,Camden City,U.S. Senate,,Independent,Antonio N. Sabas,65
+Camden,Cherry Hill Twp,U.S. Senate,,Independent,Antonio N. Sabas,36
+Camden,Chesilhurst Boro,U.S. Senate,,Independent,Antonio N. Sabas,0
+Camden,Clementon Boro,U.S. Senate,,Independent,Antonio N. Sabas,4
+Camden,Collingswood Boro,U.S. Senate,,Independent,Antonio N. Sabas,9
+Camden,Gibbsboro Boro,U.S. Senate,,Independent,Antonio N. Sabas,3
+Camden,Gloucester City,U.S. Senate,,Independent,Antonio N. Sabas,8
+Camden,Gloucester Twp,U.S. Senate,,Independent,Antonio N. Sabas,29
+Camden,Haddon Heights Boro,U.S. Senate,,Independent,Antonio N. Sabas,8
+Camden,Haddon Twp,U.S. Senate,,Independent,Antonio N. Sabas,10
+Camden,Haddonfield Boro,U.S. Senate,,Independent,Antonio N. Sabas,4
+Camden,Hi-Nella Boro,U.S. Senate,,Independent,Antonio N. Sabas,1
+Camden,Laurel Springs Boro,U.S. Senate,,Independent,Antonio N. Sabas,1
+Camden,Lawnside Boro,U.S. Senate,,Independent,Antonio N. Sabas,2
+Camden,Lindenwood Boro,U.S. Senate,,Independent,Antonio N. Sabas,15
+Camden,Magnolia Boro,U.S. Senate,,Independent,Antonio N. Sabas,5
+Camden,Merchantville Boro,U.S. Senate,,Independent,Antonio N. Sabas,3
+Camden,Mount Ephriam Boro,U.S. Senate,,Independent,Antonio N. Sabas,0
+Camden,Oaklyn Boro,U.S. Senate,,Independent,Antonio N. Sabas,4
+Camden,Pennsauken Twp,U.S. Senate,,Independent,Antonio N. Sabas,23
+Camden,Pine Hill Boro,U.S. Senate,,Independent,Antonio N. Sabas,4
+Camden,Pine Valley Boro,U.S. Senate,,Independent,Antonio N. Sabas,0
+Camden,Runnemede Boro,U.S. Senate,,Independent,Antonio N. Sabas,13
+Camden,Somerdale Boro,U.S. Senate,,Independent,Antonio N. Sabas,9
+Camden,Stratford Boro,U.S. Senate,,Independent,Antonio N. Sabas,1
+Camden,Travistock Boro,U.S. Senate,,Independent,Antonio N. Sabas,0
+Camden,Voorhees Twp,U.S. Senate,,Independent,Antonio N. Sabas,16
+Camden,Waterford Twp,U.S. Senate,,Independent,Antonio N. Sabas,4
+Camden,Winslow Twp,U.S. Senate,,Independent,Antonio N. Sabas,19
+Camden,Woodlynne Boro,U.S. Senate,,Independent,Antonio N. Sabas,2
+Camden,Total,U.S. Senate,,Independent,Antonio N. Sabas,355
+Camden,Audubon Boro,U.S. Senate,,Economic Growth,Hank Schroeder,5
+Camden,Audubon Park Boro,U.S. Senate,,Economic Growth,Hank Schroeder,1
+Camden,Barrington Boro,U.S. Senate,,Economic Growth,Hank Schroeder,5
+Camden,Bellmawr Boro,U.S. Senate,,Economic Growth,Hank Schroeder,23
+Camden,Berlin Boro,U.S. Senate,,Economic Growth,Hank Schroeder,6
+Camden,Berlin Twp,U.S. Senate,,Economic Growth,Hank Schroeder,3
+Camden,Brooklawn Boro,U.S. Senate,,Economic Growth,Hank Schroeder,2
+Camden,Camden City,U.S. Senate,,Economic Growth,Hank Schroeder,12
+Camden,Cherry Hill Twp,U.S. Senate,,Economic Growth,Hank Schroeder,40
+Camden,Chesilhurst Boro,U.S. Senate,,Economic Growth,Hank Schroeder,1
+Camden,Clementon Boro,U.S. Senate,,Economic Growth,Hank Schroeder,4
+Camden,Collingswood Boro,U.S. Senate,,Economic Growth,Hank Schroeder,14
+Camden,Gibbsboro Boro,U.S. Senate,,Economic Growth,Hank Schroeder,2
+Camden,Gloucester City,U.S. Senate,,Economic Growth,Hank Schroeder,9
+Camden,Gloucester Twp,U.S. Senate,,Economic Growth,Hank Schroeder,26
+Camden,Haddon Heights Boro,U.S. Senate,,Economic Growth,Hank Schroeder,3
+Camden,Haddon Twp,U.S. Senate,,Economic Growth,Hank Schroeder,11
+Camden,Haddonfield Boro,U.S. Senate,,Economic Growth,Hank Schroeder,7
+Camden,Hi-Nella Boro,U.S. Senate,,Economic Growth,Hank Schroeder,1
+Camden,Laurel Springs Boro,U.S. Senate,,Economic Growth,Hank Schroeder,2
+Camden,Lawnside Boro,U.S. Senate,,Economic Growth,Hank Schroeder,0
+Camden,Lindenwood Boro,U.S. Senate,,Economic Growth,Hank Schroeder,3
+Camden,Magnolia Boro,U.S. Senate,,Economic Growth,Hank Schroeder,4
+Camden,Merchantville Boro,U.S. Senate,,Economic Growth,Hank Schroeder,3
+Camden,Mount Ephriam Boro,U.S. Senate,,Economic Growth,Hank Schroeder,9
+Camden,Oaklyn Boro,U.S. Senate,,Economic Growth,Hank Schroeder,9
+Camden,Pennsauken Twp,U.S. Senate,,Economic Growth,Hank Schroeder,22
+Camden,Pine Hill Boro,U.S. Senate,,Economic Growth,Hank Schroeder,6
+Camden,Pine Valley Boro,U.S. Senate,,Economic Growth,Hank Schroeder,0
+Camden,Runnemede Boro,U.S. Senate,,Economic Growth,Hank Schroeder,7
+Camden,Somerdale Boro,U.S. Senate,,Economic Growth,Hank Schroeder,7
+Camden,Stratford Boro,U.S. Senate,,Economic Growth,Hank Schroeder,6
+Camden,Travistock Boro,U.S. Senate,,Economic Growth,Hank Schroeder,0
+Camden,Voorhees Twp,U.S. Senate,,Economic Growth,Hank Schroeder,12
+Camden,Waterford Twp,U.S. Senate,,Economic Growth,Hank Schroeder,8
+Camden,Winslow Twp,U.S. Senate,,Economic Growth,Hank Schroeder,20
+Camden,Woodlynne Boro,U.S. Senate,,Economic Growth,Hank Schroeder,0
+Camden,Total,U.S. Senate,,Economic Growth,Hank Schroeder,293
+Camden,Audubon Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,4
+Camden,Audubon Park Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,0
+Camden,Barrington Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,3
+Camden,Bellmawr Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,7
+Camden,Berlin Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,4
+Camden,Berlin Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,0
+Camden,Brooklawn Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,0
+Camden,Camden City,U.S. Senate,,D-R Party,Eugene Martin LaVergne,57
+Camden,Cherry Hill Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,21
+Camden,Chesilhurst Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,0
+Camden,Clementon Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,1
+Camden,Collingswood Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,12
+Camden,Gibbsboro Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,1
+Camden,Gloucester City,U.S. Senate,,D-R Party,Eugene Martin LaVergne,2
+Camden,Gloucester Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,23
+Camden,Haddon Heights Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,2
+Camden,Haddon Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,10
+Camden,Haddonfield Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,12
+Camden,Hi-Nella Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,0
+Camden,Laurel Springs Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,1
+Camden,Lawnside Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,0
+Camden,Lindenwood Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,2
+Camden,Magnolia Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,0
+Camden,Merchantville Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,1
+Camden,Mount Ephriam Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,2
+Camden,Oaklyn Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,2
+Camden,Pennsauken Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,15
+Camden,Pine Hill Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,3
+Camden,Pine Valley Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,0
+Camden,Runnemede Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,1
+Camden,Somerdale Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,7
+Camden,Stratford Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,0
+Camden,Travistock Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,0
+Camden,Voorhees Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,4
+Camden,Waterford Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,2
+Camden,Winslow Twp,U.S. Senate,,D-R Party,Eugene Martin LaVergne,11
+Camden,Woodlynne Boro,U.S. Senate,,D-R Party,Eugene Martin LaVergne,1
+Camden,Total,U.S. Senate,,D-R Party,Eugene Martin LaVergne,211
+Camden,Audubon Boro,U.S. Senate,,Independent,Jeff Boss,5
+Camden,Audubon Park Boro,U.S. Senate,,Independent,Jeff Boss,2
+Camden,Barrington Boro,U.S. Senate,,Independent,Jeff Boss,0
+Camden,Bellmawr Boro,U.S. Senate,,Independent,Jeff Boss,8
+Camden,Berlin Boro,U.S. Senate,,Independent,Jeff Boss,2
+Camden,Berlin Twp,U.S. Senate,,Independent,Jeff Boss,1
+Camden,Brooklawn Boro,U.S. Senate,,Independent,Jeff Boss,1
+Camden,Camden City,U.S. Senate,,Independent,Jeff Boss,8
+Camden,Cherry Hill Twp,U.S. Senate,,Independent,Jeff Boss,16
+Camden,Chesilhurst Boro,U.S. Senate,,Independent,Jeff Boss,2
+Camden,Clementon Boro,U.S. Senate,,Independent,Jeff Boss,1
+Camden,Collingswood Boro,U.S. Senate,,Independent,Jeff Boss,11
+Camden,Gibbsboro Boro,U.S. Senate,,Independent,Jeff Boss,1
+Camden,Gloucester City,U.S. Senate,,Independent,Jeff Boss,2
+Camden,Gloucester Twp,U.S. Senate,,Independent,Jeff Boss,19
+Camden,Haddon Heights Boro,U.S. Senate,,Independent,Jeff Boss,0
+Camden,Haddon Twp,U.S. Senate,,Independent,Jeff Boss,4
+Camden,Haddonfield Boro,U.S. Senate,,Independent,Jeff Boss,4
+Camden,Hi-Nella Boro,U.S. Senate,,Independent,Jeff Boss,1
+Camden,Laurel Springs Boro,U.S. Senate,,Independent,Jeff Boss,1
+Camden,Lawnside Boro,U.S. Senate,,Independent,Jeff Boss,0
+Camden,Lindenwood Boro,U.S. Senate,,Independent,Jeff Boss,1
+Camden,Magnolia Boro,U.S. Senate,,Independent,Jeff Boss,2
+Camden,Merchantville Boro,U.S. Senate,,Independent,Jeff Boss,1
+Camden,Mount Ephriam Boro,U.S. Senate,,Independent,Jeff Boss,3
+Camden,Oaklyn Boro,U.S. Senate,,Independent,Jeff Boss,1
+Camden,Pennsauken Twp,U.S. Senate,,Independent,Jeff Boss,7
+Camden,Pine Hill Boro,U.S. Senate,,Independent,Jeff Boss,1
+Camden,Pine Valley Boro,U.S. Senate,,Independent,Jeff Boss,0
+Camden,Runnemede Boro,U.S. Senate,,Independent,Jeff Boss,1
+Camden,Somerdale Boro,U.S. Senate,,Independent,Jeff Boss,0
+Camden,Stratford Boro,U.S. Senate,,Independent,Jeff Boss,5
+Camden,Travistock Boro,U.S. Senate,,Independent,Jeff Boss,0
+Camden,Voorhees Twp,U.S. Senate,,Independent,Jeff Boss,4
+Camden,Waterford Twp,U.S. Senate,,Independent,Jeff Boss,3
+Camden,Winslow Twp,U.S. Senate,,Independent,Jeff Boss,9
+Camden,Woodlynne Boro,U.S. Senate,,Independent,Jeff Boss,2
+Camden,Total,U.S. Senate,,Independent,Jeff Boss,129
