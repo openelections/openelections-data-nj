@@ -1,5 +1,4 @@
 county,office,district,party,candidate,votes
-<<<<<<< HEAD
 ATLANTIC,President,,Democratic,BARACK OBAMA (w),6494
 BERGEN,President,,Democratic,BARACK OBAMA (w),32182
 BURLINGTON,President,,Democratic,BARACK OBAMA (w),12489
@@ -1025,4 +1024,3 @@ Hudson,U.S. House (special),10,Democratic,WAYNE SMITH,74
 Union,U.S. House (special),10,Democratic,WAYNE SMITH,"1,152"
 Total,U.S. House (special),10,Democratic,WAYNE SMITH,"2,318"
 Total,U.S. House (special),10,,,"48,611"
->>>>>>> 796c7454da40e23c083727d66cc17476ea79c794
