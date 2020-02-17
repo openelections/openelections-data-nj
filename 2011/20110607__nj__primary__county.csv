@@ -1,0 +1,935 @@
+county,office,district,party,candidate,votes
+Atlantic,Registered Voters,,,,"161,672"
+Bergen,Registered Voters,,,,"518,333"
+Burlington,Registered Voters,,,,"277,270"
+Camden,Registered Voters,,,,"335,202"
+Cape May,Registered Voters,,,,"66,818"
+Cumberland,Registered Voters,,,,"88,407"
+Essex,Registered Voters,,,,"458,777"
+Gloucester,Registered Voters,,,,"187,274"
+Hudson,Registered Voters,,,,"315,271"
+Hunterdon,Registered Voters,,,,"86,619"
+Mercer,Registered Voters,,,,"210,615"
+Middlesex,Registered Voters,,,,"439,734"
+Monmouth,Registered Voters,,,,"409,024"
+Morris,Registered Voters,,,,"310,691"
+Ocean,Registered Voters,,,,"365,730"
+Passaic,Registered Voters,,,,"267,657"
+Salem,Registered Voters,,,,"42,786"
+Somerset,Registered Voters,,,,"198,381"
+Sussex,Registered Voters,,,,"98,408"
+Union,Registered Voters,,,,"286,754"
+Warren,Registered Voters,,,,"67,832"
+Total,Registered Voters,,,,"5,193,255"
+Atlantic,Ballots Cast,,Democratic,,"5,441"
+Bergen,Ballots Cast,,Democratic,,"12,770"
+Burlington,Ballots Cast,,Democratic,,"8,281"
+Camden,Ballots Cast,,Democratic,,"14,309"
+Cape May,Ballots Cast,,Democratic,,"1,450"
+Cumberland,Ballots Cast,,Democratic,,"1,491"
+Essex,Ballots Cast,,Democratic,,"30,362"
+Gloucester,Ballots Cast,,Democratic,,"5,719"
+Hudson,Ballots Cast,,Democratic,,"41,547"
+Hunterdon,Ballots Cast,,Democratic,,"1,295"
+Mercer,Ballots Cast,,Democratic,,"6,677"
+Middlesex,Ballots Cast,,Democratic,,"19,607"
+Monmouth,Ballots Cast,,Democratic,,"5,272"
+Morris,Ballots Cast,,Democratic,,"7,692"
+Ocean,Ballots Cast,,Democratic,,"7,509"
+Passaic,Ballots Cast,,Democratic,,"8,019"
+Salem,Ballots Cast,,Democratic,,"2,045"
+Somerset,Ballots Cast,,Democratic,,"3,416"
+Sussex,Ballots Cast,,Democratic,,942
+Union,Ballots Cast,,Democratic,,"26,842"
+Warren,Ballots Cast,,Democratic,,"1,012"
+Total,Ballots Cast,,Democratic,,"211,698"
+Atlantic,Ballots Cast,,Republican,,"6,665"
+Bergen,Ballots Cast,,Republican,,"11,294"
+Burlington,Ballots Cast,,Republican,,"10,216"
+Camden,Ballots Cast,,Republican,,"4,325"
+Cape May,Ballots Cast,,Republican,,"5,458"
+Cumberland,Ballots Cast,,Republican,,"1,518"
+Essex,Ballots Cast,,Republican,,"4,643"
+Gloucester,Ballots Cast,,Republican,,"5,074"
+Hudson,Ballots Cast,,Republican,,"2,714"
+Hunterdon,Ballots Cast,,Republican,,"5,768"
+Mercer,Ballots Cast,,Republican,,"2,872"
+Middlesex,Ballots Cast,,Republican,,"5,405"
+Monmouth,Ballots Cast,,Republican,,"8,093"
+Morris,Ballots Cast,,Republican,,"29,273"
+Ocean,Ballots Cast,,Republican,,"14,135"
+Passaic,Ballots Cast,,Republican,,"11,233"
+Salem,Ballots Cast,,Republican,,"1,287"
+Somerset,Ballots Cast,,Republican,,"7,564"
+Sussex,Ballots Cast,,Republican,,"5,585"
+Union,Ballots Cast,,Republican,,"4,313"
+Warren,Ballots Cast,,Republican,,"3,503"
+Total,Ballots Cast,,Republican,,"150,938"
+Atlantic,Ballots Cast,,,,"12,106"
+Bergen,Ballots Cast,,,,"24,064"
+Burlington,Ballots Cast,,,,"18,497"
+Camden,Ballots Cast,,,,"18,634"
+Cape May,Ballots Cast,,,,"6,908"
+Cumberland,Ballots Cast,,,,"3,009"
+Essex,Ballots Cast,,,,"35,005"
+Gloucester,Ballots Cast,,,,"10,793"
+Hudson,Ballots Cast,,,,"44,261"
+Hunterdon,Ballots Cast,,,,"7,063"
+Mercer,Ballots Cast,,,,"9,549"
+Middlesex,Ballots Cast,,,,"25,012"
+Monmouth,Ballots Cast,,,,"13,365"
+Morris,Ballots Cast,,,,"36,965"
+Ocean,Ballots Cast,,,,"21,644"
+Passaic,Ballots Cast,,,,"19,252"
+Salem,Ballots Cast,,,,"3,332"
+Somerset,Ballots Cast,,,,"10,980"
+Sussex,Ballots Cast,,,,"6,527"
+Union,Ballots Cast,,,,"31,155"
+Warren,Ballots Cast,,,,"4,515"
+Total,Ballots Cast,,,,"362,636"
+Atlantic,Ballots Rejected,,,,32
+Bergen,Ballots Rejected,,,,32
+Burlington,Ballots Rejected,,,,136
+Camden,Ballots Rejected,,,,73
+Cape May,Ballots Rejected,,,,28
+Cumberland,Ballots Rejected,,,,10
+Essex,Ballots Rejected,,,,50
+Gloucester,Ballots Rejected,,,,40
+Hudson,Ballots Rejected,,,,76
+Hunterdon,Ballots Rejected,,,,5
+Mercer,Ballots Rejected,,,,24
+Middlesex,Ballots Rejected,,,,52
+Monmouth,Ballots Rejected,,,,13
+Morris,Ballots Rejected,,,,23
+Ocean,Ballots Rejected,,,,54
+Passaic,Ballots Rejected,,,,45
+Salem,Ballots Rejected,,,,7
+Somerset,Ballots Rejected,,,,25
+Sussex,Ballots Rejected,,,,7
+Union,Ballots Rejected,,,,132
+Warren,Ballots Rejected,,,,6
+Total,Ballots Rejected,,,,870
+Atlantic (part),General Assembly,1,Republican,Suzanne M. Walters (w),148
+Cape May,General Assembly,1,Republican,Suzanne M. Walters (w),"3,558"
+Cumberland (part),General Assembly,1,Republican,Suzanne M. Walters (w),785
+Total,General Assembly,1,Republican,Suzanne M. Walters (w),"4,491"
+Atlantic (part),General Assembly,1,Republican,Samuel Fiocchi (w),135
+Cape May,General Assembly,1,Republican,Samuel Fiocchi (w),"3,401"
+Cumberland (part),General Assembly,1,Republican,Samuel Fiocchi (w),862
+Total,General Assembly,1,Republican,Samuel Fiocchi (w),"4,398"
+Atlantic (part),General Assembly,1,Democratic,Nelson Albano (w),107
+Cape May,General Assembly,1,Democratic,Nelson Albano (w),"1,342"
+Cumberland (part),General Assembly,1,Democratic,Nelson Albano (w),"1,090"
+Total,General Assembly,1,Democratic,Nelson Albano (w),"2,539"
+Atlantic (part),General Assembly,1,Democratic,Matthew Milam (w),104
+Cape May,General Assembly,1,Democratic,Matthew Milam (w),"1,283"
+Cumberland (part),General Assembly,1,Democratic,Matthew Milam (w),"1,026"
+Total,General Assembly,1,Democratic,Matthew Milam (w),"2,413"
+Atlantic (part),General Assembly,1,Republican,Peter F. Boyce,64
+Cape May,General Assembly,1,Republican,Peter F. Boyce,"1,253"
+Cumberland (part),General Assembly,1,Republican,Peter F. Boyce,395
+Total,General Assembly,1,Republican,Peter F. Boyce,"1,712"
+Atlantic (part),General Assembly,1,Republican,Paul J. Halley,49
+Cape May,General Assembly,1,Republican,Paul J. Halley,"1,049"
+Cumberland (part),General Assembly,1,Republican,Paul J. Halley,340
+Total,General Assembly,1,Republican,Paul J. Halley,"1,438"
+Atlantic (part),General Assembly,2,Republican,John F. Amodeo (w),"4,655"
+Total,General Assembly,2,Republican,John F. Amodeo (w),"4,655"
+Atlantic (part),General Assembly,2,Republican,Chris Brown (w),"4,436"
+Total,General Assembly,2,Republican,Chris Brown (w),"4,436"
+Atlantic (part),General Assembly,2,Democratic,Damon Tyner (w),"3,370"
+Total,General Assembly,2,Democratic,Damon Tyner (w),"3,370"
+Atlantic (part),General Assembly,2,Democratic,Alisa Cooper (w),"3,361"
+Total,General Assembly,2,Democratic,Alisa Cooper (w),"3,361"
+Atlantic (part),General Assembly,2,Democratic,Gary Stein,524
+Total,General Assembly,2,Democratic,Gary Stein,524
+Cumberland (part),General Assembly,3,Democratic,John J. Burzichelli (w),240
+Gloucester (part),General Assembly,3,Democratic,John J. Burzichelli (w),"2,765"
+Salem,General Assembly,3,Democratic,John J. Burzichelli (w),"1,810"
+Total,General Assembly,3,Democratic,John J. Burzichelli (w),"4,815"
+Cumberland (part),General Assembly,3,Democratic,Celeste M. Riley (w),243
+Gloucester (part),General Assembly,3,Democratic,Celeste M. Riley (w),"2,654"
+Salem,General Assembly,3,Democratic,Celeste M. Riley (w),"1,702"
+Total,General Assembly,3,Democratic,Celeste M. Riley (w),"4,599"
+Cumberland (part),General Assembly,3,Republican,Domenick DiCicco (w),175
+Gloucester (part),General Assembly,3,Republican,Domenick DiCicco (w),"2,006"
+Salem,General Assembly,3,Republican,Domenick DiCicco (w),"1,150"
+Total,General Assembly,3,Republican,Domenick DiCicco (w),"3,331"
+Cumberland (part),General Assembly,3,Republican,Bob Villare (w),168
+Gloucester (part),General Assembly,3,Republican,Bob Villare (w),"2,008"
+Salem,General Assembly,3,Republican,Bob Villare (w),"1,150"
+Total,General Assembly,3,Republican,Bob Villare (w),"3,326"
+Camden (part),General Assembly,4,Democratic,Paul D. Moriarty (w),"3,239"
+Gloucester (part),General Assembly,4,Democratic,Paul D. Moriarty (w),"1,170"
+Total,General Assembly,4,Democratic,Paul D. Moriarty (w),"4,409"
+Camden (part),General Assembly,4,Democratic,Gabriela Mosquera (w),"2,934"
+Gloucester (part),General Assembly,4,Democratic,Gabriela Mosquera (w),"1,132"
+Total,General Assembly,4,Democratic,Gabriela Mosquera (w),"4,066"
+Camden (part),General Assembly,4,Republican,Shelley Lovett (w),885
+Gloucester (part),General Assembly,4,Republican,Shelley Lovett (w),"1,117"
+Total,General Assembly,4,Republican,Shelley Lovett (w),"2,002"
+Camden (part),General Assembly,4,Republican,Agnes Gardiner (w),831
+Gloucester (part),General Assembly,4,Republican,Agnes Gardiner (w),"1,118"
+Total,General Assembly,4,Republican,Agnes Gardiner (w),"1,949"
+Camden (part),General Assembly,5,Democratic,Angel Fuentes (w),"3,449"
+Gloucester (part),General Assembly,5,Democratic,Angel Fuentes (w),"1,009"
+Total,General Assembly,5,Democratic,Angel Fuentes (w),"4,458"
+Camden (part),General Assembly,5,Democratic,"Gilbert L. ""Whip"" Wilson (w)","3,397"
+Gloucester (part),General Assembly,5,Democratic,"Gilbert L. ""Whip"" Wilson (w)","1,005"
+Total,General Assembly,5,Democratic,"Gilbert L. ""Whip"" Wilson (w)","4,402"
+Camden (part),General Assembly,5,Republican,William Levins (w),678
+Gloucester (part),General Assembly,5,Republican,William Levins (w),873
+Total,General Assembly,5,Republican,William Levins (w),"1,551"
+Camden (part),General Assembly,5,Republican,Ari Ford (w),612
+Gloucester (part),General Assembly,5,Republican,Ari Ford (w),872
+Total,General Assembly,5,Republican,Ari Ford (w),"1,484"
+Camden (part),General Assembly,5,Republican,Donna M. Ward,169
+Gloucester (part),General Assembly,5,Republican,Donna M. Ward,385
+Total,General Assembly,5,Republican,Donna M. Ward,554
+Burlington (part),General Assembly,6,Democratic,Louis D. Greenwald (w),209
+Camden (part),General Assembly,6,Democratic,Louis D. Greenwald (w),"3,349"
+Total,General Assembly,6,Democratic,Louis D. Greenwald (w),"3,558"
+Burlington (part),General Assembly,6,Democratic,Pamela R. Lampitt (w),205
+Camden (part),General Assembly,6,Democratic,Pamela R. Lampitt (w),"3,169"
+Total,General Assembly,6,Democratic,Pamela R. Lampitt (w),3374
+Burlington (part),General Assembly,6,Republican,Allan Richardson (w),103
+Camden (part),General Assembly,6,Republican,Allan Richardson (w),"1,889"
+Total,General Assembly,6,Republican,Allan Richardson (w),1992
+Burlington (part),General Assembly,6,Republican,Sharon Moran (w),107
+Camden (part),General Assembly,6,Republican,Sharon Moran (w),"1,841"
+Total,General Assembly,6,Republican,Sharon Moran (w),1948
+Burlington (part),General Assembly,7,Democratic,Herb Conaway (w),"4,474"
+Total,General Assembly,7,Democratic,Herb Conaway (w),"4,474"
+Burlington (part),General Assembly,7,Democratic,Troy Singleton (w),"4,201"
+Total,General Assembly,7,Democratic,Troy Singleton (w),"4,201"
+Burlington (part),General Assembly,7,Republican,Joseph R. Malone III (w),"3,894"
+Total,General Assembly,7,Republican,Joseph R. Malone III (w),"3,894"
+Burlington (part),General Assembly,7,Republican,Christopher Halgas (w),"3,676"
+Total,General Assembly,7,Republican,Christopher Halgas (w),"3,676"
+Burlington (part),General Assembly,7,Democratic,Ken Gordon,"1,060"
+Total,General Assembly,7,Democratic,Ken Gordon,"1,060"
+Atlantic (part),General Assembly,8,Republican,Scott Rudder (w),172
+Burlington (part),General Assembly,8,Republican,Scott Rudder (w),"4,077"
+Camden (part),General Assembly,8,Republican,Scott Rudder (w),305
+Total,General Assembly,8,Republican,Scott Rudder (w),"4,554"
+Atlantic (part),General Assembly,8,Republican,Patrick Delany (w),173
+Burlington (part),General Assembly,8,Republican,Patrick Delany (w),"3,935"
+Camden (part),General Assembly,8,Republican,Patrick Delany (w),299
+Total,General Assembly,8,Republican,Patrick Delany (w),"4,407"
+Atlantic (part),General Assembly,8,Democratic,Sharyn Pertnoy-Schmidt (w),74
+Burlington (part),General Assembly,8,Democratic,Sharyn Pertnoy-Schmidt (w),"1,983"
+Camden (part),General Assembly,8,Democratic,Sharyn Pertnoy-Schmidt (w),585
+Total,General Assembly,8,Democratic,Sharyn Pertnoy-Schmidt (w),"2,642"
+Atlantic (part),General Assembly,8,Democratic,Raymond J. Storck (w),73
+Burlington (part),General Assembly,8,Democratic,Raymond J. Storck (w),"1,925"
+Camden (part),General Assembly,8,Democratic,Raymond J. Storck (w),557
+Total,General Assembly,8,Democratic,Raymond J. Storck (w),"2,555"
+Atlantic (part),General Assembly,9,Republican,Brian E. Rumpf (w),580
+Burlington (part),General Assembly,9,Republican,Brian E. Rumpf (w),207
+Ocean (part),General Assembly,9,Republican,Brian E. Rumpf (w),"5,399"
+Total,General Assembly,9,Republican,Brian E. Rumpf (w),"6,186"
+Atlantic (part),General Assembly,9,Republican,DiAnne C. Gove (w),582
+Burlington (part),General Assembly,9,Republican,DiAnne C. Gove (w),205
+Ocean (part),General Assembly,9,Republican,DiAnne C. Gove (w),"5,219"
+Total,General Assembly,9,Republican,DiAnne C. Gove (w),"6,006"
+Atlantic (part),General Assembly,9,Democratic,Carla Kearney (w),333
+Burlington (part),General Assembly,9,Democratic,Carla Kearney (w),47
+Ocean (part),General Assembly,9,Democratic,Carla Kearney (w),"2,780"
+Total,General Assembly,9,Democratic,Carla Kearney (w),"3,160"
+Atlantic (part),General Assembly,9,Democratic,Bradley Billhimer (w),321
+Burlington (part),General Assembly,9,Democratic,Bradley Billhimer (w),44
+Ocean (part),General Assembly,9,Democratic,Bradley Billhimer (w),"2,639"
+Total,General Assembly,9,Democratic,Bradley Billhimer (w),"3,004"
+Ocean (part),General Assembly,10,Republican,Dave Wolfe (w),"4,144"
+Total,General Assembly,10,Republican,Dave Wolfe (w),"4,144"
+Ocean (part),General Assembly,10,Republican,Gregory P. McGuckin (w),"3,876"
+Total,General Assembly,10,Republican,Gregory P. McGuckin (w),"3,876"
+Ocean (part),General Assembly,10,Democratic,Bette Wary (w),"2,727"
+Total,General Assembly,10,Democratic,Bette Wary (w),"2,727"
+Ocean (part),General Assembly,10,Democratic,Eli L. Eytan (w),"2,568"
+Total,General Assembly,10,Democratic,Eli L. Eytan (w),"2,568"
+Monmouth (part),General Assembly,11,Republican,Mary Pat Angelini (w),"2,385"
+Total,General Assembly,11,Republican,Mary Pat Angelini (w),"2,385"
+Monmouth (part),General Assembly,11,Republican,Caroline Casagrande (w),"2,368"
+Total,General Assembly,11,Republican,Caroline Casagrande (w),"2,368"
+Monmouth (part),General Assembly,11,Democratic,Marilyn Schlossbach (w),"1,907"
+Total,General Assembly,11,Democratic,Marilyn Schlossbach (w),"1,907"
+Monmouth (part),General Assembly,11,Democratic,Vin Gopal (w),"1,803"
+Total,General Assembly,11,Democratic,Vin Gopal (w),"1,803"
+Burlington (part),General Assembly,12,Republican,Ronald S. Dancer (w),338
+Middlesex (part),General Assembly,12,Republican,Ronald S. Dancer (w),413
+Monmouth (part),General Assembly,12,Republican,Ronald S. Dancer (w),575
+Ocean (part),General Assembly,12,Republican,Ronald S. Dancer (w),805
+Total,General Assembly,12,Republican,Ronald S. Dancer (w),"2,131"
+Burlington (part),General Assembly,12,Republican,Robert D. Clifton (w),304
+Middlesex (part),General Assembly,12,Republican,Robert D. Clifton (w),398
+Monmouth (part),General Assembly,12,Republican,Robert D. Clifton (w),564
+Ocean (part),General Assembly,12,Republican,Robert D. Clifton (w),772
+Total,General Assembly,12,Republican,Robert D. Clifton (w),"2,038"
+Burlington (part),General Assembly,12,Democratic,"William ""Bill"" Spedding (w)",83
+Middlesex (part),General Assembly,12,Democratic,"William ""Bill"" Spedding (w)",508
+Monmouth (part),General Assembly,12,Democratic,"William ""Bill"" Spedding (w)",419
+Ocean (part),General Assembly,12,Democratic,"William ""Bill"" Spedding (w)",445
+Total,General Assembly,12,Democratic,"William ""Bill"" Spedding (w)","1,455"
+Burlington (part),General Assembly,12,Democratic,Catherine Tinney Rome (w),88
+Middlesex (part),General Assembly,12,Democratic,Catherine Tinney Rome (w),484
+Monmouth (part),General Assembly,12,Democratic,Catherine Tinney Rome (w),425
+Ocean (part),General Assembly,12,Democratic,Catherine Tinney Rome (w),430
+Total,General Assembly,12,Democratic,Catherine Tinney Rome (w),"1,427"
+Monmouth (part),General Assembly,13,Republican,Amy H. Handlin (w),"2,074"
+Total,General Assembly,13,Republican,Amy H. Handlin (w),"2,074"
+Monmouth (part),General Assembly,13,Republican,Declan O'Scanlon (w),"1,999"
+Total,General Assembly,13,Republican,Declan O'Scanlon (w),"1,999"
+Monmouth (part),General Assembly,13,Democratic,Kevin M. Lavan (w),"1,573"
+Total,General Assembly,13,Democratic,Kevin M. Lavan (w),"1,573"
+Monmouth (part),General Assembly,13,Democratic,Patrick Short (w),"1,552"
+Total,General Assembly,13,Democratic,Patrick Short (w),"1,552"
+Mercer (part),General Assembly,14,Democratic,Wayne P. DeAngelo (w),"1,572"
+Middlesex (part),General Assembly,14,Democratic,Wayne P. DeAngelo (w),"2,116"
+Total,General Assembly,14,Democratic,Wayne P. DeAngelo (w),"3,688"
+Mercer (part),General Assembly,14,Democratic,Daniel R. Benson (w),"1,481"
+Middlesex (part),General Assembly,14,Democratic,Daniel R. Benson (w),"1,991"
+Total,General Assembly,14,Democratic,Daniel R. Benson (w),"3,472"
+Mercer (part),General Assembly,14,Republican,Wayne Wittman (w),"1,240"
+Middlesex (part),General Assembly,14,Republican,Wayne Wittman (w),885
+Total,General Assembly,14,Republican,Wayne Wittman (w),"2,125"
+Mercer (part),General Assembly,14,Republican,Dave Fried (w),"1,137"
+Middlesex (part),General Assembly,14,Republican,Dave Fried (w),840
+Total,General Assembly,14,Republican,Dave Fried (w),"1,977"
+Mercer (part),General Assembly,14,Republican,Bruce C. Mac Donald,360
+Middlesex (part),General Assembly,14,Republican,Bruce C. Mac Donald,173
+Total,General Assembly,14,Republican,Bruce C. Mac Donald,533
+Hunterdon (part),General Assembly,15,Democratic,Bonnie Watson Coleman (w),181
+Mercer (part),General Assembly,15,Democratic,Bonnie Watson Coleman (w),"3,568"
+Total,General Assembly,15,Democratic,Bonnie Watson Coleman (w),"3,749"
+Hunterdon (part),General Assembly,15,Democratic,Reed Gusciora (w),178
+Mercer (part),General Assembly,15,Democratic,Reed Gusciora (w),"3,415"
+Total,General Assembly,15,Democratic,Reed Gusciora (w),"3,593"
+Hunterdon (part),General Assembly,15,Republican,Peter M. Yuli (w),235
+Mercer (part),General Assembly,15,Republican,Peter M. Yuli (w),973
+Total,General Assembly,15,Republican,Peter M. Yuli (w),"1,208"
+Hunterdon (part),General Assembly,15,Republican,Kathy Kilcommons (w),234
+Mercer (part),General Assembly,15,Republican,Kathy Kilcommons (w),966
+Total,General Assembly,15,Republican,Kathy Kilcommons (w),"1,200"
+Hunterdon (part),General Assembly,16,Republican,Peter J. Biondi (w),"1,460"
+Mercer (part),General Assembly,16,Republican,Peter J. Biondi (w),233
+Middlesex (part),General Assembly,16,Republican,Peter J. Biondi (w),246
+Somerset,General Assembly,16,Republican,Peter J. Biondi (w),"2,328"
+Total,General Assembly,16,Republican,Peter J. Biondi (w),"4,267"
+Hunterdon (part),General Assembly,16,Democratic,Marie Corfield (w),426
+Mercer (part),General Assembly,16,Democratic,Marie Corfield (w),820
+Middlesex (part),General Assembly,16,Democratic,Marie Corfield (w),352
+Somerset,General Assembly,16,Democratic,Marie Corfield (w),972
+Total,General Assembly,16,Democratic,Marie Corfield (w),"2,570"
+Hunterdon (part),General Assembly,16,Democratic,Joe Camarota (w),424
+Mercer (part),General Assembly,16,Democratic,Joe Camarota (w),809
+Middlesex (part),General Assembly,16,Democratic,Joe Camarota (w),368
+Somerset,General Assembly,16,Democratic,Joe Camarota (w),952
+Total,General Assembly,16,Democratic,Joe Camarota (w),"2,553"
+Hunterdon (part),General Assembly,16,Republican,Jack M. Ciattarelli (w),445
+Mercer (part),General Assembly,16,Republican,Jack M. Ciattarelli (w),0
+Middlesex (part),General Assembly,16,Republican,Jack M. Ciattarelli (w),105
+Somerset,General Assembly,16,Republican,Jack M. Ciattarelli (w),970
+Total,General Assembly,16,Republican,Jack M. Ciattarelli (w),"1,520"
+Middlesex (part),General Assembly,17,Democratic,Joseph V. Egan (w),"2,135"
+Somerset (part),General Assembly,17,Democratic,Joseph V. Egan (w),821
+Total,General Assembly,17,Democratic,Joseph V. Egan (w),"2,956"
+Middlesex (part),General Assembly,17,Democratic,Upendra Chivukula (w),"2,082"
+Somerset (part),General Assembly,17,Democratic,Upendra Chivukula (w),836
+Total,General Assembly,17,Democratic,Upendra Chivukula (w),"2,918"
+Middlesex (part),General Assembly,17,Republican,Carlo A. DiLalla (w),425
+Somerset (part),General Assembly,17,Republican,Carlo A. DiLalla (w),475
+Total,General Assembly,17,Republican,Carlo A. DiLalla (w),900
+Middlesex (part),General Assembly,17,Republican,Robert S. Mettler (w),417
+Somerset (part),General Assembly,17,Republican,Robert S. Mettler (w),477
+Total,General Assembly,17,Republican,Robert S. Mettler (w),894
+Middlesex (part),General Assembly,18,Democratic,"Patrick J. Diegnan, Jr. (w)","4,896"
+Total,General Assembly,18,Democratic,"Patrick J. Diegnan, Jr. (w)","4,896"
+Middlesex (part),General Assembly,18,Democratic,"Peter J. Barnes, III (w)","4,815"
+Total,General Assembly,18,Democratic,"Peter J. Barnes, III (w)","4,815"
+Middlesex (part),General Assembly,18,Republican,Joseph Sinagra (w),"1,278"
+Total,General Assembly,18,Republican,Joseph Sinagra (w),"1,278"
+Middlesex (part),General Assembly,18,Republican,Marcia Silva (w),"1,203"
+Total,General Assembly,18,Republican,Marcia Silva (w),"1,203"
+Middlesex (part),General Assembly,19,Democratic,John S. Wisniewski (w),"5,180"
+Total,General Assembly,19,Democratic,John S. Wisniewski (w),"5,180"
+Middlesex (part),General Assembly,19,Democratic,Craig J. Coughlin (w),"4,833"
+Total,General Assembly,19,Democratic,Craig J. Coughlin (w),"4,833"
+Middlesex (part),General Assembly,19,Republican,Angel J. Leon (w),"1,119"
+Total,General Assembly,19,Republican,Angel J. Leon (w),"1,119"
+Middlesex (part),General Assembly,19,Republican,Shane Robinson (w),"1,071"
+Total,General Assembly,19,Republican,Shane Robinson (w),"1,071"
+Union (part),General Assembly,20,Democratic,Joseph Cryan (w),"8,161"
+Total,General Assembly,20,Democratic,Joseph Cryan (w),"8,161"
+Union (part),General Assembly,20,Democratic,Annette Quijano (w),"7,977"
+Total,General Assembly,20,Democratic,Annette Quijano (w),"7,977"
+Union (part),General Assembly,20,Republican,John F. Donoso (w),610
+Total,General Assembly,20,Republican,John F. Donoso (w),610
+Union (part),General Assembly,20,Democratic,Tony Monteiro,"6,743"
+Total,General Assembly,20,Democratic,Tony Monteiro,"6,743"
+Union (part),General Assembly,20,Democratic,Carlos Cedeno,"6,715"
+Total,General Assembly,20,Democratic,Carlos Cedeno,"6,715"
+Morris (part),General Assembly,21,Republican,Jon Bramnick (w),755
+Somerset (part),General Assembly,21,Republican,Jon Bramnick (w),"1,316"
+Union (part),General Assembly,21,Republican,Jon Bramnick (w),"2,436"
+Total,General Assembly,21,Republican,Jon Bramnick (w),"4,507"
+Morris (part),General Assembly,21,Republican,Nancy F. Munoz (w),717
+Somerset (part),General Assembly,21,Republican,Nancy F. Munoz (w),"1,269"
+Union (part),General Assembly,21,Republican,Nancy F. Munoz (w),"2,392"
+Total,General Assembly,21,Republican,Nancy F. Munoz (w),"4,378"
+Morris (part),General Assembly,21,Democratic,Bruce H. Bergen (w),165
+Somerset (part),General Assembly,21,Democratic,Bruce H. Bergen (w),354
+Union (part),General Assembly,21,Democratic,Bruce H. Bergen (w),"2,269"
+Total,General Assembly,21,Democratic,Bruce H. Bergen (w),"2,788"
+Morris (part),General Assembly,21,Democratic,Norman W. Albert (w),162
+Somerset (part),General Assembly,21,Democratic,Norman W. Albert (w),342
+Union (part),General Assembly,21,Democratic,Norman W. Albert (w),"2,235"
+Total,General Assembly,21,Democratic,Norman W. Albert (w),"2,739"
+Middlesex (part),General Assembly,22,Democratic,Linda Stender (w),220
+Somerset (part),General Assembly,22,Democratic,Linda Stender (w),216
+Union (part),General Assembly,22,Democratic,Linda Stender (w),"4,975"
+Total,General Assembly,22,Democratic,Linda Stender (w),"5,411"
+Middlesex (part),General Assembly,22,Democratic,Jerry Green (w),221
+Somerset (part),General Assembly,22,Democratic,Jerry Green (w),210
+Union (part),General Assembly,22,Democratic,Jerry Green (w),"4,661"
+Total,General Assembly,22,Democratic,Jerry Green (w),"5,092"
+Middlesex (part),General Assembly,22,Republican,Joan D. Van Pelt (w),215
+Somerset (part),General Assembly,22,Republican,Joan D. Van Pelt (w),238
+Union (part),General Assembly,22,Republican,Joan D. Van Pelt (w),758
+Total,General Assembly,22,Republican,Joan D. Van Pelt (w),"1,211"
+Middlesex (part),General Assembly,22,Republican,Jeffrey D. First (w),211
+Somerset (part),General Assembly,22,Republican,Jeffrey D. First (w),235
+Union (part),General Assembly,22,Republican,Jeffrey D. First (w),721
+Total,General Assembly,22,Republican,Jeffrey D. First (w),"1,167"
+Hunterdon (part),General Assembly,23,Republican,Erik Peterson (w),"3,050"
+Somerset (part),General Assembly,23,Republican,Erik Peterson (w),"1,740"
+Warren (part),General Assembly,23,Republican,Erik Peterson (w),"1,411"
+Total,General Assembly,23,Republican,Erik Peterson (w),"6,201"
+Hunterdon (part),General Assembly,23,Republican,John DiMaio (w),"2,983"
+Somerset (part),General Assembly,23,Republican,John DiMaio (w),"1,740"
+Warren (part),General Assembly,23,Republican,John DiMaio (w),"1,475"
+Total,General Assembly,23,Republican,John DiMaio (w),"6,198"
+Hunterdon (part),General Assembly,23,Democratic,Karen Carroll (w),541
+Somerset (part),General Assembly,23,Democratic,Karen Carroll (w),614
+Warren (part),General Assembly,23,Democratic,Karen Carroll (w),511
+Total,General Assembly,23,Democratic,Karen Carroll (w),"1,666"
+Hunterdon (part),General Assembly,23,Democratic,Scott McDonald (w),531
+Somerset (part),General Assembly,23,Democratic,Scott McDonald (w),610
+Warren (part),General Assembly,23,Democratic,Scott McDonald (w),512
+Total,General Assembly,23,Democratic,Scott McDonald (w),"1,653"
+Morris (part),General Assembly,24,Republican,Alison Littell McHose (w),"1,180"
+Sussex,General Assembly,24,Republican,Alison Littell McHose (w),"4,827"
+Warren (part),General Assembly,24,Republican,Alison Littell McHose (w),"1,227"
+Total,General Assembly,24,Republican,Alison Littell McHose (w),"7,234"
+Morris (part),General Assembly,24,Republican,Gary R. Chiusano (w),"1,143"
+Sussex,General Assembly,24,Republican,Gary R. Chiusano (w),"4,756"
+Warren (part),General Assembly,24,Republican,Gary R. Chiusano (w),"1,208"
+Total,General Assembly,24,Republican,Gary R. Chiusano (w),"7,107"
+Morris (part),General Assembly,24,Democratic,Leslie Huhn (w),214
+Sussex,General Assembly,24,Democratic,Leslie Huhn (w),813
+Warren (part),General Assembly,24,Democratic,Leslie Huhn (w),249
+Total,General Assembly,24,Democratic,Leslie Huhn (w),"1,276"
+Morris (part),General Assembly,24,Democratic,Jim Nye (w),207
+Sussex,General Assembly,24,Democratic,Jim Nye (w),782
+Warren (part),General Assembly,24,Democratic,Jim Nye (w),253
+Total,General Assembly,24,Democratic,Jim Nye (w),"1,242"
+Morris (part),General Assembly,25,Republican,Michael Patrick Carroll (w),"8,512"
+Somerset (part),General Assembly,25,Republican,Michael Patrick Carroll (w),393
+Total,General Assembly,25,Republican,Michael Patrick Carroll (w),"8,905"
+Morris (part),General Assembly,25,Republican,Anthony M. Bucco (w),"7,984"
+Somerset (part),General Assembly,25,Republican,Anthony M. Bucco (w),357
+Total,General Assembly,25,Republican,Anthony M. Bucco (w),"8,341"
+Morris (part),General Assembly,25,Democratic,Gale Heiss Colucci (w),"2,741"
+Somerset (part),General Assembly,25,Democratic,Gale Heiss Colucci (w),69
+Total,General Assembly,25,Democratic,Gale Heiss Colucci (w),"2,810"
+Morris (part),General Assembly,25,Democratic,George Stafford (w),"2,716"
+Somerset (part),General Assembly,25,Democratic,George Stafford (w),68
+Total,General Assembly,25,Democratic,George Stafford (w),"2,784"
+Morris (part),General Assembly,25,Republican,John G. Sierchio,"4,818"
+Somerset (part),General Assembly,25,Republican,John G. Sierchio,145
+Total,General Assembly,25,Republican,John G. Sierchio,"4,963"
+Essex (part),General Assembly,26,Republican,Jay Webber (w),487
+Morris (part),General Assembly,26,Republican,Jay Webber (w),"5,751"
+Passaic (part),General Assembly,26,Republican,Jay Webber (w),975
+Total,General Assembly,26,Republican,Jay Webber (w),"7,213"
+Essex (part),General Assembly,26,Republican,Alex DeCroce (w),496
+Morris (part),General Assembly,26,Republican,Alex DeCroce (w),"5,595"
+Passaic (part),General Assembly,26,Republican,Alex DeCroce (w),988
+Total,General Assembly,26,Republican,Alex DeCroce (w),"7,079"
+Essex (part),General Assembly,26,Democratic,Joseph Raich (w),342
+Morris (part),General Assembly,26,Democratic,Joseph Raich (w),"1,253"
+Passaic (part),General Assembly,26,Democratic,Joseph Raich (w),246
+Total,General Assembly,26,Democratic,Joseph Raich (w),"1,841"
+Essex (part),General Assembly,26,Democratic,Elliot Isibor (w),334
+Morris (part),General Assembly,26,Democratic,Elliot Isibor (w),"1,245"
+Passaic (part),General Assembly,26,Democratic,Elliot Isibor (w),247
+Total,General Assembly,26,Democratic,Elliot Isibor (w),"1,826"
+Essex (part),General Assembly,27,Democratic,Mila M. Jasey (w),"5,064"
+Morris (part),General Assembly,27,Democratic,Mila M. Jasey (w),"1,075"
+Total,General Assembly,27,Democratic,Mila M. Jasey (w),"6,139"
+Essex (part),General Assembly,27,Democratic,John F. McKeon (w),"4,642"
+Morris (part),General Assembly,27,Democratic,John F. McKeon (w),"1,016"
+Total,General Assembly,27,Democratic,John F. McKeon (w),"5,658"
+Essex (part),General Assembly,27,Republican,Nicole Hagner (w),"1,598"
+Morris (part),General Assembly,27,Republican,Nicole Hagner (w),"3,790"
+Total,General Assembly,27,Republican,Nicole Hagner (w),"5,388"
+Essex (part),General Assembly,27,Republican,Lee Holtzman (w),"1,642"
+Morris (part),General Assembly,27,Republican,Lee Holtzman (w),"3,726"
+Total,General Assembly,27,Republican,Lee Holtzman (w),"5,368"
+Essex (part),General Assembly,27,Democratic,Ellen Steinberg,"2,076"
+Morris (part),General Assembly,27,Democratic,Ellen Steinberg,694
+Total,General Assembly,27,Democratic,Ellen Steinberg,"2,770"
+Essex (part),General Assembly,28,Democratic,Cleopatra G. Tucker (w),"6,826"
+Total,General Assembly,28,Democratic,Cleopatra G. Tucker (w),"6,826"
+Essex (part),General Assembly,28,Democratic,Ralph R. Caputo (w),"6,538"
+Total,General Assembly,28,Democratic,Ralph R. Caputo (w),"6,538"
+Essex (part),General Assembly,28,Republican,Carol Humphreys (w),791
+Total,General Assembly,28,Republican,Carol Humphreys (w),791
+Essex (part),General Assembly,28,Republican,David H. Pinckney (w),765
+Total,General Assembly,28,Republican,David H. Pinckney (w),765
+Essex (part),General Assembly,28,Democratic,Michael Frazzano,771
+Total,General Assembly,28,Democratic,Michael Frazzano,771
+Essex (part),General Assembly,29,Democratic,L. Grace Spencer (w),"4,235"
+Total,General Assembly,29,Democratic,L. Grace Spencer (w),"4,235"
+Essex (part),General Assembly,29,Democratic,Alberto Coutinho (w),"4,064"
+Total,General Assembly,29,Democratic,Alberto Coutinho (w),"4,064"
+Essex (part),General Assembly,29,Republican,Elaine L. Guarino (w),433
+Total,General Assembly,29,Republican,Elaine L. Guarino (w),433
+Essex (part),General Assembly,29,Republican,Lisa T. Kistner (w),417
+Total,General Assembly,29,Republican,Lisa T. Kistner (w),417
+Monmouth (part),General Assembly,30,Republican,Sean T. Kean (w),"2,004"
+Ocean (part),General Assembly,30,Republican,Sean T. Kean (w),"1,965"
+Total,General Assembly,30,Republican,Sean T. Kean (w),"3,969"
+Monmouth (part),General Assembly,30,Republican,David P. Rible (w),"1,869"
+Ocean (part),General Assembly,30,Republican,David P. Rible (w),"1,803"
+Total,General Assembly,30,Republican,David P. Rible (w),"3,672"
+Monmouth (part),General Assembly,30,Democratic,Shaun O'Rourke (w),717
+Ocean (part),General Assembly,30,Democratic,Shaun O'Rourke (w),723
+Total,General Assembly,30,Democratic,Shaun O'Rourke (w),"1,440"
+Monmouth (part),General Assembly,30,Democratic,Howard Kleinhendler (w),708
+Ocean (part),General Assembly,30,Democratic,Howard Kleinhendler (w),697
+Total,General Assembly,30,Democratic,Howard Kleinhendler (w),"1,405"
+Hudson (part),General Assembly,31,Democratic,Jason O'Donnell (w),"7,396"
+Total,General Assembly,31,Democratic,Jason O'Donnell (w),"7,396"
+Hudson (part),General Assembly,31,Democratic,Charles Mainor (w),"7,358"
+Total,General Assembly,31,Democratic,Charles Mainor (w),"7,358"
+Hudson (part),General Assembly,31,Republican,Michael J. Alonso (w),491
+Total,General Assembly,31,Republican,Michael J. Alonso (w),491
+Hudson (part),General Assembly,31,Republican,Daniel E. Beckelman (w),475
+Total,General Assembly,31,Republican,Daniel E. Beckelman (w),475
+Bergen (part),General Assembly,32,Democratic,Vincent Prieto (w),671
+Hudson (part),General Assembly,32,Democratic,Vincent Prieto (w),"9,106"
+Total,General Assembly,32,Democratic,Vincent Prieto (w),"9,777"
+Bergen (part),General Assembly,32,Democratic,Angelica M. Jimenez (w),670
+Hudson (part),General Assembly,32,Democratic,Angelica M. Jimenez (w),"8,949"
+Total,General Assembly,32,Democratic,Angelica M. Jimenez (w),"9,619"
+Bergen (part),General Assembly,32,Republican,Ronald F. Tarolla (w),71
+Hudson (part),General Assembly,32,Republican,Ronald F. Tarolla (w),784
+Total,General Assembly,32,Republican,Ronald F. Tarolla (w),855
+Bergen (part),General Assembly,32,Republican,Michael J. Bartulovich (w),71
+Hudson (part),General Assembly,32,Republican,Michael J. Bartulovich (w),781
+Total,General Assembly,32,Republican,Michael J. Bartulovich (w),852
+Bergen (part),General Assembly,32,Democratic,Francisco E. Torres,54
+Hudson (part),General Assembly,32,Democratic,Francisco E. Torres,665
+Total,General Assembly,32,Democratic,Francisco E. Torres,719
+Hudson (part),General Assembly,33,Democratic,"Ruben J. Ramos, Jr. (w)","14,638"
+Total,General Assembly,33,Democratic,"Ruben J. Ramos, Jr. (w)","14,638"
+Hudson (part),General Assembly,33,Democratic,Sean Connors (w),"14,421"
+Total,General Assembly,33,Democratic,Sean Connors (w),"14,421"
+Hudson (part),General Assembly,33,Republican,Christopher Garcia (w),856
+Total,General Assembly,33,Republican,Christopher Garcia (w),856
+Hudson (part),General Assembly,33,Republican,Fernando Uribe (w),813
+Total,General Assembly,33,Republican,Fernando Uribe (w),813
+Hudson (part),General Assembly,33,Democratic,Ravi S. Bhalla,"3,113"
+Total,General Assembly,33,Democratic,Ravi S. Bhalla,"3,113"
+Essex (part),General Assembly,34,Democratic,Sheila Y. Oliver (w),"7,142"
+Passaic (part),General Assembly,34,Democratic,Sheila Y. Oliver (w),907
+Total,General Assembly,34,Democratic,Sheila Y. Oliver (w),"8,049"
+Essex (part),General Assembly,34,Democratic,Thomas P. Giblin (w),"6,834"
+Passaic (part),General Assembly,34,Democratic,Thomas P. Giblin (w),908
+Total,General Assembly,34,Democratic,Thomas P. Giblin (w),"7,742"
+Essex (part),General Assembly,34,Republican,Joan Salensky (w),154
+Passaic (part),General Assembly,34,Republican,Joan Salensky (w),691
+Total,General Assembly,34,Republican,Joan Salensky (w),845
+Essex (part),General Assembly,34,Republican,Steve Farrell (w),92
+Passaic (part),General Assembly,34,Republican,Steve Farrell (w),730
+Total,General Assembly,34,Republican,Steve Farrell (w),822
+Essex (part),General Assembly,34,Republican,Rick Farfan,160
+Passaic (part),General Assembly,34,Republican,Rick Farfan,608
+Total,General Assembly,34,Republican,Rick Farfan,768
+Essex (part),General Assembly,34,Republican,Randy Colondres,64
+Passaic (part),General Assembly,34,Republican,Randy Colondres,679
+Total,General Assembly,34,Republican,Randy Colondres,743
+Bergen (part),General Assembly,35,Democratic,Benjie E. Wimberly (w),357
+Passaic (part),General Assembly,35,Democratic,Benjie E. Wimberly (w),"3,386"
+Total,General Assembly,35,Democratic,Benjie E. Wimberly (w),"3,743"
+Bergen (part),General Assembly,35,Democratic,Shavonda E. Sumter (w),330
+Passaic (part),General Assembly,35,Democratic,Shavonda E. Sumter (w),"3,129"
+Total,General Assembly,35,Democratic,Shavonda E. Sumter (w),"3,459"
+Bergen (part),General Assembly,35,Republican,William A. Connolly (w),531
+Passaic (part),General Assembly,35,Republican,William A. Connolly (w),356
+Total,General Assembly,35,Republican,William A. Connolly (w),887
+Bergen (part),General Assembly,35,Republican,Donna Puglisi (w),273
+Passaic (part),General Assembly,35,Republican,Donna Puglisi (w),602
+Total,General Assembly,35,Republican,Donna Puglisi (w),875
+Bergen (part),General Assembly,35,Republican,Rhina Tavarez,460
+Passaic (part),General Assembly,35,Republican,Rhina Tavarez,337
+Total,General Assembly,35,Republican,Rhina Tavarez,797
+Bergen (part),General Assembly,35,Democratic,Samuel Torres,96
+Passaic (part),General Assembly,35,Democratic,Samuel Torres,680
+Total,General Assembly,35,Democratic,Samuel Torres,776
+Bergen (part),General Assembly,35,Republican,James R. Challice,198
+Passaic (part),General Assembly,35,Republican,James R. Challice,523
+Total,General Assembly,35,Republican,James R. Challice,721
+Bergen (part),General Assembly,36,Democratic,Gary Schaer (w),"1,815"
+Passaic (part),General Assembly,36,Democratic,Gary Schaer (w),471
+Total,General Assembly,36,Democratic,Gary Schaer (w),"2,286"
+Bergen (part),General Assembly,36,Democratic,Marlene Caride (w),"1,775"
+Passaic (part),General Assembly,36,Democratic,Marlene Caride (w),481
+Total,General Assembly,36,Democratic,Marlene Caride (w),"2,256"
+Bergen (part),General Assembly,36,Republican,John C. Genovesi (w),"1,398"
+Passaic (part),General Assembly,36,Republican,John C. Genovesi (w),161
+Total,General Assembly,36,Republican,John C. Genovesi (w),"1,559"
+Bergen (part),General Assembly,36,Republican,Sara Rosengarten (w),"1,368"
+Passaic (part),General Assembly,36,Republican,Sara Rosengarten (w),179
+Total,General Assembly,36,Republican,Sara Rosengarten (w),"1,547"
+Bergen (part),General Assembly,37,Democratic,Gordon M. Johnson (w),"4,442"
+Total,General Assembly,37,Democratic,Gordon M. Johnson (w),"4,442"
+Bergen (part),General Assembly,37,Democratic,Valerie Vainieri Huttle (w),"4,431"
+Total,General Assembly,37,Democratic,Valerie Vainieri Huttle (w),"4,431"
+Bergen (part),General Assembly,37,Republican,Keith Jensen (w),"1,076"
+Total,General Assembly,37,Republican,Keith Jensen (w),"1,076"
+Bergen (part),General Assembly,37,Republican,Gregory John Aslanian (w),"1,005"
+Total,General Assembly,37,Republican,Gregory John Aslanian (w),"1,005"
+Bergen (part),General Assembly,38,Democratic,Connie Terranova Wagner (w),"2,229"
+Passaic (part),General Assembly,38,Democratic,Connie Terranova Wagner (w),361
+Total,General Assembly,38,Democratic,Connie Terranova Wagner (w),"2,590"
+Bergen (part),General Assembly,38,Democratic,Timothy J. Eustace (w),"2,144"
+Passaic (part),General Assembly,38,Democratic,Timothy J. Eustace (w),347
+Total,General Assembly,38,Democratic,Timothy J. Eustace (w),"2,491"
+Bergen (part),General Assembly,38,Republican,Richard S. Goldberg (w),"1,625"
+Passaic (part),General Assembly,38,Republican,Richard S. Goldberg (w),791
+Total,General Assembly,38,Republican,Richard S. Goldberg (w),"2,416"
+Bergen (part),General Assembly,38,Republican,Fernando A. Alonso (w),"1,639"
+Passaic (part),General Assembly,38,Republican,Fernando A. Alonso (w),630
+Total,General Assembly,38,Republican,Fernando A. Alonso (w),"2,269"
+Bergen (part),General Assembly,38,Republican,Scott A. Verrone,693
+Passaic (part),General Assembly,38,Republican,Scott A. Verrone,398
+Total,General Assembly,38,Republican,Scott A. Verrone,"1,091"
+Bergen (part),General Assembly,38,Republican,Joseph J. Gant,596
+Passaic (part),General Assembly,38,Republican,Joseph J. Gant,288
+Total,General Assembly,38,Republican,Joseph J. Gant,884
+Bergen (part),General Assembly,38,Republican,Wojciech Siemaszkiewicz,304
+Passaic (part),General Assembly,38,Republican,Wojciech Siemaszkiewicz,24
+Total,General Assembly,38,Republican,Wojciech Siemaszkiewicz,328
+Bergen (part),General Assembly,39,Republican,Charlotte Vandervalk (w),"2,496"
+Passaic (part),General Assembly,39,Republican,Charlotte Vandervalk (w),783
+Total,General Assembly,39,Republican,Charlotte Vandervalk (w),"3,279"
+Bergen (part),General Assembly,39,Republican,Robert Schroeder (w),"2,426"
+Passaic (part),General Assembly,39,Republican,Robert Schroeder (w),779
+Total,General Assembly,39,Republican,Robert Schroeder (w),"3,205"
+Bergen (part),General Assembly,39,Democratic,Anthony N. lannarelli Jr. (w),109
+Passaic (part),General Assembly,39,Democratic,Anthony N. lannarelli Jr. (w),0
+Total,General Assembly,39,Democratic,Anthony N. lannarelli Jr. (w),109
+Bergen (part),General Assembly,39,Democratic,Michael J. McCarthy (w),103
+Passaic (part),General Assembly,39,Democratic,Michael J. McCarthy (w),0
+Total,General Assembly,39,Democratic,Michael J. McCarthy (w),103
+Bergen (part),General Assembly,40,Republican,David C. Russo (w),"1,260"
+Essex (part),General Assembly,40,Republican,David C. Russo (w),254
+Morris (part),General Assembly,40,Republican,David C. Russo (w),583
+Passaic (part),General Assembly,40,Republican,David C. Russo (w),"2,490"
+Total,General Assembly,40,Republican,David C. Russo (w),"4,587"
+Bergen (part),General Assembly,40,Republican,Scott T. Rumana (w),"1,220"
+Essex (part),General Assembly,40,Republican,Scott T. Rumana (w),242
+Morris (part),General Assembly,40,Republican,Scott T. Rumana (w),588
+Passaic (part),General Assembly,40,Republican,Scott T. Rumana (w),"2,529"
+Total,General Assembly,40,Republican,Scott T. Rumana (w),"4,579"
+Bergen (part),General Assembly,40,Democratic,Cassandra Lazzara (w),461
+Essex (part),General Assembly,40,Democratic,Cassandra Lazzara (w),135
+Morris (part),General Assembly,40,Democratic,Cassandra Lazzara (w),189
+Passaic (part),General Assembly,40,Democratic,Cassandra Lazzara (w),"1,112"
+Total,General Assembly,40,Democratic,Cassandra Lazzara (w),"1,897"
+Bergen (part),General Assembly,40,Democratic,William J. Brennan (w),458
+Essex (part),General Assembly,40,Democratic,William J. Brennan (w),135
+Morris (part),General Assembly,40,Democratic,William J. Brennan (w),184
+Passaic (part),General Assembly,40,Democratic,William J. Brennan (w),"1,081"
+Total,General Assembly,40,Democratic,William J. Brennan (w),"1,858"
+Bergen (part),General Assembly,40,Republican,Louis D'Angelo,270
+Essex (part),General Assembly,40,Republican,Louis D'Angelo,31
+Morris (part),General Assembly,40,Republican,Louis D'Angelo,227
+Passaic (part),General Assembly,40,Republican,Louis D'Angelo,"2,192"
+Total,General Assembly,40,Republican,Louis D'Angelo,"2,720"
+Bergen (part),General Assembly,40,Republican,Ernesto M. Sesso,233
+Essex (part),General Assembly,40,Republican,Ernesto M. Sesso,20
+Morris (part),General Assembly,40,Republican,Ernesto M. Sesso,167
+Passaic (part),General Assembly,40,Republican,Ernesto M. Sesso,"2,114"
+Total,General Assembly,40,Republican,Ernesto M. Sesso,"2,534"
+Atlantic (part),State Senate,1,Republican,David S. DeWeese (w),150
+Cape May,State Senate,1,Republican,David S. DeWeese (w),"3,846"
+Cumberland (part),State Senate,1,Republican,David S. DeWeese (w),848
+Total,State Senate,1,Republican,David S. DeWeese (w),"4,844"
+Atlantic (part),State Senate,1,Democratic,Jeff Van Drew (w),114
+Cape May,State Senate,1,Democratic,Jeff Van Drew (w),"1,393"
+Cumberland (part),State Senate,1,Democratic,Jeff Van Drew (w),"1,126"
+Total,State Senate,1,Democratic,Jeff Van Drew (w),"2,633"
+Atlantic (part),State Senate,1,Republican,Thomas W. Greto,48
+Cape May,State Senate,1,Republican,Thomas W. Greto,994
+Cumberland (part),State Senate,1,Republican,Thomas W. Greto,307
+Total,State Senate,1,Republican,Thomas W. Greto,"1,349"
+Atlantic (part),State Senate,2,Republican,Vince Polistina (w),"4,681"
+Total,State Senate,2,Republican,Vince Polistina (w),"4,681"
+Atlantic (part),State Senate,2,Democratic,Jim Whelan (w),"3,907"
+Total,State Senate,2,Democratic,Jim Whelan (w),"3,907"
+Cumberland (part),State Senate,3,Democratic,Stephen M. Sweeney (w),248
+Gloucester (part),State Senate,3,Democratic,Stephen M. Sweeney (w),"2,738"
+Salem,State Senate,3,Democratic,Stephen M. Sweeney (w),"1,835"
+Total,State Senate,3,Democratic,Stephen M. Sweeney (w),"4,821"
+Cumberland (part),State Senate,3,Republican,Michael M. Mulligan (w),182
+Gloucester (part),State Senate,3,Republican,Michael M. Mulligan (w),"2,013"
+Salem,State Senate,3,Republican,Michael M. Mulligan (w),"1,164"
+Total,State Senate,3,Republican,Michael M. Mulligan (w),"3,359"
+Camden (part),State Senate,4,Democratic,Fred H. Madden (w),"3,367"
+Gloucester (part),State Senate,4,Democratic,Fred H. Madden (w),"1,232"
+Total,State Senate,4,Democratic,Fred H. Madden (w),"4,599"
+Camden (part),State Senate,4,Republican,Giancarlo D'Orazio (w),879
+Gloucester (part),State Senate,4,Republican,Giancarlo D'Orazio (w),"1,133"
+Total,State Senate,4,Republican,Giancarlo D'Orazio (w),"2,012"
+Camden (part),State Senate,5,Democratic,Donald W. Norcross (w),"3,524"
+Gloucester (part),State Senate,5,Democratic,Donald W. Norcross (w),"1,013"
+Total,State Senate,5,Democratic,Donald W. Norcross (w),"4,537"
+Camden (part),State Senate,5,Republican,Keith Walker (w),681
+Gloucester (part),State Senate,5,Republican,Keith Walker (w),858
+Total,State Senate,5,Republican,Keith Walker (w),"1,539"
+Camden (part),State Senate,5,Republican,"George A. Gallenthin, III",102
+Gloucester (part),State Senate,5,Republican,"George A. Gallenthin, III",287
+Total,State Senate,5,Republican,"George A. Gallenthin, III",389
+Burlington (part),State Senate,6,Democratic,James Beach (w),226
+Camden (part),State Senate,6,Democratic,James Beach (w),"3,409"
+Total,State Senate,6,Democratic,James Beach (w),"3,635"
+Burlington (part),State Senate,6,Republican,Phil Mitsch (w),111
+Camden (part),State Senate,6,Republican,Phil Mitsch (w),"1,917"
+Total,State Senate,6,Republican,Phil Mitsch (w),"2,028"
+Burlington (part),State Senate,7,Democratic,Gail Cook (w),"4,678"
+Total,State Senate,7,Democratic,Gail Cook (w),"4,678"
+Burlington (part),State Senate,7,Republican,Diane Allen (w),"3,904"
+Total,State Senate,7,Republican,Diane Allen (w),"3,904"
+Burlington (part),State Senate,7,Republican,Carole M. Lokan-Moore,416
+Total,State Senate,7,Republican,Carole M. Lokan-Moore,416
+Atlantic (part),State Senate,8,Republican,Dawn Marie Addiego (w),181
+Burlington (part),State Senate,8,Republican,Dawn Marie Addiego (w),"4,201"
+Camden (part),State Senate,8,Republican,Dawn Marie Addiego (w),320
+Total,State Senate,8,Republican,Dawn Marie Addiego (w),"4,702"
+Atlantic (part),State Senate,8,Democratic,"‘‘Frederick Carlton ""Carl"" Lewis (w)",72
+Burlington (part),State Senate,8,Democratic,"‘‘Frederick Carlton ""Carl"" Lewis (w)","1,972"
+Camden (part),State Senate,8,Democratic,"‘‘Frederick Carlton ""Carl"" Lewis (w)",610
+Total,State Senate,8,Democratic,"‘‘Frederick Carlton ""Carl"" Lewis (w)","2,654"
+Atlantic (part),State Senate,9,Republican,Christopher J. Connors (w),603
+Burlington (part),State Senate,9,Republican,Christopher J. Connors (w),218
+Ocean (part),State Senate,9,Republican,Christopher J. Connors (w),"5,583"
+Total,State Senate,9,Republican,Christopher J. Connors (w),"6,404"
+Atlantic (part),State Senate,9,Democratic,Dorothy A. Ryan (w),349
+Burlington (part),State Senate,9,Democratic,Dorothy A. Ryan (w),49
+Ocean (part),State Senate,9,Democratic,Dorothy A. Ryan (w),"2,855"
+Total,State Senate,9,Democratic,Dorothy A. Ryan (w),"3,253"
+Ocean (part),State Senate,10,Republican,Jim Holzapfel (w),"4,220"
+Total,State Senate,10,Republican,Jim Holzapfel (w),"4,220"
+Ocean (part),State Senate,10,Democratic,Charles P. Tivenan (w),"2,771"
+Total,State Senate,10,Democratic,Charles P. Tivenan (w),"2,771"
+Monmouth (part),State Senate,11,Republican,Jennifer Beck (w),"2,486"
+Total,State Senate,11,Republican,Jennifer Beck (w),"2,486"
+Monmouth (part),State Senate,11,Democratic,Raymond Santiago (w),"1,916"
+Total,State Senate,11,Democratic,Raymond Santiago (w),"1,916"
+Burlington (part),State Senate,12,Republican,Samuel D. Thompson (w),326
+Middlesex (part),State Senate,12,Republican,Samuel D. Thompson (w),447
+Monmouth (part),State Senate,12,Republican,Samuel D. Thompson (w),583
+Ocean (part),State Senate,12,Republican,Samuel D. Thompson (w),805
+Total,State Senate,12,Republican,Samuel D. Thompson (w),"2,161"
+Burlington (part),State Senate,12,Democratic,"Robert ""Bob"" Brown (w)",91
+Middlesex (part),State Senate,12,Democratic,"Robert ""Bob"" Brown (w)",524
+Monmouth (part),State Senate,12,Democratic,"Robert ""Bob"" Brown (w)",446
+Ocean (part),State Senate,12,Democratic,"Robert ""Bob"" Brown (w)",460
+Total,State Senate,12,Democratic,"Robert ""Bob"" Brown (w)","1,521"
+Monmouth (part),State Senate,13,Republican,"Joe Kyrillos, Jr. (w)","2,104"
+Total,State Senate,13,Republican,"Joe Kyrillos, Jr. (w)","2,104"
+Monmouth (part),State Senate,13,Democratic,Christopher G. Cullen (w),302
+Total,State Senate,13,Democratic,Christopher G. Cullen (w),302
+Mercer (part),State Senate,14,Democratic,Linda R. Greenstein (w),"1,610"
+Middlesex (part),State Senate,14,Democratic,Linda R. Greenstein (w),"2,254"
+Total,State Senate,14,Democratic,Linda R. Greenstein (w),"3,864"
+Mercer (part),State Senate,14,Republican,Richard J. Kanka (w),"1,371"
+Middlesex (part),State Senate,14,Republican,Richard J. Kanka (w),973
+Total,State Senate,14,Republican,Richard J. Kanka (w),"2,344"
+Hunterdon (part),State Senate,15,Democratic,Shirley K. Turner (w),180
+Mercer (part),State Senate,15,Democratic,Shirley K. Turner (w),"3,806"
+Total,State Senate,15,Democratic,Shirley K. Turner (w),"3,986"
+Hunterdon (part),State Senate,15,Republican,Donald J. Cox (w),239
+Mercer (part),State Senate,15,Republican,Donald J. Cox (w),990
+Total,State Senate,15,Republican,Donald J. Cox (w),"1,229"
+Hunterdon (part),State Senate,16,Republican,"Christopher ""Kip"" Bateman (w)","1,501"
+Mercer (part),State Senate,16,Republican,"Christopher ""Kip"" Bateman (w)",237
+Middlesex (part),State Senate,16,Republican,"Christopher ""Kip"" Bateman (w)",247
+Somerset,State Senate,16,Republican,"Christopher ""Kip"" Bateman (w)","2,376"
+Total,State Senate,16,Republican,"Christopher ""Kip"" Bateman (w)","4,361"
+Hunterdon (part),State Senate,16,Democratic,Maureen Vella (w),440
+Mercer (part),State Senate,16,Democratic,Maureen Vella (w),828
+Middlesex (part),State Senate,16,Democratic,Maureen Vella (w),372
+Somerset,State Senate,16,Democratic,Maureen Vella (w),994
+Total,State Senate,16,Democratic,Maureen Vella (w),"2,634"
+Middlesex (part),State Senate,17,Democratic,Bob Smith (w),"2,215"
+Somerset (part),State Senate,17,Democratic,Bob Smith (w),850
+Total,State Senate,17,Democratic,Bob Smith (w),"3,065"
+Middlesex (part),State Senate,17,Republican,Jordan Rickards (w),444
+Somerset (part),State Senate,17,Republican,Jordan Rickards (w),487
+Total,State Senate,17,Republican,Jordan Rickards (w),931
+Middlesex (part),State Senate,18,Democratic,Barbara Buono (w),"5,225"
+Total,State Senate,18,Democratic,Barbara Buono (w),"5,225"
+Middlesex (part),State Senate,18,Republican,Gloria S. Dittman (w),"1,302"
+Total,State Senate,18,Republican,Gloria S. Dittman (w),"1,302"
+Middlesex (part),State Senate,19,Democratic,Joseph F. Vitale (w),"5,442"
+Total,State Senate,19,Democratic,Joseph F. Vitale (w),"5,442"
+Middlesex (part),State Senate,19,Republican,"Paul Lund, Jr. (w)","1,182"
+Total,State Senate,19,Republican,"Paul Lund, Jr. (w)","1,182"
+Union (part),State Senate,20,Democratic,Raymond J. Lesniak (w),"8,124"
+Total,State Senate,20,Democratic,Raymond J. Lesniak (w),"8,124"
+Union (part),State Senate,20,Republican,Helen S. Rosales (w),630
+Total,State Senate,20,Republican,Helen S. Rosales (w),630
+Union (part),State Senate,20,Democratic,Jerome Dunn,"7,335"
+Total,State Senate,20,Democratic,Jerome Dunn,"7,335"
+Morris (part),State Senate,21,Republican,"Thomas H. Kean, Jr. (w)",823
+Somerset (part),State Senate,21,Republican,"Thomas H. Kean, Jr. (w)","1,379"
+Union (part),State Senate,21,Republican,"Thomas H. Kean, Jr. (w)","2,528"
+Total,State Senate,21,Republican,"Thomas H. Kean, Jr. (w)","4,730"
+Morris (part),State Senate,21,Democratic,Paul Swanicke (w),174
+Somerset (part),State Senate,21,Democratic,Paul Swanicke (w),359
+Union (part),State Senate,21,Democratic,Paul Swanicke (w),"2,336"
+Total,State Senate,21,Democratic,Paul Swanicke (w),"2,869"
+Middlesex (part),State Senate,22,Democratic,Nicholas Scutari (w),228
+Somerset (part),State Senate,22,Democratic,Nicholas Scutari (w),215
+Union (part),State Senate,22,Democratic,Nicholas Scutari (w),"5,076"
+Total,State Senate,22,Democratic,Nicholas Scutari (w),"5,519"
+Middlesex (part),State Senate,22,Republican,Michael W. Class (w),82
+Somerset (part),State Senate,22,Republican,Michael W. Class (w),31
+Union (part),State Senate,22,Republican,Michael W. Class (w),159
+Total,State Senate,22,Republican,Michael W. Class (w),272
+Hunterdon (part),State Senate,23,Republican,Michael J. Doherty (w),"3,143"
+Somerset (part),State Senate,23,Republican,Michael J. Doherty (w),"1,784"
+Warren (part),State Senate,23,Republican,Michael J. Doherty (w),"1,529"
+Total,State Senate,23,Republican,Michael J. Doherty (w),"6,456"
+Hunterdon (part),State Senate,23,Democratic,"John Graf, Jr. (w)",562
+Somerset (part),State Senate,23,Democratic,"John Graf, Jr. (w)",643
+Warren (part),State Senate,23,Democratic,"John Graf, Jr. (w)",509
+Total,State Senate,23,Democratic,"John Graf, Jr. (w)","1,714"
+Morris (part),State Senate,24,Republican,Steven V. Oroho (w),"1,284"
+Sussex,State Senate,24,Republican,Steven V. Oroho (w),"5,019"
+Warren (part),State Senate,24,Republican,Steven V. Oroho (w),"1,279"
+Total,State Senate,24,Republican,Steven V. Oroho (w),"7,582"
+Morris (part),State Senate,24,Democratic,Edwin Selby (w),231
+Sussex,State Senate,24,Democratic,Edwin Selby (w),851
+Warren (part),State Senate,24,Democratic,Edwin Selby (w),258
+Total,State Senate,24,Democratic,Edwin Selby (w),"1,340"
+Morris (part),State Senate,25,Republican,"Anthony ""Tony"" Bucco (w)","7,987"
+Somerset (part),State Senate,25,Republican,"Anthony ""Tony"" Bucco (w)",374
+Total,State Senate,25,Republican,"Anthony ""Tony"" Bucco (w)","8,361"
+Morris (part),State Senate,25,Democratic,Rick Thoeni (w),"2,883"
+Somerset (part),State Senate,25,Democratic,Rick Thoeni (w),69
+Total,State Senate,25,Democratic,Rick Thoeni (w),"2,952"
+Morris (part),State Senate,25,Republican,William J. Chegwidden,"4,215"
+Somerset (part),State Senate,25,Republican,William J. Chegwidden,127
+Total,State Senate,25,Republican,William J. Chegwidden,"4,342"
+Essex (part),State Senate,26,Republican,Joe Pennacchio (w),507
+Morris (part),State Senate,26,Republican,Joe Pennacchio (w),"6,085"
+Passaic (part),State Senate,26,Republican,Joe Pennacchio (w),"1,006"
+Total,State Senate,26,Republican,Joe Pennacchio (w),"7,598"
+Essex (part),State Senate,26,Democratic,Wasim Khan (w),345
+Morris (part),State Senate,26,Democratic,Wasim Khan (w),"1,285"
+Passaic (part),State Senate,26,Democratic,Wasim Khan (w),253
+Total,State Senate,26,Democratic,Wasim Khan (w),"1,883"
+Essex (part),State Senate,27,Democratic,Richard J. Codey (w),"6,103"
+Morris (part),State Senate,27,Democratic,Richard J. Codey (w),"1,502"
+Total,State Senate,27,Democratic,Richard J. Codey (w),"7,605"
+Essex (part),State Senate,27,Republican,William H. Eames (w),816
+Morris (part),State Senate,27,Republican,William H. Eames (w),"2,889"
+Total,State Senate,27,Republican,William H. Eames (w),"3,705"
+Essex (part),State Senate,27,Republican,William Sullivan,"1,075"
+Morris (part),State Senate,27,Republican,William Sullivan,"2,160"
+Total,State Senate,27,Republican,William Sullivan,"3,235"
+Essex (part),State Senate,28,Democratic,Ronald L. Rice (w),"7,596"
+Total,State Senate,28,Democratic,Ronald L. Rice (w),"7,596"
+Essex (part),State Senate,28,Republican,Russell Mollica (w),809
+Total,State Senate,28,Republican,Russell Mollica (w),809
+Essex (part),State Senate,29,Democratic,M. Teresa Ruiz (w),"4,356"
+Total,State Senate,29,Democratic,M. Teresa Ruiz (w),"4,356"
+Essex (part),State Senate,29,Republican,Aracelis Sanabria Tejada (w),419
+Total,State Senate,29,Republican,Aracelis Sanabria Tejada (w),419
+Monmouth (part),State Senate,30,Republican,Robert W. Singer (w),"1,851"
+Ocean (part),State Senate,30,Republican,Robert W. Singer (w),"1,978"
+Total,State Senate,30,Republican,Robert W. Singer (w),"3,829"
+Monmouth (part),State Senate,30,Democratic,Steve Morlino (w),723
+Ocean (part),State Senate,30,Democratic,Steve Morlino (w),758
+Total,State Senate,30,Democratic,Steve Morlino (w),"1,481"
+Hudson (part),State Senate,31,Democratic,Sandra Bolden Cunningham (w),"7,489"
+Total,State Senate,31,Democratic,Sandra Bolden Cunningham (w),"7,489"
+Hudson (part),State Senate,31,Republican,Donnamarie James (w),543
+Total,State Senate,31,Republican,Donnamarie James (w),543
+Hudson (part),State Senate,31,Democratic,Bruce D. Alston,"1,312"
+Total,State Senate,31,Democratic,Bruce D. Alston,"1,312"
+Bergen (part),State Senate,32,Democratic,Nicholas J. Sacco (w),721
+Hudson (part),State Senate,32,Democratic,Nicholas J. Sacco (w),"9,490"
+Total,State Senate,32,Democratic,Nicholas J. Sacco (w),"10,211"
+Bergen (part),State Senate,32,Republican,Edward T. O'Neill (w),77
+Hudson (part),State Senate,32,Republican,Edward T. O'Neill (w),859
+Total,State Senate,32,Republican,Edward T. O'Neill (w),936
+Bergen (part),State Senate,32,Democratic,Jeff Boss,33
+Hudson (part),State Senate,32,Democratic,Jeff Boss,472
+Total,State Senate,32,Democratic,Jeff Boss,505
+Hudson (part),State Senate,33,Democratic,Brian P. Stack (w),"17,536"
+Total,State Senate,33,Democratic,Brian P. Stack (w),"17,536"
+Hudson (part),State Senate,33,Republican,Beth Hamburger (w),981
+Total,State Senate,33,Republican,Beth Hamburger (w),981
+Essex (part),State Senate,34,Democratic,Nia H. Gill (w),"7,459"
+Passaic (part),State Senate,34,Democratic,Nia H. Gill (w),934
+Total,State Senate,34,Democratic,Nia H. Gill (w),"8,393"
+Essex (part),State Senate,34,Republican,Ralph Bartnik (w),158
+Passaic (part),State Senate,34,Republican,Ralph Bartnik (w),954
+Total,State Senate,34,Republican,Ralph Bartnik (w),"1,112"
+Bergen (part),State Senate,35,Democratic,Nellie Pou (w),408
+Total,State Senate,35,Democratic,Nellie Pou (w),"3,510"
+,State Senate,35,Democratic,Nellie Pou (w),"3,918"
+Bergen (part),State Senate,35,Republican,Ken Pengitore (w),361
+Passaic (part),State Senate,35,Republican,Ken Pengitore (w),670
+Total,State Senate,35,Republican,Ken Pengitore (w),"1,031"
+Bergen (part),State Senate,36,Democratic,Paul A. Sarlo (w),"1,870"
+Passaic (part),State Senate,36,Democratic,Paul A. Sarlo (w),542
+Total,State Senate,36,Democratic,Paul A. Sarlo (w),"2,412"
+Bergen (part),State Senate,36,Republican,Donald E. DiOrio (w),"1,443"
+Passaic (part),State Senate,36,Republican,Donald E. DiOrio (w),172
+Total,State Senate,36,Republican,Donald E. DiOrio (w),"1,615"
+Bergen (part),State Senate,37,Democratic,Loretta Weinberg (w),"4,606"
+Total,State Senate,37,Democratic,Loretta Weinberg (w),"4,606"
+Bergen (part),State Senate,37,Republican,Robert S. Lebovics (w),"1,093"
+Total,State Senate,37,Republican,Robert S. Lebovics (w),"1,093"
+Bergen (part),State Senate,38,Democratic,Robert M. Gordon (w),"2,297"
+Passaic (part),State Senate,38,Democratic,Robert M. Gordon (w),369
+Total,State Senate,38,Democratic,Robert M. Gordon (w),"2,666"
+Bergen (part),State Senate,38,Republican,"John J. Driscoll, Jr. (w)","1,732"
+Passaic (part),State Senate,38,Republican,"John J. Driscoll, Jr. (w)",680
+Total,State Senate,38,Republican,"John J. Driscoll, Jr. (w)","2,412"
+Bergen (part),State Senate,38,Republican,Kenneth Del Vecchio,803
+Passaic (part),State Senate,38,Republican,Kenneth Del Vecchio,371
+Total,State Senate,38,Republican,Kenneth Del Vecchio,"1,174"
+Bergen (part),State Senate,39,Republican,Gerald Cardinale (w),"2,533"
+Passaic (part),State Senate,39,Republican,Gerald Cardinale (w),788
+Total,State Senate,39,Republican,Gerald Cardinale (w),"3,321"
+Bergen (part),State Senate,39,Democratic,Lorraine M. Waldes (w),119
+Passaic (part),State Senate,39,Democratic,Lorraine M. Waldes (w),0
+Total,State Senate,39,Democratic,Lorraine M. Waldes (w),119
+Bergen (part),State Senate,40,Republican,Kevin J. O'Toole (w),"1,445"
+Essex (part),State Senate,40,Republican,Kevin J. O'Toole (w),278
+Morris (part),State Senate,40,Republican,Kevin J. O'Toole (w),776
+Passaic (part),State Senate,40,Republican,Kevin J. O'Toole (w),"2,939"
+Total,State Senate,40,Republican,Kevin J. O'Toole (w),"5,438"
+Bergen (part),State Senate,40,Democratic,John Zunic (w),458
+Essex (part),State Senate,40,Democratic,John Zunic (w),141
+Morris (part),State Senate,40,Democratic,John Zunic (w),192
+Passaic (part),State Senate,40,Democratic,John Zunic (w),"1,095"
+Total,State Senate,40,Democratic,John Zunic (w),"1,886"
