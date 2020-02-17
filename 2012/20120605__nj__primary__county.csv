@@ -1,0 +1,610 @@
+county,office,district,party,candidate,votes
+Atlantic,Registered Voters,,,,164922
+Bergen,Registered Voters,,,,527772
+Burlington,Registered Voters,,,,280692
+Camden,Registered Voters,,,,339396
+Cape May,Registered Voters,,,,67180
+Cumberland,Registered Voters,,,,89548
+Essex,Registered Voters,,,,457990
+Gloucester,Registered Voters,,,,189114
+Hudson,Registered Voters,,,,321042
+Hunterdon,Registered Voters,,,,87861
+Mercer,Registered Voters,,,,214370
+Middlesex,Registered Voters,,,,444807
+Monmouth,Registered Voters,,,,412245
+Morris,Registered Voters,,,,316411
+Ocean,Registered Voters,,,,370755
+Passaic,Registered Voters,,,,280573
+Salem,Registered Voters,,,,43253
+Somerset,Registered Voters,,,,201659
+Sussex,Registered Voters,,,,99789
+Union,Registered Voters,,,,292765
+Warren,Registered Voters,,,,66504
+Total,Registered Voters,,,,5268648
+Atlantic,Ballots Cast,,Democratic,,7467
+Bergen,Ballots Cast,,Democratic,,41047
+Burlington,Ballots Cast,,Democratic,,13588
+Camden,Ballots Cast,,Democratic,,18340
+Cape May,Ballots Cast,,Democratic,,1910
+Cumberland,Ballots Cast,,Democratic,,2831
+Essex,Ballots Cast,,Democratic,,58659
+Gloucester,Ballots Cast,,Democratic,,9418
+Hudson,Ballots Cast,,Democratic,,36893
+Hunterdon,Ballots Cast,,Democratic,,2170
+Mercer,Ballots Cast,,Democratic,,13361
+Middlesex,Ballots Cast,,Democratic,,21903
+Monmouth,Ballots Cast,,Democratic,,13597
+Morris,Ballots Cast,,Democratic,,8625
+Ocean,Ballots Cast,,Democratic,,8771
+Passaic,Ballots Cast,,Democratic,,32611
+Salem,Ballots Cast,,Democratic,,2533
+Somerset,Ballots Cast,,Democratic,,7019
+Sussex,Ballots Cast,,Democratic,,2079
+Union,Ballots Cast,,Democratic,,34743
+Warren,Ballots Cast,,Democratic,,1873
+Total,Ballots Cast,,Democratic,,339438
+Atlantic,Ballots Cast,,Republican,,"9,166"
+Bergen,Ballots Cast,,Republican,,"23,203"
+Burlington,Ballots Cast,,Republican,,"13,598"
+Camden,Ballots Cast,,Republican,,"7,557"
+Cape May,Ballots Cast,,Republican,,"7,086"
+Cumberland,Ballots Cast,,Republican,,"2,704"
+Essex,Ballots Cast,,Republican,,"8,436"
+Gloucester,Ballots Cast,,Republican,,"7,863"
+Hudson,Ballots Cast,,Republican,,"5,001"
+Hunterdon,Ballots Cast,,Republican,,"10,856"
+Mercer,Ballots Cast,,Republican,,"5,786"
+Middlesex,Ballots Cast,,Republican,,"11,531"
+Monmouth,Ballots Cast,,Republican,,"22,264"
+Morris,Ballots Cast,,Republican,,"31,860"
+Ocean,Ballots Cast,,Republican,,"24,956"
+Passaic,Ballots Cast,,Republican,,"12,072"
+Salem,Ballots Cast,,Republican,,"1,932"
+Somerset,Ballots Cast,,Republican,,"14,964"
+Sussex,Ballots Cast,,Republican,,"11,108"
+Union,Ballots Cast,,Republican,,"10,303"
+Warren,Ballots Cast,,Republican,,"7,733"
+Total,Ballots Cast,,Republican,,249979
+Atlantic,Ballots Cast,,,,"16,633"
+Bergen,Ballots Cast,,,,"64,250"
+Burlington,Ballots Cast,,,,"27,186"
+Camden,Ballots Cast,,,,"25,897"
+Cape May,Ballots Cast,,,,"8,996"
+Cumberland,Ballots Cast,,,,"5,535"
+Essex,Ballots Cast,,,,"67,095"
+Gloucester,Ballots Cast,,,,"17,281"
+Hudson,Ballots Cast,,,,"41,894"
+Hunterdon,Ballots Cast,,,,"13,026"
+Mercer,Ballots Cast,,,,"19,147"
+Middlesex,Ballots Cast,,,,"33,434"
+Monmouth,Ballots Cast,,,,"35,861"
+Morris,Ballots Cast,,,,"40,485"
+Ocean,Ballots Cast,,,,"33,727"
+Passaic,Ballots Cast,,,,"44,683"
+Salem,Ballots Cast,,,,"4,465"
+Somerset,Ballots Cast,,,,"21,983"
+Sussex,Ballots Cast,,,,"13,187"
+Union,Ballots Cast,,,,"45,046"
+Warren,Ballots Cast,,,,"9,606"
+Total,Ballots Cast,,,,589417
+Atlantic,Ballots Rejected,,,,39
+Bergen,Ballots Rejected,,,,139
+Burlington,Ballots Rejected,,,,92
+Camden,Ballots Rejected,,,,160
+Cape May,Ballots Rejected,,,,43
+Cumberland,Ballots Rejected,,,,10
+Essex,Ballots Rejected,,,,71
+Gloucester,Ballots Rejected,,,,65
+Hudson,Ballots Rejected,,,,35
+Hunterdon,Ballots Rejected,,,,20
+Mercer,Ballots Rejected,,,,37
+Middlesex,Ballots Rejected,,,,89
+Monmouth,Ballots Rejected,,,,78
+Morris,Ballots Rejected,,,,20
+Ocean,Ballots Rejected,,,,81
+Passaic,Ballots Rejected,,,,314
+Salem,Ballots Rejected,,,,0
+Somerset,Ballots Rejected,,,,46
+Sussex,Ballots Rejected,,,,8
+Union,Ballots Rejected,,,,297
+Warren,Ballots Rejected,,,,25
+Total,Ballots Rejected,,,,1669
+Burlington,U.S. House,1,Democratic,ROBERT E. ANDREWS (w),654
+Camden,U.S. House,1,Democratic,ROBERT E. ANDREWS (w),"14,769"
+Gloucester,U.S. House,1,Democratic,ROBERT E. ANDREWS (w),"5,895"
+Total,U.S. House,1,Democratic,ROBERT E. ANDREWS (w),"21,318"
+Burlington,U.S. House,1,Republican,GREGORY W. HORTON (w),410
+Camden,U.S. House,1,Republican,GREGORY W. HORTON (w),"6,245"
+Gloucester,U.S. House,1,Republican,GREGORY W. HORTON (w),"4,534"
+Total,U.S. House,1,Republican,GREGORY W. HORTON (w),"11,189"
+Burlington,U.S. House,1,Democratic,FRANCIS X. TENAGLIO,56
+Camden,U.S. House,1,Democratic,FRANCIS X. TENAGLIO,"2,017"
+Gloucester,U.S. House,1,Democratic,FRANCIS X. TENAGLIO,724
+Total,U.S. House,1,Democratic,FRANCIS X. TENAGLIO,"2,797"
+Total,U.S. House,1,,,"35,304"
+Atlantic,U.S. House,2,Republican,FRANK A. LOBIONDO (w),"7,436"
+Burlington,U.S. House,2,Republican,FRANK A. LOBIONDO (w),113
+Camden,U.S. House,2,Republican,FRANK A. LOBIONDO (w),176
+Cape May,U.S. House,2,Republican,FRANK A. LOBIONDO (w),"5,411"
+Cumberland,U.S. House,2,Republican,FRANK A. LOBIONDO (w),"2,092"
+Gloucester,U.S. House,2,Republican,FRANK A. LOBIONDO (w),"1,750"
+Ocean,U.S. House,2,Republican,FRANK A. LOBIONDO (w),"2,019"
+Salem,U.S. House,2,Republican,FRANK A. LOBIONDO (w),"1,554"
+Total,U.S. House,2,Republican,FRANK A. LOBIONDO (w),"20,551"
+Atlantic,U.S. House,2,Democratic,CASSANDRA SHOBER (w),"5,160"
+Burlington,U.S. House,2,Democratic,CASSANDRA SHOBER (w),25
+Camden,U.S. House,2,Democratic,CASSANDRA SHOBER (w),123
+Cape May,U.S. House,2,Democratic,CASSANDRA SHOBER (w),"1,265"
+Cumberland,U.S. House,2,Democratic,CASSANDRA SHOBER (w),127
+Gloucester,U.S. House,2,Democratic,CASSANDRA SHOBER (w),"1,507"
+Ocean,U.S. House,2,Democratic,CASSANDRA SHOBER (w),543
+Salem,U.S. House,2,Democratic,CASSANDRA SHOBER (w),"1,060"
+Total,U.S. House,2,Democratic,CASSANDRA SHOBER (w),"9,810"
+Atlantic,U.S. House,2,Democratic,VIOLA HUGHES,591
+Burlington,U.S. House,2,Democratic,VIOLA HUGHES,2
+Camden,U.S. House,2,Democratic,VIOLA HUGHES,24
+Cape May,U.S. House,2,Democratic,VIOLA HUGHES,225
+Cumberland,U.S. House,2,Democratic,VIOLA HUGHES,"2,161"
+Gloucester,U.S. House,2,Democratic,VIOLA HUGHES,202
+Ocean,U.S. House,2,Democratic,VIOLA HUGHES,45
+Salem,U.S. House,2,Democratic,VIOLA HUGHES,721
+Total,U.S. House,2,Democratic,VIOLA HUGHES,"3,971"
+Atlantic,U.S. House,2,Republican,MIKE ASSAD,970
+Burlington,U.S. House,2,Republican,MIKE ASSAD,8
+Camden,U.S. House,2,Republican,MIKE ASSAD,21
+Cape May,U.S. House,2,Republican,MIKE ASSAD,700
+Cumberland,U.S. House,2,Republican,MIKE ASSAD,295
+Gloucester,U.S. House,2,Republican,MIKE ASSAD,332
+Ocean,U.S. House,2,Republican,MIKE ASSAD,274
+Salem,U.S. House,2,Republican,MIKE ASSAD,314
+Total,U.S. House,2,Republican,MIKE ASSAD,"2,914"
+Atlantic,U.S. House,2,Democratic,GARY STEIN,604
+Burlington,U.S. House,2,Democratic,GARY STEIN,3
+Camden,U.S. House,2,Democratic,GARY STEIN,13
+Cape May,U.S. House,2,Democratic,GARY STEIN,146
+Cumberland,U.S. House,2,Democratic,GARY STEIN,162
+Gloucester,U.S. House,2,Democratic,GARY STEIN,68
+Ocean,U.S. House,2,Democratic,GARY STEIN,58
+Salem,U.S. House,2,Democratic,GARY STEIN,273
+Total,U.S. House,2,Democratic,GARY STEIN,"1,327"
+Total,U.S. House,2,,,38573
+Burlington,U.S. House,3,Republican,JON RUNYAN (w),"11,081"
+Ocean,U.S. House,3,Republican,JON RUNYAN (w),"10,932"
+Total,U.S. House,3,Republican,JON RUNYAN (w),"22,013"
+Burlington,U.S. House,3,Democratic,SHELLEY ADLER(w),"11,085"
+Ocean,U.S. House,3,Democratic,SHELLEY ADLER(w),"4,091"
+Total,U.S. House,3,Democratic,SHELLEY ADLER(w),"15,176"
+Total,U.S. House,3,,,"37,189"
+Mercer,U.S. House,4,Republican,CHRISTOPHER H. SMITH (w),"1,903"
+Monmouth,U.S. House,4,Republican,CHRISTOPHER H. SMITH (w),"12,057"
+Ocean,U.S. House,4,Republican,CHRISTOPHER H. SMITH (w),"7,560"
+Total,U.S. House,4,Republican,CHRISTOPHER H. SMITH (w),"21,520"
+Mercer,U.S. House,4,Democratic,BRIAN P. FROELICH (w),"1,636"
+Monmouth,U.S. House,4,Democratic,BRIAN P. FROELICH (w),"7,462"
+Ocean,U.S. House,4,Democratic,BRIAN P. FROELICH (w),"3,012"
+Total,U.S. House,4,Democratic,BRIAN P. FROELICH (w),"12,110"
+Mercer,U.S. House,4,Republican,TERRENCE MCGOWAN,266
+Monmouth,U.S. House,4,Republican,TERRENCE MCGOWAN,"2,693"
+Ocean,U.S. House,4,Republican,TERRENCE MCGOWAN,"1,250"
+Total,U.S. House,4,Republican,TERRENCE MCGOWAN,"4,209"
+Total,U.S. House,4,,,"37,839"
+Bergen,U.S. House,5,Republican,SCOTT GARRETT (w),"12,751"
+Passaic,U.S. House,5,Republican,SCOTT GARRETT (w),"1,848"
+Sussex,U.S. House,5,Republican,SCOTT GARRETT (w),"6,227"
+Warren,U.S. House,5,Republican,SCOTT GARRETT (w),"3,883"
+Total,U.S. House,5,Republican,SCOTT GARRETT (w),"24,709"
+Bergen,U.S. House,5,Democratic,ADAM GUSSEN (w),"9,689"
+Passaic,U.S. House,5,Democratic,ADAM GUSSEN (w),333
+Sussex,U.S. House,5,Democratic,ADAM GUSSEN (w),110
+Warren,U.S. House,5,Democratic,ADAM GUSSEN (w),76
+Total,U.S. House,5,Democratic,ADAM GUSSEN (w),"10,208"
+Bergen,U.S. House,5,Democratic,JASON CASTLE,"4,642"
+Passaic,U.S. House,5,Democratic,JASON CASTLE,72
+Sussex,U.S. House,5,Democratic,JASON CASTLE,975
+Warren,U.S. House,5,Democratic,JASON CASTLE,759
+Total,U.S. House,5,Democratic,JASON CASTLE,"6,448"
+Bergen,U.S. House,5,Republican,MICHAEL J. CINO,771
+Passaic,U.S. House,5,Republican,MICHAEL J. CINO,83
+Sussex,U.S. House,5,Republican,MICHAEL J. CINO,687
+Warren,U.S. House,5,Republican,MICHAEL J. CINO,566
+Total,U.S. House,5,Republican,MICHAEL J. CINO,"2,107"
+Bergen,U.S. House,5,Democratic,DIANE SARE,"1,475"
+Passaic,U.S. House,5,Democratic,DIANE SARE,57
+Sussex,U.S. House,5,Democratic,DIANE SARE,208
+Warren,U.S. House,5,Democratic,DIANE SARE,185
+Total,U.S. House,5,Democratic,DIANE SARE,"1,925"
+Bergen,U.S. House,5,Republican,BONNIE SOMER,295
+Passaic,U.S. House,5,Republican,BONNIE SOMER,112
+Sussex,U.S. House,5,Republican,BONNIE SOMER,598
+Warren,U.S. House,5,Republican,BONNIE SOMER,506
+Total,U.S. House,5,Republican,BONNIE SOMER,"1,511"
+Total,U.S. House,5,,,"46,908"
+Middlesex,U.S. House,6,Democratic,FRANK PALLONE JR. (w),"12,175"
+Monmouth,U.S. House,6,Democratic,FRANK PALLONE JR. (w),"4,418"
+Total,U.S. House,6,Democratic,FRANK PALLONE JR. (w),"16,593"
+Middlesex,U.S. House,6,Republican,ANNA LITTLE (w),"4,253"
+Monmouth,U.S. House,6,Republican,ANNA LITTLE (w),"3,439"
+Total,U.S. House,6,Republican,ANNA LITTLE (w),"7,692"
+Middlesex,U.S. House,6,Republican,ERNESTO CULLARI,876
+Monmouth,U.S. House,6,Republican,ERNESTO CULLARI,"2,401"
+Total,U.S. House,6,Republican,ERNESTO CULLARI,"3,277"
+Total,U.S. House,6,,,"27,562"
+Essex,U.S. House,7,Republican,LEONARD LANCE (w),456
+Hunterdon,U.S. House,7,Republican,LEONARD LANCE (w),"6,271"
+Morris,U.S. House,7,Republican,LEONARD LANCE (w),"2,938"
+Somerset,U.S. House,7,Republican,LEONARD LANCE (w),"7,593"
+Union,U.S. House,7,Republican,LEONARD LANCE (w),"4,878"
+Warren,U.S. House,7,Republican,LEONARD LANCE (w),"1,296"
+Total,U.S. House,7,Republican,LEONARD LANCE (w),"23,432"
+Essex,U.S. House,7,Republican,DAVID LARSEN,122
+Hunterdon,U.S. House,7,Republican,DAVID LARSEN,"4,151"
+Morris,U.S. House,7,Republican,DAVID LARSEN,"3,588"
+Somerset,U.S. House,7,Republican,DAVID LARSEN,"4,796"
+Union,U.S. House,7,Republican,DAVID LARSEN,"1,695"
+Warren,U.S. House,7,Republican,DAVID LARSEN,901
+Total,U.S. House,7,Republican,DAVID LARSEN,"15,253"
+Essex,U.S. House,7,Democratic,UPENDRA J. CHIVUKULA (w),309
+Hunterdon,U.S. House,7,Democratic,UPENDRA J. CHIVUKULA (w),"1,823"
+Morris,U.S. House,7,Democratic,UPENDRA J. CHIVUKULA (w),"1,532"
+Somerset,U.S. House,7,Democratic,UPENDRA J. CHIVUKULA (w),"3,747"
+Union,U.S. House,7,Democratic,UPENDRA J. CHIVUKULA (w),"3,583"
+Warren,U.S. House,7,Democratic,UPENDRA J. CHIVUKULA (w),512
+Total,U.S. House,7,Democratic,UPENDRA J. CHIVUKULA (w),"11,506"
+Total,U.S. House,7,,,"50,191"
+Bergen,U.S. House,8,Democratic,ALBIO SIRES (w),362
+Essex,U.S. House,8,Democratic,ALBIO SIRES (w),"5,041"
+Hudson,U.S. House,8,Democratic,ALBIO SIRES (w),"19,001"
+Union,U.S. House,8,Democratic,ALBIO SIRES (w),"6,436"
+Total,U.S. House,8,Democratic,ALBIO SIRES (w),"30,840"
+Bergen,U.S. House,8,Democratic,MICHAEL J. SHURIN,30
+Essex,U.S. House,8,Democratic,MICHAEL J. SHURIN,264
+Hudson,U.S. House,8,Democratic,MICHAEL J. SHURIN,"2,057"
+Union,U.S. House,8,Democratic,MICHAEL J. SHURIN,"1,457"
+Total,U.S. House,8,Democratic,MICHAEL J. SHURIN,"3,808"
+Bergen,U.S. House,8,Republican,MARIA KARCZEWSKI (w),75
+Essex,U.S. House,8,Republican,MARIA KARCZEWSKI (w),709
+Hudson,U.S. House,8,Republican,MARIA KARCZEWSKI (w),"2,094"
+Union,U.S. House,8,Republican,MARIA KARCZEWSKI (w),103
+Total,U.S. House,8,Republican,MARIA KARCZEWSKI (w),"2,981"
+Total,U.S. House,8,,,"37,629"
+Bergen,U.S. House,9,Democratic,BILL PASCRELL JR. (w),"5,728"
+Hudson,U.S. House,9,Democratic,BILL PASCRELL JR. (w),608
+Passaic,U.S. House,9,Democratic,BILL PASCRELL JR. (w),"25,099"
+Total,U.S. House,9,Democratic,BILL PASCRELL JR. (w),"31,435"
+Bergen,U.S. House,9,Democratic,STEVEN ROTHMAN,"15,573"
+Hudson,U.S. House,9,Democratic,STEVEN ROTHMAN,"1,722"
+Passaic,U.S. House,9,Democratic,STEVEN ROTHMAN,"2,652"
+Total,U.S. House,9,Democratic,STEVEN ROTHMAN,"19,947"
+Bergen,U.S. House,9,Republican,SHMULEY BOTEACH (w),"4,587"
+Hudson,U.S. House,9,Republican,SHMULEY BOTEACH (w),228
+Passaic,U.S. House,9,Republican,SHMULEY BOTEACH (w),549
+Total,U.S. House,9,Republican,SHMULEY BOTEACH (w),"5,364"
+Bergen,U.S. House,9,Republican,HECTOR L. CASTILLO,306
+Hudson,U.S. House,9,Republican,HECTOR L. CASTILLO,33
+Passaic,U.S. House,9,Republican,HECTOR L. CASTILLO,"2,284"
+Total,U.S. House,9,Republican,HECTOR L. CASTILLO,"2,623"
+Bergen,U.S. House,9,Republican,BLASE BILLACK,708
+Hudson,U.S. House,9,Republican,BLASE BILLACK,44
+Passaic,U.S. House,9,Republican,BLASE BILLACK,526
+Total,U.S. House,9,Republican,BLASE BILLACK,"1,278"
+Total,U.S. House,9,,,"60,647"
+Essex,U.S. House,10,Democratic,DONALD M. PAYNE JR. (w),"25,631"
+Hudson,U.S. House,10,Democratic,DONALD M. PAYNE JR. (w),"3,177"
+Union,U.S. House,10,Democratic,DONALD M. PAYNE JR. (w),"7,768"
+Total,U.S. House,10,Democratic,DONALD M. PAYNE JR. (w),"36,576"
+Essex,U.S. House,10,Democratic,RONALDO. RICE,"9,676"
+Hudson,U.S. House,10,Democratic,RONALDO. RICE,474
+Union,U.S. House,10,Democratic,RONALDO. RICE,"1,789"
+Total,U.S. House,10,Democratic,RONALDO. RICE,"11,939"
+Essex,U.S. House,10,Democratic,NIA H. GILL,"5,467"
+Hudson,U.S. House,10,Democratic,NIA H. GILL,"3,961"
+Union,U.S. House,10,Democratic,NIA H. GILL,779
+Total,U.S. House,10,Democratic,NIA H. GILL,"10,207"
+Essex,U.S. House,10,Republican,BRIAN C. KELEMEN (w),"1,263"
+Hudson,U.S. House,10,Republican,BRIAN C. KELEMEN (w),489
+Union,U.S. House,10,Republican,BRIAN C. KELEMEN (w),343
+Total,U.S. House,10,Republican,BRIAN C. KELEMEN (w),"2,095"
+Essex,U.S. House,10,Democratic,WAYNE SMITH,927
+Hudson,U.S. House,10,Democratic,WAYNE SMITH,127
+Union,U.S. House,10,Democratic,WAYNE SMITH,302
+Total,U.S. House,10,Democratic,WAYNE SMITH,"1,356"
+Essex,U.S. House,10,Democratic,DENNIS R. FLYNN,157
+Hudson,U.S. House,10,Democratic,DENNIS R. FLYNN,264
+Union,U.S. House,10,Democratic,DENNIS R. FLYNN,358
+Total,U.S. House,10,Democratic,DENNIS R. FLYNN,779
+Essex,U.S. House,10,Democratic,CATHY WRIGHT,223
+Hudson,U.S. House,10,Democratic,CATHY WRIGHT,100
+Union,U.S. House,10,Democratic,CATHY WRIGHT,178
+Total,U.S. House,10,Democratic,CATHY WRIGHT,501
+Total,U.S. House,10,,,"63,453"
+Essex,U.S. House,11,Republican,RODNEY P. FRELINGHUYSEN (w),"4,384"
+Morris,U.S. House,11,Republican,RODNEY P. FRELINGHUYSEN (w),"19,520"
+Passaic,U.S. House,11,Republican,RODNEY P. FRELINGHUYSEN (w),"4,508"
+Sussex,U.S. House,11,Republican,RODNEY P. FRELINGHUYSEN (w),"2,419"
+Total,U.S. House,11,Republican,RODNEY P. FRELINGHUYSEN (w),"30,831"
+Essex,U.S. House,11,Democratic,JOHN ARVANITES (w),"5,081"
+Morris,U.S. House,11,Democratic,JOHN ARVANITES (w),"5,436"
+Passaic,U.S. House,11,Democratic,JOHN ARVANITES (w),"2,251"
+Sussex,U.S. House,11,Democratic,JOHN ARVANITES (w),619
+Total,U.S. House,11,Democratic,JOHN ARVANITES (w),"13,387"
+Total,U.S. House,11,,,"44,218"
+Mercer,U.S. House,12,Democratic,RUSH HOLT (w),"10,435"
+Middlesex,U.S. House,12,Democratic,RUSH HOLT (w),"7,028"
+Somerset,U.S. House,12,Democratic,RUSH HOLT (w),"2,427"
+Union,U.S. House,12,Democratic,RUSH HOLT (w),"4,449"
+Total,U.S. House,12,Democratic,RUSH HOLT (w),"24,339"
+Mercer,U.S. House,12,Republican,ERIC A. BECK (w),"2,857"
+Middlesex,U.S. House,12,Republican,ERIC A. BECK (w),"4,267"
+Somerset,U.S. House,12,Republican,ERIC A. BECK (w),"1,309"
+Union,U.S. House,12,Republican,ERIC A. BECK (w),928
+Total,U.S. House,12,Republican,ERIC A. BECK (w),"9,361"
+Total,U.S. House,12,,,"33,700"
+Atlantic,President,,Democratic,BARACK OBAMA (w),"6,494"
+Bergen,President,,Democratic,BARACK OBAMA (w),"32,182"
+Burlington,President,,Democratic,BARACK OBAMA (w),"12,489"
+Camden,President,,Democratic,BARACK OBAMA (w),"15,527"
+Cape May,President,,Democratic,BARACK OBAMA (w),"1,613"
+Cumberland,President,,Democratic,BARACK OBAMA (w),"2,496"
+Essex,President,,Democratic,BARACK OBAMA (w),"50,733"
+Gloucester,President,,Democratic,BARACK OBAMA (w),"7,616"
+Hudson,President,,Democratic,BARACK OBAMA (w),"31,441"
+Hunterdon,President,,Democratic,BARACK OBAMA (w),"1,913"
+Mercer,President,,Democratic,BARACK OBAMA (w),"12,066"
+Middlesex,President,,Democratic,BARACK OBAMA (w),"19,257"
+Monmouth,President,,Democratic,BARACK OBAMA (w),"11,739"
+Morris,President,,Democratic,BARACK OBAMA (w),"7,674"
+Ocean,President,,Democratic,BARACK OBAMA (w),"7,589"
+Passaic,President,,Democratic,BARACK OBAMA (w),"25,104"
+Salem,President,,Democratic,BARACK OBAMA (w),"2,120"
+Somerset,President,,Democratic,BARACK OBAMA (w),"6,414"
+Sussex,President,,Democratic,BARACK OBAMA (w),"1,772"
+Union,President,,Democratic,BARACK OBAMA (w),"25,966"
+Warren,President,,Democratic,BARACK OBAMA (w),"1,468"
+Total,President,,Democratic,BARACK OBAMA (w),"283,673"
+Atlantic,President,,Republican,MITT ROMNEY (w),"6,664"
+Bergen,President,,Republican,MITT ROMNEY (w),"18,387"
+Burlington,President,,Republican,MITT ROMNEY (w),"10,470"
+Camden,President,,Republican,MITT ROMNEY (w),"5,381"
+Cape May,President,,Republican,MITT ROMNEY (w),"5,092"
+Cumberland,President,,Republican,MITT ROMNEY (w),"1,807"
+Essex,President,,Republican,MITT ROMNEY (w),"6,728"
+Gloucester,President,,Republican,MITT ROMNEY (w),"5,866"
+Hudson,President,,Republican,MITT ROMNEY (w),"3,529"
+Hunterdon,President,,Republican,MITT ROMNEY (w),"7,704"
+Mercer,President,,Republican,MITT ROMNEY (w),"4,197"
+Middlesex,President,,Republican,MITT ROMNEY (w),"8,408"
+Monmouth,President,,Republican,MITT ROMNEY (w),"16,698"
+Morris,President,,Republican,MITT ROMNEY (w),"24,889"
+Ocean,President,,Republican,MITT ROMNEY (w),"19,956"
+Passaic,President,,Republican,MITT ROMNEY (w),"8,961"
+Salem,President,,Republican,MITT ROMNEY (w),"1,408"
+Somerset,President,,Republican,MITT ROMNEY (w),"11,128"
+Sussex,President,,Republican,MITT ROMNEY (w),"7,779"
+Union,President,,Republican,MITT ROMNEY (w),"7,921"
+Warren,President,,Republican,MITT ROMNEY (w),"5,148"
+Total,President,,Republican,MITT ROMNEY (w),"188,121"
+Atlantic,President,,Republican,RON PAUL,"1,085"
+Bergen,President,,Republican,RON PAUL,"1,878"
+Burlington,President,,Republican,RON PAUL,"1,384"
+Camden,President,,Republican,RON PAUL,"1,060"
+Cape May,President,,Republican,RON PAUL,830
+Cumberland,President,,Republican,RON PAUL,419
+Essex,President,,Republican,RON PAUL,636
+Gloucester,President,,Republican,RON PAUL,843
+Hudson,President,,Republican,RON PAUL,656
+Hunterdon,President,,Republican,RON PAUL,"1,168"
+Mercer,President,,Republican,RON PAUL,718
+Middlesex,President,,Republican,RON PAUL,"1,263"
+Monmouth,President,,Republican,RON PAUL,"2,014"
+Morris,President,,Republican,RON PAUL,"2,589"
+Ocean,President,,Republican,RON PAUL,"1,829"
+Passaic,President,,Republican,RON PAUL,835
+Salem,President,,Republican,RON PAUL,217
+Somerset,President,,Republican,RON PAUL,"1,336"
+Sussex,President,,Republican,RON PAUL,"1,438"
+Union,President,,Republican,RON PAUL,892
+Warren,President,,Republican,RON PAUL,927
+Total,President,,Republican,RON PAUL,"24,017"
+Atlantic,President,,Republican,RICK SANTORUM,395
+Bergen,President,,Republican,RICK SANTORUM,803
+Burlington,President,,Republican,RICK SANTORUM,698
+Camden,President,,Republican,RICK SANTORUM,465
+Cape May,President,,Republican,RICK SANTORUM,298
+Cumberland,President,,Republican,RICK SANTORUM,189
+Essex,President,,Republican,RICK SANTORUM,299
+Gloucester,President,,Republican,RICK SANTORUM,473
+Hudson,President,,Republican,RICK SANTORUM,187
+Hunterdon,President,,Republican,RICK SANTORUM,527
+Mercer,President,,Republican,RICK SANTORUM,329
+Middlesex,President,,Republican,RICK SANTORUM,998
+Monmouth,President,,Republican,RICK SANTORUM,864
+Morris,President,,Republican,RICK SANTORUM,"1,173"
+Ocean,President,,Republican,RICK SANTORUM,969
+Passaic,President,,Republican,RICK SANTORUM,444
+Salem,President,,Republican,RICK SANTORUM,185
+Somerset,President,,Republican,RICK SANTORUM,657
+Sussex,President,,Republican,RICK SANTORUM,811
+Union,President,,Republican,RICK SANTORUM,671
+Warren,President,,Republican,RICK SANTORUM,680
+Total,President,,Republican,RICK SANTORUM,"12,115"
+Atlantic,President,,Republican,NEWT GINGRICH,204
+Bergen,President,,Republican,NEWT GINGRICH,650
+Burlington,President,,Republican,NEWT GINGRICH,334
+Camden,President,,Republican,NEWT GINGRICH,184
+Cape May,President,,Republican,NEWT GINGRICH,185
+Cumberland,President,,Republican,NEWT GINGRICH,121
+Essex,President,,Republican,NEWT GINGRICH,192
+Gloucester,President,,Republican,NEWT GINGRICH,190
+Hudson,President,,Republican,NEWT GINGRICH,126
+Hunterdon,President,,Republican,NEWT GINGRICH,389
+Mercer,President,,Republican,NEWT GINGRICH,252
+Middlesex,President,,Republican,NEWT GINGRICH,340
+Monmouth,President,,Republican,NEWT GINGRICH,535
+Morris,President,,Republican,NEWT GINGRICH,772
+Ocean,President,,Republican,NEWT GINGRICH,674
+Passaic,President,,Republican,NEWT GINGRICH,394
+Salem,President,,Republican,NEWT GINGRICH,46
+Somerset,President,,Republican,NEWT GINGRICH,439
+Sussex,President,,Republican,NEWT GINGRICH,646
+Union,President,,Republican,NEWT GINGRICH,258
+Warren,President,,Republican,NEWT GINGRICH,281
+Total,President,,Republican,NEWT GINGRICH,"7,212"
+Atlantic,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),"6,370"
+Bergen,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),"31,703"
+Burlington,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),"12,085"
+Camden,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),"15,695"
+Cape May,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),"1,673"
+Cumberland,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),"2,408"
+Essex,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),"43,748"
+Gloucester,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),"8,027"
+Hudson,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),"30,247"
+Hunterdon,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),"1,925"
+Mercer,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),"11,852"
+Middlesex,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),"19,211"
+Monmouth,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),"11,937"
+Morris,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),"7,706"
+Ocean,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),"7,845"
+Passaic,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),"21,967"
+Salem,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),"2,143"
+Somerset,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),"6,428"
+Sussex,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),"1,867"
+Union,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),"25,830"
+Warren,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),"1,534"
+Total,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),"272,201"
+Atlantic,U.S. Senate,,Republican,JOE KYRILLOS (w),"6,517"
+Bergen,U.S. Senate,,Republican,JOE KYRILLOS (w),"15,898"
+Burlington,U.S. Senate,,Republican,JOE KYRILLOS (w),"9,412"
+Camden,U.S. Senate,,Republican,JOE KYRILLOS (w),"5,367"
+Cape May,U.S. Senate,,Republican,JOE KYRILLOS (w),"4,278"
+Cumberland,U.S. Senate,,Republican,JOE KYRILLOS (w),"1,706"
+Essex,U.S. Senate,,Republican,JOE KYRILLOS (w),"6,087"
+Gloucester,U.S. Senate,,Republican,JOE KYRILLOS (w),"5,286"
+Hudson,U.S. Senate,,Republican,JOE KYRILLOS (w),"2,709"
+Hunterdon,U.S. Senate,,Republican,JOE KYRILLOS (w),"5,755"
+Mercer,U.S. Senate,,Republican,JOE KYRILLOS (w),"4,070"
+Middlesex,U.S. Senate,,Republican,JOE KYRILLOS (w),"7,811"
+Monmouth,U.S. Senate,,Republican,JOE KYRILLOS (w),"16,454"
+Morris,U.S. Senate,,Republican,JOE KYRILLOS (w),"21,803"
+Ocean,U.S. Senate,,Republican,JOE KYRILLOS (w),"17,606"
+Passaic,U.S. Senate,,Republican,JOE KYRILLOS (w),"7,542"
+Salem,U.S. Senate,,Republican,JOE KYRILLOS (w),799
+Somerset,U.S. Senate,,Republican,JOE KYRILLOS (w),"9,878"
+Sussex,U.S. Senate,,Republican,JOE KYRILLOS (w),"4,676"
+Union,U.S. Senate,,Republican,JOE KYRILLOS (w),"6,968"
+Warren,U.S. Senate,,Republican,JOE KYRILLOS (w),"3,195"
+Total,U.S. Senate,,Republican,JOE KYRILLOS (w),"163,817"
+Atlantic,U.S. Senate,,Republican,DAVID DOUGLAS BROWN,707
+Bergen,U.S. Senate,,Republican,DAVID DOUGLAS BROWN,"1,049"
+Burlington,U.S. Senate,,Republican,DAVID DOUGLAS BROWN,"1,463"
+Camden,U.S. Senate,,Republican,DAVID DOUGLAS BROWN,780
+Cape May,U.S. Senate,,Republican,DAVID DOUGLAS BROWN,460
+Cumberland,U.S. Senate,,Republican,DAVID DOUGLAS BROWN,257
+Essex,U.S. Senate,,Republican,DAVID DOUGLAS BROWN,539
+Gloucester,U.S. Senate,,Republican,DAVID DOUGLAS BROWN,556
+Hudson,U.S. Senate,,Republican,DAVID DOUGLAS BROWN,251
+Hunterdon,U.S. Senate,,Republican,DAVID DOUGLAS BROWN,"1,333"
+Mercer,U.S. Senate,,Republican,DAVID DOUGLAS BROWN,512
+Middlesex,U.S. Senate,,Republican,DAVID DOUGLAS BROWN,536
+Monmouth,U.S. Senate,,Republican,DAVID DOUGLAS BROWN,"1,096"
+Morris,U.S. Senate,,Republican,DAVID DOUGLAS BROWN,"1,284"
+Ocean,U.S. Senate,,Republican,DAVID DOUGLAS BROWN,"2,145"
+Passaic,U.S. Senate,,Republican,DAVID DOUGLAS BROWN,841
+Salem,U.S. Senate,,Republican,DAVID DOUGLAS BROWN,242
+Somerset,U.S. Senate,,Republican,DAVID DOUGLAS BROWN,"1,138"
+Sussex,U.S. Senate,,Republican,DAVID DOUGLAS BROWN,"1,411"
+Union,U.S. Senate,,Republican,DAVID DOUGLAS BROWN,"1,130"
+Warren,U.S. Senate,,Republican,DAVID DOUGLAS BROWN,"1,508"
+Total,U.S. Senate,,Republican,DAVID DOUGLAS BROWN,"19,238"
+Atlantic,U.S. Senate,,Republican,JOE RUDY RULLO,183
+Bergen,U.S. Senate,,Republican,JOE RUDY RULLO,"1,090"
+Burlington,U.S. Senate,,Republican,JOE RUDY RULLO,559
+Camden,U.S. Senate,,Republican,JOE RUDY RULLO,392
+Cape May,U.S. Senate,,Republican,JOE RUDY RULLO,845
+Cumberland,U.S. Senate,,Republican,JOE RUDY RULLO,145
+Essex,U.S. Senate,,Republican,JOE RUDY RULLO,338
+Gloucester,U.S. Senate,,Republican,JOE RUDY RULLO,793
+Hudson,U.S. Senate,,Republican,JOE RUDY RULLO,198
+Hunterdon,U.S. Senate,,Republican,JOE RUDY RULLO,"1,471"
+Mercer,U.S. Senate,,Republican,JOE RUDY RULLO,440
+Middlesex,U.S. Senate,,Republican,JOE RUDY RULLO,"1,009"
+Monmouth,U.S. Senate,,Republican,JOE RUDY RULLO,"1,739"
+Morris,U.S. Senate,,Republican,JOE RUDY RULLO,"1,488"
+Ocean,U.S. Senate,,Republican,JOE RUDY RULLO,"1,383"
+Passaic,U.S. Senate,,Republican,JOE RUDY RULLO,547
+Salem,U.S. Senate,,Republican,JOE RUDY RULLO,550
+Somerset,U.S. Senate,,Republican,JOE RUDY RULLO,963
+Sussex,U.S. Senate,,Republican,JOE RUDY RULLO,"1,646"
+Union,U.S. Senate,,Republican,JOE RUDY RULLO,328
+Warren,U.S. Senate,,Republican,JOE RUDY RULLO,"1,054"
+Total,U.S. Senate,,Republican,JOE RUDY RULLO,"17,161"
+Atlantic,U.S. Senate,,Republican,BADER G. QARMOUT,99
+Bergen,U.S. Senate,,Republican,BADER G. QARMOUT,699
+Burlington,U.S. Senate,,Republican,BADER G. QARMOUT,434
+Camden,U.S. Senate,,Republican,BADER G. QARMOUT,293
+Cape May,U.S. Senate,,Republican,BADER G. QARMOUT,152
+Cumberland,U.S. Senate,,Republican,BADER G. QARMOUT,148
+Essex,U.S. Senate,,Republican,BADER G. QARMOUT,277
+Gloucester,U.S. Senate,,Republican,BADER G. QARMOUT,319
+Hudson,U.S. Senate,,Republican,BADER G. QARMOUT,275
+Hunterdon,U.S. Senate,,Republican,BADER G. QARMOUT,427
+Mercer,U.S. Senate,,Republican,BADER G. QARMOUT,175
+Middlesex,U.S. Senate,,Republican,BADER G. QARMOUT,813
+Monmouth,U.S. Senate,,Republican,BADER G. QARMOUT,809
+Morris,U.S. Senate,,Republican,BADER G. QARMOUT,"1,100"
+Ocean,U.S. Senate,,Republican,BADER G. QARMOUT,"1,268"
+Passaic,U.S. Senate,,Republican,BADER G. QARMOUT,759
+Salem,U.S. Senate,,Republican,BADER G. QARMOUT,227
+Somerset,U.S. Senate,,Republican,BADER G. QARMOUT,751
+Sussex,U.S. Senate,,Republican,BADER G. QARMOUT,"2,508"
+Union,U.S. Senate,,Republican,BADER G. QARMOUT,399
+Warren,U.S. Senate,,Republican,BADER G. QARMOUT,891
+Total,U.S. Senate,,Republican,BADER G. QARMOUT,"12,823"
+Camden,General Assembly (special),4,Democratic,GABRIELA M. MOSQUERA (w),"3,890"
+Gloucester,General Assembly (special),4,Democratic,GABRIELA M. MOSQUERA (w),"2,534"
+Total,General Assembly (special),4,Democratic,GABRIELA M. MOSQUERA (w),"6,424"
+Camden,General Assembly (special),4,Republican,SHELLEY LOVETT (w),"1,537"
+Gloucester,General Assembly (special),4,Republican,SHELLEY LOVETT (w),"2,900"
+Total,General Assembly (special),4,Republican,SHELLEY LOVETT (w),"4,437"
+Total,General Assembly (special),4,,,"10,861"
+Hunterdon,General Assembly (special),16,Republican,DONNA M. SIMON (w),"3,280"
+Mercer,General Assembly (special),16,Republican,DONNA M. SIMON (w),463
+Middlesex,General Assembly (special),16,Republican,DONNA M. SIMON (w),574
+Somerset,General Assembly (special),16,Republican,DONNA M. SIMON (w),"3,506"
+Total,General Assembly (special),16,Republican,DONNA M. SIMON (w),"7,823"
+Hunterdon,General Assembly (special),16,Democratic,MARIE CORFIELD (w),749
+Mercer,General Assembly (special),16,Democratic,MARIE CORFIELD (w),729
+Middlesex,General Assembly (special),16,Democratic,MARIE CORFIELD (w),"1,277"
+Somerset,General Assembly (special),16,Democratic,MARIE CORFIELD (w),"1,527"
+Total,General Assembly (special),16,Democratic,MARIE CORFIELD (w),"4,282"
+Hunterdon,General Assembly (special),16,Democratic,SUE NEMETH,164
+Mercer,General Assembly (special),16,Democratic,SUE NEMETH,"2,155"
+Middlesex,General Assembly (special),16,Democratic,SUE NEMETH,312
+Somerset,General Assembly (special),16,Democratic,SUE NEMETH,542
+Total,General Assembly (special),16,Democratic,SUE NEMETH,"3,173"
+Total,General Assembly (special),16,,,"15,278"
+Essex,General Assembly (special),26,Republican,BETTY LOU DECROCE (w),"1,243"
+Morris,General Assembly (special),26,Republican,BETTY LOU DECROCE (w),"6,167"
+Passaic,General Assembly (special),26,Republican,BETTY LOU DECROCE (w),"1,284"
+Total,General Assembly (special),26,Republican,BETTY LOU DECROCE (w),"8,694"
+Essex,General Assembly (special),26,Democratic,JOSEPH R. RAICH (w),739
+Morris,General Assembly (special),26,Democratic,JOSEPH R. RAICH (w),"2,019"
+Passaic,General Assembly (special),26,Democratic,JOSEPH R. RAICH (w),269
+Total,General Assembly (special),26,Democratic,JOSEPH R. RAICH (w),"3,027"
+Essex,General Assembly (special),26,Republican,ANTHONY PIO COSTA III,179
+Morris,General Assembly (special),26,Republican,ANTHONY PIO COSTA III,"1,981"
+Passaic,General Assembly (special),26,Republican,ANTHONY PIO COSTA III,159
+Total,General Assembly (special),26,Republican,ANTHONY PIO COSTA III,"2,319"
+Total,General Assembly (special),26,,,"14,040"
+Essex,U.S. House (special),10,Democratic,DONALD M. PAYNE JR. (w),"23,080"
+Hudson,U.S. House (special),10,Democratic,DONALD M. PAYNE JR. (w),"1,199"
+Union,U.S. House (special),10,Democratic,DONALD M. PAYNE JR. (w),"10,079"
+Total,U.S. House (special),10,Democratic,DONALD M. PAYNE JR. (w),"34,358"
+Essex,U.S. House (special),10,Democratic,RONALD C. RICE,"9,062"
+Hudson,U.S. House (special),10,Democratic,RONALD C. RICE,276
+Union,U.S. House (special),10,Democratic,RONALD C. RICE,"2,597"
+Total,U.S. House (special),10,Democratic,RONALD C. RICE,"11,935"
+Essex,U.S. House (special),10,Democratic,RONALD C. RICE,"1,092"
+Hudson,U.S. House (special),10,Democratic,WAYNE SMITH,74
+Union,U.S. House (special),10,Democratic,WAYNE SMITH,"1,152"
+Total,U.S. House (special),10,Democratic,WAYNE SMITH,"2,318"
+Total,U.S. House (special),10,,,"48,611"
