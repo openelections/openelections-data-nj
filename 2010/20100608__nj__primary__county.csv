@@ -1,198 +1,361 @@
 county,office,district,party,candidate,votes
-Burlington (part),House of Representatives 07-12-2010,1,Democratic,Robert E. Andrews * (w),824
-Camden (part),House of Representatives 07-12-2010,1,Democratic,Robert E. Andrews * (w),"8,806"
-Gloucester (part),House of Representatives 07-12-2010,1,Democratic,Robert E. Andrews * (w),"5,065"
-Burlington (part),House of Representatives 07-12-2010,1,Republican,Dale Glading (w),358
-Camden (part),House of Representatives 07-12-2010,1,Republican,Dale Glading (w),"3,336"
-Gloucester (part),House of Representatives 07-12-2010,1,Republican,Dale Glading (w),"1,621"
-Burlington (part),House of Representatives 07-12-2010,1,Republican,Loran M. Oglesby,203
-Camden (part),House of Representatives 07-12-2010,1,Republican,Loran M. Oglesby,"1,126"
-Gloucester (part),House of Representatives 07-12-2010,1,Republican,Loran M. Oglesby,"1,389"
-Burlington (part),House of Representatives 07-12-2010,1,Democratic,John Caramanna,137
-Camden (part),House of Representatives 07-12-2010,1,Democratic,John Caramanna,"1,212"
-Gloucester (part),House of Representatives 07-12-2010,1,Democratic,John Caramanna,913
-Burlington (part),House of Representatives 07-12-2010,1,Republican,Fernando Powers,44
-Camden (part),House of Representatives 07-12-2010,1,Republican,Fernando Powers,730
-Gloucester (part),House of Representatives 07-12-2010,1,Republican,Fernando Powers,627
-Burlington (part),House of Representatives 07-12-2010,1,Republican,Lee Lucas,12
-Camden (part),House of Representatives 07-12-2010,1,Republican,Lee Lucas,105
-Gloucester (part),House of Representatives 07-12-2010,1,Republican,Lee Lucas,147
-Atlantic,House of Representatives 07-12-2010,2,Republican,Frank A. LoBiondo * (w),"6,080"
-Burlington (part),House of Representatives 07-12-2010,2,Republican,Frank A. LoBiondo * (w),154
-Camden (part),House of Representatives 07-12-2010,2,Republican,Frank A. LoBiondo * (w),124
-Cape May,House of Representatives 07-12-2010,2,Republican,Frank A. LoBiondo * (w),"7,707"
-Cumberland,House of Representatives 07-12-2010,2,Republican,Frank A. LoBiondo * (w),"2,330"
-Gloucester (part),House of Representatives 07-12-2010,2,Republican,Frank A. LoBiondo * (w),"1,307"
-Salem,House of Representatives 07-12-2010,2,Republican,Frank A. LoBiondo * (w),"1,635"
-Atlantic,House of Representatives 07-12-2010,2,Democratic,Gary Stein (w),"1,605"
-Burlington (part),House of Representatives 07-12-2010,2,Democratic,Gary Stein (w),23
-Camden (part),House of Representatives 07-12-2010,2,Democratic,Gary Stein (w),66
-Cape May,House of Representatives 07-12-2010,2,Democratic,Gary Stein (w),799
-Cumberland,House of Representatives 07-12-2010,2,Democratic,Gary Stein (w),744
-Gloucester (part),House of Representatives 07-12-2010,2,Democratic,Gary Stein (w),670
-Salem,House of Representatives 07-12-2010,2,Democratic,Gary Stein (w),"1,534"
-Atlantic,House of Representatives 07-12-2010,2,Republican,Linda Biamonte,989
-Burlington (part),House of Representatives 07-12-2010,2,Republican,Linda Biamonte,27
-Camden (part),House of Representatives 07-12-2010,2,Republican,Linda Biamonte,16
-Cape May,House of Representatives 07-12-2010,2,Republican,Linda Biamonte,"1,178"
-Cumberland,House of Representatives 07-12-2010,2,Republican,Linda Biamonte,309
-Gloucester (part),House of Representatives 07-12-2010,2,Republican,Linda Biamonte,145
-Salem,House of Representatives 07-12-2010,2,Republican,Linda Biamonte,320
-Atlantic,House of Representatives 07-12-2010,2,Republican,Donna Ward,646
-Burlington (part),House of Representatives 07-12-2010,2,Republican,Donna Ward,29
-Camden (part),House of Representatives 07-12-2010,2,Republican,Donna Ward,52
-Cape May,House of Representatives 07-12-2010,2,Republican,Donna Ward,573
-Cumberland,House of Representatives 07-12-2010,2,Republican,Donna Ward,287
-Gloucester (part),House of Representatives 07-12-2010,2,Republican,Donna Ward,601
-Salem,House of Representatives 07-12-2010,2,Republican,Donna Ward,263
-Burlington (part),House of Representatives 07-12-2010,3,Democratic,John Adler * (w),"6,210"
-Camden (part),House of Representatives 07-12-2010,3,Democratic,John Adler * (w),"1,624"
-Ocean (part),House of Representatives 07-12-2010,3,Democratic,John Adler * (w),"3,999"
-Burlington (part),House of Representatives 07-12-2010,3,Republican,Jon Runyan (w),"8,753"
-Camden (part),House of Representatives 07-12-2010,3,Republican,Jon Runyan (w),"1,219"
-Ocean (part),House of Representatives 07-12-2010,3,Republican,Jon Runyan (w),"7,278"
-Burlington (part),House of Representatives 07-12-2010,3,Republican,Justin Michael Murphy,"4,249"
-Camden (part),House of Representatives 07-12-2010,3,Republican,Justin Michael Murphy,563
-Ocean (part),House of Representatives 07-12-2010,3,Republican,Justin Michael Murphy,"6,492"
-Burlington (part),House of Representatives 07-12-2010,3,Democratic,Barry D. Bendar,"2,273"
-Camden (part),House of Representatives 07-12-2010,3,Democratic,Barry D. Bendar,446
-Ocean (part),House of Representatives 07-12-2010,3,Democratic,Barry D. Bendar,"1,197"
-Burlington (part),House of Representatives 07-12-2010,4,Republican,Christopher H. Smith * (w),"1,997"
-Mercer (part),House of Representatives 07-12-2010,4,Republican,Christopher H. Smith * (w),"2,619"
-Monmouth (part),House of Representatives 07-12-2010,4,Republican,Christopher H. Smith * (w),"4,927"
-Ocean (part),House of Representatives 07-12-2010,4,Republican,Christopher H. Smith * (w),"12,180"
-Burlington (part),House of Representatives 07-12-2010,4,Democratic,Howard Kleinhendler (w),"1,190"
-Mercer (part),House of Representatives 07-12-2010,4,Democratic,Howard Kleinhendler (w),"2,125"
-Monmouth (part),House of Representatives 07-12-2010,4,Democratic,Howard Kleinhendler (w),"1,477"
-Ocean (part),House of Representatives 07-12-2010,4,Democratic,Howard Kleinhendler (w),"3,184"
-Burlington (part),House of Representatives 07-12-2010,4,Republican,Alan Bateman,726
-Mercer (part),House of Representatives 07-12-2010,4,Republican,Alan Bateman,944
-Monmouth (part),House of Representatives 07-12-2010,4,Republican,Alan Bateman,"3,234"
-Ocean (part),House of Representatives 07-12-2010,4,Republican,Alan Bateman,"4,935"
-Bergen (part),House of Representatives 07-12-2010,5,Republican,Scott Garrett * (w),"10,192"
-Passaic (part),House of Representatives 07-12-2010,5,Republican,Scott Garrett * (w),"2,712"
-Sussex (part),House of Representatives 07-12-2010,5,Republican,Scott Garrett * (w),"10,053"
-Warren,House of Representatives 07-12-2010,5,Republican,Scott Garrett * (w),"6,566"
-Bergen (part),House of Representatives 07-12-2010,5,Democratic,Tod Theise (w),"3,592"
-Passaic (part),House of Representatives 07-12-2010,5,Democratic,Tod Theise (w),519
-Sussex (part),House of Representatives 07-12-2010,5,Democratic,Tod Theise (w),730
-Warren,House of Representatives 07-12-2010,5,Democratic,Tod Theise (w),870
-Bergen (part),House of Representatives 07-12-2010,5,Democratic,"Anthony N. Iannarelli, Jr.",817
-Passaic (part),House of Representatives 07-12-2010,5,Democratic,"Anthony N. Iannarelli, Jr.",70
-Sussex (part),House of Representatives 07-12-2010,5,Democratic,"Anthony N. Iannarelli, Jr.",248
-Warren,House of Representatives 07-12-2010,5,Democratic,"Anthony N. Iannarelli, Jr.",343
-Middlesex (part),House of Representatives 07-12-2010,6,Democratic,"Frank Pallone, Jr. * (w)","5,698"
-Monmouth (part),House of Representatives 07-12-2010,6,Democratic,"Frank Pallone, Jr. * (w)","4,125"
-Somerset (part),House of Representatives 07-12-2010,6,Democratic,"Frank Pallone, Jr. * (w)",347
-Union (part),House of Representatives 07-12-2010,6,Democratic,"Frank Pallone, Jr. * (w)","1,497"
-Middlesex (part),House of Representatives 07-12-2010,6,Republican,Anna C. Little (w),"1,569"
-Monmouth (part),House of Representatives 07-12-2010,6,Republican,Anna C. Little (w),"5,089"
-Somerset (part),House of Representatives 07-12-2010,6,Republican,Anna C. Little (w),91
-Union (part),House of Representatives 07-12-2010,6,Republican,Anna C. Little (w),55
-Middlesex (part),House of Representatives 07-12-2010,6,Republican,Diane Gooch,"2,202"
-Monmouth (part),House of Representatives 07-12-2010,6,Republican,Diane Gooch,"4,324"
-Somerset (part),House of Representatives 07-12-2010,6,Republican,Diane Gooch,89
-Union (part),House of Representatives 07-12-2010,6,Republican,Diane Gooch,106
-Hunterdon (part),House of Representatives 07-12-2010,7,Republican,Leonard Lance * (w),"5,959"
-Middlesex (part),House of Representatives 07-12-2010,7,Republican,Leonard Lance * (w),"1,068"
-Somerset (part),House of Representatives 07-12-2010,7,Republican,Leonard Lance * (w),"4,968"
-Union (part),House of Representatives 07-12-2010,7,Republican,Leonard Lance * (w),"5,205"
-Hunterdon (part),House of Representatives 07-12-2010,7,Democratic,Ed Potosnak (w),992
-Middlesex (part),House of Representatives 07-12-2010,7,Democratic,Ed Potosnak (w),"1,498"
-Somerset (part),House of Representatives 07-12-2010,7,Democratic,Ed Potosnak (w),"1,866"
-Union (part),House of Representatives 07-12-2010,7,Democratic,Ed Potosnak (w),"3,820"
-Hunterdon (part),House of Representatives 07-12-2010,7,Republican,David Larsen,"3,618"
-Middlesex (part),House of Representatives 07-12-2010,7,Republican,David Larsen,692
-Somerset (part),House of Representatives 07-12-2010,7,Republican,David Larsen,"2,731"
-Union (part),House of Representatives 07-12-2010,7,Republican,David Larsen,"2,434"
-Hunterdon (part),House of Representatives 07-12-2010,7,Republican,"Alonzo ""Lon"" Hosford","1,050"
-Middlesex (part),House of Representatives 07-12-2010,7,Republican,"Alonzo ""Lon"" Hosford",105
-Somerset (part),House of Representatives 07-12-2010,7,Republican,"Alonzo ""Lon"" Hosford",829
-Union (part),House of Representatives 07-12-2010,7,Republican,"Alonzo ""Lon"" Hosford",550
-Hunterdon (part),House of Representatives 07-12-2010,7,Republican,Bruce E. Baker,370
-Middlesex (part),House of Representatives 07-12-2010,7,Republican,Bruce E. Baker,73
-Somerset (part),House of Representatives 07-12-2010,7,Republican,Bruce E. Baker,255
-Union (part),House of Representatives 07-12-2010,7,Republican,Bruce E. Baker,750
-Essex (part),House of Representatives 07-12-2010,8,Democratic,"Bill Pascrell, Jr. * (w)","6,282"
-Passaic (part),House of Representatives 07-12-2010,8,Democratic,"Bill Pascrell, Jr. * (w)","6,931"
-Essex (part),House of Representatives 07-12-2010,8,Republican,Roland Straten (w),"2,419"
-Passaic (part),House of Representatives 07-12-2010,8,Republican,Roland Straten (w),"3,320"
-Essex (part),House of Representatives 07-12-2010,8,Republican,Blase Billack,455
-Passaic (part),House of Representatives 07-12-2010,8,Republican,Blase Billack,878
-Bergen (part),House of Representatives 07-12-2010,9,Democratic,Steven R. Rothman * (w),"10,322"
-Hudson (part),House of Representatives 07-12-2010,9,Democratic,Steven R. Rothman * (w),"3,807"
-Passaic (part),House of Representatives 07-12-2010,9,Democratic,Steven R. Rothman * (w),844
-Bergen (part),House of Representatives 07-12-2010,9,Republican,Michael A. Agosta (w),"5,016"
-Hudson (part),House of Representatives 07-12-2010,9,Republican,Michael A. Agosta (w),314
-Passaic (part),House of Representatives 07-12-2010,9,Republican,Michael A. Agosta (w),500
-Bergen (part),House of Representatives 07-12-2010,9,Republican,John Aslanian,"2,809"
-Hudson (part),House of Representatives 07-12-2010,9,Republican,John Aslanian,390
-Passaic (part),House of Representatives 07-12-2010,9,Republican,John Aslanian,430
-Bergen (part),House of Representatives 07-12-2010,9,Republican,Sergey Shevchuk,396
-Hudson (part),House of Representatives 07-12-2010,9,Republican,Sergey Shevchuk,149
-Passaic (part),House of Representatives 07-12-2010,9,Republican,Sergey Shevchuk,22
-Essex (part),House of Representatives 07-12-2010,10,Democratic,Donald M. Payne * (w),"11,652"
-Hudson (part),House of Representatives 07-12-2010,10,Democratic,Donald M. Payne * (w),"1,268"
-Union (part),House of Representatives 07-12-2010,10,Democratic,Donald M. Payne * (w),"9,235"
-Essex (part),House of Representatives 07-12-2010,10,Republican,Michael J. Alonso (w),392
-Hudson (part),House of Representatives 07-12-2010,10,Republican,Michael J. Alonso (w),151
-Union (part),House of Representatives 07-12-2010,10,Republican,Michael J. Alonso (w),518
-Essex (part),House of Representatives 07-12-2010,11,Republican,Rodney P. Frelinghuysen * (w),"2,124"
-Morris,House of Representatives 07-12-2010,11,Republican,Rodney P. Frelinghuysen * (w),"26,230"
-Passaic (part),House of Representatives 07-12-2010,11,Republican,Rodney P. Frelinghuysen * (w),141
-Somerset (part),House of Representatives 07-12-2010,11,Republican,Rodney P. Frelinghuysen * (w),"2,119"
-Sussex (part),House of Representatives 07-12-2010,11,Republican,Rodney P. Frelinghuysen * (w),"2,017"
-Essex (part),House of Representatives 07-12-2010,11,Democratic,Douglas Herbert (w),689
-Morris,House of Representatives 07-12-2010,11,Democratic,Douglas Herbert (w),"4,630"
-Passaic (part),House of Representatives 07-12-2010,11,Democratic,Douglas Herbert (w),58
-Somerset (part),House of Representatives 07-12-2010,11,Democratic,Douglas Herbert (w),556
-Sussex (part),House of Representatives 07-12-2010,11,Democratic,Douglas Herbert (w),259
-Essex (part),House of Representatives 07-12-2010,11,Republican,Richard T. Luzzi,470
-Morris,House of Representatives 07-12-2010,11,Republican,Richard T. Luzzi,"8,010"
-Passaic (part),House of Representatives 07-12-2010,11,Republican,Richard T. Luzzi,26
-Somerset (part),House of Representatives 07-12-2010,11,Republican,Richard T. Luzzi,647
-Sussex (part),House of Representatives 07-12-2010,11,Republican,Richard T. Luzzi,907
-Essex (part),House of Representatives 07-12-2010,11,Democratic,"James D. Kelly, Jr.",183
-Morris,House of Representatives 07-12-2010,11,Democratic,"James D. Kelly, Jr.","1,931"
-Passaic (part),House of Representatives 07-12-2010,11,Democratic,"James D. Kelly, Jr.",21
-Somerset (part),House of Representatives 07-12-2010,11,Democratic,"James D. Kelly, Jr.",155
-Sussex (part),House of Representatives 07-12-2010,11,Democratic,"James D. Kelly, Jr.",176
-Hunterdon (part),House of Representatives 07-12-2010,12,Democratic,Rush Holt * (w),668
-Mercer (part),House of Representatives 07-12-2010,12,Democratic,Rush Holt * (w),"6,256"
-Middlesex (part),House of Representatives 07-12-2010,12,Democratic,Rush Holt * (w),"4,730"
-Monmouth (part),House of Representatives 07-12-2010,12,Democratic,Rush Holt * (w),"1,917"
-Somerset (part),House of Representatives 07-12-2010,12,Democratic,Rush Holt * (w),909
-Hunterdon (part),House of Representatives 07-12-2010,12,Republican,Scott Sipprelle (w),"1,132"
-Mercer (part),House of Representatives 07-12-2010,12,Republican,Scott Sipprelle (w),"1,868"
-Middlesex (part),House of Representatives 07-12-2010,12,Republican,Scott Sipprelle (w),"2,956"
-Monmouth (part),House of Representatives 07-12-2010,12,Republican,Scott Sipprelle (w),"2,539"
-Somerset (part),House of Representatives 07-12-2010,12,Republican,Scott Sipprelle (w),432
-Hunterdon (part),House of Representatives 07-12-2010,12,Republican,David Corsi,"1,248"
-Mercer (part),House of Representatives 07-12-2010,12,Republican,David Corsi,863
-Middlesex (part),House of Representatives 07-12-2010,12,Republican,David Corsi,"1,779"
-Monmouth (part),House of Representatives 07-12-2010,12,Republican,David Corsi,"3,302"
-Somerset (part),House of Representatives 07-12-2010,12,Republican,David Corsi,377
-Essex (part),House of Representatives 07-12-2010,13,Democratic,Albio Sires * (w),"1,352"
-Hudson (part),House of Representatives 07-12-2010,13,Democratic,Albio Sires * (w),"11,422"
-Middlesex (part),House of Representatives 07-12-2010,13,Democratic,Albio Sires * (w),"1,251"
-Union (part),House of Representatives 07-12-2010,13,Democratic,Albio Sires * (w),"1,997"
-Essex (part),House of Representatives 07-12-2010,13,Republican,Henrietta Dwyer (w),172
-Hudson (part),House of Representatives 07-12-2010,13,Republican,Henrietta Dwyer (w),"1,825"
-Middlesex (part),House of Representatives 07-12-2010,13,Republican,Henrietta Dwyer (w),317
-Union (part),House of Representatives 07-12-2010,13,Republican,Henrietta Dwyer (w),122
-Essex (part),House of Representatives 07-12-2010,13,Democratic,"Jeff ""Jefe"" Boss",128
-Hudson (part),House of Representatives 07-12-2010,13,Democratic,"Jeff ""Jefe"" Boss","2,071"
-Middlesex (part),House of Representatives 07-12-2010,13,Democratic,"Jeff ""Jefe"" Boss",89
-Union (part),House of Representatives 07-12-2010,13,Democratic,"Jeff ""Jefe"" Boss",121
-Camden (part),State Senate,5,Democratic,Donald W. Norcross (w),"3,550"
-Gloucester (part),State Senate,5,Democratic,Donald W. Norcross (w),876
-Camden (part),State Senate,5,Republican,Harry E. Trout (w),"1,274"
-Gloucester (part),State Senate,5,Republican,Harry E. Trout (w),655
-Mercer (part),State Senate,14,Republican,Thomas Goodwin (w),"2,585"
-Middlesex (part),State Senate,14,Republican,Thomas Goodwin (w),"2,142"
-Mercer (part),State Senate,14,Democratic,Linda R. Greenstein (w),"1,834"
-Middlesex (part),State Senate,14,Democratic,Linda R. Greenstein (w),"2,883"
-Camden (part),General Assembly,5,Democratic,"Gilbert ""Whip"" Wilson (w)","3,744"
+Camden (part),General Assembly,5,Democratic,"Gilbert ""Whip"" Wilson (w)",3744
 Gloucester (part),General Assembly,5,Democratic,"Gilbert ""Whip"" Wilson (w)",889
-Camden (part),General Assembly,5,Republican,Barbara A. Gallagher (w),"1,282"
+Total,General Assembly,5,Democratic,"Gilbert ""Whip"" Wilson (w)",4633
+Camden (part),General Assembly,5,Republican,Barbara A. Gallagher (w),1282
 Gloucester (part),General Assembly,5,Republican,Barbara A. Gallagher (w),670
+Total,General Assembly,5,Republican,Barbara A. Gallagher (w),1952
+Camden (part),State Senate,5,Democratic,Donald W. Norcross (w),3550
+Gloucester (part),State Senate,5,Democratic,Donald W. Norcross (w),876
+Total,State Senate,5,Democratic,Donald W. Norcross (w),4426
+Camden (part),State Senate,5,Republican,Harry E. Trout (w),1274
+Gloucester (part),State Senate,5,Republican,Harry E. Trout (w),655
+Total,State Senate,5,Republican,Harry E. Trout (w),1929
+Mercer (part),State Senate,14,Republican,Thomas Goodwin (w),2585
+Middlesex (part),State Senate,14,Republican,Thomas Goodwin (w),2142
+Total,State Senate,14,Republican,Thomas Goodwin (w),4727
+Mercer (part),State Senate,14,Democratic,Linda R. Greenstein (w),1834
+Middlesex (part),State Senate,14,Democratic,Linda R. Greenstein (w),2883
+Total,State Senate,14,Democratic,Linda R. Greenstein (w),4717
+Atlantic,Registered Voters,,,,"166,669"
+Bergen,Registered Voters,,,,"531,868"
+Burlington,Registered Voters,,,,"283,189"
+Camden,Registered Voters,,,,"331,394"
+Cape May,Registered Voters,,,,"67,931"
+Cumberland,Registered Voters,,,,"87,435"
+Essex,Registered Voters,,,,"454,361"
+Gloucester,Registered Voters,,,,"190,110"
+Hudson,Registered Voters,,,,"310,430"
+Hunterdon,Registered Voters,,,,"86,863"
+Mercer,Registered Voters,,,,"216,753"
+Middlesex,Registered Voters,,,,"451,100"
+Monmouth,Registered Voters,,,,"414,988"
+Morris,Registered Voters,,,,"317,242"
+Ocean,Registered Voters,,,,"374,013"
+Passaic,Registered Voters,,,,"265,332"
+Salem,Registered Voters,,,,"44,149"
+Somerset,Registered Voters,,,,"198,013"
+Sussex,Registered Voters,,,,"96,867"
+Union,Registered Voters,,,,"294,806"
+Warren,Registered Voters,,,,"66,785"
+Total,Registered Voters,,,,"5,250,298"
+Atlantic,Ballots Cast,,Democratic,,"4,265"
+Bergen,Ballots Cast,,Democratic,,"26,889"
+Burlington,Ballots Cast,,Democratic,,"11,231"
+Camden,Ballots Cast,,Democratic,,"13,005"
+Cape May,Ballots Cast,,Democratic,,"1,520"
+Cumberland,Ballots Cast,,Democratic,,"1,711"
+Essex,Ballots Cast,,Democratic,,"23,008"
+Gloucester,Ballots Cast,,Democratic,,"7,772"
+Hudson,Ballots Cast,,Democratic,,"21,415"
+Hunterdon,Ballots Cast,,Democratic,,"1,871"
+Mercer,Ballots Cast,,Democratic,,"9,534"
+Middlesex,Ballots Cast,,Democratic,,"16,228"
+Monmouth,Ballots Cast,,Democratic,,"8,749"
+Morris,Ballots Cast,,Democratic,,"7,434"
+Ocean,Ballots Cast,,Democratic,,"9,115"
+Passaic,Ballots Cast,,Democratic,,"9,589"
+Salem,Ballots Cast,,Democratic,,"2,105"
+Somerset,Ballots Cast,,Democratic,,"4,221"
+Sussex,Ballots Cast,,Democratic,,"1,590"
+Union,Ballots Cast,,Democratic,,"29,074"
+Warren,Ballots Cast,,Democratic,,"1,480"
+Total,Ballots Cast,,Democratic,,"211,806"
+Atlantic,Ballots Cast,,Republican,,"7,950"
+Bergen,Ballots Cast,,Republican,,"20,032"
+Burlington,Ballots Cast,,Republican,,"17,397"
+Camden,Ballots Cast,,Republican,,"7,605"
+Cape May,Ballots Cast,,Republican,,"10,751"
+Cumberland,Ballots Cast,,Republican,,"2,980"
+Essex,Ballots Cast,,Republican,,"6,444"
+Gloucester,Ballots Cast,,Republican,,"6,323"
+Hudson,Ballots Cast,,Republican,,"4,059"
+Hunterdon,Ballots Cast,,Republican,,"14,312"
+Mercer,Ballots Cast,,Republican,,"6,498"
+Middlesex,Ballots Cast,,Republican,,"11,317"
+Monmouth,Ballots Cast,,Republican,,"24,168"
+Morris,Ballots Cast,,Republican,,"36,566"
+Ocean,Ballots Cast,,Republican,,"32,888"
+Passaic,Ballots Cast,,Republican,,"9,486"
+Salem,Ballots Cast,,Republican,,"2,252"
+Somerset,Ballots Cast,,Republican,,"13,056"
+Sussex,Ballots Cast,,Republican,,"14,247"
+Union,Ballots Cast,,Republican,,"10,779"
+Warren,Ballots Cast,,Republican,,"7,597"
+Total,Ballots Cast,,Republican,,"266,707"
+Atlantic,Ballots Cast,,,,"12,215"
+Bergen,Ballots Cast,,,,"46,921"
+Burlington,Ballots Cast,,,,"28,628"
+Camden,Ballots Cast,,,,"20,610"
+Cape May,Ballots Cast,,,,"12,271"
+Cumberland,Ballots Cast,,,,"4,691"
+Essex,Ballots Cast,,,,"29,452"
+Gloucester,Ballots Cast,,,,"14,095"
+Hudson,Ballots Cast,,,,"25,474"
+Hunterdon,Ballots Cast,,,,"16,183"
+Mercer,Ballots Cast,,,,"16,032"
+Middlesex,Ballots Cast,,,,"27,545"
+Monmouth,Ballots Cast,,,,"32,917"
+Morris,Ballots Cast,,,,"44,000"
+Ocean,Ballots Cast,,,,"42,003"
+Passaic,Ballots Cast,,,,"19,075"
+Salem,Ballots Cast,,,,"4,357"
+Somerset,Ballots Cast,,,,"17,277"
+Sussex,Ballots Cast,,,,"15,837"
+Union,Ballots Cast,,,,"39,853"
+Warren,Ballots Cast,,,,"9,077"
+Total,Ballots Cast,,,,"478,513"
+Atlantic,Ballots Rejected,,,,9
+Bergen,Ballots Rejected,,,,214
+Burlington,Ballots Rejected,,,,101
+Camden,Ballots Rejected,,,,63
+Cape May,Ballots Rejected,,,,42
+Cumberland,Ballots Rejected,,,,9
+Essex,Ballots Rejected,,,,10
+Gloucester,Ballots Rejected,,,,29
+Hudson,Ballots Rejected,,,,86
+Hunterdon,Ballots Rejected,,,,18
+Mercer,Ballots Rejected,,,,86
+Middlesex,Ballots Rejected,,,,102
+Monmouth,Ballots Rejected,,,,36
+Morris,Ballots Rejected,,,,87
+Ocean,Ballots Rejected,,,,104
+Passaic,Ballots Rejected,,,,51
+Salem,Ballots Rejected,,,,26
+Somerset,Ballots Rejected,,,,21
+Sussex,Ballots Rejected,,,,12
+Union,Ballots Rejected,,,,123
+Warren,Ballots Rejected,,,,13
+Total,Ballots Rejected,,,,"1,242"
+Burlington (part),U.S. House,1,Democratic,Robert E. Andrews * (w),824
+Camden (part),U.S. House,1,Democratic,Robert E. Andrews * (w),"8,806"
+Gloucester (part),U.S. House,1,Democratic,Robert E. Andrews * (w),"5,065"
+Total,U.S. House,1,Democratic,Robert E. Andrews * (w),"14,695"
+Burlington (part),U.S. House,1,Republican,Dale Glading (w),358
+Camden (part),U.S. House,1,Republican,Dale Glading (w),"3,336"
+Gloucester (part),U.S. House,1,Republican,Dale Glading (w),"1,621"
+Total,U.S. House,1,Republican,Dale Glading (w),"5,315"
+Burlington (part),U.S. House,1,Republican,Loran M. Oglesby,203
+Camden (part),U.S. House,1,Republican,Loran M. Oglesby,"1,126"
+Gloucester (part),U.S. House,1,Republican,Loran M. Oglesby,"1,389"
+Total,U.S. House,1,Republican,Loran M. Oglesby,"2,718"
+Burlington (part),U.S. House,1,Democratic,John Caramanna,137
+Camden (part),U.S. House,1,Democratic,John Caramanna,"1,212"
+Gloucester (part),U.S. House,1,Democratic,John Caramanna,913
+Total,U.S. House,1,Democratic,John Caramanna,"2,262"
+Burlington (part),U.S. House,1,Republican,Fernando Powers,44
+Camden (part),U.S. House,1,Republican,Fernando Powers,730
+Gloucester (part),U.S. House,1,Republican,Fernando Powers,627
+Total,U.S. House,1,Republican,Fernando Powers,"1,401"
+Burlington (part),U.S. House,1,Republican,Lee Lucas,12
+Camden (part),U.S. House,1,Republican,Lee Lucas,105
+Gloucester (part),U.S. House,1,Republican,Lee Lucas,147
+Total,U.S. House,1,Republican,Lee Lucas,264
+Atlantic,U.S. House,2,Republican,Frank A. LoBiondo * (w),"6,080"
+Burlington (part),U.S. House,2,Republican,Frank A. LoBiondo * (w),154
+Camden (part),U.S. House,2,Republican,Frank A. LoBiondo * (w),124
+Cape May,U.S. House,2,Republican,Frank A. LoBiondo * (w),"7,707"
+Cumberland,U.S. House,2,Republican,Frank A. LoBiondo * (w),"2,330"
+Gloucester (part),U.S. House,2,Republican,Frank A. LoBiondo * (w),"1,307"
+Salem,U.S. House,2,Republican,Frank A. LoBiondo * (w),"1,635"
+Total,U.S. House,2,Republican,Frank A. LoBiondo * (w),"19,337"
+Atlantic,U.S. House,2,Democratic,Gary Stein (w),"1,605"
+Burlington (part),U.S. House,2,Democratic,Gary Stein (w),23
+Camden (part),U.S. House,2,Democratic,Gary Stein (w),66
+Cape May,U.S. House,2,Democratic,Gary Stein (w),799
+Cumberland,U.S. House,2,Democratic,Gary Stein (w),744
+Gloucester (part),U.S. House,2,Democratic,Gary Stein (w),670
+Salem,U.S. House,2,Democratic,Gary Stein (w),"1,534"
+Total,U.S. House,2,Democratic,Gary Stein (w),"5,441"
+Atlantic,U.S. House,2,Republican,Linda Biamonte,989
+Burlington (part),U.S. House,2,Republican,Linda Biamonte,27
+Camden (part),U.S. House,2,Republican,Linda Biamonte,16
+Cape May,U.S. House,2,Republican,Linda Biamonte,"1,178"
+Cumberland,U.S. House,2,Republican,Linda Biamonte,309
+Gloucester (part),U.S. House,2,Republican,Linda Biamonte,145
+Salem,U.S. House,2,Republican,Linda Biamonte,320
+Total,U.S. House,2,Republican,Linda Biamonte,"2,984"
+Atlantic,U.S. House,2,Republican,Donna Ward,646
+Burlington (part),U.S. House,2,Republican,Donna Ward,29
+Camden (part),U.S. House,2,Republican,Donna Ward,52
+Cape May,U.S. House,2,Republican,Donna Ward,573
+Cumberland,U.S. House,2,Republican,Donna Ward,287
+Gloucester (part),U.S. House,2,Republican,Donna Ward,601
+Salem,U.S. House,2,Republican,Donna Ward,263
+Total,U.S. House,2,Republican,Donna Ward,"2,451"
+Burlington (part),U.S. House,3,Democratic,John Adler * (w),6210
+Camden (part),U.S. House,3,Democratic,John Adler * (w),1624
+Ocean (part),U.S. House,3,Democratic,John Adler * (w),3999
+Total,U.S. House,3,Democratic,John Adler * (w),11833
+Burlington (part),U.S. House,3,Republican,Jon Runyan (w),8753
+Camden (part),U.S. House,3,Republican,Jon Runyan (w),1219
+Ocean (part),U.S. House,3,Republican,Jon Runyan (w),7278
+Total,U.S. House,3,Republican,Jon Runyan (w),17250
+Burlington (part),U.S. House,3,Republican,Justin Michael Murphy,4249
+Camden (part),U.S. House,3,Republican,Justin Michael Murphy,563
+Ocean (part),U.S. House,3,Republican,Justin Michael Murphy,6492
+Total,U.S. House,3,Republican,Justin Michael Murphy,11304
+Burlington (part),U.S. House,3,Democratic,Barry D. Bendar,2273
+Camden (part),U.S. House,3,Democratic,Barry D. Bendar,446
+Ocean (part),U.S. House,3,Democratic,Barry D. Bendar,1197
+Total,U.S. House,3,Democratic,Barry D. Bendar,3916
+Burlington (part),U.S. House,4,Republican,Christopher H. Smith * (w),"1,997"
+Mercer (part),U.S. House,4,Republican,Christopher H. Smith * (w),"2,619"
+Monmouth (part),U.S. House,4,Republican,Christopher H. Smith * (w),"4,927"
+Ocean (part),U.S. House,4,Republican,Christopher H. Smith * (w),"12,180"
+Total,U.S. House,4,Republican,Christopher H. Smith * (w),"21,723"
+Burlington (part),U.S. House,4,Democratic,Howard Kleinhendler (w),"1,190"
+Mercer (part),U.S. House,4,Democratic,Howard Kleinhendler (w),"2,125"
+Monmouth (part),U.S. House,4,Democratic,Howard Kleinhendler (w),"1,477"
+Ocean (part),U.S. House,4,Democratic,Howard Kleinhendler (w),"3,184"
+Total,U.S. House,4,Democratic,Howard Kleinhendler (w),"7,976"
+Burlington (part),U.S. House,4,Republican,Alan Bateman,726
+Mercer (part),U.S. House,4,Republican,Alan Bateman,944
+Monmouth (part),U.S. House,4,Republican,Alan Bateman,"3,234"
+Ocean (part),U.S. House,4,Republican,Alan Bateman,"4,935"
+Total,U.S. House,4,Republican,Alan Bateman,"9,839"
+Bergen (part),U.S. House,5,Republican,Scott Garrett * (w),"10,192"
+Passaic (part),U.S. House,5,Republican,Scott Garrett * (w),"2,712"
+Sussex (part),U.S. House,5,Republican,Scott Garrett * (w),"10,053"
+Warren,U.S. House,5,Republican,Scott Garrett * (w),"6,566"
+Total,U.S. House,5,Republican,Scott Garrett * (w),"29,523"
+Bergen (part),U.S. House,5,Democratic,Tod Theise (w),"3,592"
+Passaic (part),U.S. House,5,Democratic,Tod Theise (w),519
+Sussex (part),U.S. House,5,Democratic,Tod Theise (w),730
+Warren,U.S. House,5,Democratic,Tod Theise (w),870
+Total,U.S. House,5,Democratic,Tod Theise (w),"5,711"
+Bergen (part),U.S. House,5,Democratic,"Anthony N. lannarelli, Jr.",817
+Passaic (part),U.S. House,5,Democratic,"Anthony N. lannarelli, Jr.",70
+Sussex (part),U.S. House,5,Democratic,"Anthony N. lannarelli, Jr.",248
+Warren,U.S. House,5,Democratic,"Anthony N. lannarelli, Jr.",343
+Total,U.S. House,5,Democratic,"Anthony N. lannarelli, Jr.","1,478"
+Middlesex (part),U.S. House,6,Democratic,"Frank Pallone, Jr. * (w)","5,698"
+Monmouth (part),U.S. House,6,Democratic,"Frank Pallone, Jr. * (w)","4,125"
+Somerset (part),U.S. House,6,Democratic,"Frank Pallone, Jr. * (w)",347
+Union (part),U.S. House,6,Democratic,"Frank Pallone, Jr. * (w)","1,497"
+Total,U.S. House,6,Democratic,"Frank Pallone, Jr. * (w)","11,667"
+Middlesex (part),U.S. House,6,Republican,Anna C. Little (w),"1,569"
+Monmouth (part),U.S. House,6,Republican,Anna C. Little (w),"5,089"
+Somerset (part),U.S. House,6,Republican,Anna C. Little (w),91
+Union (part),U.S. House,6,Republican,Anna C. Little (w),55
+Total,U.S. House,6,Republican,Anna C. Little (w),"6,804"
+Middlesex (part),U.S. House,6,Republican,Diane Gooch,"2,202"
+Monmouth (part),U.S. House,6,Republican,Diane Gooch,"4,324"
+Somerset (part),U.S. House,6,Republican,Diane Gooch,89
+Union (part),U.S. House,6,Republican,Diane Gooch,106
+Total,U.S. House,6,Republican,Diane Gooch,"6,721"
+Hunterdon (part),U.S. House,7,Republican,Leonard Lance * (w),"5,959"
+Middlesex (part),U.S. House,7,Republican,Leonard Lance * (w),"1,068"
+Somerset (part),U.S. House,7,Republican,Leonard Lance * (w),"4,968"
+Union (part),U.S. House,7,Republican,Leonard Lance * (w),"5,205"
+Total,U.S. House,7,Republican,Leonard Lance * (w),"17,200"
+Hunterdon (part),U.S. House,7,Democratic,Ed Potosnak (w),992
+Middlesex (part),U.S. House,7,Democratic,Ed Potosnak (w),"1,498"
+Somerset (part),U.S. House,7,Democratic,Ed Potosnak (w),"1,866"
+Union (part),U.S. House,7,Democratic,Ed Potosnak (w),"3,820"
+Total,U.S. House,7,Democratic,Ed Potosnak (w),"8,176"
+Hunterdon (part),U.S. House,7,Republican,David Larsen,"3,618"
+Middlesex (part),U.S. House,7,Republican,David Larsen,692
+Somerset (part),U.S. House,7,Republican,David Larsen,"2,731"
+Union (part),U.S. House,7,Republican,David Larsen,"2,434"
+Total,U.S. House,7,Republican,David Larsen,"9,475"
+Hunterdon (part),U.S. House,7,Republican,"Alonzo ""Lon"" Hosford","1,050"
+Middlesex (part),U.S. House,7,Republican,"Alonzo ""Lon"" Hosford",105
+Somerset (part),U.S. House,7,Republican,"Alonzo ""Lon"" Hosford",829
+Union (part),U.S. House,7,Republican,"Alonzo ""Lon"" Hosford",550
+Total,U.S. House,7,Republican,"Alonzo ""Lon"" Hosford","2,534"
+Hunterdon (part),U.S. House,7,Republican,Bruce E. Baker,370
+Middlesex (part),U.S. House,7,Republican,Bruce E. Baker,73
+Somerset (part),U.S. House,7,Republican,Bruce E. Baker,255
+Union (part),U.S. House,7,Republican,Bruce E. Baker,750
+Total,U.S. House,7,Republican,Bruce E. Baker,"1,448"
+Essex (part),U.S. House,8,Democratic,"Bill Pascrell, Jr. * (w)","6,282"
+Passaic (part),U.S. House,8,Democratic,"Bill Pascrell, Jr. * (w)","6,931"
+Total,U.S. House,8,Democratic,"Bill Pascrell, Jr. * (w)","13,213"
+Essex (part),U.S. House,8,Republican,Roland Straten (w),"2,419"
+Passaic (part),U.S. House,8,Republican,Roland Straten (w),"3,320"
+Total,U.S. House,8,Republican,Roland Straten (w),"5,739"
+Essex (part),U.S. House,8,Republican,Blase Billack,455
+Passaic (part),U.S. House,8,Republican,Blase Billack,878
+Total,U.S. House,8,Republican,Blase Billack,"1,333"
+Bergen (part),U.S. House,9,Democratic,Steven R. Rothman * (w),"10,322"
+Hudson (part),U.S. House,9,Democratic,Steven R. Rothman * (w),"3,807"
+Passaic (part),U.S. House,9,Democratic,Steven R. Rothman * (w),844
+Total,U.S. House,9,Democratic,Steven R. Rothman * (w),"14,973"
+Bergen (part),U.S. House,9,Republican,Michael A. Agosta (w),"5,016"
+Hudson (part),U.S. House,9,Republican,Michael A. Agosta (w),314
+Passaic (part),U.S. House,9,Republican,Michael A. Agosta (w),500
+Total,U.S. House,9,Republican,Michael A. Agosta (w),"5,830"
+Bergen (part),U.S. House,9,Republican,John Aslanian,"2,809"
+Hudson (part),U.S. House,9,Republican,John Aslanian,390
+Passaic (part),U.S. House,9,Republican,John Aslanian,430
+Total,U.S. House,9,Republican,John Aslanian,"3,629"
+Bergen (part),U.S. House,9,Republican,Sergey Shevchuk,396
+Hudson (part),U.S. House,9,Republican,Sergey Shevchuk,149
+Passaic (part),U.S. House,9,Republican,Sergey Shevchuk,22
+Total,U.S. House,9,Republican,Sergey Shevchuk,567
+Essex (part),U.S. House,10,Democratic,Donald M. Payne * (w),"11,652"
+Hudson (part),U.S. House,10,Democratic,Donald M. Payne * (w),"1,268"
+Union (part),U.S. House,10,Democratic,Donald M. Payne * (w),"9,235"
+Total,U.S. House,10,Democratic,Donald M. Payne * (w),"22,155"
+Essex (part),U.S. House,10,Republican,Michael J. Alonso (w),392
+Hudson (part),U.S. House,10,Republican,Michael J. Alonso (w),151
+Union (part),U.S. House,10,Republican,Michael J. Alonso (w),518
+Total,U.S. House,10,Republican,Michael J. Alonso (w),"1,061"
+Essex (part),U.S. House,11,Republican,Rodney P. Frelinghuysen * (w),"2,124"
+Morris,U.S. House,11,Republican,Rodney P. Frelinghuysen * (w),"26,230"
+Passaic (part),U.S. House,11,Republican,Rodney P. Frelinghuysen * (w),141
+Somerset (part),U.S. House,11,Republican,Rodney P. Frelinghuysen * (w),"2,119"
+Sussex (part),U.S. House,11,Republican,Rodney P. Frelinghuysen * (w),"2,017"
+Total,U.S. House,11,Republican,Rodney P. Frelinghuysen * (w),"32,631"
+Essex (part),U.S. House,11,Democratic,Douglas Herbert (w),689
+Morris,U.S. House,11,Democratic,Douglas Herbert (w),"4,630"
+Passaic (part),U.S. House,11,Democratic,Douglas Herbert (w),58
+Somerset (part),U.S. House,11,Democratic,Douglas Herbert (w),556
+Sussex (part),U.S. House,11,Democratic,Douglas Herbert (w),259
+Total,U.S. House,11,Democratic,Douglas Herbert (w),"6,192"
+Essex (part),U.S. House,11,Republican,Richard T. Luzzi,470
+Morris,U.S. House,11,Republican,Richard T. Luzzi,"8,010"
+Passaic (part),U.S. House,11,Republican,Richard T. Luzzi,26
+Somerset (part),U.S. House,11,Republican,Richard T. Luzzi,647
+Sussex (part),U.S. House,11,Republican,Richard T. Luzzi,907
+Total,U.S. House,11,Republican,Richard T. Luzzi,"10,060"
+Essex (part),U.S. House,11,Democratic,"James D. Kelly, Jr.",183
+Morris,U.S. House,11,Democratic,"James D. Kelly, Jr.","1,931"
+Passaic (part),U.S. House,11,Democratic,"James D. Kelly, Jr.",21
+Somerset (part),U.S. House,11,Democratic,"James D. Kelly, Jr.",155
+Sussex (part),U.S. House,11,Democratic,"James D. Kelly, Jr.",176
+Total,U.S. House,11,Democratic,"James D. Kelly, Jr.","2,466"
+Hunterdon (part),U.S. House,12,Democratic,Rush Holt * (w),668
+Mercer (part),U.S. House,12,Democratic,Rush Holt * (w),"6,256"
+Middlesex (part),U.S. House,12,Democratic,Rush Holt * (w),"4,730"
+Monmouth (part),U.S. House,12,Democratic,Rush Holt * (w),"1,917"
+Somerset (part),U.S. House,12,Democratic,Rush Holt * (w),909
+Total,U.S. House,12,Democratic,Rush Holt * (w),"14,480"
+Hunterdon (part),U.S. House,12,Republican,Scott Sipprelle (w),"1,132"
+Mercer (part),U.S. House,12,Republican,Scott Sipprelle (w),"1,868"
+Middlesex (part),U.S. House,12,Republican,Scott Sipprelle (w),"2,956"
+Monmouth (part),U.S. House,12,Republican,Scott Sipprelle (w),"2,539"
+Somerset (part),U.S. House,12,Republican,Scott Sipprelle (w),432
+Total,U.S. House,12,Republican,Scott Sipprelle (w),"8,927"
+Hunterdon (part),U.S. House,12,Republican,David Corsi,"1,248"
+Mercer (part),U.S. House,12,Republican,David Corsi,863
+Middlesex (part),U.S. House,12,Republican,David Corsi,"1,779"
+Monmouth (part),U.S. House,12,Republican,David Corsi,"3,302"
+Somerset (part),U.S. House,12,Republican,David Corsi,377
+Total,U.S. House,12,Republican,David Corsi,"7,569"
+Essex (part),U.S. House,13,Democratic,Albio Sires * (w),"1,352"
+Hudson (part),U.S. House,13,Democratic,Albio Sires * (w),"11,422"
+Middlesex (part),U.S. House,13,Democratic,Albio Sires * (w),"1,251"
+Union (part),U.S. House,13,Democratic,Albio Sires * (w),"1,997"
+Total,U.S. House,13,Democratic,Albio Sires * (w),"16,022"
+Essex (part),U.S. House,13,Republican,Henrietta Dwyer (w),172
+Hudson (part),U.S. House,13,Republican,Henrietta Dwyer (w),"1,825"
+Middlesex (part),U.S. House,13,Republican,Henrietta Dwyer (w),317
+Union (part),U.S. House,13,Republican,Henrietta Dwyer (w),122
+Total,U.S. House,13,Republican,Henrietta Dwyer (w),"2,436"
+Essex (part),U.S. House,13,Democratic,"Jeff ""Jefe"" Boss",128
+Hudson (part),U.S. House,13,Democratic,"Jeff ""Jefe"" Boss","2,071"
+Middlesex (part),U.S. House,13,Democratic,"Jeff ""Jefe"" Boss",89
+Union (part),U.S. House,13,Democratic,"Jeff ""Jefe"" Boss",121
+Total,U.S. House,13,Democratic,"Jeff ""Jefe"" Boss","2,409"
