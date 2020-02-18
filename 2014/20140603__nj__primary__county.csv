@@ -1,0 +1,467 @@
+county,office,district,party,candidate,votes
+Burlington,U.S. House (special),1,Democratic,DONALD W. NORCROSS,540
+Camden,U.S. House (special),1,Democratic,DONALD W. NORCROSS,12360
+Gloucester,U.S. House (special),1,Democratic,DONALD W. NORCROSS,5021
+Total,U.S. House (special),1,Democratic,DONALD W. NORCROSS,17921
+Burlington,U.S. House (special),1,Democratic,FRANK C. BROOMELL JR.,125
+Camden,U.S. House (special),1,Democratic,FRANK C. BROOMELL JR.,2309
+Gloucester,U.S. House (special),1,Democratic,FRANK C. BROOMELL JR.,1485
+Total,U.S. House (special),1,Democratic,FRANK C. BROOMELL JR.,3919
+Burlington,U.S. House (special),1,Democratic,FRANK W. MINOR,78
+Camden,U.S. House (special),1,Democratic,FRANK W. MINOR,1447
+Gloucester,U.S. House (special),1,Democratic,FRANK W. MINOR,1722
+Total,U.S. House (special),1,Democratic,FRANK W. MINOR,3247
+Burlington,U.S. House (special),1,Republican,GARRY W. COBB,3
+Camden,U.S. House (special),1,Republican,GARRY W. COBB,196
+Gloucester,U.S. House (special),1,Republican,GARRY W. COBB,160
+Total,U.S. House (special),1,Republican,GARRY W. COBB,359
+Total,U.S. House (special),1,,,25446
+Burlington,U.S. House,1,Democratic,DONALD W. NORCROSS,582
+Camden,U.S. House,1,Democratic,DONALD W. NORCROSS,12499
+Gloucester,U.S. House,1,Democratic,DONALD W. NORCROSS,5423
+Total,U.S. House,1,Democratic,DONALD W. NORCROSS,18504
+Burlington,U.S. House,1,Republican,GARRY W. COBB,338
+Camden,U.S. House,1,Republican,GARRY W. COBB,4270
+Gloucester,U.S. House,1,Republican,GARRY W. COBB,1797
+Total,U.S. House,1,Republican,GARRY W. COBB,6405
+Burlington,U.S. House,1,Democratic,FRANK C. BROOMELL JR.,48
+Camden,U.S. House,1,Democratic,FRANK C. BROOMELL JR.,2276
+Gloucester,U.S. House,1,Democratic,FRANK C. BROOMELL JR.,1547
+Total,U.S. House,1,Democratic,FRANK C. BROOMELL JR.,3871
+Burlington,U.S. House,1,Democratic,FRANK W. MINOR,145
+Camden,U.S. House,1,Democratic,FRANK W. MINOR,1453
+Gloucester,U.S. House,1,Democratic,FRANK W. MINOR,1705
+Total,U.S. House,1,Democratic,FRANK W. MINOR,3303
+Burlington,U.S. House,1,Republican,CLAIRE H. GUSTAFSON,49
+Camden,U.S. House,1,Republican,CLAIRE H. GUSTAFSON,741
+Gloucester,U.S. House,1,Republican,CLAIRE H. GUSTAFSON,547
+Total,U.S. House,1,Republican,CLAIRE H. GUSTAFSON,1337
+Burlington,U.S. House,1,Republican,LEE LUCAS,20
+Camden,U.S. House,1,Republican,LEE LUCAS,222
+Gloucester,U.S. House,1,Republican,LEE LUCAS,525
+Total,U.S. House,1,Republican,LEE LUCAS,767
+Burlington,U.S. House,1,Republican,GERARD MCMANUS,44
+Camden,U.S. House,1,Republican,GERARD MCMANUS,489
+Gloucester,U.S. House,1,Republican,GERARD MCMANUS,330
+Total,U.S. House,1,Republican,GERARD MCMANUS,863
+Total,U.S. House,1,,,35050
+Atlantic,U.S. House,2,Republican,FRANK A. LOBIONDO *,5833
+Burlington,U.S. House,2,Republican,FRANK A. LOBIONDO *,78
+Camden,U.S. House,2,Republican,FRANK A. LOBIONDO *,150
+Cape May,U.S. House,2,Republican,FRANK A. LOBIONDO *,3061
+Cumberland,U.S. House,2,Republican,FRANK A. LOBIONDO *,1645
+Gloucester,U.S. House,2,Republican,FRANK A. LOBIONDO *,954
+Ocean,U.S. House,2,Republican,FRANK A. LOBIONDO *,1522
+Salem,U.S. House,2,Republican,FRANK A. LOBIONDO *,1051
+Total,U.S. House,2,Republican,FRANK A. LOBIONDO *,14294
+Atlantic,U.S. House,2,Democratic,WILLIAM J. HUGHES JR.,5270
+Burlington,U.S. House,2,Democratic,WILLIAM J. HUGHES JR.,22
+Camden,U.S. House,2,Democratic,WILLIAM J. HUGHES JR.,186
+Cape May,U.S. House,2,Democratic,WILLIAM J. HUGHES JR.,1384
+Cumberland,U.S. House,2,Democratic,WILLIAM J. HUGHES JR.,1982
+Gloucester,U.S. House,2,Democratic,WILLIAM J. HUGHES JR.,991
+Ocean,U.S. House,2,Democratic,WILLIAM J. HUGHES JR.,495
+Salem,U.S. House,2,Democratic,WILLIAM J. HUGHES JR.,1125
+Total,U.S. House,2,Democratic,WILLIAM J. HUGHES JR.,11455
+Atlantic,U.S. House,2,Republican,MIKE ASSAD,881
+Burlington,U.S. House,2,Republican,MIKE ASSAD,12
+Camden,U.S. House,2,Republican,MIKE ASSAD,42
+Cape May,U.S. House,2,Republican,MIKE ASSAD,690
+Cumberland,U.S. House,2,Republican,MIKE ASSAD,364
+Gloucester,U.S. House,2,Republican,MIKE ASSAD,356
+Ocean,U.S. House,2,Republican,MIKE ASSAD,385
+Salem,U.S. House,2,Republican,MIKE ASSAD,307
+Total,U.S. House,2,Republican,MIKE ASSAD,3037
+Atlantic,U.S. House,2,Democratic,DAVID H. COLE,790
+Burlington,U.S. House,2,Democratic,DAVID H. COLE,3
+Camden,U.S. House,2,Democratic,DAVID H. COLE,40
+Cape May,U.S. House,2,Democratic,DAVID H. COLE,249
+Cumberland,U.S. House,2,Democratic,DAVID H. COLE,328
+Gloucester,U.S. House,2,Democratic,DAVID H. COLE,388
+Ocean,U.S. House,2,Democratic,DAVID H. COLE,154
+Salem,U.S. House,2,Democratic,DAVID H. COLE,602
+Total,U.S. House,2,Democratic,DAVID H. COLE,2554
+Total,U.S. House,2,,,31340
+Burlington,U.S. House,3,Democratic,AIMEE BELGARD,8919
+Ocean,U.S. House,3,Democratic,AIMEE BELGARD,3506
+Total,U.S. House,3,Democratic,AIMEE BELGARD,12425
+Burlington,U.S. House,3,Republican,TOM MACARTHUR,8352
+Ocean,U.S. House,3,Republican,TOM MACARTHUR,7556
+Total,U.S. House,3,Republican,TOM MACARTHUR,15908
+Burlington,U.S. House,3,Republican,STEVE LONEGAN,5475
+Ocean,U.S. House,3,Republican,STEVE LONEGAN,5168
+Total,U.S. House,3,Republican,STEVE LONEGAN,10643
+Burlington,U.S. House,3,Democratic,HOWARD KLEINHENDLER,1147
+Ocean,U.S. House,3,Democratic,HOWARD KLEINHENDLER,558
+Total,U.S. House,3,Democratic,HOWARD KLEINHENDLER,1705
+Burlington,U.S. House,3,Democratic,BRUCE TODD,368
+Ocean,U.S. House,3,Democratic,BRUCE TODD,332
+Total,U.S. House,3,Democratic,BRUCE TODD,700
+Total,U.S. House,3,,,41381
+Mercer,U.S. House,4,Republican,CHRISTOPHER H. SMITH *,1166
+Monmouth,U.S. House,4,Republican,CHRISTOPHER H. SMITH *,7538
+Ocean,U.S. House,4,Republican,CHRISTOPHER H. SMITH *,6106
+Total,U.S. House,4,Republican,CHRISTOPHER H. SMITH *,14810
+Mercer,U.S. House,4,Democratic,RUBEN M. SCOLAVINO,1452
+Monmouth,U.S. House,4,Democratic,RUBEN M. SCOLAVINO,4171
+Ocean,U.S. House,4,Democratic,RUBEN M. SCOLAVINO,2499
+Total,U.S. House,4,Democratic,RUBEN M. SCOLAVINO,8122
+Total,U.S. House,4,,,22932
+Bergen,U.S. House,5,Republican,SCOTT GARRETT *,9043
+Passaic,U.S. House,5,Republican,SCOTT GARRETT *,777
+Sussex,U.S. House,5,Republican,SCOTT GARRETT *,3755
+Warren,U.S. House,5,Republican,SCOTT GARRETT *,2397
+Total,U.S. House,5,Republican,SCOTT GARRETT *,15972
+Bergen,U.S. House,5,Democratic,ROY CHO,7929
+Passaic,U.S. House,5,Democratic,ROY CHO,326
+Sussex,U.S. House,5,Democratic,ROY CHO,762
+Warren,U.S. House,5,Democratic,ROY CHO,512
+Total,U.S. House,5,Democratic,ROY CHO,9529
+Bergen,U.S. House,5,Democratic,DIANE SARE,794
+Passaic,U.S. House,5,Democratic,DIANE SARE,30
+Sussex,U.S. House,5,Democratic,DIANE SARE,112
+Warren,U.S. House,5,Democratic,DIANE SARE,95
+Total,U.S. House,5,Democratic,DIANE SARE,1031
+Total,U.S. House,5,,,26532
+Middlesex,U.S. House,6,Democratic,FRANK PALLONE JR. *,8948
+Monmouth,U.S. House,6,Democratic,FRANK PALLONE JR. *,2410
+Total,U.S. House,6,Democratic,FRANK PALLONE JR. *,11358
+Middlesex,U.S. House,6,Republican,ANTHONY E. WILKINSON,2347
+Monmouth,U.S. House,6,Republican,ANTHONY E. WILKINSON,2469
+Total,U.S. House,6,Republican,ANTHONY E. WILKINSON,4816
+Total,U.S. House,6,,,16174
+Essex,U.S. House,7,Republican,LEONARD LANCE *,213
+Hunterdon,U.S. House,7,Republican,LEONARD LANCE *,5433
+Morris,U.S. House,7,Republican,LEONARD LANCE *,1904
+Somerset,U.S. House,7,Republican,LEONARD LANCE *,4473
+Union,U.S. House,7,Republican,LEONARD LANCE *,3059
+Warren,U.S. House,7,Republican,LEONARD LANCE *,818
+Total,U.S. House,7,Republican,LEONARD LANCE *,15900
+Essex,U.S. House,7,Republican,DAVID LARSEN,119
+Hunterdon,U.S. House,7,Republican,DAVID LARSEN,4041
+Morris,U.S. House,7,Republican,DAVID LARSEN,2679
+Somerset,U.S. House,7,Republican,DAVID LARSEN,4126
+Union,U.S. House,7,Republican,DAVID LARSEN,1582
+Warren,U.S. House,7,Republican,DAVID LARSEN,761
+Total,U.S. House,7,Republican,DAVID LARSEN,13308
+Essex,U.S. House,7,Democratic,JANICE KOVACH,256
+Hunterdon,U.S. House,7,Democratic,JANICE KOVACH,1542
+Morris,U.S. House,7,Democratic,JANICE KOVACH,988
+Somerset,U.S. House,7,Democratic,JANICE KOVACH,3049
+Union,U.S. House,7,Democratic,JANICE KOVACH,2541
+Warren,U.S. House,7,Democratic,JANICE KOVACH,392
+Total,U.S. House,7,Democratic,JANICE KOVACH,8768
+Total,U.S. House,7,,,37976
+Bergen,U.S. House,8,Democratic,ALBIO SIRES,236
+Essex,U.S. House,8,Democratic,ALBIO SIRES,2265
+Hudson,U.S. House,8,Democratic,ALBIO SIRES,18869
+Union,U.S. House,8,Democratic,ALBIO SIRES,4271
+Total,U.S. House,8,Democratic,ALBIO SIRES,25641
+Bergen,U.S. House,8,Republican,JUDE ANTHONY TISCORNIA,42
+Essex,U.S. House,8,,JUDE ANTHONY TISCORNIA,225
+Hudson,U.S. House,8,,JUDE ANTHONY TISCORNIA,1546
+Union,U.S. House,8,,JUDE ANTHONY TISCORNIA,160
+Total,U.S. House,8,,JUDE ANTHONY TISCORNIA,1973
+Total,U.S. House,8,,,27614
+Bergen,U.S. House,9,Democratic,BILL PASCRELL JR. *,8131
+Hudson,U.S. House,9,Democratic,BILL PASCRELL JR. *,624
+Passaic,U.S. House,9,Democratic,BILL PASCRELL JR. *,4152
+Total,U.S. House,9,Democratic,BILL PASCRELL JR. *,12907
+Bergen,U.S. House,9,Republican,DIERDRE G. PAUL,3327
+Hudson,U.S. House,9,Republican,DIERDRE G. PAUL,101
+Passaic,U.S. House,9,Republican,DIERDRE G. PAUL,1046
+Total,U.S. House,9,Republican,DIERDRE G. PAUL,4474
+Total,U.S. House,9,,,17381
+Essex,U.S. House,10,Democratic,DONALD M. PAYNE JR. *,13069
+Hudson,U.S. House,10,Democratic,DONALD M. PAYNE JR. *,4810
+Union,U.S. House,10,Democratic,DONALD M. PAYNE JR. *,6611
+Total,U.S. House,10,Democratic,DONALD M. PAYNE JR. *,24490
+Essex,U.S. House,10,Republican,YOLANDA DENTLEY,585
+Hudson,U.S. House,10,Republican,YOLANDA DENTLEY,285
+Union,U.S. House,10,Republican,YOLANDA DENTLEY,620
+Total,U.S. House,10,Republican,YOLANDA DENTLEY,1490
+Essex,U.S. House,10,Democratic,ROBERT LOUIS TOUSSAINT,993
+Hudson,U.S. House,10,Democratic,ROBERT LOUIS TOUSSAINT,127
+Union,U.S. House,10,Democratic,ROBERT LOUIS TOUSSAINT,171
+Total,U.S. House,10,Democratic,ROBERT LOUIS TOUSSAINT,1291
+Essex,U.S. House,10,Democratic,AARON FRASER,267
+Hudson,U.S. House,10,Democratic,AARON FRASER,308
+Union,U.S. House,10,Democratic,AARON FRASER,122
+Total,U.S. House,10,Democratic,AARON FRASER,697
+Essex,U.S. House,10,Democratic,CURTIS ALPHONZO VAUGHN III,120
+Hudson,U.S. House,10,Democratic,CURTIS ALPHONZO VAUGHN III,87
+Union,U.S. House,10,Democratic,CURTIS ALPHONZO VAUGHN III,153
+Total,U.S. House,10,Democratic,CURTIS ALPHONZO VAUGHN III,360
+Total,U.S. House,10,,,28328
+Essex,U.S. House,11,Republican,RODNEY P. FRELINGHUYSEN,2307
+Morris,U.S. House,11,Republican,RODNEY P. FRELINGHUYSEN,9622
+Passaic,U.S. House,11,Republican,RODNEY P. FRELINGHUYSEN,2690
+Sussex,U.S. House,11,Republican,RODNEY P. FRELINGHUYSEN,1078
+Total,U.S. House,11,Republican,RODNEY P. FRELINGHUYSEN,15697
+Essex,U.S. House,11,Republican,RICK VAN GLAHN,761
+Morris,U.S. House,11,Republican,RICK VAN GLAHN,5442
+Passaic,U.S. House,11,Republican,RICK VAN GLAHN,1060
+Sussex,U.S. House,11,Republican,RICK VAN GLAHN,565
+Total,U.S. House,11,Republican,RICK VAN GLAHN,7828
+Essex,U.S. House,11,Democratic,MARK DUNEC,2521
+Morris,U.S. House,11,Democratic,MARK DUNEC,3041
+Passaic,U.S. House,11,Democratic,MARK DUNEC,1142
+Sussex,U.S. House,11,Democratic,MARK DUNEC,245
+Total,U.S. House,11,Democratic,MARK DUNEC,6949
+Essex,U.S. House,11,Democratic,BRIAN MURPHY,463
+Morris,U.S. House,11,Democratic,BRIAN MURPHY,377
+Passaic,U.S. House,11,Democratic,BRIAN MURPHY,179
+Sussex,U.S. House,11,Democratic,BRIAN MURPHY,103
+Total,U.S. House,11,Democratic,BRIAN MURPHY,1122
+Essex,U.S. House,11,Democratic,LEE ANNE BROGOWSKI,248
+Morris,U.S. House,11,Democratic,LEE ANNE BROGOWSKI,653
+Passaic,U.S. House,11,Democratic,LEE ANNE BROGOWSKI,107
+Sussex,U.S. House,11,Democratic,LEE ANNE BROGOWSKI,70
+Total,U.S. House,11,Democratic,LEE ANNE BROGOWSKI,1078
+Total,U.S. House,11,,,32674
+Mercer,U.S. House,12,Democratic,BONNIE WATSON COLEMAN,10908
+Middlesex,U.S. House,12,Democratic,BONNIE WATSON COLEMAN,772
+Somerset,U.S. House,12,Democratic,BONNIE WATSON COLEMAN,790
+Union,U.S. House,12,Democratic,BONNIE WATSON COLEMAN,3133
+Total,U.S. House,12,Democratic,BONNIE WATSON COLEMAN,15603
+Mercer,U.S. House,12,Democratic,LINDA R. GREENSTEIN,2837
+Middlesex,U.S. House,12,Democratic,LINDA R. GREENSTEIN,6466
+Somerset,U.S. House,12,Democratic,LINDA R. GREENSTEIN,418
+Union,U.S. House,12,Democratic,LINDA R. GREENSTEIN,368
+Total,U.S. House,12,Democratic,LINDA R. GREENSTEIN,10089
+Mercer,U.S. House,12,Democratic,UPENDRA CHIVUKULA,1693
+Middlesex,U.S. House,12,Democratic,UPENDRA CHIVUKULA,2789
+Somerset,U.S. House,12,Democratic,UPENDRA CHIVUKULA,2923
+Union,U.S. House,12,Democratic,UPENDRA CHIVUKULA,485
+Total,U.S. House,12,Democratic,UPENDRA CHIVUKULA,7890
+Mercer,U.S. House,12,Republican,ALIETA ECK,2121
+Middlesex,U.S. House,12,Republican,ALIETA ECK,2882
+Somerset,U.S. House,12,Republican,ALIETA ECK,1082
+Union,U.S. House,12,Republican,ALIETA ECK,532
+Total,U.S. House,12,Republican,ALIETA ECK,6617
+Mercer,U.S. House,12,Democratic,ANDREW ZWICKER,1648
+Middlesex,U.S. House,12,Democratic,ANDREW ZWICKER,708
+Somerset,U.S. House,12,Democratic,ANDREW ZWICKER,169
+Union,U.S. House,12,Democratic,ANDREW ZWICKER,143
+Total,U.S. House,12,Democratic,ANDREW ZWICKER,2668
+Total,U.S. House,12,,,42867
+Atlantic,U.S. Senate,,Democratic,CORY BOOKER *,6018
+Bergen,U.S. Senate,,Democratic,CORY BOOKER *,17705
+Burlington,U.S. Senate,,Democratic,CORY BOOKER *,11307
+Camden,U.S. Senate,,Democratic,CORY BOOKER *,16460
+Cape May,U.S. Senate,,Democratic,CORY BOOKER *,1512
+Cumberland,U.S. Senate,,Democratic,CORY BOOKER *,2321
+Essex,U.S. Senate,,Democratic,CORY BOOKER *,19755
+Gloucester,U.S. Senate,,Democratic,CORY BOOKER *,9145
+Hudson,U.S. Senate,,Democratic,CORY BOOKER *,26291
+Hunterdon,U.S. Senate,,Democratic,CORY BOOKER *,1563
+Mercer,U.S. Senate,,Democratic,CORY BOOKER *,16474
+Middlesex,U.S. Senate,,Democratic,CORY BOOKER *,17897
+Monmouth,U.S. Senate,,Democratic,CORY BOOKER *,6681
+Morris,U.S. Senate,,Democratic,CORY BOOKER *,5315
+Ocean,U.S. Senate,,Democratic,CORY BOOKER *,7536
+Passaic,U.S. Senate,,Democratic,CORY BOOKER *,6042
+Salem,U.S. Senate,,Democratic,CORY BOOKER *,1650
+Somerset,U.S. Senate,,Democratic,CORY BOOKER *,7089
+Sussex,U.S. Senate,,Democratic,CORY BOOKER *,1234
+Union,U.S. Senate,,Democratic,CORY BOOKER *,19138
+Warren,U.S. Senate,,Democratic,CORY BOOKER *,996
+Total,U.S. Senate,,Democratic,CORY BOOKER *,202129
+Atlantic,U.S. Senate,,Republican,JEFF BELL,1155
+Bergen,U.S. Senate,,Republican,JEFF BELL,4833
+Burlington,U.S. Senate,,Republican,JEFF BELL,4208
+Camden,U.S. Senate,,Republican,JEFF BELL,2121
+Cape May,U.S. Senate,,Republican,JEFF BELL,2011
+Cumberland,U.S. Senate,,Republican,JEFF BELL,436
+Essex,U.S. Senate,,Republican,JEFF BELL,904
+Gloucester,U.S. Senate,,Republican,JEFF BELL,1213
+Hudson,U.S. Senate,,Republican,JEFF BELL,642
+Hunterdon,U.S. Senate,,Republican,JEFF BELL,2426
+Mercer,U.S. Senate,,Republican,JEFF BELL,927
+Middlesex,U.S. Senate,,Republican,JEFF BELL,1738
+Monmouth,U.S. Senate,,Republican,JEFF BELL,2096
+Morris,U.S. Senate,,Republican,JEFF BELL,5206
+Ocean,U.S. Senate,,Republican,JEFF BELL,3389
+Passaic,U.S. Senate,,Republican,JEFF BELL,1194
+Salem,U.S. Senate,,Republican,JEFF BELL,332
+Somerset,U.S. Senate,,Republican,JEFF BELL,3399
+Sussex,U.S. Senate,,Republican,JEFF BELL,1465
+Union,U.S. Senate,,Republican,JEFF BELL,1162
+Warren,U.S. Senate,,Republican,JEFF BELL,1871
+Total,U.S. Senate,,Republican,JEFF BELL,42728
+Atlantic,U.S. Senate,,Republican,RICHARD J. PEZZULLO,774
+Bergen,U.S. Senate,,Republican,RICHARD J. PEZZULLO,1501
+Burlington,U.S. Senate,,Republican,RICHARD J. PEZZULLO,3220
+Camden,U.S. Senate,,Republican,RICHARD J. PEZZULLO,2566
+Cape May,U.S. Senate,,Republican,RICHARD J. PEZZULLO,740
+Cumberland,U.S. Senate,,Republican,RICHARD J. PEZZULLO,301
+Essex,U.S. Senate,,Republican,RICHARD J. PEZZULLO,1035
+Gloucester,U.S. Senate,,Republican,RICHARD J. PEZZULLO,1280
+Hudson,U.S. Senate,,Republican,RICHARD J. PEZZULLO,285
+Hunterdon,U.S. Senate,,Republican,RICHARD J. PEZZULLO,2604
+Mercer,U.S. Senate,,Republican,RICHARD J. PEZZULLO,377
+Middlesex,U.S. Senate,,Republican,RICHARD J. PEZZULLO,1338
+Monmouth,U.S. Senate,,Republican,RICHARD J. PEZZULLO,5999
+Morris,U.S. Senate,,Republican,RICHARD J. PEZZULLO,3197
+Ocean,U.S. Senate,,Republican,RICHARD J. PEZZULLO,3570
+Passaic,U.S. Senate,,Republican,RICHARD J. PEZZULLO,1015
+Salem,U.S. Senate,,Republican,RICHARD J. PEZZULLO,389
+Somerset,U.S. Senate,,Republican,RICHARD J. PEZZULLO,1577
+Sussex,U.S. Senate,,Republican,RICHARD J. PEZZULLO,2451
+Union,U.S. Senate,,Republican,RICHARD J. PEZZULLO,3117
+Warren,U.S. Senate,,Republican,RICHARD J. PEZZULLO,794
+Total,U.S. Senate,,Republican,RICHARD J. PEZZULLO,38130
+Atlantic,U.S. Senate,,Republican,BRIAN D. GOLDBERG,4030
+Bergen,U.S. Senate,,Republican,BRIAN D. GOLDBERG,953
+Burlington,U.S. Senate,,Republican,BRIAN D. GOLDBERG,1577
+Camden,U.S. Senate,,Republican,BRIAN D. GOLDBERG,299
+Cape May,U.S. Senate,,Republican,BRIAN D. GOLDBERG,245
+Cumberland,U.S. Senate,,Republican,BRIAN D. GOLDBERG,1038
+Essex,U.S. Senate,,Republican,BRIAN D. GOLDBERG,2161
+Gloucester,U.S. Senate,,Republican,BRIAN D. GOLDBERG,714
+Hudson,U.S. Senate,,Republican,BRIAN D. GOLDBERG,1225
+Hunterdon,U.S. Senate,,Republican,BRIAN D. GOLDBERG,2118
+Mercer,U.S. Senate,,Republican,BRIAN D. GOLDBERG,1331
+Middlesex,U.S. Senate,,Republican,BRIAN D. GOLDBERG,1531
+Monmouth,U.S. Senate,,Republican,BRIAN D. GOLDBERG,497
+Morris,U.S. Senate,,Republican,BRIAN D. GOLDBERG,1280
+Ocean,U.S. Senate,,Republican,BRIAN D. GOLDBERG,10840
+Passaic,U.S. Senate,,Republican,BRIAN D. GOLDBERG,2414
+Salem,U.S. Senate,,Republican,BRIAN D. GOLDBERG,78
+Somerset,U.S. Senate,,Republican,BRIAN D. GOLDBERG,3122
+Sussex,U.S. Senate,,Republican,BRIAN D. GOLDBERG,292
+Union,U.S. Senate,,Republican,BRIAN D. GOLDBERG,283
+Warren,U.S. Senate,,Republican,BRIAN D. GOLDBERG,238
+Total,U.S. Senate,,Republican,BRIAN D. GOLDBERG,36266
+Atlantic,U.S. Senate,,Republican,MURRAY SABRIN,359
+Bergen,U.S. Senate,,Republican,MURRAY SABRIN,1248
+Burlington,U.S. Senate,,Republican,MURRAY SABRIN,4097
+Camden,U.S. Senate,,Republican,MURRAY SABRIN,897
+Cape May,U.S. Senate,,Republican,MURRAY SABRIN,317
+Cumberland,U.S. Senate,,Republican,MURRAY SABRIN,93
+Essex,U.S. Senate,,Republican,MURRAY SABRIN,320
+Gloucester,U.S. Senate,,Republican,MURRAY SABRIN,914
+Hudson,U.S. Senate,,Republican,MURRAY SABRIN,785
+Hunterdon,U.S. Senate,,Republican,MURRAY SABRIN,1426
+Mercer,U.S. Senate,,Republican,MURRAY SABRIN,909
+Middlesex,U.S. Senate,,Republican,MURRAY SABRIN,1999
+Monmouth,U.S. Senate,,Republican,MURRAY SABRIN,2293
+Morris,U.S. Senate,,Republican,MURRAY SABRIN,4355
+Ocean,U.S. Senate,,Republican,MURRAY SABRIN,1552
+Passaic,U.S. Senate,,Republican,MURRAY SABRIN,1161
+Salem,U.S. Senate,,Republican,MURRAY SABRIN,503
+Somerset,U.S. Senate,,Republican,MURRAY SABRIN,1253
+Sussex,U.S. Senate,,Republican,MURRAY SABRIN,1282
+Union,U.S. Senate,,Republican,MURRAY SABRIN,1437
+Warren,U.S. Senate,,Republican,MURRAY SABRIN,983
+Total,U.S. Senate,,Republican,MURRAY SABRIN,28183
+Atlantic,Registered Voters,,,,171935
+Bergen,Registered Voters,,,,550542
+Burlington,Registered Voters,,,,290502
+Camden,Registered Voters,,,,354222
+Cape May,Registered Voters,,,,67747
+Cumberland,Registered Voters,,,,88235
+Essex,Registered Voters,,,,487798
+Gloucester,Registered Voters,,,,194995
+Hudson,Registered Voters,,,,316048
+Hunterdon,Registered Voters,,,,90637
+Mercer,Registered Voters,,,,221416
+Middlesex,Registered Voters,,,,474939
+Monmouth,Registered Voters,,,,427579
+Morris,Registered Voters,,,,327444
+Ocean,Registered Voters,,,,378950
+Passaic,Registered Voters,,,,283805
+Salem,Registered Voters,,,,43893
+Somerset,Registered Voters,,,,215332
+Sussex,Registered Voters,,,,100998
+Union,Registered Voters,,,,305033
+Warren,Registered Voters,,,,70660
+Total,Registered Voters,,,,5462710
+Atlantic,Ballots Cast,,Democratic,,6692
+Bergen,Ballots Cast,,Democratic,,21039
+Burlington,Ballots Cast,,Democratic,,12246
+Camden,Ballots Cast,,Democratic,,18862
+Cape May,Ballots Cast,,Democratic,,1744
+Cumberland,Ballots Cast,,Democratic,,2630
+Essex,Ballots Cast,,Democratic,,24179
+Gloucester,Ballots Cast,,Democratic,,11824
+Hudson,Ballots Cast,,Democratic,,32701
+Hunterdon,Ballots Cast,,Democratic,,1726
+Mercer,Ballots Cast,,Democratic,,19210
+Middlesex,Ballots Cast,,Democratic,,21843
+Monmouth,Ballots Cast,,Democratic,,7349
+Morris,Ballots Cast,,Democratic,,5841
+Ocean,Ballots Cast,,Democratic,,8444
+Passaic,Ballots Cast,,Democratic,,6633
+Salem,Ballots Cast,,Democratic,,1859
+Somerset,Ballots Cast,,Democratic,,7912
+Sussex,Ballots Cast,,Democratic,,1370
+Union,Ballots Cast,,Democratic,,25452
+Warren,Ballots Cast,,Democratic,,1193
+Total,Ballots Cast,,Democratic,,240749
+Atlantic,Ballots Cast,,Republican,,7193
+Bergen,Ballots Cast,,Republican,,14688
+Burlington,Ballots Cast,,Republican,,15292
+Camden,Ballots Cast,,Republican,,6622
+Cape May,Ballots Cast,,Republican,,4121
+Cumberland,Ballots Cast,,Republican,,2097
+Essex,Ballots Cast,,Republican,,4635
+Gloucester,Ballots Cast,,Republican,,5111
+Hudson,Ballots Cast,,Republican,,3364
+Hunterdon,Ballots Cast,,Republican,,10039
+Mercer,Ballots Cast,,Republican,,3793
+Middlesex,Ballots Cast,,Republican,,6840
+Monmouth,Ballots Cast,,Republican,,11769
+Morris,Ballots Cast,,Republican,,21487
+Ocean,Ballots Cast,,Republican,,22584
+Passaic,Ballots Cast,,Republican,,6701
+Salem,Ballots Cast,,Republican,,1387
+Somerset,Ballots Cast,,Republican,,10495
+Sussex,Ballots Cast,,Republican,,5867
+Union,Ballots Cast,,Republican,,6823
+Warren,Ballots Cast,,Republican,,4408
+Total,Ballots Cast,,Republican,,175316
+Atlantic,Ballots Cast,,,,13885
+Bergen,Ballots Cast,,,,35727
+Burlington,Ballots Cast,,,,27538
+Camden,Ballots Cast,,,,25484
+Cape May,Ballots Cast,,,,5865
+Cumberland,Ballots Cast,,,,4727
+Essex,Ballots Cast,,,,28814
+Gloucester,Ballots Cast,,,,16935
+Hudson,Ballots Cast,,,,36065
+Hunterdon,Ballots Cast,,,,11765
+Mercer,Ballots Cast,,,,23003
+Middlesex,Ballots Cast,,,,28683
+Monmouth,Ballots Cast,,,,19118
+Morris,Ballots Cast,,,,27328
+Ocean,Ballots Cast,,,,31028
+Passaic,Ballots Cast,,,,13334
+Salem,Ballots Cast,,,,3246
+Somerset,Ballots Cast,,,,18407
+Sussex,Ballots Cast,,,,7237
+Union,Ballots Cast,,,,32275
+Warren,Ballots Cast,,,,5601
+Total,Ballots Cast,,,,416065
+Atlantic,Ballots Rejected,,,,26
+Bergen,Ballots Rejected,,,,56
+Burlington,Ballots Rejected,,,,130
+Camden,Ballots Rejected,,,,265
+Cape May,Ballots Rejected,,,,29
+Cumberland,Ballots Rejected,,,,19
+Essex,Ballots Rejected,,,,68
+Gloucester,Ballots Rejected,,,,48
+Hudson,Ballots Rejected,,,,82
+Hunterdon,Ballots Rejected,,,,16
+Mercer,Ballots Rejected,,,,32
+Middlesex,Ballots Rejected,,,,163
+Monmouth,Ballots Rejected,,,,25
+Morris,Ballots Rejected,,,,21
+Ocean,Ballots Rejected,,,,119
+Passaic,Ballots Rejected,,,,36
+Salem,Ballots Rejected,,,,12
+Somerset,Ballots Rejected,,,,35
+Sussex,Ballots Rejected,,,,3
+Union,Ballots Rejected,,,,149
+Warren,Ballots Rejected,,,,10
+Total,Ballots Rejected,,,,1344
