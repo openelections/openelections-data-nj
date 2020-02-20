@@ -1,0 +1,514 @@
+county,office,district,party,candidate,votes
+Camden,General Assembly,5,Democratic,WILLIAM W. SPEARMAN (w),28853
+Gloucester,General Assembly,5,Democratic,WILLIAM W. SPEARMAN (w),16272
+Total,General Assembly,5,Democratic,WILLIAM W. SPEARMAN (w),45125
+Camden,General Assembly,5,Republican,NICHOLAS KUSH,10256
+Gloucester,General Assembly,5,Republican,NICHOLAS KUSH,12730
+Total,General Assembly,5,Republican,NICHOLAS KUSH,22986
+Total,General Assembly,5,,,68111
+Hunterdon,General Assembly,15,Democratic,VERLINA REYNOLDS-JACKSON (w),3246
+Mercer,General Assembly,15,Democratic,VERLINA REYNOLDS-JACKSON (w),46048
+Total,General Assembly,15,Democratic,VERLINA REYNOLDS-JACKSON (w),49294
+Hunterdon,General Assembly,15,Republican,TRACY R. SINATRA,2433
+Mercer,General Assembly,15,Republican,TRACY R. SINATRA,15628
+Total,General Assembly,15,Republican,TRACY R. SINATRA,18061
+Hunterdon,General Assembly,15,REPEAL BAIL REFORM,EDWARD FORCHION,82
+Mercer,General Assembly,15,REPEAL BAIL REFORM,EDWARD FORCHION,1025
+Total,General Assembly,15,REPEAL BAIL REFORM,EDWARD FORCHION,1107
+Total,General Assembly,15,,,68462
+Hunterdon,General Assembly,15,Democratic,ANTHONY VERRELLI (w),3099
+Mercer,General Assembly,15,Democratic,ANTHONY VERRELLI (w),45305
+Total,General Assembly,15,Democratic,ANTHONY VERRELLI (w),48404
+Hunterdon,General Assembly,15,Republican,JUSTIN TIBBETTS,2341
+Mercer,General Assembly,15,Republican,JUSTIN TIBBETTS,14889
+Total,General Assembly,15,Republican,JUSTIN TIBBETTS,17230
+Hunterdon,General Assembly,15,INTEGRITY TRANSPARENCY ACCOUNTABILITY,ALEX BETHEA,84
+Mercer,General Assembly,15,INTEGRITY TRANSPARENCY ACCOUNTABILITY,ALEX BETHEA,1960
+Total,General Assembly,15,INTEGRITY TRANSPARENCY ACCOUNTABILITY,ALEX BETHEA,2044
+Total,General Assembly,15,,,67678
+Middlesex,General Assembly,22,Democratic,LINDA CARTER (w),3782
+Somerset,General Assembly,22,Democratic,LINDA CARTER (w),5822
+Union,General Assembly,22,Democratic,LINDA CARTER (w),38081
+Total,General Assembly,22,Democratic,LINDA CARTER (w),47685
+Middlesex,General Assembly,22,Republican,JOHN QUATTROCCHI,3305
+Somerset,General Assembly,22,Republican,JOHN QUATTROCCHI,2867
+Union,General Assembly,22,Republican,JOHN QUATTROCCHI,14900
+Total,General Assembly,22,Republican,JOHN QUATTROCCHI,21072
+Total,General Assembly,22,,,68757
+Bergen,General Assembly,32,Democratic,PEDRO MEJIA (w),4193
+Hudson,General Assembly,32,Democratic,PEDRO MEJIA (w),33227
+Total,General Assembly,32,Democratic,PEDRO MEJIA (w),37420
+Total,General Assembly,32,Democratic,PEDRO MEJIA (w),37420
+Essex,General Assembly,34,Democratic,BRITNEE N. TIMBERLAKE (w),39170
+Passaic,General Assembly,34,Democratic,BRITNEE N. TIMBERLAKE (w),14667
+Total,General Assembly,34,Democratic,BRITNEE N. TIMBERLAKE (w),53837
+Essex,General Assembly,34,Republican,IRENE DEVITA,2440
+Passaic,General Assembly,34,Republican,IRENE DEVITA,8480
+Total,General Assembly,34,Republican,IRENE DEVITA,10920
+Essex,General Assembly,34,STOP THE INSANITY,CLENARD HOWARD CHILDRESS JR.,743
+Passaic,General Assembly,34,STOP THE INSANITY,CLENARD HOWARD CHILDRESS JR.,240
+Total,General Assembly,34,STOP THE INSANITY,CLENARD HOWARD CHILDRESS JR.,983
+Total,General Assembly,34,,,65740
+Bergen,General Assembly,36,Democratic,CLINTON CALABRESE (w),28981
+Passaic,General Assembly,36,Democratic,CLINTON CALABRESE (w),7933
+Total,General Assembly,36,Democratic,CLINTON CALABRESE (w),36914
+Bergen,General Assembly,36,Republican,MARC MARSI,18504
+Passaic,General Assembly,36,Republican,MARC MARSI,2442
+Total,General Assembly,36,Republican,MARC MARSI,20946
+Total,General Assembly,36,,,57860
+Bergen,General Assembly,38,Democratic,CHRISTOPHER TULLY (w),42845
+Passaic,General Assembly,38,Democratic,CHRISTOPHER TULLY (w),3561
+Total,General Assembly,38,Democratic,CHRISTOPHER TULLY (w),46406
+Bergen,General Assembly,38,Republican,JAYME OUELLETTE,28661
+Passaic,General Assembly,38,Republican,JAYME OUELLETTE,3172
+Total,General Assembly,38,Republican,JAYME OUELLETTE,31833
+Total,General Assembly,38,,,78239
+Bergen,General Assembly,38,Democratic,LISA SWAIN (w),44229
+Passaic,General Assembly,38,Democratic,LISA SWAIN (w),3636
+Total,General Assembly,38,Democratic,LISA SWAIN (w),47865
+Bergen,General Assembly,38,Republican,GAIL HORTON,29031
+Passaic,General Assembly,38,Republican,GAIL HORTON,3279
+Total,General Assembly,38,Republican,GAIL HORTON,32310
+Total,General Assembly,38,,,80175
+Bergen,State Senate,38,Democratic,JOSEPH A LAGANA (w),44751
+Passaic,State Senate,38,Democratic,JOSEPH A LAGANA (w),3700
+Total,State Senate,38,Democratic,JOSEPH A LAGANA (w),48451
+Bergen,State Senate,38,Republican,DAISY ORTIZ BERGER,28890
+Passaic,State Senate,38,Republican,DAISY ORTIZ BERGER,3250
+Total,State Senate,38,Republican,DAISY ORTIZ BERGER,32140
+Total,State Senate,38,,,80591
+Burlington,U.S. House,1,Democratic,DONALD W. NORCROSS (w),5660
+Camden,U.S. House,1,Democratic,DONALD W. NORCROSS (w),121634
+Gloucester,U.S. House,1,Democratic,DONALD W. NORCROSS (w),42334
+Total,U.S. House,1,Democratic,DONALD W. NORCROSS (w),169628
+Burlington,U.S. House,1,Republican,PAUL E. DILKS,3213
+Camden,U.S. House,1,Republican,PAUL E. DILKS,52632
+Gloucester,U.S. House,1,Republican,PAUL E. DILKS,31772
+Total,U.S. House,1,Republican,PAUL E. DILKS,87617
+Burlington,U.S. House,1,Libertarian,ROBERT SHAPIRO,68
+Camden,U.S. House,1,Libertarian,ROBERT SHAPIRO,1654
+Gloucester,U.S. House,1,Libertarian,ROBERT SHAPIRO,1099
+Total,U.S. House,1,Libertarian,ROBERT SHAPIRO,2821
+Burlington,U.S. House,1,WE DESERVE BETTER,PAUL HAMLIN,57
+Camden,U.S. House,1,WE DESERVE BETTER,PAUL HAMLIN,1776
+Gloucester,U.S. House,1,WE DESERVE BETTER,PAUL HAMLIN,535
+Total,U.S. House,1,WE DESERVE BETTER,PAUL HAMLIN,2368
+Burlington,U.S. House,1,YOUR VOICE HARD,MOHAMMAD KABIR,23
+Camden,U.S. House,1,YOUR VOICE HARD,MOHAMMAD KABIR,781
+Gloucester,U.S. House,1,YOUR VOICE HARD,MOHAMMAD KABIR,180
+Total,U.S. House,1,YOUR VOICE HARD,MOHAMMAD KABIR,984
+Total,U.S. House,1,,,263418
+Atlantic,U.S. House,2,Democratic,JEFF VAN DREW (w),52917
+Burlington,U.S. House,2,Democratic,JEFF VAN DREW (w),325
+Camden,U.S. House,2,Democratic,JEFF VAN DREW (w),1894
+Cape May,U.S. House,2,Democratic,JEFF VAN DREW (w),21595
+Cumberland,U.S. House,2,Democratic,JEFF VAN DREW (w),23914
+Gloucester,U.S. House,2,Democratic,JEFF VAN DREW (w),17932
+Ocean,U.S. House,2,Democratic,JEFF VAN DREW (w),7103
+Salem,U.S. House,2,Democratic,JEFF VAN DREW (w),11005
+Total,U.S. House,2,Democratic,JEFF VAN DREW (w),136685
+Atlantic,U.S. House,2,Republican,SETH GROSSMAN,39118
+Burlington,U.S. House,2,Republican,SETH GROSSMAN,540
+Camden,U.S. House,2,Republican,SETH GROSSMAN,2201
+Cape May,U.S. House,2,Republican,SETH GROSSMAN,19003
+Cumberland,U.S. House,2,Republican,SETH GROSSMAN,15782
+Gloucester,U.S. House,2,Republican,SETH GROSSMAN,16982
+Ocean,U.S. House,2,Republican,SETH GROSSMAN,11140
+Salem,U.S. House,2,Republican,SETH GROSSMAN,12100
+Total,U.S. House,2,Republican,SETH GROSSMAN,116866
+Atlantic,U.S. House,2,Libertarian Party,JOHN ORDILLE,553
+Burlington,U.S. House,2,Libertarian Party,JOHN ORDILLE,4
+Camden ,U.S. House,2,Libertarian Party,JOHN ORDILLE,30
+Cape May,U.S. House,2,Libertarian Party,JOHN ORDILLE,136
+Cumberland,U.S. House,2,Libertarian Party,JOHN ORDILLE,332
+Gloucester,U.S. House,2,Libertarian Party,JOHN ORDILLE,350
+Ocean,U.S. House,2,Libertarian Party,JOHN ORDILLE,99
+Salem,U.S. House,2,Libertarian Party,JOHN ORDILLE,222
+Total,U.S. House,2,Libertarian Party,JOHN ORDILLE,1726
+Atlantic,U.S. House,2,Time For Truth,STEVEN FENICHEL,591
+Burlington,U.S. House,2,Time For Truth,STEVEN FENICHEL,7
+Camden,U.S. House,2,Time For Truth,STEVEN FENICHEL,7
+Cape May,U.S. House,2,Time For Truth,STEVEN FENICHEL,125
+Cumberland,U.S. House,2,Time For Truth,STEVEN FENICHEL,122
+Gloucester,U.S. House,2,Time For Truth,STEVEN FENICHEL,87
+Ocean,U.S. House,2,Time For Truth,STEVEN FENICHEL,69
+Salem,U.S. House,2,Time For Truth,STEVEN FENICHEL,146
+Total,U.S. House,2,Time For Truth,STEVEN FENICHEL,1154
+Atlantic,U.S. House,2,Cannot Be Bought,ANTHONY PARISI SANCHEZ,354
+Burlington,U.S. House,2,Cannot Be Bought,ANTHONY PARISI SANCHEZ,0
+Camden,U.S. House,2,Cannot Be Bought,ANTHONY PARISI SANCHEZ,37
+Cape May,U.S. House,2,Cannot Be Bought,ANTHONY PARISI SANCHEZ,145
+Cumberland,U.S. House,2,Cannot Be Bought,ANTHONY PARISI SANCHEZ,222
+Gloucester,U.S. House,2,Cannot Be Bought,ANTHONY PARISI SANCHEZ,123
+Ocean,U.S. House,2,Cannot Be Bought,ANTHONY PARISI SANCHEZ,46
+Salem,U.S. House,2,Cannot Be Bought,ANTHONY PARISI SANCHEZ,137
+Total,U.S. House,2,Cannot Be Bought,ANTHONY PARISI SANCHEZ,1064
+Atlantic,U.S. House,2,Other,WILLIAM R. BENFER,335
+Burlington,U.S. House,2,Other,WILLIAM R. BENFER,1
+Camden,U.S. House,2,Other,WILLIAM R. BENFER,19
+Cape May,U.S. House,2,Other,WILLIAM R. BENFER,67
+Cumberland,U.S. House,2,Other,WILLIAM R. BENFER,149
+Gloucester,U.S. House,2,Other,WILLIAM R. BENFER,102
+Ocean,U.S. House,2,Other,WILLIAM R. BENFER,24
+Salem,U.S. House,2,Other,WILLIAM R. BENFER,171
+Total,U.S. House,2,Other,WILLIAM R. BENFER,868
+Total,U.S. House,2,,,258363
+Burlington,U.S. House,3,Democratic,ANDY KIM (w),105909
+Ocean,U.S. House,3,Democratic,ANDY KIM (w),47564
+Total,U.S. House,3,Democratic,ANDY KIM (w),153473
+Burlington,U.S. House,3,Republican,TOM MACARTHUR,71279
+Ocean,U.S. House,3,Republican,TOM MACARTHUR,78221
+Total,U.S. House,3,Republican,TOM MACARTHUR,149500
+Burlington,U.S. House,3,Constitution Party,LAWRENCE BERLINSKI,1258
+Ocean,U.S. House,3,Constitution Party,LAWRENCE BERLINSKI,2644
+Total,U.S. House,3,Constitution Party,LAWRENCE BERLINSKI,3902
+Total,U.S. House,3,,,306875
+Mercer,U.S. House,4,Republican,CHRISTOPHER H. SMITH (w),19049
+Monmouth,U.S. House,4,Republican,CHRISTOPHER H. SMITH (w),93491
+Ocean,U.S. House,4,Republican,CHRISTOPHER H. SMITH (w),50525
+Total,U.S. House,4,Republican,CHRISTOPHER H. SMITH (w),163065
+Mercer,U.S. House,4,Democratic,JOSHUA WELLE,19795
+Monmouth,U.S. House,4,Democratic,JOSHUA WELLE,82535
+Ocean,U.S. House,4,Democratic,JOSHUA WELLE,24436
+Total,U.S. House,4,Democratic,JOSHUA WELLE,126766
+Mercer,U.S. House,4,Libertarian Party,MICHAEL RUFO,154
+Monmouth,U.S. House,4,Libertarian Party,MICHAEL RUFO,851
+Ocean,U.S. House,4,Libertarian Party,MICHAEL RUFO,382
+Total,U.S. House,4,Libertarian Party,MICHAEL RUFO,1387
+Mercer,U.S. House,4,Ed The Barber,EDWARD C. STACKHOUSE JR,470
+Monmouth,U.S. House,4,Ed The Barber,EDWARD C. STACKHOUSE JR,405
+Ocean,U.S. House,4,Ed The Barber,EDWARD C. STACKHOUSE JR,189
+Total,U.S. House,4,Ed The Barber,EDWARD C. STACKHOUSE JR,1064
+Mercer,U.S. House,4,Check This Column,BRIAN J. REYNOLDS,107
+Monmouth,U.S. House,4,Check This Column,BRIAN J. REYNOLDS,635
+Ocean,U.S. House,4,Check This Column,BRIAN J. REYNOLDS,109
+Total,U.S. House,4,Check This Column,BRIAN J. REYNOLDS,851
+Mercer,U.S. House,4,The Inclusion Candidate,FELICIA STOLER,185
+Monmouth,U.S. House,4,The Inclusion Candidate,FELICIA STOLER,544
+Ocean,U.S. House,4,The Inclusion Candidate,FELICIA STOLER,115
+Total,U.S. House,4,The Inclusion Candidate,FELICIA STOLER,844
+Mercer,U.S. House,4,Time For Change,ALLEN YUSUFOV,48
+Monmouth,U.S. House,4,Time For Change,ALLEN YUSUFOV,179
+Ocean,U.S. House,4,Time For Change,ALLEN YUSUFOV,144
+Total,U.S. House,4,Time For Change,ALLEN YUSUFOV,371
+Total,U.S. House,4,,,294348
+Bergen,U.S. House,5,Democratic,JOSH GOTTHEIMER (w),133894
+Passaic,U.S. House,5,Democratic,JOSH GOTTHEIMER (w),7229
+Sussex,U.S. House,5,Democratic,JOSH GOTTHEIMER (w),17171
+Warren,U.S. House,5,Democratic,JOSH GOTTHEIMER (w),11252
+Total,U.S. House,5,Democratic,JOSH GOTTHEIMER (w),169546
+Bergen,U.S. House,5,Republican,JOHN J. MCCANN JR.,82869
+Passaic,U.S. House,5,Republican,JOHN J. MCCANN JR.,8487
+Sussex,U.S. House,5,Republican,JOHN J. MCCANN JR.,21946
+Warren,U.S. House,5,Republican,JOHN J. MCCANN JR.,14953
+Total,U.S. House,5,Republican,JOHN J. MCCANN JR.,128255
+Bergen,U.S. House,5,Libertarian Party,JAMES TOSONE,1433
+Passaic,U.S. House,5,Libertarian Party,JAMES TOSONE,119
+Sussex,U.S. House,5,Libertarian Party,JAMES TOSONE,345
+Warren,U.S. House,5,Libertarian Party,JAMES TOSONE,218
+Total,U.S. House,5,Libertarian Party,JAMES TOSONE,2115
+Bergen,U.S. House,5,"Trade, Health, Environment",WENDY W. GOETZ,977
+Passaic,U.S. House,5,"Trade, Health, Environment",WENDY W. GOETZ,72
+Sussex,U.S. House,5,"Trade, Health, Environment",WENDY W. GOETZ,510
+Warren,U.S. House,5,"Trade, Health, Environment",WENDY W. GOETZ,348
+Total,U.S. House,5,"Trade, Health, Environment",WENDY W. GOETZ,1907
+Total,U.S. House,5,,,301823
+Middlesex,U.S. House,6,Democratic,FRANK PALLONE JR. (w),96347
+Monmouth,U.S. House,6,Democratic,FRANK PALLONE JR. (w),44405
+Total,U.S. House,6,Democratic,FRANK PALLONE JR. (w),140752
+Middlesex,U.S. House,6,Republican,RICHARD J. PEZZULLO,43871
+Monmouth,U.S. House,6,Republican,RICHARD J. PEZZULLO,36572
+Total,U.S. House,6,Republican,RICHARD J. PEZZULLO,80443
+Total,U.S. House,6,,,221195
+Essex,U.S. House,7,Democratic,TOM MALINOWSKI (w),6239
+Hunterdon,U.S. House,7,Democratic,TOM MALINOWSKI (w),28047
+Morris,U.S. House,7,Democratic,TOM MALINOWSKI (w),23103
+Somerset,U.S. House,7,Democratic,TOM MALINOWSKI (w),55478
+Union,U.S. House,7,Democratic,TOM MALINOWSKI (w),48217
+Warren,U.S. House,7,Democratic,TOM MALINOWSKI (w),5901
+Total,U.S. House,7,Democratic,TOM MALINOWSKI (w),166985
+Essex,U.S. House,7,Republican,LEONARD LANCE,2736
+Hunterdon,U.S. House,7,Republican,LEONARD LANCE,34017
+Morris,U.S. House,7,Republican,LEONARD LANCE,25263
+Somerset,U.S. House,7,Republican,LEONARD LANCE,46720
+Union,U.S. House,7,Republican,LEONARD LANCE,34650
+Warren,U.S. House,7,Republican,LEONARD LANCE,7399
+Total,U.S. House,7,Republican,LEONARD LANCE,150785
+Essex,U.S. House,7,Green Party,DIANE MOXLEY,33
+Hunterdon,U.S. House,7,Green Party,DIANE MOXLEY,624
+Morris,U.S. House,7,Green Party,DIANE MOXLEY,418
+Somerset,U.S. House,7,Green Party,DIANE MOXLEY,795
+Union,U.S. House,7,Green Party,DIANE MOXLEY,612
+Warren,U.S. House,7,Green Party,DIANE MOXLEY,194
+Total,U.S. House,7,Green Party,DIANE MOXLEY,2676
+Essex,U.S. House,7,"Freedom, Responsibility, Action",GREGG MELE,29
+Hunterdon,U.S. House,7,"Freedom, Responsibility, Action",GREGG MELE,597
+Morris,U.S. House,7,"Freedom, Responsibility, Action",GREGG MELE,310
+Somerset,U.S. House,7,"Freedom, Responsibility, Action",GREGG MELE,783
+Union,U.S. House,7,"Freedom, Responsibility, Action",GREGG MELE,449
+Warren,U.S. House,7,"Freedom, Responsibility, Action",GREGG MELE,128
+Total,U.S. House,7,"Freedom, Responsibility, Action",GREGG MELE,2296
+Total,U.S. House,7,,,322742
+Bergen,U.S. House,8,Democratic,ALBIO SIRES (w),1723
+Essex,U.S. House,8,Democratic,ALBIO SIRES (w),20977
+Hudson,U.S. House,8,Democratic,ALBIO SIRES (w),80789
+Union,U.S. House,8,Democratic,ALBIO SIRES (w),16392
+Total,U.S. House,8,Democratic,ALBIO SIRES (w),119881
+Bergen,U.S. House,8,Republican,JOHN R. MUNIZ,604
+Essex,U.S. House,8,Republican,JOHN R. MUNIZ,5148
+Hudson,U.S. House,8,Republican,JOHN R. MUNIZ,19281
+Union,U.S. House,8,Republican,JOHN R. MUNIZ,3692
+Total,U.S. House,8,Republican,JOHN R. MUNIZ,28725
+Bergen,U.S. House,8,New Way Forward,MAHMOUD MAHMOUD,42
+Essex,U.S. House,8,New Way Forward,MAHMOUD MAHMOUD,526
+Hudson,U.S. House,8,New Way Forward,MAHMOUD MAHMOUD,2758
+Union,U.S. House,8,New Way Forward,MAHMOUD MAHMOUD,332
+Total,U.S. House,8,New Way Forward,MAHMOUD MAHMOUD,3658
+Bergen,U.S. House,8,Libertarian Party,DAN DELANEY,37
+Essex,U.S. House,8,Libertarian Party,DAN DELANEY,152
+Hudson,U.S. House,8,Libertarian Party,DAN DELANEY,904
+Union,U.S. House,8,Libertarian Party,DAN DELANEY,98
+Total,U.S. House,8,Libertarian Party,DAN DELANEY,1191
+Total,U.S. House,8,,,153455
+Bergen,U.S. House,9,Democratic,BILL PASCRELL JR. (w),74915
+Hudson,U.S. House,9,Democratic,BILL PASCRELL JR. (w),6355
+Passaic,U.S. House,9,Democratic,BILL PASCRELL JR. (w),59562
+Total,U.S. House,9,Democratic,BILL PASCRELL JR. (w),140832
+Bergen,U.S. House,9,Republican,ERIC P. FISHER,38106
+Hudson,U.S. House,9,Republican,ERIC P. FISHER,3216
+Passaic,U.S. House,9,Republican,ERIC P. FISHER,16532
+Total,U.S. House,9,Republican,ERIC P. FISHER,57854
+Bergen,U.S. House,9,Libertarian Party,CLAUDIO BELUSIC,1208
+Hudson,U.S. House,9,Libertarian Party,CLAUDIO BELUSIC,77
+Passaic,U.S. House,9,Libertarian Party,CLAUDIO BELUSIC,445
+Total,U.S. House,9,Libertarian Party,CLAUDIO BELUSIC,1730
+Total,U.S. House,9,,,200416
+Essex,U.S. House,10,Democratic,DONALD M. PAYNE JR. (w),112372
+Hudson,U.S. House,10,Democratic,DONALD M. PAYNE JR. (w),25851
+Union,U.S. House,10,Democratic,DONALD M. PAYNE JR. (w),37030
+Total,U.S. House,10,Democratic,DONALD M. PAYNE JR. (w),175253
+Essex,U.S. House,10,Republican,AGHA KHAN,6983
+Hudson,U.S. House,10,Republican,AGHA KHAN,4709
+Union,U.S. House,10,Republican,AGHA KHAN,8499
+Total,U.S. House,10,Republican,AGHA KHAN,20191
+Essex,U.S. House,10,C4C 2018,CYNTHIA JOHNSON,720
+Hudson,U.S. House,10,C4C 2018,CYNTHIA JOHNSON,840
+Union,U.S. House,10,C4C 2018,CYNTHIA JOHNSON,510
+Total,U.S. House,10,C4C 2018,CYNTHIA JOHNSON,2070
+Essex,U.S. House,10,Never Give Up,JOANNE MILLER,1150
+Hudson,U.S. House,10,Never Give Up,JOANNE MILLER,446
+Union,U.S. House,10,Never Give Up,JOANNE MILLER,442
+Total,U.S. House,10,Never Give Up,JOANNE MILLER,2038
+Essex,U.S. House,10,Libertarian Party,SCOTT DIROMA,295
+Hudson,U.S. House,10,Libertarian Party,SCOTT DIROMA,175
+Union,U.S. House,10,Libertarian Party,SCOTT DIROMA,137
+Total,U.S. House,10,Libertarian Party,SCOTT DIROMA,607
+Total,U.S. House,10,,,200159
+Essex,U.S. House,11,Democratic,MIKIE SHERRILL (w),56669
+Morris,U.S. House,11,Democratic,MIKIE SHERRILL (w),89881
+Passaic,U.S. House,11,Democratic,MIKIE SHERRILL (w),27484
+Sussex,U.S. House,11,Democratic,MIKIE SHERRILL (w),9650
+Total,U.S. House,11,Democratic,MIKIE SHERRILL (w),183684
+Essex,U.S. House,11,Republican,JAY WEBBER,28008
+Morris,U.S. House,11,Republican,JAY WEBBER,73044
+Passaic,U.S. House,11,Republican,JAY WEBBER,24433
+Sussex,U.S. House,11,Republican,JAY WEBBER,10837
+Total,U.S. House,11,Republican,JAY WEBBER,136322
+Essex,U.S. House,11,"Honesty, Integrity, Compassion",ROBERT F. CROOK,650
+Morris,U.S. House,11,"Honesty, Integrity, Compassion",ROBERT F. CROOK,990
+Passaic,U.S. House,11,"Honesty, Integrity, Compassion",ROBERT F. CROOK,246
+Sussex,U.S. House,11,"Honesty, Integrity, Compassion",ROBERT F. CROOK,296
+Total,U.S. House,11,"Honesty, Integrity, Compassion",ROBERT F. CROOK,2182
+Essex,U.S. House,11,Libertarian Party,RYAN MARTINEZ,259
+Morris,U.S. House,11,Libertarian Party,RYAN MARTINEZ,610
+Passaic,U.S. House,11,Libertarian Party,RYAN MARTINEZ,299
+Sussex,U.S. House,11,Libertarian Party,RYAN MARTINEZ,218
+Total,U.S. House,11,Libertarian Party,RYAN MARTINEZ,1386
+Total,U.S. House,11,,,323574
+Mercer,U.S. House,12,Democratic,BONNIE WATSON COLEMAN (w),66323
+Middlesex,U.S. House,12,Democratic,BONNIE WATSON COLEMAN (w),65788
+Somerset,U.S. House,12,Democratic,BONNIE WATSON COLEMAN (w),21970
+Union,U.S. House,12,Democratic,BONNIE WATSON COLEMAN (w),19253
+Total,U.S. House,12,Democratic,BONNIE WATSON COLEMAN (w),173334
+Mercer,U.S. House,12,Republican,DARYL KIPNIS,20157
+Middlesex,U.S. House,12,Republican,DARYL KIPNIS,43423
+Somerset,U.S. House,12,Republican,DARYL KIPNIS,9440
+Union,U.S. House,12,Republican,DARYL KIPNIS,6021
+Total,U.S. House,12,Republican,DARYL KIPNIS,79041
+Total,U.S. House,12,,,252375
+Atlantic,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),44617
+Bergen,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),188235
+Burlington,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),98749
+Camden,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),113137
+Cape May,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),14555
+Cumberland,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),19386
+Essex,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),194068
+Gloucester,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),52303
+Hudson,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),132180
+Hunterdon,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),24823
+Mercer,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),80773
+Middlesex,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),148806
+Monmouth,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),112383
+Morris,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),93763
+Ocean,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),75597
+Passaic,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),86242
+Salem,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),9060
+Somerset,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),70359
+Sussex,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),20229
+Union,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),117937
+Warren,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),14452
+Total,U.S. Senate,,Democratic,ROBERT MENENDEZ (w),1711654
+Atlantic,U.S. Senate,,Republican,BOB HUGIN,45954
+Bergen,U.S. Senate,,Republican,BOB HUGIN,146406
+Burlington,U.S. Senate,,Republican,BOB HUGIN,82240
+Camden,U.S. Senate,,Republican,BOB HUGIN,63279
+Cape May,U.S. Senate,,Republican,BOB HUGIN,24823
+Cumberland,U.S. Senate,,Republican,BOB HUGIN,19244
+Essex,U.S. Senate,,Republican,BOB HUGIN,53537
+Gloucester,U.S. Senate,,Republican,BOB HUGIN,56090
+Hudson,U.S. Senate,,Republican,BOB HUGIN,36087
+Hunterdon,U.S. Senate,,Republican,BOB HUGIN,36116
+Mercer,U.S. Senate,,Republican,BOB HUGIN,41225
+Middlesex,U.S. Senate,,Republican,BOB HUGIN,98764
+Monmouth,U.S. Senate,,Republican,BOB HUGIN,140628
+Morris,U.S. Senate,,Republican,BOB HUGIN,114783
+Ocean,U.S. Senate,,Republican,BOB HUGIN,141902
+Passaic,U.S. Senate,,Republican,BOB HUGIN,58382
+Salem,U.S. Senate,,Republican,BOB HUGIN,13687
+Somerset,U.S. Senate,,Republican,BOB HUGIN,61373
+Sussex,U.S. Senate,,Republican,BOB HUGIN,37720
+Union,U.S. Senate,,Republican,BOB HUGIN,60758
+Warren,U.S. Senate,,Republican,BOB HUGIN,24357
+Total,U.S. Senate,,Republican,BOB HUGIN,1357355
+Atlantic,U.S. Senate,,Green Party,MADELYN R. HOFFMAN,606
+Bergen,U.S. Senate,,Green Party,MADELYN R. HOFFMAN,1955
+Burlington,U.S. Senate,,Green Party,MADELYN R. HOFFMAN,2745
+Camden,U.S. Senate,,Green Party,MADELYN R. HOFFMAN,1559
+Cape May,U.S. Senate,,Green Party,MADELYN R. HOFFMAN,157
+Cumberland,U.S. Senate,,Green Party,MADELYN R. HOFFMAN,224
+Essex,U.S. Senate,,Green Party,MADELYN R. HOFFMAN,1541
+Gloucester,U.S. Senate,,Green Party,MADELYN R. HOFFMAN,796
+Hudson,U.S. Senate,,Green Party,MADELYN R. HOFFMAN,2187
+Hunterdon,U.S. Senate,,Green Party,MADELYN R. HOFFMAN,624
+Mercer,U.S. Senate,,Green Party,MADELYN R. HOFFMAN,1205
+Middlesex,U.S. Senate,,Green Party,MADELYN R. HOFFMAN,1795
+Monmouth,U.S. Senate,,Green Party,MADELYN R. HOFFMAN,1944
+Morris,U.S. Senate,,Green Party,MADELYN R. HOFFMAN,1824
+Ocean,U.S. Senate,,Green Party,MADELYN R. HOFFMAN,748
+Passaic,U.S. Senate,,Green Party,MADELYN R. HOFFMAN,1000
+Salem,U.S. Senate,,Green Party,MADELYN R. HOFFMAN,342
+Somerset,U.S. Senate,,Green Party,MADELYN R. HOFFMAN,1251
+Sussex,U.S. Senate,,Green Party,MADELYN R. HOFFMAN,605
+Union,U.S. Senate,,Green Party,MADELYN R. HOFFMAN,1667
+Warren,U.S. Senate,,Green Party,MADELYN R. HOFFMAN,375
+Total,U.S. Senate,,Green Party,MADELYN R. HOFFMAN,25150
+Atlantic,U.S. Senate,,Libertarian Party,MURRAY SABRIN,569
+Bergen,U.S. Senate,,Libertarian Party,MURRAY SABRIN,3333
+Burlington,U.S. Senate,,Libertarian Party,MURRAY SABRIN,934
+Camden,U.S. Senate,,Libertarian Party,MURRAY SABRIN,1132
+Cape May,U.S. Senate,,Libertarian Party,MURRAY SABRIN,218
+Cumberland,U.S. Senate,,Libertarian Party,MURRAY SABRIN,479
+Essex,U.S. Senate,,Libertarian Party,MURRAY SABRIN,841
+Gloucester,U.S. Senate,,Libertarian Party,MURRAY SABRIN,1563
+Hudson,U.S. Senate,,Libertarian Party,MURRAY SABRIN,834
+Hunterdon,U.S. Senate,,Libertarian Party,MURRAY SABRIN,558
+Mercer,U.S. Senate,,Libertarian Party,MURRAY SABRIN,866
+Middlesex,U.S. Senate,,Libertarian Party,MURRAY SABRIN,1476
+Monmouth,U.S. Senate,,Libertarian Party,MURRAY SABRIN,1835
+Morris,U.S. Senate,,Libertarian Party,MURRAY SABRIN,1585
+Ocean,U.S. Senate,,Libertarian Party,MURRAY SABRIN,960
+Passaic,U.S. Senate,,Libertarian Party,MURRAY SABRIN,816
+Salem,U.S. Senate,,Libertarian Party,MURRAY SABRIN,223
+Somerset,U.S. Senate,,Libertarian Party,MURRAY SABRIN,924
+Sussex,U.S. Senate,,Libertarian Party,MURRAY SABRIN,967
+Union,U.S. Senate,,Libertarian Party,MURRAY SABRIN,733
+Warren,U.S. Senate,,Libertarian Party,MURRAY SABRIN,366
+Total,U.S. Senate,,Libertarian Party,MURRAY SABRIN,21212
+Atlantic,U.S. Senate,,For The People,NATALIE LYNN RIVERA,1564
+Bergen,U.S. Senate,,For The People,NATALIE LYNN RIVERA,1884
+Burlington,U.S. Senate,,For The People,NATALIE LYNN RIVERA,647
+Camden,U.S. Senate,,For The People,NATALIE LYNN RIVERA,1659
+Cape May,U.S. Senate,,For The People,NATALIE LYNN RIVERA,577
+Cumberland,U.S. Senate,,For The People,NATALIE LYNN RIVERA,357
+Essex,U.S. Senate,,For The People,NATALIE LYNN RIVERA,979
+Gloucester,U.S. Senate,,For The People,NATALIE LYNN RIVERA,710
+Hudson,U.S. Senate,,For The People,NATALIE LYNN RIVERA,831
+Hunterdon,U.S. Senate,,For The People,NATALIE LYNN RIVERA,251
+Mercer,U.S. Senate,,For The People,NATALIE LYNN RIVERA,611
+Middlesex,U.S. Senate,,For The People,NATALIE LYNN RIVERA,1585
+Monmouth,U.S. Senate,,For The People,NATALIE LYNN RIVERA,919
+Morris,U.S. Senate,,For The People,NATALIE LYNN RIVERA,2132
+Ocean,U.S. Senate,,For The People,NATALIE LYNN RIVERA,1728
+Passaic,U.S. Senate,,For The People,NATALIE LYNN RIVERA,1165
+Salem,U.S. Senate,,For The People,NATALIE LYNN RIVERA,220
+Somerset,U.S. Senate,,For The People,NATALIE LYNN RIVERA,606
+Sussex,U.S. Senate,,For The People,NATALIE LYNN RIVERA,473
+Union,U.S. Senate,,For The People,NATALIE LYNN RIVERA,707
+Warren,U.S. Senate,,For The People,NATALIE LYNN RIVERA,292
+Total,U.S. Senate,,For The People,NATALIE LYNN RIVERA,19897
+Atlantic,U.S. Senate,,New Day NJ,TRICIA FLANAGAN,230
+Bergen,U.S. Senate,,New Day NJ,TRICIA FLANAGAN,1084
+Burlington,U.S. Senate,,New Day NJ,TRICIA FLANAGAN,889
+Camden,U.S. Senate,,New Day NJ,TRICIA FLANAGAN,719
+Cape May,U.S. Senate,,New Day NJ,TRICIA FLANAGAN,171
+Cumberland,U.S. Senate,,New Day NJ,TRICIA FLANAGAN,264
+Essex,U.S. Senate,,New Day NJ,TRICIA FLANAGAN,1149
+Gloucester,U.S. Senate,,New Day NJ,TRICIA FLANAGAN,895
+Hudson,U.S. Senate,,New Day NJ,TRICIA FLANAGAN,395
+Hunterdon,U.S. Senate,,New Day NJ,TRICIA FLANAGAN,482
+Mercer,U.S. Senate,,New Day NJ,TRICIA FLANAGAN,1480
+Middlesex,U.S. Senate,,New Day NJ,TRICIA FLANAGAN,2261
+Monmouth,U.S. Senate,,New Day NJ,TRICIA FLANAGAN,765
+Morris,U.S. Senate,,New Day NJ,TRICIA FLANAGAN,429
+Ocean,U.S. Senate,,New Day NJ,TRICIA FLANAGAN,1026
+Passaic,U.S. Senate,,New Day NJ,TRICIA FLANAGAN,1181
+Salem,U.S. Senate,,New Day NJ,TRICIA FLANAGAN,124
+Somerset,U.S. Senate,,New Day NJ,TRICIA FLANAGAN,1232
+Sussex,U.S. Senate,,New Day NJ,TRICIA FLANAGAN,451
+Union,U.S. Senate,,New Day NJ,TRICIA FLANAGAN,507
+Warren,U.S. Senate,,New Day NJ,TRICIA FLANAGAN,367
+Total,U.S. Senate,,New Day NJ,TRICIA FLANAGAN,16101
+Atlantic,U.S. Senate,,Make It Simple,KEVIN KIMPLE,120
+Bergen,U.S. Senate,,Make It Simple,KEVIN KIMPLE,840
+Burlington,U.S. Senate,,Make It Simple,KEVIN KIMPLE,467
+Camden,U.S. Senate,,Make It Simple,KEVIN KIMPLE,332
+Cape May,U.S. Senate,,Make It Simple,KEVIN KIMPLE,108
+Cumberland,U.S. Senate,,Make It Simple,KEVIN KIMPLE,142
+Essex,U.S. Senate,,Make It Simple,KEVIN KIMPLE,1268
+Gloucester,U.S. Senate,,Make It Simple,KEVIN KIMPLE,166
+Hudson,U.S. Senate,,Make It Simple,KEVIN KIMPLE,198
+Hunterdon,U.S. Senate,,Make It Simple,KEVIN KIMPLE,187
+Mercer,U.S. Senate,,Make It Simple,KEVIN KIMPLE,211
+Middlesex,U.S. Senate,,Make It Simple,KEVIN KIMPLE,472
+Monmouth,U.S. Senate,,Make It Simple,KEVIN KIMPLE,1621
+Morris,U.S. Senate,,Make It Simple,KEVIN KIMPLE,353
+Ocean,U.S. Senate,,Make It Simple,KEVIN KIMPLE,433
+Passaic,U.S. Senate,,Make It Simple,KEVIN KIMPLE,286
+Salem,U.S. Senate,,Make It Simple,KEVIN KIMPLE,115
+Somerset,U.S. Senate,,Make It Simple,KEVIN KIMPLE,224
+Sussex,U.S. Senate,,Make It Simple,KEVIN KIMPLE,308
+Union,U.S. Senate,,Make It Simple,KEVIN KIMPLE,1062
+Warren,U.S. Senate,,Make It Simple,KEVIN KIMPLE,174
+Total,U.S. Senate,,Make It Simple,KEVIN KIMPLE,9087
+Atlantic,U.S. Senate,,Economic Growth,HANK SCHROEDER,413
+Bergen,U.S. Senate,,Economic Growth,HANK SCHROEDER,446
+Burlington,U.S. Senate,,Economic Growth,HANK SCHROEDER,429
+Camden,U.S. Senate,,Economic Growth,HANK SCHROEDER,1199
+Cape May,U.S. Senate,,Economic Growth,HANK SCHROEDER,68
+Cumberland,U.S. Senate,,Economic Growth,HANK SCHROEDER,51
+Essex,U.S. Senate,,Economic Growth,HANK SCHROEDER,250
+Gloucester,U.S. Senate,,Economic Growth,HANK SCHROEDER,179
+Hudson,U.S. Senate,,Economic Growth,HANK SCHROEDER,418
+Hunterdon,U.S. Senate,,Economic Growth,HANK SCHROEDER,93
+Mercer,U.S. Senate,,Economic Growth,HANK SCHROEDER,412
+Middlesex,U.S. Senate,,Economic Growth,HANK SCHROEDER,462
+Monmouth,U.S. Senate,,Economic Growth,HANK SCHROEDER,1324
+Morris,U.S. Senate,,Economic Growth,HANK SCHROEDER,169
+Ocean,U.S. Senate,,Economic Growth,HANK SCHROEDER,1828
+Passaic,U.S. Senate,,Economic Growth,HANK SCHROEDER,252
+Salem,U.S. Senate,,Economic Growth,HANK SCHROEDER,44
+Somerset,U.S. Senate,,Economic Growth,HANK SCHROEDER,213
+Sussex,U.S. Senate,,Economic Growth,HANK SCHROEDER,122
+Union,U.S. Senate,,Economic Growth,HANK SCHROEDER,262
+Warren,U.S. Senate,,Economic Growth,HANK SCHROEDER,220
+Total,U.S. Senate,,Economic Growth,HANK SCHROEDER,8854
