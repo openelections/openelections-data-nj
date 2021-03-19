@@ -1,0 +1,392 @@
+county,precinct,office,district,party,candidate,votes,election_day,mail,provisional
+Passaic,Bloomingdale,Registered Voters,,,,5938,,,
+Passaic,Bloomingdale,Ballots Cast,,,,4589,3,4423,163
+Passaic,Bloomingdale,President,,DEM,Joe Biden,2098,0,2035,63
+Passaic,Bloomingdale,President,,REP,Donald Trump,2369,3,2274,92
+Passaic,Bloomingdale,President,,LIB,Jo Jorgensen,37,0,37,0
+Passaic,Bloomingdale,President,,GRN,Howie Hawkins,20,0,20,0
+Passaic,Bloomingdale,President,,UNITY,Bill Hammons,2,0,2,0
+Passaic,Bloomingdale,President,,CON,Don Blankenship,3,0,3,0
+Passaic,Bloomingdale,President,,SAL,Gloria La Riva,3,0,3,0
+Passaic,Bloomingdale,President,,AP,Rocky de la Fuente Guerra,5,0,5,0
+Passaic,Bloomingdale,President,,WRI,write-in,9,0,9,0
+Passaic,Bloomingdale,US Senate,,DEM,Cory Booker,2093,0,2027,66
+Passaic,Bloomingdale,US Senate,,REP,Rik Mehta,2197,3,2116,78
+Passaic,Bloomingdale,US Senate,,GRN,Madelyn Hoffman,72,0,68,4
+Passaic,Bloomingdale,US Senate,,OBF,Veronica Fernandez,44,0,42,2
+Passaic,Bloomingdale,US Senate,,LWR,Daniel Burke,30,0,27,3
+Passaic,Bloomingdale,US Senate,,WRI,write-in,8,0,8,0
+Passaic,Bloomingdale,US House,CD11,DEM,Mikie Sherrill,2154,0,2085,69
+Passaic,Bloomingdale,US House,CD11,REP,Rosemary Becchi,2303,3,2214,86
+Passaic,Bloomingdale,US House,CD11,WRI,write-in,4,0,4,0
+Passaic,Clifton,Registered Voters,,,,57784,,,
+Passaic,Clifton,Ballots Cast,,,,40975,3,37606,3366
+Passaic,Clifton,President,,DEM,Joe Biden,23931,0,22060,1871
+Passaic,Clifton,President,,REP,Donald Trump,13909,1,12856,1052
+Passaic,Clifton,President,,LIB,Jo Jorgensen,562,0,509,53
+Passaic,Clifton,President,,GRN,Howie Hawkins,593,0,478,115
+Passaic,Clifton,President,,UNITY,Bill Hammons,192,0,168,24
+Passaic,Clifton,President,,CON,Don Blankenship,39,0,39,0
+Passaic,Clifton,President,,SAL,Gloria La Riva,32,0,29,3
+Passaic,Clifton,President,,AP,Rocky de la Fuente Guerra,47,0,43,4
+Passaic,Clifton,President,,WRI,write-in,109,0,99,10
+Passaic,Clifton,US Senate,,DEM,Cory Booker,24407,0,22501,1906
+Passaic,Clifton,US Senate,,REP,Rik Mehta,13909,1,12856,1052
+Passaic,Clifton,US Senate,,GRN,Madelyn Hoffman,562,0,509,53
+Passaic,Clifton,US Senate,,OBF,Veronica Fernandez,593,0,478,115
+Passaic,Clifton,US Senate,,LWR,Daniel Burke,192,0,168,24
+Passaic,Clifton,US Senate,,WRI,write-in,39,0,39,0
+Passaic,Clifton,US House,CD09,DEM,Bill Pascrell,25639,0,23670,1969
+Passaic,Clifton,US House,CD09,REP,Billy Prempeh,12856,1,11797,1058
+Passaic,Clifton,US House,CD09,VFC,Chris Auriemma,1171,0,1054,117
+Passaic,Clifton,US House,CD09,WRI,write-in,32,0,32,0
+Passaic,Haledon,Registered Voters,,,,5636,,,
+Passaic,Haledon,Ballots Cast,,,,3881,6,3441,434
+Passaic,Haledon,President,,DEM,Joe Biden,,4,2361,312
+Passaic,Haledon,President,,REP,Donald Trump,,2,1001,104
+Passaic,Haledon,President,,LIB,Jo Jorgensen,,0,12,1
+Passaic,Haledon,President,,GRN,Howie Hawkins,,0,14,2
+Passaic,Haledon,President,,UNITY,Bill Hammons,,0,3,0
+Passaic,Haledon,President,,CON,Don Blankenship,,0,3,0
+Passaic,Haledon,President,,SAL,Gloria La Riva,,0,6,0
+Passaic,Haledon,President,,AP,Rocky de la Fuente Guerra,,0,3,0
+Passaic,Haledon,President,,WRI,write-in,,0,16,1
+Passaic,Haledon,US Senate,,DEM,Cory Booker,,3,2425,309
+Passaic,Haledon,US Senate,,REP,Rik Mehta,,2,807,69
+Passaic,Haledon,US Senate,,GRN,Madelyn Hoffman,,0,41,8
+Passaic,Haledon,US Senate,,OBF,Veronica Fernandez,,0,46,12
+Passaic,Haledon,US Senate,,LWR,Daniel Burke,,0,10,4
+Passaic,Haledon,US Senate,,WRI,write-in,,0,6,1
+Passaic,Haledon,US House,CD09,DEM,Bill Pascrell,,3,2505,326
+Passaic,Haledon,US House,CD09,REP,Billy Prempeh,,2,721,72
+Passaic,Haledon,US House,CD09,VFC,Chris Auriemma,,0,96,9
+Passaic,Haledon,US House,CD09,WRI,write-in,,0,4,0
+Passaic,Hawthorne Ward 3,Registered Voters,,,,3880,,,
+Passaic,Hawthorne Ward 3,Ballots Cast,,,,3154,1,3102,51
+Passaic,Hawthorne Ward 3,President,,DEM,Joe Biden,1467,1,1440,26
+Passaic,Hawthorne Ward 3,President,,REP,Donald Trump,1600,0,1576,24
+Passaic,Hawthorne Ward 3,President,,LIB,Jo Jorgensen,20,0,20,0
+Passaic,Hawthorne Ward 3,President,,GRN,Howie Hawkins,16,0,15,1
+Passaic,Hawthorne Ward 3,President,,UNITY,Bill Hammons,2,0,2,0
+Passaic,Hawthorne Ward 3,President,,CON,Don Blankenship,4,0,4,2
+Passaic,Hawthorne Ward 3,President,,SAL,Gloria La Riva,1,0,1,0
+Passaic,Hawthorne Ward 3,President,,AP,Rocky de la Fuente Guerra,7,0,7,0
+Passaic,Hawthorne Ward 3,President,,WRI,write-in,13,0,13,0
+Passaic,Hawthorne Ward 3,US Senate,,DEM,Cory Booker,1433,1,1408,24
+Passaic,Hawthorne Ward 3,US Senate,,REP,Rik Mehta,1536,0,1515,21
+Passaic,Hawthorne Ward 3,US Senate,,GRN,Madelyn Hoffman,56,0,55,1
+Passaic,Hawthorne Ward 3,US Senate,,OBF,Veronica Fernandez,25,0,24,1
+Passaic,Hawthorne Ward 3,US Senate,,LWR,Daniel Burke,13,0,11,2
+Passaic,Hawthorne Ward 3,US Senate,,WRI,write-in,2,0,2,0
+Passaic,Hawthorne Ward 3,US House,CD09,DEM,Bill Pascrell,1546,1,1519,26
+Passaic,Hawthorne Ward 3,US House,CD09,REP,Billy Prempeh,1420,0,1400,20
+Passaic,Hawthorne Ward 3,US House,CD09,VFC,Chris Auriemma,97,0,92,5
+Passaic,Hawthorne Ward 3,US House,CD09,WRI,write-in,1,0,1,0
+Passaic,Hawthorne rest,Registered Voters,,,,10580,,,
+Passaic,Hawthorne rest,Ballots Cast,,,,8203,5,7808,390
+Passaic,Hawthorne rest,President,,DEM,Joe Biden,4345,2,4155,188
+Passaic,Hawthorne rest,President,,REP,Donald Trump,3654,3,3463,188
+Passaic,Hawthorne rest,President,,LIB,Jo Jorgensen,48,0,48,0
+Passaic,Hawthorne rest,President,,GRN,Howie Hawkins,16,0,15,1
+Passaic,Hawthorne rest,President,,UNITY,Bill Hammons,5,0,5,0
+Passaic,Hawthorne rest,President,,CON,Don Blankenship,8,0,6,2
+Passaic,Hawthorne rest,President,,SAL,Gloria La Riva,6,0,5,1
+Passaic,Hawthorne rest,President,,AP,Rocky de la Fuente Guerra,13,0,12,1
+Passaic,Hawthorne rest,President,,WRI,write-in,21,0,19,2
+Passaic,Hawthorne rest,US Senate,,DEM,Cory Booker,4359,1,4150,208
+Passaic,Hawthorne rest,US Senate,,REP,Rik Mehta,3391,2,3246,143
+Passaic,Hawthorne rest,US Senate,,GRN,Madelyn Hoffman,112,0,107,5
+Passaic,Hawthorne rest,US Senate,,OBF,Veronica Fernandez,86,0,77,9
+Passaic,Hawthorne rest,US Senate,,LWR,Daniel Burke,38,0,30,8
+Passaic,Hawthorne rest,US Senate,,WRI,write-in,2,0,2,0
+Passaic,Hawthorne rest,US House,CD09,DEM,Bill Pascrell,4525,1,4304,220
+Passaic,Hawthorne rest,US House,CD09,REP,Billy Prempeh,3155,2,3019,134
+Passaic,Hawthorne rest,US House,CD09,VFC,Chris Auriemma,269,1,252,16
+Passaic,Hawthorne rest,US House,CD09,WRI,write-in,1,0,1,0
+Passaic,Little Falls,Registered Voters,,,,9027,,,
+Passaic,Little Falls,Ballots Cast,,,,6887,6,6591,290
+Passaic,Little Falls,President,,DEM,Joe Biden,3379,0,3238,141
+Passaic,Little Falls,President,,REP,Donald Trump,3340,6,3191,143
+Passaic,Little Falls,President,,LIB,Jo Jorgensen,39,0,36,3
+Passaic,Little Falls,President,,GRN,Howie Hawkins,22,0,22,0
+Passaic,Little Falls,President,,UNITY,Bill Hammons,2,0,2,0
+Passaic,Little Falls,President,,CON,Don Blankenship,2,0,2,0
+Passaic,Little Falls,President,,SAL,Gloria La Riva,6,0,6,0
+Passaic,Little Falls,President,,AP,Rocky de la Fuente Guerra,11,0,11,0
+Passaic,Little Falls,President,,WRI,write-in,29,0,27,2
+Passaic,Little Falls,US Senate,,DEM,Cory Booker,3470,0,3325,145
+Passaic,Little Falls,US Senate,,REP,Rik Mehta,3052,5,2930,117
+Passaic,Little Falls,US Senate,,GRN,Madelyn Hoffman,75,0,69,6
+Passaic,Little Falls,US Senate,,OBF,Veronica Fernandez,57,0,50,7
+Passaic,Little Falls,US Senate,,LWR,Daniel Burke,30,1,26,3
+Passaic,Little Falls,US Senate,,WRI,write-in,6,0,6,0
+Passaic,Little Falls,US House,CD11,DEM,Mikie Sherrill,3599,0,3449,150
+Passaic,Little Falls,US House,CD11,REP,Rosemary Becchi,3049,5,2917,127
+Passaic,Little Falls,US House,CD11,WRI,write-in,9,0,7,2
+Passaic,North Haledon,Registered Voters,,,,7106,,,
+Passaic,North Haledon,Ballots Cast,,,,5692,0,5523,169
+Passaic,North Haledon,President,,DEM,Joe Biden,2087,0,2018,69
+Passaic,North Haledon,President,,REP,Donald Trump,3470,0,3374,96
+Passaic,North Haledon,President,,LIB,Jo Jorgensen,31,0,30,1
+Passaic,North Haledon,President,,GRN,Howie Hawkins,24,0,24,0
+Passaic,North Haledon,President,,UNITY,Bill Hammons,6,0,6,0
+Passaic,North Haledon,President,,CON,Don Blankenship,6,0,6,0
+Passaic,North Haledon,President,,SAL,Gloria La Riva,4,0,4,0
+Passaic,North Haledon,President,,AP,Rocky de la Fuente Guerra,4,0,3,1
+Passaic,North Haledon,President,,WRI,write-in,23,0,22,1
+Passaic,North Haledon,US Senate,,DEM,Cory Booker,2044,0,1975,69
+Passaic,North Haledon,US Senate,,REP,Rik Mehta,3351,0,3269,82
+Passaic,North Haledon,US Senate,,GRN,Madelyn Hoffman,71,0,69,2
+Passaic,North Haledon,US Senate,,OBF,Veronica Fernandez,26,0,22,4
+Passaic,North Haledon,US Senate,,LWR,Daniel Burke,29,0,29,0
+Passaic,North Haledon,US Senate,,WRI,write-in,4,0,4,0
+Passaic,North Haledon,US House,CD11,DEM,Mikie Sherrill,2073,0,2006,67
+Passaic,North Haledon,US House,CD11,REP,Rosemary Becchi,3450,0,3361,89
+Passaic,North Haledon,US House,CD11,WRI,write-in,2,0,2,0
+Passaic,Passaic,Registered Voters,,,,31139,,,
+Passaic,Passaic,Ballots Cast,,,,18956,20,15893,3043
+Passaic,Passaic,President,,DEM,Joe Biden,11638,12,9763,1863
+Passaic,Passaic,President,,REP,Donald Trump,6834,8,5789,1037
+Passaic,Passaic,President,,LIB,Jo Jorgensen,59,0,49,10
+Passaic,Passaic,President,,GRN,Howie Hawkins,44,0,39,5
+Passaic,Passaic,President,,UNITY,Bill Hammons,5,0,5,0
+Passaic,Passaic,President,,CON,Don Blankenship,11,0,10,1
+Passaic,Passaic,President,,SAL,Gloria La Riva,16,0,14,2
+Passaic,Passaic,President,,AP,Rocky de la Fuente Guerra,27,0,21,6
+Passaic,Passaic,President,,WRI,write-in,54,0,50,4
+Passaic,Passaic,US Senate,,DEM,Cory Booker,12289,10,10369,1910
+Passaic,Passaic,US Senate,,REP,Rik Mehta,5106,5,4464,637
+Passaic,Passaic,US Senate,,GRN,Madelyn Hoffman,139,0,110,29
+Passaic,Passaic,US Senate,,OBF,Veronica Fernandez,415,1,284,130
+Passaic,Passaic,US Senate,,LWR,Daniel Burke,80,1,57,22
+Passaic,Passaic,US Senate,,WRI,write-in,16,0,16,0
+Passaic,Passaic,US House,CD09,DEM,Bill Pascrell,12727,10,10721,1996
+Passaic,Passaic,US House,CD09,REP,Billy Prempeh,4838,5,4211,622
+Passaic,Passaic,US House,CD09,VFC,Chris Auriemma,372,0,294,78
+Passaic,Passaic,US House,CD09,WRI,write-in,16,0,16,0
+Passaic,Paterson Ward 2,Registered Voters,,,,14990,,,
+Passaic,Paterson Ward 2,Ballots Cast,,,,9813,7,9059,747
+Passaic,Paterson Ward 2,President,,DEM,Joe Biden,7504,3,7021,480
+Passaic,Paterson Ward 2,President,,REP,Donald Trump,2096,2,1844,250
+Passaic,Paterson Ward 2,President,,LIB,Jo Jorgensen,21,0,19,2
+Passaic,Paterson Ward 2,President,,GRN,Howie Hawkins,25,,25,0
+Passaic,Paterson Ward 2,President,,UNITY,Bill Hammons,1,,1,0
+Passaic,Paterson Ward 2,President,,CON,Don Blankenship,2,,2,0
+Passaic,Paterson Ward 2,President,,SAL,Gloria La Riva,6,,6,0
+Passaic,Paterson Ward 2,President,,AP,Rocky de la Fuente Guerra,5,,3,2
+Passaic,Paterson Ward 2,President,,WRI,write-in,20,,19,1
+Passaic,Paterson Ward 2,US Senate,,DEM,Cory Booker,7607,3,7109,495
+Passaic,Paterson Ward 2,US Senate,,REP,Rik Mehta,1333,1,1191,141
+Passaic,Paterson Ward 2,US Senate,,GRN,Madelyn Hoffman,85,,75,10
+Passaic,Paterson Ward 2,US Senate,,OBF,Veronica Fernandez,223,,172,51
+Passaic,Paterson Ward 2,US Senate,,LWR,Daniel Burke,46,,41,5
+Passaic,Paterson Ward 2,US Senate,,WRI,write-in,3,,3,0
+Passaic,Paterson Ward 2,US House,CD09,DEM,Bill Pascrell,7706,4,7181,521
+Passaic,Paterson Ward 2,US House,CD09,REP,Billy Prempeh,1366,1,1213,152
+Passaic,Paterson Ward 2,US House,CD09,VFC,Chris Auriemma,177,,153,24
+Passaic,Paterson Ward 2,US House,CD09,WRI,write-in,3,,3,0
+Passaic,Paterson Ward 3,Registered Voters,,,,15112,,,
+Passaic,Paterson Ward 3,Ballots Cast,,,,9581,53,8872,656
+Passaic,Paterson Ward 3,President,,DEM,Joe Biden,7779,39,7287,453
+Passaic,Paterson Ward 3,President,,REP,Donald Trump,1603,11,1419,173
+Passaic,Paterson Ward 3,President,,LIB,Jo Jorgensen,15,0,14,1
+Passaic,Paterson Ward 3,President,,GRN,Howie Hawkins,24,0,23,1
+Passaic,Paterson Ward 3,President,,UNITY,Bill Hammons,0,0,0,0
+Passaic,Paterson Ward 3,President,,CON,Don Blankenship,6,0,6,0
+Passaic,Paterson Ward 3,President,,SAL,Gloria La Riva,10,0,10,0
+Passaic,Paterson Ward 3,President,,AP,Rocky de la Fuente Guerra,4,0,2,2
+Passaic,Paterson Ward 3,President,,WRI,write-in,10,0,10,0
+Passaic,Paterson Ward 3,US Senate,,DEM,Cory Booker,7902,35,7408,459
+Passaic,Paterson Ward 3,US Senate,,REP,Rik Mehta,819,5,734,80
+Passaic,Paterson Ward 3,US Senate,,GRN,Madelyn Hoffman,75,0,70,5
+Passaic,Paterson Ward 3,US Senate,,OBF,Veronica Fernandez,244,1,203,40
+Passaic,Paterson Ward 3,US Senate,,LWR,Daniel Burke,28,0,23,5
+Passaic,Paterson Ward 3,US Senate,,WRI,write-in,8,0,8,0
+Passaic,Paterson Ward 3,US House,CD09,DEM,Bill Pascrell,7969,34,7456,479
+Passaic,Paterson Ward 3,US House,CD09,REP,Billy Prempeh,874,8,777,89
+Passaic,Paterson Ward 3,US House,CD09,VFC,Chris Auriemma,150,0,126,24
+Passaic,Paterson Ward 3,US House,CD09,WRI,write-in,13,0,13,0
+Passaic,Paterson rest,Registered Voters,,,,55829,,,
+Passaic,Paterson rest,Ballots Cast,,,,29416,125,25374,3917
+Passaic,Paterson rest,President,,DEM,Joe Biden,23170,85,20454,2631
+Passaic,Paterson rest,President,,REP,Donald Trump,5354,30,4290,1034
+Passaic,Paterson rest,President,,LIB,Jo Jorgensen,61,0,55,6
+Passaic,Paterson rest,President,,GRN,Howie Hawkins,92,5,70,17
+Passaic,Paterson rest,President,,UNITY,Bill Hammons,15,1,11,3
+Passaic,Paterson rest,President,,CON,Don Blankenship,13,0,10,3
+Passaic,Paterson rest,President,,SAL,Gloria La Riva,37,0,34,3
+Passaic,Paterson rest,President,,AP,Rocky de la Fuente Guerra,33,1,27,5
+Passaic,Paterson rest,President,,WRI,write-in,52,0,48,4
+Passaic,Paterson rest,US Senate,,DEM,Cory Booker,24030,64,21242,2724
+Passaic,Paterson rest,US Senate,,REP,Rik Mehta,2974,18,2437,519
+Passaic,Paterson rest,US Senate,,GRN,Madelyn Hoffman,241,3,206,32
+Passaic,Paterson rest,US Senate,,OBF,Veronica Fernandez,748,1,553,194
+Passaic,Paterson rest,US Senate,,LWR,Daniel Burke,136,5,96,35
+Passaic,Paterson rest,US Senate,,WRI,write-in,8,0,8,0
+Passaic,Paterson rest,US House,CD09,DEM,Bill Pascrell,24428,65,21486,2877
+Passaic,Paterson rest,US House,CD09,REP,Billy Prempeh,3144,21,2587,536
+Passaic,Paterson rest,US House,CD09,VFC,Chris Auriemma,507,2,407,98
+Passaic,Paterson rest,US House,CD09,WRI,write-in,19,0,19,0
+Passaic,Pompton Lakes,Registered Voters,,,,8439,,,
+Passaic,Pompton Lakes,Ballots Cast,,,,6458,2,6194,262
+Passaic,Pompton Lakes,President,,DEM,Joe Biden,2920,1,2798,121
+Passaic,Pompton Lakes,President,,REP,Donald Trump,3365,1,3229,135
+Passaic,Pompton Lakes,President,,LIB,Jo Jorgensen,42,0,41,1
+Passaic,Pompton Lakes,President,,GRN,Howie Hawkins,33,0,32,1
+Passaic,Pompton Lakes,President,,UNITY,Bill Hammons,5,0,5,0
+Passaic,Pompton Lakes,President,,CON,Don Blankenship,5,0,5,0
+Passaic,Pompton Lakes,President,,SAL,Gloria La Riva,4,0,4,0
+Passaic,Pompton Lakes,President,,AP,Rocky de la Fuente Guerra,10,0,10,0
+Passaic,Pompton Lakes,President,,WRI,write-in,27,0,26,1
+Passaic,Pompton Lakes,US Senate,,DEM,Cory Booker,2912,0,2799,113
+Passaic,Pompton Lakes,US Senate,,REP,Rik Mehta,3183,1,3068,114
+Passaic,Pompton Lakes,US Senate,,GRN,Madelyn Hoffman,91,0,84,7
+Passaic,Pompton Lakes,US Senate,,OBF,Veronica Fernandez,58,0,48,10
+Passaic,Pompton Lakes,US Senate,,LWR,Daniel Burke,20,0,18,2
+Passaic,Pompton Lakes,US Senate,,WRI,write-in,2,0,2,0
+Passaic,Pompton Lakes,US House,CD11,DEM,Mikie Sherrill,2999,0,2878,121
+Passaic,Pompton Lakes,US House,CD11,REP,Rosemary Becchi,3259,1,3135,123
+Passaic,Pompton Lakes,US House,CD11,WRI,write-in,5,0,5,0
+Passaic,Prospect Park,Registered Voters,,,,4055,,,
+Passaic,Prospect Park,Ballots Cast,,,,2587,1,2250,336
+Passaic,Prospect Park,President,,DEM,Joe Biden,1859,1,1637,221
+Passaic,Prospect Park,President,,REP,Donald Trump,649,0,558,91
+Passaic,Prospect Park,President,,LIB,Jo Jorgensen,13,0,10,3
+Passaic,Prospect Park,President,,GRN,Howie Hawkins,7,0,6,1
+Passaic,Prospect Park,President,,UNITY,Bill Hammons,0,0,0,0
+Passaic,Prospect Park,President,,CON,Don Blankenship,0,0,0,0
+Passaic,Prospect Park,President,,SAL,Gloria La Riva,2,0,1,1
+Passaic,Prospect Park,President,,AP,Rocky de la Fuente Guerra,1,0,1,0
+Passaic,Prospect Park,President,,WRI,write-in,7,0,7,0
+Passaic,Prospect Park,US Senate,,DEM,Cory Booker,1923,1,1710,212
+Passaic,Prospect Park,US Senate,,REP,Rik Mehta,490,0,418,72
+Passaic,Prospect Park,US Senate,,GRN,Madelyn Hoffman,19,0,16,3
+Passaic,Prospect Park,US Senate,,OBF,Veronica Fernandez,51,0,37,14
+Passaic,Prospect Park,US Senate,,LWR,Daniel Burke,4,0,4,0
+Passaic,Prospect Park,US Senate,,WRI,write-in,3,0,3,0
+Passaic,Prospect Park,US House,CD09,DEM,Bill Pascrell,1973,1,1743,229
+Passaic,Prospect Park,US House,CD09,REP,Billy Prempeh,465,0,397,68
+Passaic,Prospect Park,US House,CD09,VFC,Chris Auriemma,61,0,53,8
+Passaic,Prospect Park,US House,CD09,WRI,write-in,6,0,6,0
+Passaic,Ringwood,Registered Voters,,,,9811,,,
+Passaic,Ringwood,Ballots Cast,,,,7822,0,7573,249
+Passaic,Ringwood,President,,DEM,Joe Biden,3635,0,3550,85
+Passaic,Ringwood,President,,REP,Donald Trump,3959,0,3809,150
+Passaic,Ringwood,President,,LIB,Jo Jorgensen,77,0,75,2
+Passaic,Ringwood,President,,GRN,Howie Hawkins,43,0,39,4
+Passaic,Ringwood,President,,UNITY,Bill Hammons,9,0,8,1
+Passaic,Ringwood,President,,CON,Don Blankenship,6,0,5,1
+Passaic,Ringwood,President,,SAL,Gloria La Riva,4,0,4,0
+Passaic,Ringwood,President,,AP,Rocky de la Fuente Guerra,11,0,11,0
+Passaic,Ringwood,President,,WRI,write-in,21,0,21,0
+Passaic,Ringwood,US Senate,,DEM,Cory Booker,3564,0,3476,88
+Passaic,Ringwood,US Senate,,REP,Rik Mehta,3861,0,3722,139
+Passaic,Ringwood,US Senate,,GRN,Madelyn Hoffman,111,0,102,9
+Passaic,Ringwood,US Senate,,OBF,Veronica Fernandez,36,0,35,1
+Passaic,Ringwood,US Senate,,LWR,Daniel Burke,14,0,14,0
+Passaic,Ringwood,US Senate,,WRI,write-in,8,0,8,0
+Passaic,Ringwood,US House,CD05,DEM,Josh Gottheimer,3571,0,3482,89
+Passaic,Ringwood,US House,CD05,REP,Frank Pallotta,3862,0,3723,139
+Passaic,Ringwood,US House,CD05,VFC,Louis Vellucci,110,0,106,4
+Passaic,Ringwood,US House,CD05,WRI,write-in,13,0,13,0
+Passaic,Totowa,Registered Voters,,,,8278,,,
+Passaic,Totowa,Ballots Cast,,,,6494,0,6205,289
+Passaic,Totowa,President,,DEM,Joe Biden,2553,0,2443,110
+Passaic,Totowa,President,,REP,Donald Trump,3804,0,3635,169
+Passaic,Totowa,President,,LIB,Jo Jorgensen,23,0,22,1
+Passaic,Totowa,President,,GRN,Howie Hawkins,21,0,20,1
+Passaic,Totowa,President,,UNITY,Bill Hammons,3,0,3,0
+Passaic,Totowa,President,,CON,Don Blankenship,4,0,4,0
+Passaic,Totowa,President,,SAL,Gloria La Riva,0,0,0,0
+Passaic,Totowa,President,,AP,Rocky de la Fuente Guerra,8,0,8,0
+Passaic,Totowa,President,,WRI,write-in,18,0,18,0
+Passaic,Totowa,US Senate,,DEM,Cory Booker,2578,0,2462,116
+Passaic,Totowa,US Senate,,REP,Rik Mehta,3562,0,3436,126
+Passaic,Totowa,US Senate,,GRN,Madelyn Hoffman,56,0,46,10
+Passaic,Totowa,US Senate,,OBF,Veronica Fernandez,37,0,33,4
+Passaic,Totowa,US Senate,,LWR,Daniel Burke,17,0,15,2
+Passaic,Totowa,US Senate,,WRI,write-in,2,0,2,0
+Passaic,Totowa,US House,CD11,DEM,Mikie Sherrill,2543,0,2430,113
+Passaic,Totowa,US House,CD11,REP,Rosemary Becchi,3740,0,3590,150
+Passaic,Totowa,US House,CD11,WRI,write-in,4,0,4,0
+Passaic,Wanaque,Registered Voters,,,,8709,,,
+Passaic,Wanaque,Ballots Cast,,,,6822,4,6658,160
+Passaic,Wanaque,President,,DEM,Joe Biden,3110,0,3051,59
+Passaic,Wanaque,President,,REP,Donald Trump,3532,4,3435,93
+Passaic,Wanaque,President,,LIB,Jo Jorgensen,55,0,52,3
+Passaic,Wanaque,President,,GRN,Howie Hawkins,25,0,21,4
+Passaic,Wanaque,President,,UNITY,Bill Hammons,5,0,5,0
+Passaic,Wanaque,President,,CON,Don Blankenship,7,0,7,0
+Passaic,Wanaque,President,,SAL,Gloria La Riva,5,0,5,0
+Passaic,Wanaque,President,,AP,Rocky de la Fuente Guerra,12,0,12,0
+Passaic,Wanaque,President,,WRI,write-in,22,0,22,0
+Passaic,Wanaque,US Senate,,DEM,Cory Booker,3072,0,3014,58
+Passaic,Wanaque,US Senate,,REP,Rik Mehta,3367,4,3277,86
+Passaic,Wanaque,US Senate,,GRN,Madelyn Hoffman,90,,84,6
+Passaic,Wanaque,US Senate,,OBF,Veronica Fernandez,52,,49,3
+Passaic,Wanaque,US Senate,,LWR,Daniel Burke,38,,37,1
+Passaic,Wanaque,US Senate,,WRI,write-in,3,,3,0
+Passaic,Wanaque,US House,CD11,DEM,Mikie Sherrill,3129,0,3070,59
+Passaic,Wanaque,US House,CD11,REP,Rosemary Becchi,3472,3,3375,94
+Passaic,Wanaque,US House,CD11,WRI,write-in,1,0,1,0
+Passaic,Wayne,Registered Voters,,,,41537,,,
+Passaic,Wayne,Ballots Cast,,,,32247,5,30878,1364
+Passaic,Wayne,President,,DEM,Joe Biden,15125,2,14522,601
+Passaic,Wayne,President,,REP,Donald Trump,16455,3,15716,736
+Passaic,Wayne,President,,LIB,Jo Jorgensen,167,,159,8
+Passaic,Wayne,President,,GRN,Howie Hawkins,116,,112,4
+Passaic,Wayne,President,,UNITY,Bill Hammons,11,,11,0
+Passaic,Wayne,President,,CON,Don Blankenship,13,,13,0
+Passaic,Wayne,President,,SAL,Gloria La Riva,10,,10,0
+Passaic,Wayne,President,,AP,Rocky de la Fuente Guerra,37,,36,1
+Passaic,Wayne,President,,WRI,write-in,111,,108,3
+Passaic,Wayne,US Senate,,DEM,Cory Booker,14984,1,14394,589
+Passaic,Wayne,US Senate,,REP,Rik Mehta,15854,3,15197,654
+Passaic,Wayne,US Senate,,GRN,Madelyn Hoffman,333,,304,29
+Passaic,Wayne,US Senate,,OBF,Veronica Fernandez,151,,129,22
+Passaic,Wayne,US Senate,,LWR,Daniel Burke,96,,91,5
+Passaic,Wayne,US Senate,,WRI,write-in,12,,12,0
+Passaic,Wayne,US House,CD11,DEM,Mikie Sherrill,15259,2,14653,604
+Passaic,Wayne,US House,CD11,REP,Rosemary Becchi,15573,3,15555,15
+Passaic,Wayne,US House,CD11,WRI,write-in,15,0,15,0
+Passaic,West Milford,Registered Voters,,,,20178,,,
+Passaic,West Milford,Ballots Cast,,,,15795,1,15267,527
+Passaic,West Milford,President,,DEM,Joe Biden,6127,0,5952,175
+Passaic,West Milford,President,,REP,Donald Trump,9259,1,8927,331
+Passaic,West Milford,President,,LIB,Jo Jorgensen,165,0,151,14
+Passaic,West Milford,President,,GRN,Howie Hawkins,64,0,61,3
+Passaic,West Milford,President,,UNITY,Bill Hammons,15,0,15,0
+Passaic,West Milford,President,,CON,Don Blankenship,17,0,17,0
+Passaic,West Milford,President,,SAL,Gloria La Riva,5,0,5,0
+Passaic,West Milford,President,,AP,Rocky de la Fuente Guerra,26,0,26,0
+Passaic,West Milford,President,,WRI,write-in,40,0,40,0
+Passaic,West Milford,US Senate,,DEM,Cory Booker,5950,0,5772,178
+Passaic,West Milford,US Senate,,REP,Rik Mehta,8947,1,8647,299
+Passaic,West Milford,US Senate,,GRN,Madelyn Hoffman,242,0,231,11
+Passaic,West Milford,US Senate,,OBF,Veronica Fernandez,123,0,118,5
+Passaic,West Milford,US Senate,,LWR,Daniel Burke,84,0,80,4
+Passaic,West Milford,US Senate,,WRI,write-in,6,0,6,0
+Passaic,West Milford,US House,CD05,DEM,Josh Gottheimer,6058,0,5886,172
+Passaic,West Milford,US House,CD05,REP,Frank Pallotta,8887,1,8585,301
+Passaic,West Milford,US House,CD05,VFC,Louis Vellucci,343,0,326,17
+Passaic,West Milford,US House,CD05,WRI,write-in,11,0,10,1
+Passaic,Woodland Park,Registered Voters,,,,9825,,,
+Passaic,Woodland Park,Ballots Cast,,,,7327,0,6874,453
+Passaic,Woodland Park,President,,DEM,Joe Biden,3693,0,3450,243
+Passaic,Woodland Park,President,,REP,Donald Trump,3431,0,3245,186
+Passaic,Woodland Park,President,,LIB,Jo Jorgensen,37,0,33,4
+Passaic,Woodland Park,President,,GRN,Howie Hawkins,23,0,22,1
+Passaic,Woodland Park,President,,UNITY,Bill Hammons,2,0,2,
+Passaic,Woodland Park,President,,CON,Don Blankenship,6,0,6,
+Passaic,Woodland Park,President,,SAL,Gloria La Riva,4,0,4,
+Passaic,Woodland Park,President,,AP,Rocky de la Fuente Guerra,15,0,14,1
+Passaic,Woodland Park,President,,WRI,write-in,18,0,16,2
+Passaic,Woodland Park,US Senate,,DEM,Cory Booker,3841,0,3588,253
+Passaic,Woodland Park,US Senate,,REP,Rik Mehta,3013,0,2866,147
+Passaic,Woodland Park,US Senate,,GRN,Madelyn Hoffman,71,0,66,5
+Passaic,Woodland Park,US Senate,,OBF,Veronica Fernandez,78,0,62,16
+Passaic,Woodland Park,US Senate,,LWR,Daniel Burke,29,0,28,1
+Passaic,Woodland Park,US Senate,,WRI,write-in,4,0,4,0
+Passaic,Woodland Park,US House,CD11,DEM,Mikie Sherrill,3960,0,3713,247
+Passaic,Woodland Park,US House,CD11,REP,Rosemary Becchi,3096,0,2927,169
+Passaic,Woodland Park,US House,CD11,WRI,write-in,3,0,2,1
