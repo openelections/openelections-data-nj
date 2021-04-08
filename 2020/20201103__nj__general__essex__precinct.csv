@@ -1,0 +1,627 @@
+county,precinct,office,district,party,candidate,votes
+Essex,Belleville,Registered Voters,,,,25498
+Essex,Bloomfield,Registered Voters,,,,38650
+Essex,Caldwell,Registered Voters,,,,6239
+Essex,Cedar Grove,Registered Voters,,,,10837
+Essex,East Orange,Registered Voters,,,,46151
+Essex,Essex Fells,Registered Voters,,,,2091
+Essex,Fairfield,Registered Voters,,,,6633
+Essex,Glen Ridge,Registered Voters,,,,6415
+Essex,Irvington,Registered Voters,,,,33836
+Essex,Livingston,Registered Voters,,,,25485
+Essex,Maplewood,Registered Voters,,,,21301
+Essex,Millburn,Registered Voters,,,,17197
+Essex,Montclair,Registered Voters,,,,34553
+Essex,Newark,Registered Voters,,,,164581
+Essex,North Caldwell,Registered Voters,,,,6092
+Essex,Nutley,Registered Voters,,,,23189
+Essex,Orange,Registered Voters,,,,18794
+Essex,Roseland,Registered Voters,,,,5766
+Essex,South Orange,Registered Voters,,,,14323
+Essex,Verona,Registered Voters,,,,12356
+Essex,West Caldwell,Registered Voters,,,,9616
+Essex,West Orange,Registered Voters,,,,38717
+Essex,Belleville,Ballots Cast,,,,16042
+Essex,Bloomfield,Ballots Cast,,,,25891
+Essex,Bloomfield CD10,Ballots Cast,,,,12079
+Essex,Bloomfield CD11,Ballots Cast,,,,13812
+Essex,Caldwell,Ballots Cast,,,,4571
+Essex,Cedar Grove,Ballots Cast,,,,8354
+Essex,East Orange,Ballots Cast,,,,26026
+Essex,Essex Fells,Ballots Cast,,,,1554
+Essex,Fairfield,Ballots Cast,,,,4977
+Essex,Glen Ridge,Ballots Cast,,,,4771
+Essex,Irvington,Ballots Cast,,,,18667
+Essex,Livingston,Ballots Cast,,,,18448
+Essex,Maplewood,Ballots Cast,,,,15214
+Essex,Millburn,Ballots Cast,,,,11864
+Essex,Montclair,Ballots Cast,,,,23956
+Essex,Newark,Ballots Cast,,,,81319
+Essex,Newark CD08,Ballots Cast,,,,30738
+Essex,Newark CD10,Ballots Cast,,,,50581
+Essex,North Caldwell,Ballots Cast,,,,4603
+Essex,Nutley,Ballots Cast,,,,17105
+Essex,Orange,Ballots Cast,,,,10967
+Essex,Roseland,Ballots Cast,,,,4300
+Essex,South Orange,Ballots Cast,,,,9905
+Essex,Verona,Ballots Cast,,,,9446
+Essex,West Caldwell,Ballots Cast,,,,7325
+Essex,West Orange,Ballots Cast,,,,26626
+Essex,Belleville,President,,DEM,Joe Biden,9538
+Essex,Bloomfield,President,,DEM,Joe Biden,18375
+Essex,Caldwell,President,,DEM,Joe Biden,2569
+Essex,Cedar Grove,President,,DEM,Joe Biden,3788
+Essex,East Orange,President,,DEM,Joe Biden,24199
+Essex,Essex Fells,President,,DEM,Joe Biden,695
+Essex,Fairfield,President,,DEM,Joe Biden,1452
+Essex,Glen Ridge,President,,DEM,Joe Biden,3689
+Essex,Irvington,President,,DEM,Joe Biden,17345
+Essex,Livingston,President,,DEM,Joe Biden,11773
+Essex,Maplewood,President,,DEM,Joe Biden,13610
+Essex,Millburn,President,,DEM,Joe Biden,8559
+Essex,Montclair,President,,DEM,Joe Biden,21015
+Essex,Newark,President,,DEM,Joe Biden,68919
+Essex,North Caldwell,President,,DEM,Joe Biden,2355
+Essex,Nutley,President,,DEM,Joe Biden,8633
+Essex,Orange,President,,DEM,Joe Biden,10001
+Essex,Roseland,President,,DEM,Joe Biden,2066
+Essex,South Orange,President,,DEM,Joe Biden,8793
+Essex,Verona,President,,DEM,Joe Biden,5507
+Essex,West Caldwell,President,,DEM,Joe Biden,3592
+Essex,West Orange,President,,DEM,Joe Biden,20347
+Essex,Belleville,President,,REP,Donald Trump,5977
+Essex,Bloomfield,President,,REP,Donald Trump,6814
+Essex,Cedar Grove,President,,REP,Donald Trump,4350
+Essex,East Orange,President,,REP,Donald Trump,1127
+Essex,Essex Fells,President,,REP,Donald Trump,796
+Essex,Fairfield,President,,REP,Donald Trump,3436
+Essex,Glen Ridge,President,,REP,Donald Trump,943
+Essex,Irvington,President,,REP,Donald Trump,906
+Essex,Livingston,President,,REP,Donald Trump,6307
+Essex,Maplewood,President,,REP,Donald Trump,1294
+Essex,Millburn,President,,REP,Donald Trump,2953
+Essex,Montclair,President,,REP,Donald Trump,2430
+Essex,Newark,President,,REP,Donald Trump,9687
+Essex,North Caldwell,President,,REP,Donald Trump,2119
+Essex,Nutley,President,,REP,Donald Trump,8052
+Essex,Orange,President,,REP,Donald Trump,642
+Essex,Roseland,President,,REP,Donald Trump,2130
+Essex,South Orange,President,,REP,Donald Trump,896
+Essex,Verona,President,,REP,Donald Trump,3693
+Essex,West Caldwell,President,,REP,Donald Trump,3533
+Essex,West Orange,President,,REP,Donald Trump,5519
+Essex,Belleville,President,,LIB,Jo Jorgensen,67
+Essex,Bloomfield,President,,LIB,Jo Jorgensen,128
+Essex,Caldwell,President,,LIB,Jo Jorgensen,28
+Essex,Cedar Grove,President,,LIB,Jo Jorgensen,4
+Essex,East Orange,President,,LIB,Jo Jorgensen,6
+Essex,Essex Fells,President,,LIB,Jo Jorgensen,0
+Essex,Fairfield,President,,LIB,Jo Jorgensen,19
+Essex,Glen Ridge,President,,LIB,Jo Jorgensen,50
+Essex,Irvington,President,,LIB,Jo Jorgensen,20
+Essex,Livingston,President,,LIB,Jo Jorgensen,84
+Essex,Maplewood,President,,LIB,Jo Jorgensen,68
+Essex,Millburn,President,,LIB,Jo Jorgensen,78
+Essex,Montclair,President,,LIB,Jo Jorgensen,112
+Essex,Newark,President,,LIB,Jo Jorgensen,111
+Essex,North Caldwell,President,,LIB,Jo Jorgensen,43
+Essex,Nutley,President,,LIB,Jo Jorgensen,83
+Essex,Orange,President,,LIB,Jo Jorgensen,11
+Essex,Roseland,President,,LIB,Jo Jorgensen,25
+Essex,South Orange,President,,LIB,Jo Jorgensen,51
+Essex,Verona,President,,LIB,Jo Jorgensen,68
+Essex,West Caldwell,President,,LIB,Jo Jorgensen,41
+Essex,West Orange,President,,LIB,Jo Jorgensen,119
+Essex,Belleville,President,,GRN,Howie Hawkins,56
+Essex,Bloomfield,President,,GRN,Howie Hawkins,104
+Essex,Caldwell,President,,GRN,Howie Hawkins,11
+Essex,Cedar Grove,President,,GRN,Howie Hawkins,18
+Essex,East Orange,President,,GRN,Howie Hawkins,70
+Essex,Essex Fells,President,,GRN,Howie Hawkins,8
+Essex,Fairfield,President,,GRN,Howie Hawkins,4
+Essex,Glen Ridge,President,,GRN,Howie Hawkins,12
+Essex,Irvington,President,,GRN,Howie Hawkins,32
+Essex,Livingston,President,,GRN,Howie Hawkins,34
+Essex,Maplewood,President,,GRN,Howie Hawkins,53
+Essex,Millburn,President,,GRN,Howie Hawkins,35
+Essex,Montclair,President,,GRN,Howie Hawkins,93
+Essex,Newark,President,,GRN,Howie Hawkins,218
+Essex,North Caldwell,President,,GRN,Howie Hawkins,8
+Essex,Nutley,President,,GRN,Howie Hawkins,51
+Essex,Orange,President,,GRN,Howie Hawkins,19
+Essex,Roseland,President,,GRN,Howie Hawkins,9
+Essex,South Orange,President,,GRN,Howie Hawkins,35
+Essex,Verona,President,,GRN,Howie Hawkins,27
+Essex,West Caldwell,President,,GRN,Howie Hawkins,16
+Essex,West Orange,President,,GRN,Howie Hawkins,65
+Essex,Belleville,President,,UNITY,Bill Hammons,3
+Essex,Bloomfield,President,,UNITY,Bill Hammons,12
+Essex,Caldwell,President,,UNITY,Bill Hammons,1
+Essex,Cedar Grove,President,,UNITY,Bill Hammons,4
+Essex,East Orange,President,,UNITY,Bill Hammons,12
+Essex,Essex Fells,President,,UNITY,Bill Hammons,0
+Essex,Fairfield,President,,UNITY,Bill Hammons,3
+Essex,Glen Ridge,President,,UNITY,Bill Hammons,2
+Essex,Irvington,President,,UNITY,Bill Hammons,0
+Essex,Livingston,President,,UNITY,Bill Hammons,4
+Essex,Maplewood,President,,UNITY,Bill Hammons,2
+Essex,Millburn,President,,UNITY,Bill Hammons,5
+Essex,Montclair,President,,UNITY,Bill Hammons,6
+Essex,Newark,President,,UNITY,Bill Hammons,14
+Essex,North Caldwell,President,,UNITY,Bill Hammons,2
+Essex,Nutley,President,,UNITY,Bill Hammons,5
+Essex,Orange,President,,UNITY,Bill Hammons,2
+Essex,Roseland,President,,UNITY,Bill Hammons,0
+Essex,South Orange,President,,UNITY,Bill Hammons,2
+Essex,Verona,President,,UNITY,Bill Hammons,5
+Essex,West Caldwell,President,,UNITY,Bill Hammons,4
+Essex,West Orange,President,,UNITY,Bill Hammons,16
+Essex,Belleville,President,,CON,Don Blankenship,4
+Essex,Bloomfield,President,,CON,Don Blankenship,11
+Essex,Caldwell,President,,CON,Don Blankenship,5
+Essex,Cedar Grove,President,,CON,Don Blankenship,42
+Essex,East Orange,President,,CON,Don Blankenship,28
+Essex,Essex Fells,President,,CON,Don Blankenship,0
+Essex,Fairfield,President,,CON,Don Blankenship,0
+Essex,Glen Ridge,President,,CON,Don Blankenship,2
+Essex,Irvington,President,,CON,Don Blankenship,2
+Essex,Livingston,President,,CON,Don Blankenship,6
+Essex,Maplewood,President,,CON,Don Blankenship,7
+Essex,Millburn,President,,CON,Don Blankenship,5
+Essex,Montclair,President,,CON,Don Blankenship,7
+Essex,Newark,President,,CON,Don Blankenship,13
+Essex,North Caldwell,President,,CON,Don Blankenship,2
+Essex,Nutley,President,,CON,Don Blankenship,6
+Essex,Orange,President,,CON,Don Blankenship,6
+Essex,Roseland,President,,CON,Don Blankenship,2
+Essex,South Orange,President,,CON,Don Blankenship,3
+Essex,Verona,President,,CON,Don Blankenship,5
+Essex,West Caldwell,President,,CON,Don Blankenship,10
+Essex,West Orange,President,,CON,Don Blankenship,10
+Essex,Belleville,President,,SAL,Gloria La Riva,13
+Essex,Bloomfield,President,,SAL,Gloria La Riva,26
+Essex,Caldwell,President,,SAL,Gloria La Riva,6
+Essex,Cedar Grove,President,,SAL,Gloria La Riva,1
+Essex,East Orange,President,,SAL,Gloria La Riva,20
+Essex,Essex Fells,President,,SAL,Gloria La Riva,0
+Essex,Fairfield,President,,SAL,Gloria La Riva,0
+Essex,Glen Ridge,President,,SAL,Gloria La Riva,3
+Essex,Irvington,President,,SAL,Gloria La Riva,9
+Essex,Livingston,President,,SAL,Gloria La Riva,11
+Essex,Maplewood,President,,SAL,Gloria La Riva,17
+Essex,Millburn,President,,SAL,Gloria La Riva,9
+Essex,Montclair,President,,SAL,Gloria La Riva,25
+Essex,Newark,President,,SAL,Gloria La Riva,83
+Essex,North Caldwell,President,,SAL,Gloria La Riva,0
+Essex,Nutley,President,,SAL,Gloria La Riva,12
+Essex,Orange,President,,SAL,Gloria La Riva,10
+Essex,Roseland,President,,SAL,Gloria La Riva,1
+Essex,South Orange,President,,SAL,Gloria La Riva,7
+Essex,Verona,President,,SAL,Gloria La Riva,6
+Essex,West Caldwell,President,,SAL,Gloria La Riva,5
+Essex,West Orange,President,,SAL,Gloria La Riva,14
+Essex,Belleville,President,,AP,Rocky de la Fuente Guerra,15
+Essex,Bloomfield,President,,AP,Rocky de la Fuente Guerra,35
+Essex,Caldwell,President,,AP,Rocky de la Fuente Guerra,5
+Essex,Cedar Grove,President,,AP,Rocky de la Fuente Guerra,11
+Essex,East Orange,President,,AP,Rocky de la Fuente Guerra,13
+Essex,Essex Fells,President,,AP,Rocky de la Fuente Guerra,3
+Essex,Fairfield,President,,AP,Rocky de la Fuente Guerra,4
+Essex,Glen Ridge,President,,AP,Rocky de la Fuente Guerra,3
+Essex,Irvington,President,,AP,Rocky de la Fuente Guerra,7
+Essex,Livingston,President,,AP,Rocky de la Fuente Guerra,8
+Essex,Maplewood,President,,AP,Rocky de la Fuente Guerra,7
+Essex,Millburn,President,,AP,Rocky de la Fuente Guerra,15
+Essex,Montclair,President,,AP,Rocky de la Fuente Guerra,15
+Essex,Newark,President,,AP,Rocky de la Fuente Guerra,44
+Essex,North Caldwell,President,,AP,Rocky de la Fuente Guerra,2
+Essex,Nutley,President,,AP,Rocky de la Fuente Guerra,18
+Essex,Orange,President,,AP,Rocky de la Fuente Guerra,4
+Essex,Roseland,President,,AP,Rocky de la Fuente Guerra,5
+Essex,South Orange,President,,AP,Rocky de la Fuente Guerra,4
+Essex,Verona,President,,AP,Rocky de la Fuente Guerra,6
+Essex,West Caldwell,President,,AP,Rocky de la Fuente Guerra,7
+Essex,West Orange,President,,AP,Rocky de la Fuente Guerra,13
+Essex,Belleville,President,,,Write-ins,32
+Essex,Bloomfield,President,,,Write-ins,12
+Essex,Caldwell,President,,,Write-ins,21
+Essex,Cedar Grove,President,,,Write-ins,10
+Essex,East Orange,President,,,Write-ins,44
+Essex,Essex Fells,President,,,Write-ins,20
+Essex,Fairfield,President,,,Write-ins,10
+Essex,Glen Ridge,President,,,Write-ins,21
+Essex,Irvington,President,,,Write-ins,16
+Essex,Livingston,President,,,Write-ins,11
+Essex,Maplewood,President,,,Write-ins,39
+Essex,Millburn,President,,,Write-ins,76
+Essex,Montclair,President,,,Write-ins,89
+Essex,Newark,President,,,Write-ins,122
+Essex,North Caldwell,President,,,Write-ins,20
+Essex,Nutley,President,,,Write-ins,49
+Essex,Orange,President,,,Write-ins,15
+Essex,Roseland,President,,,Write-ins,11
+Essex,South Orange,President,,,Write-ins,30
+Essex,Verona,President,,,Write-ins,33
+Essex,West Caldwell,President,,,Write-ins,23
+Essex,West Orange,President,,,Write-ins,78
+Essex,Belleville,U.S. Senate,,DEM,Cory Booker,9476
+Essex,Bloomfield,U.S. Senate,,DEM,Cory Booker,18082
+Essex,Caldwell,U.S. Senate,,DEM,Cory Booker,2504
+Essex,Cedar Grove,U.S. Senate,,DEM,Cory Booker,3663
+Essex,East Orange,U.S. Senate,,DEM,Cory Booker,23823
+Essex,Essex Fells,U.S. Senate,,DEM,Cory Booker,651
+Essex,Fairfield,U.S. Senate,,DEM,Cory Booker,1386
+Essex,Glen Ridge,U.S. Senate,,DEM,Cory Booker,3521
+Essex,Irvington,U.S. Senate,,DEM,Cory Booker,17105
+Essex,Livingston,U.S. Senate,,DEM,Cory Booker,11233
+Essex,Maplewood,U.S. Senate,,DEM,Cory Booker,13274
+Essex,Millburn,U.S. Senate,,DEM,Cory Booker,7920
+Essex,Montclair,U.S. Senate,,DEM,Cory Booker,20386
+Essex,Newark,U.S. Senate,,DEM,Cory Booker,68121
+Essex,North Caldwell,U.S. Senate,,DEM,Cory Booker,2228
+Essex,Nutley,U.S. Senate,,DEM,Cory Booker,8440
+Essex,Orange,U.S. Senate,,DEM,Cory Booker,9767
+Essex,Roseland,U.S. Senate,,DEM,Cory Booker,1979
+Essex,South Orange,U.S. Senate,,DEM,Cory Booker,8527
+Essex,Verona,U.S. Senate,,DEM,Cory Booker,5239
+Essex,West Caldwell,U.S. Senate,,DEM,Cory Booker,3426
+Essex,West Orange,U.S. Senate,,DEM,Cory Booker,19853
+Essex,Belleville,U.S. Senate,,REP,Rik Mehta,4970
+Essex,Bloomfield,U.S. Senate,,REP,Rik Mehta,6205
+Essex,Caldwell,U.S. Senate,,REP,Rik Mehta,1837
+Essex,Cedar Grove,U.S. Senate,,REP,Rik Mehta,4130
+Essex,East Orange,U.S. Senate,,REP,Rik Mehta,796
+Essex,Essex Fells,U.S. Senate,,REP,Rik Mehta,818
+Essex,Fairfield,U.S. Senate,,REP,Rik Mehta,3281
+Essex,Glen Ridge,U.S. Senate,,REP,Rik Mehta,1081
+Essex,Irvington,U.S. Senate,,REP,Rik Mehta,648
+Essex,Livingston,U.S. Senate,,REP,Rik Mehta,6366
+Essex,Maplewood,U.S. Senate,,REP,Rik Mehta,1373
+Essex,Millburn,U.S. Senate,,REP,Rik Mehta,3490
+Essex,Montclair,U.S. Senate,,REP,Rik Mehta,2652
+Essex,Newark,U.S. Senate,,REP,Rik Mehta,6801
+Essex,North Caldwell,U.S. Senate,,REP,Rik Mehta,2169
+Essex,Nutley,U.S. Senate,,REP,Rik Mehta,7215
+Essex,Orange,U.S. Senate,,REP,Rik Mehta,456
+Essex,Roseland,U.S. Senate,,REP,Rik Mehta,2111
+Essex,South Orange,U.S. Senate,,REP,Rik Mehta,972
+Essex,Verona,U.S. Senate,,REP,Rik Mehta,3672
+Essex,West Caldwell,U.S. Senate,,REP,Rik Mehta,3547
+Essex,West Orange,U.S. Senate,,REP,Rik Mehta,5180
+Essex,Belleville,U.S. Senate,,GRN,Madelyn Hoffman,35
+Essex,Bloomfield,U.S. Senate,,GRN,Madelyn Hoffman,31
+Essex,Caldwell,U.S. Senate,,GRN,Madelyn Hoffman,6
+Essex,Cedar Grove,U.S. Senate,,GRN,Madelyn Hoffman,11
+Essex,East Orange,U.S. Senate,,GRN,Madelyn Hoffman,34
+Essex,Essex Fells,U.S. Senate,,GRN,Madelyn Hoffman,1
+Essex,Fairfield,U.S. Senate,,GRN,Madelyn Hoffman,12
+Essex,Glen Ridge,U.S. Senate,,GRN,Madelyn Hoffman,2
+Essex,Irvington,U.S. Senate,,GRN,Madelyn Hoffman,17
+Essex,Livingston,U.S. Senate,,GRN,Madelyn Hoffman,13
+Essex,Maplewood,U.S. Senate,,GRN,Madelyn Hoffman,11
+Essex,Millburn,U.S. Senate,,GRN,Madelyn Hoffman,16
+Essex,Montclair,U.S. Senate,,GRN,Madelyn Hoffman,22
+Essex,Newark,U.S. Senate,,GRN,Madelyn Hoffman,106
+Essex,North Caldwell,U.S. Senate,,GRN,Madelyn Hoffman,4
+Essex,Nutley,U.S. Senate,,GRN,Madelyn Hoffman,46
+Essex,Orange,U.S. Senate,,GRN,Madelyn Hoffman,15
+Essex,Roseland,U.S. Senate,,GRN,Madelyn Hoffman,4
+Essex,South Orange,U.S. Senate,,GRN,Madelyn Hoffman,11
+Essex,Verona,U.S. Senate,,GRN,Madelyn Hoffman,11
+Essex,West Caldwell,U.S. Senate,,GRN,Madelyn Hoffman,38
+Essex,West Orange,U.S. Senate,,GRN,Madelyn Hoffman,40
+Essex,Belleville,U.S. Senate,,OBF,Veronica Fernandez,152
+Essex,Bloomfield,U.S. Senate,,OBF,Veronica Fernandez,193
+Essex,Caldwell,U.S. Senate,,OBF,Veronica Fernandez,23
+Essex,Cedar Grove,U.S. Senate,,OBF,Veronica Fernandez,26
+Essex,East Orange,U.S. Senate,,OBF,Veronica Fernandez,126
+Essex,Essex Fells,U.S. Senate,,OBF,Veronica Fernandez,3
+Essex,Fairfield,U.S. Senate,,OBF,Veronica Fernandez,14
+Essex,Glen Ridge,U.S. Senate,,OBF,Veronica Fernandez,10
+Essex,Irvington,U.S. Senate,,OBF,Veronica Fernandez,93
+Essex,Livingston,U.S. Senate,,OBF,Veronica Fernandez,48
+Essex,Maplewood,U.S. Senate,,OBF,Veronica Fernandez,45
+Essex,Millburn,U.S. Senate,,OBF,Veronica Fernandez,27
+Essex,Montclair,U.S. Senate,,OBF,Veronica Fernandez,102
+Essex,Newark,U.S. Senate,,OBF,Veronica Fernandez,592
+Essex,North Caldwell,U.S. Senate,,OBF,Veronica Fernandez,11
+Essex,Nutley,U.S. Senate,,OBF,Veronica Fernandez,64
+Essex,Orange,U.S. Senate,,OBF,Veronica Fernandez,70
+Essex,Roseland,U.S. Senate,,OBF,Veronica Fernandez,15
+Essex,South Orange,U.S. Senate,,OBF,Veronica Fernandez,28
+Essex,Verona,U.S. Senate,,OBF,Veronica Fernandez,12
+Essex,West Caldwell,U.S. Senate,,OBF,Veronica Fernandez,23
+Essex,West Orange,U.S. Senate,,OBF,Veronica Fernandez,165
+Essex,Belleville,U.S. Senate,,GRN,Daniel Burke,125
+Essex,Bloomfield,U.S. Senate,,GRN,Daniel Burke,274
+Essex,Caldwell,U.S. Senate,,GRN,Daniel Burke,38
+Essex,Cedar Grove,U.S. Senate,,GRN,Daniel Burke,30
+Essex,East Orange,U.S. Senate,,GRN,Daniel Burke,129
+Essex,Essex Fells,U.S. Senate,,GRN,Daniel Burke,21
+Essex,Fairfield,U.S. Senate,,GRN,Daniel Burke,12
+Essex,Glen Ridge,U.S. Senate,,GRN,Daniel Burke,34
+Essex,Irvington,U.S. Senate,,GRN,Daniel Burke,62
+Essex,Livingston,U.S. Senate,,GRN,Daniel Burke,86
+Essex,Maplewood,U.S. Senate,,GRN,Daniel Burke,181
+Essex,Millburn,U.S. Senate,,GRN,Daniel Burke,65
+Essex,Montclair,U.S. Senate,,GRN,Daniel Burke,258
+Essex,Newark,U.S. Senate,,GRN,Daniel Burke,490
+Essex,North Caldwell,U.S. Senate,,GRN,Daniel Burke,20
+Essex,Nutley,U.S. Senate,,GRN,Daniel Burke,107
+Essex,Orange,U.S. Senate,,GRN,Daniel Burke,60
+Essex,Roseland,U.S. Senate,,GRN,Daniel Burke,16
+Essex,South Orange,U.S. Senate,,GRN,Daniel Burke,108
+Essex,Verona,U.S. Senate,,GRN,Daniel Burke,66
+Essex,West Caldwell,U.S. Senate,,GRN,Daniel Burke,8
+Essex,West Orange,U.S. Senate,,GRN,Daniel Burke,197
+Essex,Belleville,U.S. Senate,,,Write-ins,3
+Essex,Bloomfield,U.S. Senate,,,Write-ins,12
+Essex,Caldwell,U.S. Senate,,,Write-ins,1
+Essex,Cedar Grove,U.S. Senate,,,Write-ins,2
+Essex,East Orange,U.S. Senate,,,Write-ins,10
+Essex,Essex Fells,U.S. Senate,,,Write-ins,2
+Essex,Fairfield,U.S. Senate,,,Write-ins,0
+Essex,Glen Ridge,U.S. Senate,,,Write-ins,2
+Essex,Irvington,U.S. Senate,,,Write-ins,3
+Essex,Livingston,U.S. Senate,,,Write-ins,7
+Essex,Maplewood,U.S. Senate,,,Write-ins,6
+Essex,Millburn,U.S. Senate,,,Write-ins,3
+Essex,Montclair,U.S. Senate,,,Write-ins,10
+Essex,Newark,U.S. Senate,,,Write-ins,31
+Essex,North Caldwell,U.S. Senate,,,Write-ins,1
+Essex,Nutley,U.S. Senate,,,Write-ins,8
+Essex,Orange,U.S. Senate,,,Write-ins,1
+Essex,Roseland,U.S. Senate,,,Write-ins,5
+Essex,South Orange,U.S. Senate,,,Write-ins,4
+Essex,Verona,U.S. Senate,,,Write-ins,2
+Essex,West Caldwell,U.S. Senate,,,Write-ins,2
+Essex,West Orange,U.S. Senate,,,Write-ins,8
+Essex,Millburn,U.S. House,07,DEM,Tom Malinowski,7625
+Essex,Millburn,U.S. House,07,REP,Thomas Kean,3904
+Essex,Millburn,U.S. House,07,,Write-ins,3
+Essex,Belleville,U.S. House,08,DEM,Albio Sires,9003
+Essex,Newark,U.S. House,08,DEM,Albio Sires,21686
+Essex,Belleville,U.S. House,08,REP,Jason Mushnick,5124
+Essex,Newark,U.S. House,08,REP,Jason Mushnick,5209
+Essex,Belleville,U.S. House,08,LIB,Dan Delaney,119
+Essex,Newark,U.S. House,08,LIB,Dan Delaney,189
+Essex,Belleville,U.S. House,08,,Write-ins,6
+Essex,Newark,U.S. House,08,,Write-ins,14
+Essex,Bloomfield,U.S. House,10,DEM,Donald Payne,8694
+Essex,East Orange,U.S. House,10,DEM,Donald Payne,23059
+Essex,Glen Ridge,U.S. House,10,DEM,Donald Payne,3329
+Essex,Irvington,U.S. House,10,DEM,Donald Payne,16623
+Essex,Maplewood,U.S. House,10,DEM,Donald Payne,12693
+Essex,Montclair,U.S. House,10,DEM,Donald Payne,13729
+Essex,Newark,U.S. House,10,DEM,Donald Payne,44072
+Essex,Orange,U.S. House,10,DEM,Donald Payne,9408
+Essex,South Orange,U.S. House,10,DEM,Donald Payne,8171
+Essex,West Orange,U.S. House,10,DEM,Donald Payne,6323
+Essex,Bloomfield,U.S. House,11,DEM,Mikie Sherrill,9121
+Essex,Caldwell,U.S. House,11,DEM,Mikie Sherrill,2558
+Essex,Cedar Grove,U.S. House,11,DEM,Mikie Sherrill,3755
+Essex,Essex Fells,U.S. House,11,DEM,Mikie Sherrill,682
+Essex,Fairfield,U.S. House,11,DEM,Mikie Sherrill,1440
+Essex,Livingston,U.S. House,11,DEM,Mikie Sherrill,11583
+Essex,North Caldwell,U.S. House,11,DEM,Mikie Sherrill,2318
+Essex,Nutley,U.S. House,11,DEM,Mikie Sherrill,8493
+Essex,Roseland,U.S. House,11,DEM,Mikie Sherrill,2056
+Essex,Verona,U.S. House,11,DEM,Mikie Sherrill,5507
+Essex,West Caldwell,U.S. House,11,DEM,Mikie Sherrill,3571
+Essex,West Orange,U.S. House,11,DEM,Mikie Sherrill,13473
+Essex,Bloomfield,U.S. House,10,REP,Jennifer Zinone,2255
+Essex,East Orange,U.S. House,10,REP,Jennifer Zinone,848
+Essex,Glen Ridge,U.S. House,10,REP,Jennifer Zinone,1146
+Essex,Irvington,U.S. House,10,REP,Jennifer Zinone,720
+Essex,Maplewood,U.S. House,10,REP,Jennifer Zinone,1433
+Essex,Montclair,U.S. House,10,REP,Jennifer Zinone,1710
+Essex,Newark,U.S. House,10,REP,Jennifer Zinone,2066
+Essex,Orange,U.S. House,10,REP,Jennifer Zinone,471
+Essex,South Orange,U.S. House,10,REP,Jennifer Zinone,1035
+Essex,West Orange,U.S. House,10,REP,Jennifer Zinone,1316
+Essex,Bloomfield,U.S. House,11,REP,Rosemary Becchi,4036
+Essex,Caldwell,U.S. House,11,REP,Rosemary Becchi,1861
+Essex,Cedar Grove,U.S. House,11,REP,Rosemary Becchi,4157
+Essex,Essex Fells,U.S. House,11,REP,Rosemary Becchi,824
+Essex,Fairfield,U.S. House,11,REP,Rosemary Becchi,3276
+Essex,Livingston,U.S. House,11,REP,Rosemary Becchi,6147
+Essex,North Caldwell,U.S. House,11,REP,Rosemary Becchi,2140
+Essex,Nutley,U.S. House,11,REP,Rosemary Becchi,7346
+Essex,Roseland,U.S. House,11,REP,Rosemary Becchi,2071
+Essex,Verona,U.S. House,11,REP,Rosemary Becchi,3523
+Essex,West Caldwell,U.S. House,11,REP,Rosemary Becchi,3486
+Essex,West Orange,U.S. House,11,REP,Rosemary Becchi,3830
+Essex,Bloomfield,U.S. House,10,BYL,Khaliah Fitchette,178
+Essex,East Orange,U.S. House,10,BYL,Khaliah Fitchette,296
+Essex,Glen Ridge,U.S. House,10,BYL,Khaliah Fitchette,36
+Essex,Irvington,U.S. House,10,BYL,Khaliah Fitchette,161
+Essex,Maplewood,U.S. House,10,BYL,Khaliah Fitchette,191
+Essex,Montclair,U.S. House,10,BYL,Khaliah Fitchette,170
+Essex,Newark,U.S. House,10,BYL,Khaliah Fitchette,593
+Essex,Orange,U.S. House,10,BYL,Khaliah Fitchette,108
+Essex,South Orange,U.S. House,10,BYL,Khaliah Fitchette,101
+Essex,West Orange,U.S. House,10,BYL,Khaliah Fitchette,133
+Essex,Bloomfield,U.S. House,10,IND,Akil Khalfani,139
+Essex,East Orange,U.S. House,10,IND,Akil Khalfani,200
+Essex,Glen Ridge,U.S. House,10,IND,Akil Khalfani,23
+Essex,Irvington,U.S. House,10,IND,Akil Khalfani,160
+Essex,Maplewood,U.S. House,10,IND,Akil Khalfani,269
+Essex,Montclair,U.S. House,10,IND,Akil Khalfani,169
+Essex,Newark,U.S. House,10,IND,Akil Khalfani,510
+Essex,Orange,U.S. House,10,IND,Akil Khalfani,139
+Essex,South Orange,U.S. House,10,IND,Akil Khalfani,157
+Essex,West Orange,U.S. House,10,IND,Akil Khalfani,170
+Essex,Bloomfield,U.S. House,10,LIB,John Mirrione-LIB,44
+Essex,East Orange,U.S. House,10,LIB,John Mirrione-LIB,30
+Essex,Glen Ridge,U.S. House,10,LIB,John Mirrione-LIB,30
+Essex,Irvington,U.S. House,10,LIB,John Mirrione-LIB,19
+Essex,Maplewood,U.S. House,10,LIB,John Mirrione-LIB,53
+Essex,Montclair,U.S. House,10,LIB,John Mirrione-LIB,65
+Essex,Newark,U.S. House,10,LIB,John Mirrione-LIB,71
+Essex,Orange,U.S. House,10,LIB,John Mirrione-LIB,14
+Essex,South Orange,U.S. House,10,LIB,John Mirrione-LIB,35
+Essex,West Orange,U.S. House,10,LIB,John Mirrione-LIB,30
+Essex,Bloomfield,U.S. House,10,,Write-ins,8
+Essex,East Orange,U.S. House,10,,Write-ins,8
+Essex,Glen Ridge,U.S. House,10,,Write-ins,2
+Essex,Irvington,U.S. House,10,,Write-ins,6
+Essex,Maplewood,U.S. House,10,,Write-ins,2
+Essex,Montclair,U.S. House,10,,Write-ins,10
+Essex,Newark,U.S. House,10,,Write-ins,13
+Essex,Orange,U.S. House,10,,Write-ins,1
+Essex,South Orange,U.S. House,10,,Write-ins,6
+Essex,West Orange,U.S. House,10,,Write-ins,1
+Essex,Bloomfield,U.S. House,11,,Write-ins,7
+Essex,Caldwell,U.S. House,11,,Write-ins,2
+Essex,Cedar Grove,U.S. House,11,,Write-ins,1
+Essex,Essex Fells,U.S. House,11,,Write-ins,0
+Essex,Fairfield,U.S. House,11,,Write-ins,0
+Essex,Livingston,U.S. House,11,,Write-ins,1
+Essex,North Caldwell,U.S. House,11,,Write-ins,0
+Essex,Nutley,U.S. House,11,,Write-ins,2
+Essex,Roseland,U.S. House,11,,Write-ins,0
+Essex,Verona,U.S. House,11,,Write-ins,1
+Essex,West Caldwell,U.S. House,11,,Write-ins,0
+Essex,West Orange,U.S. House,11,,Write-ins,9
+Essex,Belleville,President,,,under votes,104
+Essex,Belleville,President,,,over votes,233
+Essex,Belleville,U.S. Senate,,,under votes,1057
+Essex,Belleville,U.S. Senate,,,over votes,224
+Essex,Belleville,U.S. House,08,,under votes,1711
+Essex,Belleville,U.S. House,08,,over votes,79
+Essex,Belleville,President,,WRI,Bernie Sanders included,13
+Essex,Bloomfield,President,,,under votes,173
+Essex,Bloomfield,President,,,over votes,139
+Essex,Bloomfield,President,,,Bernie Sanders included,17
+Essex,Bloomfield,U.S. Senate,,,under votes,955
+Essex,Bloomfield,U.S. Senate,,,over votes,139
+Essex,Bloomfield,U.S. House,10,,under votes,706
+Essex,Bloomfield,U.S. House,10,,over votes,55
+Essex,Bloomfield,U.S. House,11,,under votes,642
+Essex,Bloomfield,U.S. House,11,,over votes,6
+Essex,Caldwell,President,,,under votes,36
+Essex,Caldwell,President,,,over votes,18
+Essex,Caldwell,U.S. Senate,,,under votes,146
+Essex,Caldwell,U.S. Senate,,,over votes,16
+Essex,Caldwell,US House,,,under votes,150
+Essex,Caldwell,US House,,,over votes,0
+Essex,Cedar Grove,President,,,under votes,63
+Essex,Cedar Grove,President,,,over votes,54
+Essex,Cedar Grove,U.S. Senate,,,under votes,445
+Essex,Cedar Grove,U.S. Senate,,,over votes,47
+Essex,Cedar Grove,U.S. House,11,,under votes,436
+Essex,Cedar Grove,U.S. House,11,,over votes,5
+Essex,East Orange,President,,,under votes,254
+Essex,East Orange,President,,,over votes,253
+Essex,East Orange,U.S. Senate,,,under votes,912
+Essex,East Orange,U.S. Senate,,,over votes,196
+Essex,East Orange,U.S. House,10,,under votes,1268
+Essex,East Orange,U.S. House,10,,over votes,217
+Essex,East Orange,President,,WRI,Bernie Sanders included,15
+Essex,Essex Fells,President,,,under votes,18
+Essex,Essex Fells,President,,,over votes,4
+Essex,Essex Fells,U.S. Senate,,,under votes,53
+Essex,Essex Fells,U.S. Senate,,,over votes,5
+Essex,Essex Fells,U.S. House,11,,under votes,48
+Essex,Essex Fells,U.S. House,11,,over votes,0
+Essex,Fairfield,President,,,under votes,26
+Essex,Fairfield,President,,,over votes,23
+Essex,Fairfield,U.S. Senate,,,under votes,280
+Essex,Fairfield,U.S. Senate,,,over votes,12
+Essex,Fairfield,U.S. House,11,,under votes,257
+Essex,Fairfield,U.S. House,11,,over votes,4
+Essex,Glen Ridge,President,,,under votes,42
+Essex,Glen Ridge,President,,,over votes,4
+Essex,Glen Ridge,U.S. Senate,,,under votes,120
+Essex,Glen Ridge,U.S. Senate,,,over votes,1
+Essex,Glen Ridge,U.S. House,10,,under votes,201
+Essex,Glen Ridge,U.S. House,10,,over votes,4
+Essex,Irvington,President,,,under votes,128
+Essex,Irvington,President,,,over votes,202
+Essex,Irvington,U.S. Senate,,,under votes,575
+Essex,Irvington,U.S. Senate,,,over votes,164
+Essex,Irvington,U.S. House,10,,under votes,800
+Essex,Irvington,U.S. House,10,,over votes,178
+Essex,Livingston,President,,,under votes,124
+Essex,Livingston,President,,,over votes,53
+Essex,Livingston,U.S. Senate,,,under votes,643
+Essex,Livingston,U.S. Senate,,,over votes,52
+Essex,Livingston,U.S. House,11,,under votes,706
+Essex,Livingston,U.S. House,11,,over votes,11
+Essex,Maplewood,President,,,under votes,79
+Essex,Maplewood,President,,,over votes,38
+Essex,Maplewood,U.S. Senate,,,under votes,294
+Essex,Maplewood,U.S. Senate,,,over votes,30
+Essex,Maplewood,U.S. House,10,,under votes,536
+Essex,Maplewood,U.S. House,10,,over votes,37
+Essex,Millburn,President,,,under votes,117
+Essex,Millburn,President,,,over votes,12
+Essex,Millburn,U.S. Senate,,,under votes,327
+Essex,Millburn,U.S. Senate,,,over votes,15
+Essex,Millburn,U.S. House,07,,under votes,327
+Essex,Millburn,U.S. House,07,,over votes,4
+Essex,Montclair,President,,,under votes,105
+Essex,Montclair,President,,,over votes,56
+Essex,Montclair,U.S. Senate,,,under votes,488
+Essex,Montclair,U.S. Senate,,,over votes,38
+Essex,Montclair,U.S. House,10,,under votes,523
+Essex,Montclair,U.S. House,10,,over votes,40
+Essex,Montclair,President,,WRI,Bernie Sanders included,16
+Essex,Newark,President,,,under votes,937
+Essex,Newark,President,,,over votes,1171
+Essex,Newark,U.S. Senate,,,under votes,4189
+Essex,Newark,U.S. Senate,,,over votes,989
+Essex,Newark,U.S. House,08,,under votes,3454
+Essex,Newark,U.S. House,08,,over votes,186
+Essex,Newark,U.S. House,10,,under votes,2734
+Essex,Newark,U.S. House,10,,over votes,522
+Essex,Newark,President,,WRI,Bernie Sanders included,26
+Essex,Newark,President,,WRI,Kanye West included,19
+Essex,North Caldwell,President,,,under votes,40
+Essex,North Caldwell,President,,,over votes,12
+Essex,North Caldwell,U.S. Senate,,,under votes,156
+Essex,North Caldwell,U.S. Senate,,,over votes,14
+Essex,North Caldwell,U.S. House,11,,under votes,143
+Essex,North Caldwell,U.S. House,11,,over votes,2
+Essex,Nutley,President,,,under votes,100
+Essex,Nutley,President,,,over votes,96
+Essex,Nutley,U.S. Senate,,,under votes,1140
+Essex,Nutley,U.S. Senate,,,over votes,85
+Essex,Nutley,U.S. House,11,,under votes,1263
+Essex,Nutley,U.S. House,11,,over votes,2
+Essex,Orange,President,,,under votes,96
+Essex,Orange,President,,,over votes,161
+Essex,Orange,U.S. Senate,,,under votes,477
+Essex,Orange,U.S. Senate,,,over votes,121
+Essex,Orange,U.S. House,10,,under votes,680
+Essex,Orange,U.S. House,10,,over votes,146
+Essex,Roseland,President,,,under votes,41
+Essex,Roseland,President,,,over votes,10
+Essex,Roseland,U.S. Senate,,,under votes,162
+Essex,Roseland,U.S. Senate,,,over votes,8
+Essex,Roseland,U.S. House,11,,under votes,169
+Essex,Roseland,U.S. House,11,,over votes,4
+Essex,South Orange,President,,,under votes,57
+Essex,South Orange,President,,,over votes,27
+Essex,South Orange,U.S. Senate,,,under votes,232
+Essex,South Orange,U.S. Senate,,,over votes,23
+Essex,South Orange,U.S. House,10,,under votes,379
+Essex,South Orange,U.S. House,10,,over votes,21
+Essex,Verona,President,,,under votes,65
+Essex,Verona,President,,,over votes,31
+Essex,Verona,U.S. Senate,,,under votes,425
+Essex,Verona,U.S. Senate,,,over votes,19
+Essex,Verona,U.S. House,11,,under votes,413
+Essex,Verona,U.S. House,11,,over votes,2
+Essex,West Caldwell,President,,,under votes,70
+Essex,West Caldwell,President,,,over votes,24
+Essex,West Caldwell,U.S. Senate,,,under votes,264
+Essex,West Caldwell,U.S. Senate,,,over votes,17
+Essex,West Caldwell,U.S. House,11,,under votes,263
+Essex,West Caldwell,U.S. House,11,,over votes,5
+Essex,West Orange,President,,,under votes,206
+Essex,West Orange,President,,,over votes,239
+Essex,West Orange,U.S. Senate,,,under votes,965
+Essex,West Orange,U.S. Senate,,,over votes,218
+Essex,West Orange,U.S. House,10,,under votes,522
+Essex,West Orange,U.S. House,10,,over votes,105
