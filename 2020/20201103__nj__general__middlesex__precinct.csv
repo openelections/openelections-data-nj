@@ -1,0 +1,3434 @@
+county,precinct,office,district,candidate,party,votes,machine,mail,mail_48,federal,military,emergency,provisional
+Middlesex,Borough of Carteret 01,Registered Voters,,,,15922,,,,,,,
+Middlesex,Borough of Carteret 01,Ballots Cast Total,,,,9642,8,8023,0,4,0,0,1607
+Middlesex,Borough of Carteret 01,Ballots Cast Blank,,,,21,0,6,0,0,0,0,15
+Middlesex,Borough of Carteret 01,President,,Joseph R. Biden,DEM,6212,5,5203,0,3,0,0,1001
+Middlesex,Borough of Carteret 01,President,,Donald J. Trump,REP,3065,2,2587,0,1,0,0,475
+Middlesex,Borough of Carteret 01,President,,Jo Jorgensen,NPC,26,0,21,0,0,0,0,5
+Middlesex,Borough of Carteret 01,President,,Don Blankenship,NPD,4,0,4,0,0,0,0,0
+Middlesex,Borough of Carteret 01,President,,Howie Hawkins,NPE,15,0,12,0,0,0,0,3
+Middlesex,Borough of Carteret 01,President,,Gloria Estela La Riva,NPF,9,0,8,0,0,0,0,1
+Middlesex,Borough of Carteret 01,President,,"Roque ""Rocky"" De La Fuente",NPG,6,0,6,0,0,0,0,0
+Middlesex,Borough of Carteret 01,President,,Bill Hammons,NPH,3,0,2,0,0,0,0,1
+Middlesex,Borough of Carteret 01,President,,Write-In,,23,0,19,0,0,0,0,4
+Middlesex,Borough of Carteret 01,President,,Overvotes,,140,0,96,0,0,0,0,44
+Middlesex,Borough of Carteret 01,President,,Undervotes,,139,1,65,0,0,0,0,73
+Middlesex,Borough of Carteret 01,U.S. Senate,,Cory Booker,DEM,6218,4,5224,0,4,0,0,986
+Middlesex,Borough of Carteret 01,U.S. Senate,,"Rikin ""Rik"" Mehta",REP,2578,3,2209,0,0,0,0,366
+Middlesex,Borough of Carteret 01,U.S. Senate,,Daniel Burke,NPC,58,0,52,0,0,0,0,6
+Middlesex,Borough of Carteret 01,U.S. Senate,,Veronica Fernandez,NPD,106,0,75,0,0,0,0,31
+Middlesex,Borough of Carteret 01,U.S. Senate,,Madelyn R. Hoffman,,76,0,64,0,0,0,0,12
+Middlesex,Borough of Carteret 01,U.S. Senate,,Write-In,,12,0,10,0,0,0,0,2
+Middlesex,Borough of Carteret 01,U.S. Senate,,Overvotes,,115,0,84,0,0,0,0,31
+Middlesex,Borough of Carteret 01,U.S. Senate,,Undervotes,,479,1,305,0,0,0,0,173
+Middlesex,Borough of Carteret 01,U.S. House,6,Frank Pallone Jr.,DEM,6437,6,5434,0,3,0,0,994
+Middlesex,Borough of Carteret 01,U.S. House,6,Christian Onuoha,REP,2548,2,2159,0,1,0,0,386
+Middlesex,Borough of Carteret 01,U.S. House,6,Write-In,,9,0,9,0,0,0,0,0
+Middlesex,Borough of Carteret 01,U.S. House,6,Overvotes,,38,0,33,0,0,0,0,5
+Middlesex,Borough of Carteret 01,U.S. House,6,Undervotes,,610,0,388,0,0,0,0,222
+Middlesex,Township of Cranbury 02,Registered Voters,,,,3365,,,,,,,
+Middlesex,Township of Cranbury 02,Ballots Cast Total,,,,2561,1,2419,0,20,0,0,121
+Middlesex,Township of Cranbury 02,Ballots Cast Blank,,,,1,0,1,0,0,0,0,0
+Middlesex,Township of Cranbury 02,President,,Joseph R. Biden,DEM,1596,0,1522,0,19,0,0,55
+Middlesex,Township of Cranbury 02,President,,Donald J. Trump,REP,872,1,809,0,1,0,0,61
+Middlesex,Township of Cranbury 02,President,,Jo Jorgensen,NPC,33,0,32,0,0,0,0,1
+Middlesex,Township of Cranbury 02,President,,Don Blankenship,NPD,3,0,3,0,0,0,0,0
+Middlesex,Township of Cranbury 02,President,,Howie Hawkins,NPE,11,0,11,0,0,0,0,0
+Middlesex,Township of Cranbury 02,President,,Gloria Estela La Riva,NPF,3,0,3,0,0,0,0,0
+Middlesex,Township of Cranbury 02,President,,"Roque ""Rocky"" De La Fuente",NPG,2,0,2,0,0,0,0,0
+Middlesex,Township of Cranbury 02,President,,Bill Hammons,NPH,3,0,3,0,0,0,0,0
+Middlesex,Township of Cranbury 02,President,,Write-In,,13,0,13,0,0,0,0,0
+Middlesex,Township of Cranbury 02,President,,Overvotes,,3,0,2,0,0,0,0,1
+Middlesex,Township of Cranbury 02,President,,Undervotes,,22,0,19,0,0,0,0,3
+Middlesex,Township of Cranbury 02,U.S. Senate,,Cory Booker,DEM,1502,0,1437,0,18,0,0,47
+Middlesex,Township of Cranbury 02,U.S. Senate,,"Rikin ""Rik"" Mehta",REP,951,1,884,0,1,0,0,65
+Middlesex,Township of Cranbury 02,U.S. Senate,,Daniel Burke,NPC,6,0,6,0,0,0,0,0
+Middlesex,Township of Cranbury 02,U.S. Senate,,Veronica Fernandez,NPD,13,0,13,0,0,0,0,0
+Middlesex,Township of Cranbury 02,U.S. Senate,,Madelyn R. Hoffman,,24,0,23,0,0,0,0,1
+Middlesex,Township of Cranbury 02,U.S. Senate,,Write-In,,0,0,0,0,0,0,0,0
+Middlesex,Township of Cranbury 02,U.S. Senate,,Overvotes,,16,0,15,0,0,0,0,1
+Middlesex,Township of Cranbury 02,U.S. Senate,,Undervotes,,49,0,41,0,1,0,0,7
+Middlesex,Township of Cranbury 02,U.S. House,12,Bonnie Watson Coleman,DEM,1460,0,1395,0,18,0,0,47
+Middlesex,Township of Cranbury 02,U.S. House,12,Mark Razzoli,REP,998,1,933,0,1,0,0,63
+Middlesex,Township of Cranbury 02,U.S. House,12,Kenneth J. Cody,NPF,9,0,9,0,0,0,0,0
+Middlesex,Township of Cranbury 02,U.S. House,12,"Edward ""NJ Weedman"" Forchion",NPG,16,0,16,0,0,0,0,0
+Middlesex,Township of Cranbury 02,U.S. House,12,Write-In,,0,0,0,0,0,0,0,0
+Middlesex,Township of Cranbury 02,U.S. House,12,Overvotes,,6,0,5,0,0,0,0,1
+Middlesex,Township of Cranbury 02,U.S. House,12,Undervotes,,72,0,61,0,1,0,0,10
+Middlesex,Borough of Dunellen 03,Registered Voters,,,,4672,,,,,,,
+Middlesex,Borough of Dunellen 03,Ballots Cast Total,,,,3344,4,2973,0,2,0,0,365
+Middlesex,Borough of Dunellen 03,Ballots Cast Blank,,,,1,0,1,0,0,0,0,0
+Middlesex,Borough of Dunellen 03,President,,Joseph R. Biden,DEM,1953,0,1725,0,2,0,0,226
+Middlesex,Borough of Dunellen 03,President,,Donald J. Trump,REP,1256,4,1137,0,0,0,0,115
+Middlesex,Borough of Dunellen 03,President,,Jo Jorgensen,NPC,33,0,32,0,0,0,0,1
+Middlesex,Borough of Dunellen 03,President,,Don Blankenship,NPD,3,0,3,0,0,0,0,0
+Middlesex,Borough of Dunellen 03,President,,Howie Hawkins,NPE,13,0,10,0,0,0,0,3
+Middlesex,Borough of Dunellen 03,President,,Gloria Estela La Riva,NPF,3,0,3,0,0,0,0,0
+Middlesex,Borough of Dunellen 03,President,,"Roque ""Rocky"" De La Fuente",NPG,3,0,3,0,0,0,0,0
+Middlesex,Borough of Dunellen 03,President,,Bill Hammons,NPH,4,0,4,0,0,0,0,0
+Middlesex,Borough of Dunellen 03,President,,Write-In,,18,0,17,0,0,0,0,1
+Middlesex,Borough of Dunellen 03,President,,Overvotes,,32,0,21,0,0,0,0,11
+Middlesex,Borough of Dunellen 03,President,,Undervotes,,26,0,18,0,0,0,0,8
+Middlesex,Borough of Dunellen 03,U.S. Senate,,Cory Booker,DEM,1873,0,1664,0,2,0,0,207
+Middlesex,Borough of Dunellen 03,U.S. Senate,,"Rikin ""Rik"" Mehta",REP,1196,4,1092,0,0,0,0,100
+Middlesex,Borough of Dunellen 03,U.S. Senate,,Daniel Burke,NPC,23,0,20,0,0,0,0,3
+Middlesex,Borough of Dunellen 03,U.S. Senate,,Veronica Fernandez,NPD,53,0,41,0,0,0,0,12
+Middlesex,Borough of Dunellen 03,U.S. Senate,,Madelyn R. Hoffman,,55,0,48,0,0,0,0,7
+Middlesex,Borough of Dunellen 03,U.S. Senate,,Write-In,,3,0,3,0,0,0,0,0
+Middlesex,Borough of Dunellen 03,U.S. Senate,,Overvotes,,41,0,28,0,0,0,0,13
+Middlesex,Borough of Dunellen 03,U.S. Senate,,Undervotes,,100,0,77,0,0,0,0,23
+Middlesex,Borough of Dunellen 03,U.S. House,12,Bonnie Watson Coleman,DEM,1846,0,1637,0,2,0,0,207
+Middlesex,Borough of Dunellen 03,U.S. House,12,Mark Razzoli,REP,1254,4,1138,0,0,0,0,112
+Middlesex,Borough of Dunellen 03,U.S. House,12,Kenneth J. Cody,NPF,18,0,18,0,0,0,0,0
+Middlesex,Borough of Dunellen 03,U.S. House,12,"Edward ""NJ Weedman"" Forchion",NPG,46,0,38,0,0,0,0,8
+Middlesex,Borough of Dunellen 03,U.S. House,12,Write-In,,3,0,3,0,0,0,0,0
+Middlesex,Borough of Dunellen 03,U.S. House,12,Overvotes,,21,0,15,0,0,0,0,6
+Middlesex,Borough of Dunellen 03,U.S. House,12,Undervotes,,156,0,124,0,0,0,0,32
+Middlesex,Township of East Brunswick 04,Registered Voters,,,,37160,,,,,,,
+Middlesex,Township of East Brunswick 04,Ballots Cast Total,,,,27302,19,25496,0,20,0,0,1767
+Middlesex,Township of East Brunswick 04,Ballots Cast Blank,,,,14,0,10,0,0,0,0,4
+Middlesex,Township of East Brunswick 04,President,,Joseph R. Biden,DEM,15713,6,14901,0,16,0,0,790
+Middlesex,Township of East Brunswick 04,President,,Donald J. Trump,REP,10713,12,9813,0,4,0,0,884
+Middlesex,Township of East Brunswick 04,President,,Jo Jorgensen,NPC,224,0,208,0,0,0,0,16
+Middlesex,Township of East Brunswick 04,President,,Don Blankenship,NPD,23,0,21,0,0,0,0,2
+Middlesex,Township of East Brunswick 04,President,,Howie Hawkins,NPE,93,0,83,0,0,0,0,10
+Middlesex,Township of East Brunswick 04,President,,Gloria Estela La Riva,NPF,4,0,4,0,0,0,0,0
+Middlesex,Township of East Brunswick 04,President,,"Roque ""Rocky"" De La Fuente",NPG,17,0,16,0,0,0,0,1
+Middlesex,Township of East Brunswick 04,President,,Bill Hammons,NPH,16,0,16,0,0,0,0,0
+Middlesex,Township of East Brunswick 04,President,,Write-In,,117,0,111,0,0,0,0,6
+Middlesex,Township of East Brunswick 04,President,,Overvotes,,146,0,124,0,0,0,0,22
+Middlesex,Township of East Brunswick 04,President,,Undervotes,,236,1,199,0,0,0,0,36
+Middlesex,Township of East Brunswick 04,U.S. Senate,,Cory Booker,DEM,15152,8,14334,0,16,0,0,794
+Middlesex,Township of East Brunswick 04,U.S. Senate,,"Rikin ""Rik"" Mehta",REP,10575,9,9749,0,3,0,0,814
+Middlesex,Township of East Brunswick 04,U.S. Senate,,Daniel Burke,NPC,146,0,128,0,0,0,0,18
+Middlesex,Township of East Brunswick 04,U.S. Senate,,Veronica Fernandez,NPD,187,0,172,0,0,0,0,15
+Middlesex,Township of East Brunswick 04,U.S. Senate,,Madelyn R. Hoffman,,250,0,229,0,1,0,0,20
+Middlesex,Township of East Brunswick 04,U.S. Senate,,Write-In,,32,0,32,0,0,0,0,0
+Middlesex,Township of East Brunswick 04,U.S. Senate,,Overvotes,,221,0,207,0,0,0,0,14
+Middlesex,Township of East Brunswick 04,U.S. Senate,,Undervotes,,739,2,645,0,0,0,0,92
+Middlesex,Township of East Brunswick 04,U.S. House,12,Bonnie Watson Coleman,DEM,14875,8,14113,0,17,0,0,737
+Middlesex,Township of East Brunswick 04,U.S. House,12,Mark Razzoli,REP,10907,10,10024,0,3,0,0,870
+Middlesex,Township of East Brunswick 04,U.S. House,12,Kenneth J. Cody,NPF,91,0,81,0,0,0,0,10
+Middlesex,Township of East Brunswick 04,U.S. House,12,"Edward ""NJ Weedman"" Forchion",NPG,205,0,192,0,0,0,0,13
+Middlesex,Township of East Brunswick 04,U.S. House,12,Write-In,,25,0,24,0,0,0,0,1
+Middlesex,Township of East Brunswick 04,U.S. House,12,Overvotes,,115,0,104,0,0,0,0,11
+Middlesex,Township of East Brunswick 04,U.S. House,12,Undervotes,,1084,1,958,0,0,0,0,125
+Middlesex,Township of Edison 05,Registered Voters,,,,62557,,,,,,,
+Middlesex,Township of Edison 05,Ballots Cast Total,,,,43733,30,40019,0,240,0,0,3444
+Middlesex,Township of Edison 05,Ballots Cast Blank,,,,55,1,34,0,0,0,0,20
+Middlesex,Township of Edison 05,President,,Joseph R. Biden,DEM,26335,11,24332,0,166,0,0,1826
+Middlesex,Township of Edison 05,President,,Donald J. Trump,REP,15986,18,14480,0,71,0,0,1417
+Middlesex,Township of Edison 05,President,,Jo Jorgensen,NPC,239,0,226,0,0,0,0,13
+Middlesex,Township of Edison 05,President,,Don Blankenship,NPD,38,0,35,0,0,0,0,3
+Middlesex,Township of Edison 05,President,,Howie Hawkins,NPE,115,0,105,0,0,0,0,10
+Middlesex,Township of Edison 05,President,,Gloria Estela La Riva,NPF,31,0,26,0,0,0,0,5
+Middlesex,Township of Edison 05,President,,"Roque ""Rocky"" De La Fuente",NPG,13,0,13,0,0,0,0,0
+Middlesex,Township of Edison 05,President,,Bill Hammons,NPH,19,0,19,0,0,0,0,0
+Middlesex,Township of Edison 05,President,,Write-In,,178,0,162,0,2,0,0,14
+Middlesex,Township of Edison 05,President,,Overvotes,,361,0,298,0,0,0,0,63
+Middlesex,Township of Edison 05,President,,Undervotes,,418,1,323,0,1,0,0,93
+Middlesex,Township of Edison 05,U.S. Senate,,Cory Booker,DEM,25816,12,23847,0,163,0,0,1794
+Middlesex,Township of Edison 05,U.S. Senate,,"Rikin ""Rik"" Mehta",REP,14862,15,13583,0,60,0,0,1204
+Middlesex,Township of Edison 05,U.S. Senate,,Daniel Burke,NPC,255,0,224,0,2,0,0,29
+Middlesex,Township of Edison 05,U.S. Senate,,Veronica Fernandez,NPD,324,0,276,0,1,0,0,47
+Middlesex,Township of Edison 05,U.S. Senate,,Madelyn R. Hoffman,,406,0,371,0,4,0,0,31
+Middlesex,Township of Edison 05,U.S. Senate,,Write-In,,48,0,41,0,0,0,0,7
+Middlesex,Township of Edison 05,U.S. Senate,,Overvotes,,481,0,424,0,0,0,0,57
+Middlesex,Township of Edison 05,U.S. Senate,,Undervotes,,1541,3,1253,0,10,0,0,275
+Middlesex,Township of Edison 05,U.S. House,6,Frank Pallone Jr.,DEM,27928,13,25851,0,175,0,0,1889
+Middlesex,Township of Edison 05,U.S. House,6,Christian Onuoha,REP,13804,12,12530,0,51,0,0,1211
+Middlesex,Township of Edison 05,U.S. House,6,Write-In,,42,0,36,0,1,0,0,5
+Middlesex,Township of Edison 05,U.S. House,6,Overvotes,,96,0,84,0,0,0,0,12
+Middlesex,Township of Edison 05,U.S. House,6,Undervotes,,1863,5,1518,0,13,0,0,327
+Middlesex,Borough of Helmetta 06,Registered Voters,,,,1773,,,,,,,
+Middlesex,Borough of Helmetta 06,Ballots Cast Total,,,,1325,2,1233,0,2,0,0,88
+Middlesex,Borough of Helmetta 06,Ballots Cast Blank,,,,1,0,1,0,0,0,0,0
+Middlesex,Borough of Helmetta 06,President,,Joseph R. Biden,DEM,560,2,530,0,2,0,0,26
+Middlesex,Borough of Helmetta 06,President,,Donald J. Trump,REP,709,0,656,0,0,0,0,53
+Middlesex,Borough of Helmetta 06,President,,Jo Jorgensen,NPC,18,0,18,0,0,0,0,0
+Middlesex,Borough of Helmetta 06,President,,Don Blankenship,NPD,3,0,3,0,0,0,0,0
+Middlesex,Borough of Helmetta 06,President,,Howie Hawkins,NPE,3,0,3,0,0,0,0,0
+Middlesex,Borough of Helmetta 06,President,,Gloria Estela La Riva,NPF,0,0,0,0,0,0,0,0
+Middlesex,Borough of Helmetta 06,President,,"Roque ""Rocky"" De La Fuente",NPG,3,0,3,0,0,0,0,0
+Middlesex,Borough of Helmetta 06,President,,Bill Hammons,NPH,0,0,0,0,0,0,0,0
+Middlesex,Borough of Helmetta 06,President,,Write-In,,4,0,4,0,0,0,0,0
+Middlesex,Borough of Helmetta 06,President,,Overvotes,,12,0,9,0,0,0,0,3
+Middlesex,Borough of Helmetta 06,President,,Undervotes,,13,0,7,0,0,0,0,6
+Middlesex,Borough of Helmetta 06,U.S. Senate,,Cory Booker,DEM,561,2,526,0,2,0,0,31
+Middlesex,Borough of Helmetta 06,U.S. Senate,,"Rikin ""Rik"" Mehta",REP,681,0,633,0,0,0,0,48
+Middlesex,Borough of Helmetta 06,U.S. Senate,,Daniel Burke,NPC,6,0,6,0,0,0,0,0
+Middlesex,Borough of Helmetta 06,U.S. Senate,,Veronica Fernandez,NPD,15,0,15,0,0,0,0,0
+Middlesex,Borough of Helmetta 06,U.S. Senate,,Madelyn R. Hoffman,,12,0,9,0,0,0,0,3
+Middlesex,Borough of Helmetta 06,U.S. Senate,,Write-In,,2,0,2,0,0,0,0,0
+Middlesex,Borough of Helmetta 06,U.S. Senate,,Overvotes,,7,0,6,0,0,0,0,1
+Middlesex,Borough of Helmetta 06,U.S. Senate,,Undervotes,,41,0,36,0,0,0,0,5
+Middlesex,Borough of Helmetta 06,U.S. House,12,Bonnie Watson Coleman,DEM,541,2,510,0,2,0,0,27
+Middlesex,Borough of Helmetta 06,U.S. House,12,Mark Razzoli,REP,686,0,640,0,0,0,0,46
+Middlesex,Borough of Helmetta 06,U.S. House,12,Kenneth J. Cody,NPF,8,0,7,0,0,0,0,1
+Middlesex,Borough of Helmetta 06,U.S. House,12,"Edward ""NJ Weedman"" Forchion",NPG,16,0,14,0,0,0,0,2
+Middlesex,Borough of Helmetta 06,U.S. House,12,Write-In,,1,0,1,0,0,0,0,0
+Middlesex,Borough of Helmetta 06,U.S. House,12,Overvotes,,12,0,11,0,0,0,0,1
+Middlesex,Borough of Helmetta 06,U.S. House,12,Undervotes,,61,0,50,0,0,0,0,11
+Middlesex,Borough of Highland Park 07,Registered Voters,,,,10904,,,,,,,
+Middlesex,Borough of Highland Park 07,Ballots Cast Total,,,,7166,1,6445,0,198,0,0,522
+Middlesex,Borough of Highland Park 07,Ballots Cast Blank,,,,5,0,2,0,0,0,0,3
+Middlesex,Borough of Highland Park 07,President,,Joseph R. Biden,DEM,5379,1,4916,0,133,0,0,329
+Middlesex,Borough of Highland Park 07,President,,Donald J. Trump,REP,1533,0,1309,0,63,0,0,161
+Middlesex,Borough of Highland Park 07,President,,Jo Jorgensen,NPC,58,0,47,0,1,0,0,10
+Middlesex,Borough of Highland Park 07,President,,Don Blankenship,NPD,1,0,1,0,0,0,0,0
+Middlesex,Borough of Highland Park 07,President,,Howie Hawkins,NPE,50,0,48,0,0,0,0,2
+Middlesex,Borough of Highland Park 07,President,,Gloria Estela La Riva,NPF,9,0,8,0,0,0,0,1
+Middlesex,Borough of Highland Park 07,President,,"Roque ""Rocky"" De La Fuente",NPG,1,0,1,0,0,0,0,0
+Middlesex,Borough of Highland Park 07,President,,Bill Hammons,NPH,0,0,0,0,0,0,0,0
+Middlesex,Borough of Highland Park 07,President,,Write-In,,49,0,48,0,0,0,0,1
+Middlesex,Borough of Highland Park 07,President,,Overvotes,,24,0,21,0,1,0,0,2
+Middlesex,Borough of Highland Park 07,President,,Undervotes,,62,0,46,0,0,0,0,16
+Middlesex,Borough of Highland Park 07,U.S. Senate,,Cory Booker,DEM,5259,1,4800,0,134,0,0,324
+Middlesex,Borough of Highland Park 07,U.S. Senate,,"Rikin ""Rik"" Mehta",REP,1492,0,1300,0,55,0,0,137
+Middlesex,Borough of Highland Park 07,U.S. Senate,,Daniel Burke,NPC,9,0,7,0,0,0,0,2
+Middlesex,Borough of Highland Park 07,U.S. Senate,,Veronica Fernandez,NPD,44,0,32,0,0,0,0,12
+Middlesex,Borough of Highland Park 07,U.S. Senate,,Madelyn R. Hoffman,,130,0,119,0,3,0,0,8
+Middlesex,Borough of Highland Park 07,U.S. Senate,,Write-In,,16,0,15,0,0,0,0,1
+Middlesex,Borough of Highland Park 07,U.S. Senate,,Overvotes,,23,0,19,0,1,0,0,3
+Middlesex,Borough of Highland Park 07,U.S. Senate,,Undervotes,,193,0,153,0,5,0,0,35
+Middlesex,Borough of Highland Park 07,U.S. House,6,Frank Pallone Jr.,DEM,5479,1,5007,0,148,0,0,323
+Middlesex,Borough of Highland Park 07,U.S. House,6,Christian Onuoha,REP,1397,0,1205,0,44,0,0,148
+Middlesex,Borough of Highland Park 07,U.S. House,6,Write-In,,24,0,23,0,0,0,0,1
+Middlesex,Borough of Highland Park 07,U.S. House,6,Overvotes,,6,0,5,0,1,0,0,0
+Middlesex,Borough of Highland Park 07,U.S. House,6,Undervotes,,260,0,205,0,5,0,0,50
+Middlesex,Borough of Jamesburg 08,Registered Voters,,,,3448,,,,,,,
+Middlesex,Borough of Jamesburg 08,Ballots Cast Total,,,,2379,0,2164,0,2,0,0,213
+Middlesex,Borough of Jamesburg 08,Ballots Cast Blank,,,,1,0,1,0,0,0,0,0
+Middlesex,Borough of Jamesburg 08,President,,Joseph R. Biden,DEM,1200,0,1098,0,2,0,0,100
+Middlesex,Borough of Jamesburg 08,President,,Donald J. Trump,REP,1107,0,1000,0,0,0,0,107
+Middlesex,Borough of Jamesburg 08,President,,Jo Jorgensen,NPC,26,0,24,0,0,0,0,2
+Middlesex,Borough of Jamesburg 08,President,,Don Blankenship,NPD,1,0,1,0,0,0,0,0
+Middlesex,Borough of Jamesburg 08,President,,Howie Hawkins,NPE,9,0,7,0,0,0,0,2
+Middlesex,Borough of Jamesburg 08,President,,Gloria Estela La Riva,NPF,0,0,0,0,0,0,0,0
+Middlesex,Borough of Jamesburg 08,President,,"Roque ""Rocky"" De La Fuente",NPG,0,0,0,0,0,0,0,0
+Middlesex,Borough of Jamesburg 08,President,,Bill Hammons,NPH,1,0,1,0,0,0,0,0
+Middlesex,Borough of Jamesburg 08,President,,Write-In,,8,0,8,0,0,0,0,0
+Middlesex,Borough of Jamesburg 08,President,,Overvotes,,12,0,11,0,0,0,0,1
+Middlesex,Borough of Jamesburg 08,President,,Undervotes,,15,0,14,0,0,0,0,1
+Middlesex,Borough of Jamesburg 08,U.S. Senate,,Cory Booker,DEM,1197,0,1093,0,2,0,0,102
+Middlesex,Borough of Jamesburg 08,U.S. Senate,,"Rikin ""Rik"" Mehta",REP,1017,0,939,0,0,0,0,78
+Middlesex,Borough of Jamesburg 08,U.S. Senate,,Daniel Burke,NPC,19,0,16,0,0,0,0,3
+Middlesex,Borough of Jamesburg 08,U.S. Senate,,Veronica Fernandez,NPD,17,0,13,0,0,0,0,4
+Middlesex,Borough of Jamesburg 08,U.S. Senate,,Madelyn R. Hoffman,,31,0,25,0,0,0,0,6
+Middlesex,Borough of Jamesburg 08,U.S. Senate,,Write-In,,1,0,1,0,0,0,0,0
+Middlesex,Borough of Jamesburg 08,U.S. Senate,,Overvotes,,11,0,9,0,0,0,0,2
+Middlesex,Borough of Jamesburg 08,U.S. Senate,,Undervotes,,86,0,68,0,0,0,0,18
+Middlesex,Borough of Jamesburg 08,U.S. House,12,Bonnie Watson Coleman,DEM,1153,0,1054,0,2,0,0,97
+Middlesex,Borough of Jamesburg 08,U.S. House,12,Mark Razzoli,REP,1037,0,945,0,0,0,0,92
+Middlesex,Borough of Jamesburg 08,U.S. House,12,Kenneth J. Cody,NPF,10,0,9,0,0,0,0,1
+Middlesex,Borough of Jamesburg 08,U.S. House,12,"Edward ""NJ Weedman"" Forchion",NPG,38,0,33,0,0,0,0,5
+Middlesex,Borough of Jamesburg 08,U.S. House,12,Write-In,,3,0,2,0,0,0,0,1
+Middlesex,Borough of Jamesburg 08,U.S. House,12,Overvotes,,24,0,23,0,0,0,0,1
+Middlesex,Borough of Jamesburg 08,U.S. House,12,Undervotes,,114,0,98,0,0,0,0,16
+Middlesex,Borough of Metuchen 09,Registered Voters,,,,11544,,,,,,,
+Middlesex,Borough of Metuchen 09,Ballots Cast Total,,,,8795,4,8197,0,66,0,0,528
+Middlesex,Borough of Metuchen 09,Ballots Cast Blank,,,,3,0,2,0,0,0,0,1
+Middlesex,Borough of Metuchen 09,President,,Joseph R. Biden,DEM,5953,1,5609,0,60,0,0,283
+Middlesex,Borough of Metuchen 09,President,,Donald J. Trump,REP,2548,3,2320,0,4,0,0,221
+Middlesex,Borough of Metuchen 09,President,,Jo Jorgensen,NPC,95,0,92,0,0,0,0,3
+Middlesex,Borough of Metuchen 09,President,,Don Blankenship,NPD,9,0,9,0,0,0,0,0
+Middlesex,Borough of Metuchen 09,President,,Howie Hawkins,NPE,31,0,28,0,1,0,0,2
+Middlesex,Borough of Metuchen 09,President,,Gloria Estela La Riva,NPF,5,0,5,0,0,0,0,0
+Middlesex,Borough of Metuchen 09,President,,"Roque ""Rocky"" De La Fuente",NPG,3,0,3,0,0,0,0,0
+Middlesex,Borough of Metuchen 09,President,,Bill Hammons,NPH,4,0,4,0,0,0,0,0
+Middlesex,Borough of Metuchen 09,President,,Write-In,,45,0,44,0,0,0,0,1
+Middlesex,Borough of Metuchen 09,President,,Overvotes,,28,0,24,0,1,0,0,3
+Middlesex,Borough of Metuchen 09,President,,Undervotes,,74,0,59,0,0,0,0,15
+Middlesex,Borough of Metuchen 09,U.S. Senate,,Cory Booker,DEM,5797,1,5454,0,58,0,0,284
+Middlesex,Borough of Metuchen 09,U.S. Senate,,"Rikin ""Rik"" Mehta",REP,2595,3,2385,0,4,0,0,203
+Middlesex,Borough of Metuchen 09,U.S. Senate,,Daniel Burke,NPC,38,0,33,0,0,0,0,5
+Middlesex,Borough of Metuchen 09,U.S. Senate,,Veronica Fernandez,NPD,42,0,37,0,0,0,0,5
+Middlesex,Borough of Metuchen 09,U.S. Senate,,Madelyn R. Hoffman,,88,0,80,0,1,0,0,7
+Middlesex,Borough of Metuchen 09,U.S. Senate,,Write-In,,5,0,5,0,0,0,0,0
+Middlesex,Borough of Metuchen 09,U.S. Senate,,Overvotes,,28,0,25,0,0,0,0,3
+Middlesex,Borough of Metuchen 09,U.S. Senate,,Undervotes,,202,0,178,0,3,0,0,21
+Middlesex,Borough of Metuchen 09,U.S. House,6,Frank Pallone Jr.,DEM,5906,1,5567,0,59,0,0,279
+Middlesex,Borough of Metuchen 09,U.S. House,6,Christian Onuoha,REP,2605,3,2386,0,4,0,0,212
+Middlesex,Borough of Metuchen 09,U.S. House,6,Write-In,,4,0,4,0,0,0,0,0
+Middlesex,Borough of Metuchen 09,U.S. House,6,Overvotes,,6,0,6,0,0,0,0,0
+Middlesex,Borough of Metuchen 09,U.S. House,6,Undervotes,,274,0,234,0,3,0,0,37
+Middlesex,Borough of Middlesex 10,Registered Voters,,,,10007,,,,,,,
+Middlesex,Borough of Middlesex 10,Ballots Cast Total,,,,7339,3,6680,0,6,0,0,650
+Middlesex,Borough of Middlesex 10,Ballots Cast Blank,,,,11,0,8,0,0,0,0,3
+Middlesex,Borough of Middlesex 10,President,,Joseph R. Biden,DEM,3460,1,3156,0,6,0,0,297
+Middlesex,Borough of Middlesex 10,President,,Donald J. Trump,REP,3608,2,3284,0,0,0,0,322
+Middlesex,Borough of Middlesex 10,President,,Jo Jorgensen,NPC,78,0,74,0,0,0,0,4
+Middlesex,Borough of Middlesex 10,President,,Don Blankenship,NPD,4,0,4,0,0,0,0,0
+Middlesex,Borough of Middlesex 10,President,,Howie Hawkins,NPE,23,0,23,0,0,0,0,0
+Middlesex,Borough of Middlesex 10,President,,Gloria Estela La Riva,NPF,7,0,6,0,0,0,0,1
+Middlesex,Borough of Middlesex 10,President,,"Roque ""Rocky"" De La Fuente",NPG,5,0,5,0,0,0,0,0
+Middlesex,Borough of Middlesex 10,President,,Bill Hammons,NPH,3,0,3,0,0,0,0,0
+Middlesex,Borough of Middlesex 10,President,,Write-In,,31,0,28,0,0,0,0,3
+Middlesex,Borough of Middlesex 10,President,,Overvotes,,52,0,44,0,0,0,0,8
+Middlesex,Borough of Middlesex 10,President,,Undervotes,,68,0,53,0,0,0,0,15
+Middlesex,Borough of Middlesex 10,U.S. Senate,,Cory Booker,DEM,3384,1,3074,0,6,0,0,303
+Middlesex,Borough of Middlesex 10,U.S. Senate,,"Rikin ""Rik"" Mehta",REP,3463,2,3185,0,0,0,0,276
+Middlesex,Borough of Middlesex 10,U.S. Senate,,Daniel Burke,NPC,44,0,38,0,0,0,0,6
+Middlesex,Borough of Middlesex 10,U.S. Senate,,Veronica Fernandez,NPD,61,0,53,0,0,0,0,8
+Middlesex,Borough of Middlesex 10,U.S. Senate,,Madelyn R. Hoffman,,76,0,70,0,0,0,0,6
+Middlesex,Borough of Middlesex 10,U.S. Senate,,Write-In,,11,0,10,0,0,0,0,1
+Middlesex,Borough of Middlesex 10,U.S. Senate,,Overvotes,,78,0,66,0,0,0,0,12
+Middlesex,Borough of Middlesex 10,U.S. Senate,,Undervotes,,222,0,184,0,0,0,0,38
+Middlesex,Borough of Middlesex 10,U.S. House,12,Bonnie Watson Coleman,DEM,3306,1,3008,0,5,0,0,292
+Middlesex,Borough of Middlesex 10,U.S. House,12,Mark Razzoli,REP,3556,2,3263,0,1,0,0,290
+Middlesex,Borough of Middlesex 10,U.S. House,12,Kenneth J. Cody,NPF,22,0,20,0,0,0,0,2
+Middlesex,Borough of Middlesex 10,U.S. House,12,"Edward ""NJ Weedman"" Forchion",NPG,68,0,63,0,0,0,0,5
+Middlesex,Borough of Middlesex 10,U.S. House,12,Write-In,,4,0,4,0,0,0,0,0
+Middlesex,Borough of Middlesex 10,U.S. House,12,Overvotes,,42,0,36,0,0,0,0,6
+Middlesex,Borough of Middlesex 10,U.S. House,12,Undervotes,,341,0,286,0,0,0,0,55
+Middlesex,Borough of Milltown 11,Registered Voters,,,,5569,,,,,,,
+Middlesex,Borough of Milltown 11,Ballots Cast Total,,,,4344,1,3981,0,8,0,0,354
+Middlesex,Borough of Milltown 11,Ballots Cast Blank,,,,0,0,0,0,0,0,0,0
+Middlesex,Borough of Milltown 11,President,,Joseph R. Biden,DEM,2043,0,1898,0,6,0,0,139
+Middlesex,Borough of Milltown 11,President,,Donald J. Trump,REP,2135,1,1935,0,2,0,0,197
+Middlesex,Borough of Milltown 11,President,,Jo Jorgensen,NPC,71,0,68,0,0,0,0,3
+Middlesex,Borough of Milltown 11,President,,Don Blankenship,NPD,2,0,2,0,0,0,0,0
+Middlesex,Borough of Milltown 11,President,,Howie Hawkins,NPE,13,0,11,0,0,0,0,2
+Middlesex,Borough of Milltown 11,President,,Gloria Estela La Riva,NPF,2,0,2,0,0,0,0,0
+Middlesex,Borough of Milltown 11,President,,"Roque ""Rocky"" De La Fuente",NPG,2,0,2,0,0,0,0,0
+Middlesex,Borough of Milltown 11,President,,Bill Hammons,NPH,2,0,2,0,0,0,0,0
+Middlesex,Borough of Milltown 11,President,,Write-In,,17,0,16,0,0,0,0,1
+Middlesex,Borough of Milltown 11,President,,Overvotes,,17,0,13,0,0,0,0,4
+Middlesex,Borough of Milltown 11,President,,Undervotes,,40,0,32,0,0,0,0,8
+Middlesex,Borough of Milltown 11,U.S. Senate,,Cory Booker,DEM,1977,0,1836,0,6,0,0,135
+Middlesex,Borough of Milltown 11,U.S. Senate,,"Rikin ""Rik"" Mehta",REP,2090,1,1903,0,2,0,0,184
+Middlesex,Borough of Milltown 11,U.S. Senate,,Daniel Burke,NPC,30,0,29,0,0,0,0,1
+Middlesex,Borough of Milltown 11,U.S. Senate,,Veronica Fernandez,NPD,34,0,29,0,0,0,0,5
+Middlesex,Borough of Milltown 11,U.S. Senate,,Madelyn R. Hoffman,,43,0,39,0,0,0,0,4
+Middlesex,Borough of Milltown 11,U.S. Senate,,Write-In,,4,0,4,0,0,0,0,0
+Middlesex,Borough of Milltown 11,U.S. Senate,,Overvotes,,29,0,25,0,0,0,0,4
+Middlesex,Borough of Milltown 11,U.S. Senate,,Undervotes,,137,0,116,0,0,0,0,21
+Middlesex,Borough of Milltown 11,U.S. House,12,Bonnie Watson Coleman,DEM,1953,0,1820,0,6,0,0,127
+Middlesex,Borough of Milltown 11,U.S. House,12,Mark Razzoli,REP,2103,1,1916,0,2,0,0,184
+Middlesex,Borough of Milltown 11,U.S. House,12,Kenneth J. Cody,NPF,16,0,16,0,0,0,0,0
+Middlesex,Borough of Milltown 11,U.S. House,12,"Edward ""NJ Weedman"" Forchion",NPG,46,0,41,0,0,0,0,5
+Middlesex,Borough of Milltown 11,U.S. House,12,Write-In,,1,0,1,0,0,0,0,0
+Middlesex,Borough of Milltown 11,U.S. House,12,Overvotes,,22,0,17,0,0,0,0,5
+Middlesex,Borough of Milltown 11,U.S. House,12,Undervotes,,203,0,170,0,0,0,0,33
+Middlesex,Township of Monroe 12,Registered Voters,,,,39995,,,,,,,
+Middlesex,Township of Monroe 12,Ballots Cast Total,,,,31185,4,29717,0,78,0,0,1386
+Middlesex,Township of Monroe 12,Ballots Cast Blank,,,,24,0,13,0,0,0,0,11
+Middlesex,Township of Monroe 12,President,,Joseph R. Biden,DEM,16593,1,15979,0,67,0,0,546
+Middlesex,Township of Monroe 12,President,,Donald J. Trump,REP,13841,3,13049,0,9,0,0,780
+Middlesex,Township of Monroe 12,President,,Jo Jorgensen,NPC,132,0,127,0,0,0,0,5
+Middlesex,Township of Monroe 12,President,,Don Blankenship,NPD,19,0,18,0,0,0,0,1
+Middlesex,Township of Monroe 12,President,,Howie Hawkins,NPE,67,0,64,0,1,0,0,2
+Middlesex,Township of Monroe 12,President,,Gloria Estela La Riva,NPF,9,0,9,0,0,0,0,0
+Middlesex,Township of Monroe 12,President,,"Roque ""Rocky"" De La Fuente",NPG,13,0,13,0,0,0,0,0
+Middlesex,Township of Monroe 12,President,,Bill Hammons,NPH,17,0,16,0,0,0,0,1
+Middlesex,Township of Monroe 12,President,,Write-In,,89,0,87,0,0,0,0,2
+Middlesex,Township of Monroe 12,President,,Overvotes,,149,0,135,0,1,0,0,13
+Middlesex,Township of Monroe 12,President,,Undervotes,,256,0,220,0,0,0,0,36
+Middlesex,Township of Monroe 12,U.S. Senate,,Cory Booker,DEM,15896,1,15314,0,63,0,0,518
+Middlesex,Township of Monroe 12,U.S. Senate,,"Rikin ""Rik"" Mehta",REP,13729,3,12982,0,11,0,0,733
+Middlesex,Township of Monroe 12,U.S. Senate,,Daniel Burke,NPC,132,0,116,0,0,0,0,16
+Middlesex,Township of Monroe 12,U.S. Senate,,Veronica Fernandez,NPD,136,0,130,0,0,0,0,6
+Middlesex,Township of Monroe 12,U.S. Senate,,Madelyn R. Hoffman,,208,0,193,0,2,0,0,13
+Middlesex,Township of Monroe 12,U.S. Senate,,Write-In,,29,0,27,0,0,0,0,2
+Middlesex,Township of Monroe 12,U.S. Senate,,Overvotes,,252,0,244,0,0,0,0,8
+Middlesex,Township of Monroe 12,U.S. Senate,,Undervotes,,803,0,711,0,2,0,0,90
+Middlesex,Township of Monroe 12,U.S. House,12,Bonnie Watson Coleman,DEM,15750,1,15170,0,62,0,0,517
+Middlesex,Township of Monroe 12,U.S. House,12,Mark Razzoli,REP,13879,3,13127,0,12,0,0,737
+Middlesex,Township of Monroe 12,U.S. House,12,Kenneth J. Cody,NPF,95,0,86,0,0,0,0,9
+Middlesex,Township of Monroe 12,U.S. House,12,"Edward ""NJ Weedman"" Forchion",NPG,201,0,186,0,2,0,0,13
+Middlesex,Township of Monroe 12,U.S. House,12,Write-In,,24,0,22,0,0,0,0,2
+Middlesex,Township of Monroe 12,U.S. House,12,Overvotes,,94,0,87,0,0,0,0,7
+Middlesex,Township of Monroe 12,U.S. House,12,Undervotes,,1142,0,1039,0,2,0,0,101
+Middlesex,City of New Brunswick 15,Registered Voters,,,,22234,,,,,,,
+Middlesex,City of New Brunswick 15,Ballots Cast Total,,,,9682,17,7835,0,60,0,0,1770
+Middlesex,City of New Brunswick 15,Ballots Cast Blank,,,,17,0,7,0,0,0,0,10
+Middlesex,City of New Brunswick 15,President,,Joseph R. Biden,DEM,7639,14,6235,0,54,0,0,1336
+Middlesex,City of New Brunswick 15,President,,Donald J. Trump,REP,1608,3,1271,0,6,0,0,328
+Middlesex,City of New Brunswick 15,President,,Jo Jorgensen,NPC,60,0,48,0,0,0,0,12
+Middlesex,City of New Brunswick 15,President,,Don Blankenship,NPD,8,0,6,0,0,0,0,2
+Middlesex,City of New Brunswick 15,President,,Howie Hawkins,NPE,49,0,40,0,0,0,0,9
+Middlesex,City of New Brunswick 15,President,,Gloria Estela La Riva,NPF,23,0,18,0,0,0,0,5
+Middlesex,City of New Brunswick 15,President,,"Roque ""Rocky"" De La Fuente",NPG,2,0,2,0,0,0,0,0
+Middlesex,City of New Brunswick 15,President,,Bill Hammons,NPH,7,0,7,0,0,0,0,0
+Middlesex,City of New Brunswick 15,President,,Write-In,,37,0,34,0,0,0,0,3
+Middlesex,City of New Brunswick 15,President,,Overvotes,,136,0,99,0,0,0,0,37
+Middlesex,City of New Brunswick 15,President,,Undervotes,,113,0,75,0,0,0,0,38
+Middlesex,City of New Brunswick 15,U.S. Senate,,Cory Booker,DEM,7496,14,6158,0,52,0,0,1272
+Middlesex,City of New Brunswick 15,U.S. Senate,,"Rikin ""Rik"" Mehta",REP,1390,2,1125,0,7,0,0,256
+Middlesex,City of New Brunswick 15,U.S. Senate,,Daniel Burke,NPC,30,0,21,0,0,0,0,9
+Middlesex,City of New Brunswick 15,U.S. Senate,,Veronica Fernandez,NPD,107,0,69,0,0,0,0,38
+Middlesex,City of New Brunswick 15,U.S. Senate,,Madelyn R. Hoffman,,139,0,115,0,1,0,0,23
+Middlesex,City of New Brunswick 15,U.S. Senate,,Write-In,,11,0,11,0,0,0,0,0
+Middlesex,City of New Brunswick 15,U.S. Senate,,Overvotes,,127,0,93,0,0,0,0,34
+Middlesex,City of New Brunswick 15,U.S. Senate,,Undervotes,,382,1,243,0,0,0,0,138
+Middlesex,City of New Brunswick 15,U.S. House,6,Frank Pallone Jr.,DEM,7608,13,6263,0,51,0,0,1281
+Middlesex,City of New Brunswick 15,U.S. House,6,Christian Onuoha,REP,1498,2,1194,0,8,0,0,294
+Middlesex,City of New Brunswick 15,U.S. House,6,Write-In,,15,0,14,0,0,0,0,1
+Middlesex,City of New Brunswick 15,U.S. House,6,Overvotes,,28,0,26,0,0,0,0,2
+Middlesex,City of New Brunswick 15,U.S. House,6,Undervotes,,533,2,338,0,1,0,0,192
+Middlesex,Township of North Brunswick 20,Registered Voters,,,,27936,,,,,,,
+Middlesex,Township of North Brunswick 20,Ballots Cast Total,,,,18710,10,16870,0,75,0,0,1755
+Middlesex,Township of North Brunswick 20,Ballots Cast Blank,,,,29,0,24,0,0,0,0,5
+Middlesex,Township of North Brunswick 20,President,,Joseph R. Biden,DEM,12606,4,11402,0,68,0,0,1132
+Middlesex,Township of North Brunswick 20,President,,Donald J. Trump,REP,5507,5,4971,0,6,0,0,525
+Middlesex,Township of North Brunswick 20,President,,Jo Jorgensen,NPC,126,0,112,0,1,0,0,13
+Middlesex,Township of North Brunswick 20,President,,Don Blankenship,NPD,5,0,4,0,0,0,0,1
+Middlesex,Township of North Brunswick 20,President,,Howie Hawkins,NPE,58,0,55,0,0,0,0,3
+Middlesex,Township of North Brunswick 20,President,,Gloria Estela La Riva,NPF,17,0,17,0,0,0,0,0
+Middlesex,Township of North Brunswick 20,President,,"Roque ""Rocky"" De La Fuente",NPG,12,0,11,0,0,0,0,1
+Middlesex,Township of North Brunswick 20,President,,Bill Hammons,NPH,10,0,10,0,0,0,0,0
+Middlesex,Township of North Brunswick 20,President,,Write-In,,44,0,44,0,0,0,0,0
+Middlesex,Township of North Brunswick 20,President,,Overvotes,,171,0,123,0,0,0,0,48
+Middlesex,Township of North Brunswick 20,President,,Undervotes,,154,1,121,0,0,0,0,32
+Middlesex,Township of North Brunswick 20,U.S. Senate,,Cory Booker,DEM,12326,4,11144,0,60,0,0,1118
+Middlesex,Township of North Brunswick 20,U.S. Senate,,"Rikin ""Rik"" Mehta",REP,5260,5,4795,0,7,0,0,453
+Middlesex,Township of North Brunswick 20,U.S. Senate,,Daniel Burke,NPC,87,0,75,0,0,0,0,12
+Middlesex,Township of North Brunswick 20,U.S. Senate,,Veronica Fernandez,NPD,155,0,121,0,1,0,0,33
+Middlesex,Township of North Brunswick 20,U.S. Senate,,Madelyn R. Hoffman,,166,0,157,0,1,0,0,8
+Middlesex,Township of North Brunswick 20,U.S. Senate,,Write-In,,13,0,13,0,0,0,0,0
+Middlesex,Township of North Brunswick 20,U.S. Senate,,Overvotes,,191,0,150,0,0,0,0,41
+Middlesex,Township of North Brunswick 20,U.S. Senate,,Undervotes,,512,1,415,0,6,0,0,90
+Middlesex,Township of North Brunswick 20,U.S. House,12,Bonnie Watson Coleman,DEM,12232,4,11056,0,61,0,0,1111
+Middlesex,Township of North Brunswick 20,U.S. House,12,Mark Razzoli,REP,5312,6,4836,0,5,0,0,465
+Middlesex,Township of North Brunswick 20,U.S. House,12,Kenneth J. Cody,NPF,62,0,59,0,0,0,0,3
+Middlesex,Township of North Brunswick 20,U.S. House,12,"Edward ""NJ Weedman"" Forchion",NPG,191,0,163,0,3,0,0,25
+Middlesex,Township of North Brunswick 20,U.S. House,12,Write-In,,13,0,12,0,0,0,0,1
+Middlesex,Township of North Brunswick 20,U.S. House,12,Overvotes,,122,0,102,0,0,0,0,20
+Middlesex,Township of North Brunswick 20,U.S. House,12,Undervotes,,778,0,642,0,6,0,0,130
+Middlesex,21 Township of Old Bridge Cong. 6,Registered Voters,,,,10114,,,,,,,
+Middlesex,21 Township of Old Bridge Cong. 6,Ballots Cast Total,,,,7438,11,6821,0,61,0,0,545
+Middlesex,21 Township of Old Bridge Cong. 6,Ballots Cast Blank,,,,4,0,4,0,0,0,0,0
+Middlesex,21 Township of Old Bridge Cong. 6,President,,Joseph R. Biden,DEM,3421,2,3141,0,55,0,0,223
+Middlesex,21 Township of Old Bridge Cong. 6,President,,Donald J. Trump,REP,3797,9,3485,0,6,0,0,297
+Middlesex,21 Township of Old Bridge Cong. 6,President,,Jo Jorgensen,NPC,60,0,55,0,0,0,0,5
+Middlesex,21 Township of Old Bridge Cong. 6,President,,Don Blankenship,NPD,2,0,2,0,0,0,0,0
+Middlesex,21 Township of Old Bridge Cong. 6,President,,Howie Hawkins,NPE,28,0,25,0,0,0,0,3
+Middlesex,21 Township of Old Bridge Cong. 6,President,,Gloria Estela La Riva,NPF,3,0,3,0,0,0,0,0
+Middlesex,21 Township of Old Bridge Cong. 6,President,,"Roque ""Rocky"" De La Fuente",NPG,4,0,4,0,0,0,0,0
+Middlesex,21 Township of Old Bridge Cong. 6,President,,Bill Hammons,NPH,3,0,3,0,0,0,0,0
+Middlesex,21 Township of Old Bridge Cong. 6,President,,Write-In,,19,0,19,0,0,0,0,0
+Middlesex,21 Township of Old Bridge Cong. 6,President,,Overvotes,,48,0,39,0,0,0,0,9
+Middlesex,21 Township of Old Bridge Cong. 6,President,,Undervotes,,53,0,45,0,0,0,0,8
+Middlesex,21 Township of Old Bridge Cong. 6,U.S. Senate,,Cory Booker,DEM,3394,2,3116,0,54,0,0,222
+Middlesex,21 Township of Old Bridge Cong. 6,U.S. Senate,,"Rikin ""Rik"" Mehta",REP,3574,8,3291,0,5,0,0,270
+Middlesex,21 Township of Old Bridge Cong. 6,U.S. Senate,,Daniel Burke,NPC,53,0,44,0,0,0,0,9
+Middlesex,21 Township of Old Bridge Cong. 6,U.S. Senate,,Veronica Fernandez,NPD,58,0,52,0,0,0,0,6
+Middlesex,21 Township of Old Bridge Cong. 6,U.S. Senate,,Madelyn R. Hoffman,,80,0,69,0,0,0,0,11
+Middlesex,21 Township of Old Bridge Cong. 6,U.S. Senate,,Write-In,,7,0,7,0,0,0,0,0
+Middlesex,21 Township of Old Bridge Cong. 6,U.S. Senate,,Overvotes,,57,0,52,0,0,0,0,5
+Middlesex,21 Township of Old Bridge Cong. 6,U.S. Senate,,Undervotes,,215,1,190,0,2,0,0,22
+Middlesex,21 Township of Old Bridge Cong. 6,U.S. House,6,Frank Pallone Jr.,DEM,3642,3,3342,0,54,0,0,243
+Middlesex,21 Township of Old Bridge Cong. 6,U.S. House,6,Christian Onuoha,REP,3494,8,3218,0,4,0,0,264
+Middlesex,21 Township of Old Bridge Cong. 6,U.S. House,6,Write-In,,5,0,5,0,0,0,0,0
+Middlesex,21 Township of Old Bridge Cong. 6,U.S. House,6,Overvotes,,19,0,18,0,0,0,0,1
+Middlesex,21 Township of Old Bridge Cong. 6,U.S. House,6,Undervotes,,278,0,238,0,3,0,0,37
+Middlesex,22 Township of Old Bridge Cong. 12,Registered Voters,,,,29702,,,,,,,
+Middlesex,22 Township of Old Bridge Cong. 12,Ballots Cast Total,,,,21297,25,19538,0,159,0,0,1575
+Middlesex,22 Township of Old Bridge Cong. 12,Ballots Cast Blank,,,,23,0,19,0,0,0,0,4
+Middlesex,22 Township of Old Bridge Cong. 12,President,,Joseph R. Biden,DEM,10260,5,9408,0,124,0,0,723
+Middlesex,22 Township of Old Bridge Cong. 12,President,,Donald J. Trump,REP,10356,18,9527,0,35,0,0,776
+Middlesex,22 Township of Old Bridge Cong. 12,President,,Jo Jorgensen,NPC,163,0,154,0,0,0,0,9
+Middlesex,22 Township of Old Bridge Cong. 12,President,,Don Blankenship,NPD,12,0,11,0,0,0,0,1
+Middlesex,22 Township of Old Bridge Cong. 12,President,,Howie Hawkins,NPE,88,0,78,0,0,0,0,10
+Middlesex,22 Township of Old Bridge Cong. 12,President,,Gloria Estela La Riva,NPF,9,0,8,0,0,0,0,1
+Middlesex,22 Township of Old Bridge Cong. 12,President,,"Roque ""Rocky"" De La Fuente",NPG,12,0,9,0,0,0,0,3
+Middlesex,22 Township of Old Bridge Cong. 12,President,,Bill Hammons,NPH,11,0,11,0,0,0,0,0
+Middlesex,22 Township of Old Bridge Cong. 12,President,,Write-In,,64,0,60,0,0,0,0,4
+Middlesex,22 Township of Old Bridge Cong. 12,President,,Overvotes,,172,0,144,0,0,0,0,28
+Middlesex,22 Township of Old Bridge Cong. 12,President,,Undervotes,,150,2,128,0,0,0,0,20
+Middlesex,22 Township of Old Bridge Cong. 12,U.S. Senate,,Cory Booker,DEM,10077,6,9251,0,124,0,0,696
+Middlesex,22 Township of Old Bridge Cong. 12,U.S. Senate,,"Rikin ""Rik"" Mehta",REP,9816,16,9061,0,30,0,0,709
+Middlesex,22 Township of Old Bridge Cong. 12,U.S. Senate,,Daniel Burke,NPC,147,1,133,0,0,0,0,13
+Middlesex,22 Township of Old Bridge Cong. 12,U.S. Senate,,Veronica Fernandez,NPD,161,0,134,0,1,0,0,26
+Middlesex,22 Township of Old Bridge Cong. 12,U.S. Senate,,Madelyn R. Hoffman,,224,0,200,0,0,0,0,24
+Middlesex,22 Township of Old Bridge Cong. 12,U.S. Senate,,Write-In,,19,0,19,0,0,0,0,0
+Middlesex,22 Township of Old Bridge Cong. 12,U.S. Senate,,Overvotes,,199,0,175,0,0,0,0,24
+Middlesex,22 Township of Old Bridge Cong. 12,U.S. Senate,,Undervotes,,654,2,565,0,4,0,0,83
+Middlesex,22 Township of Old Bridge Cong. 12,U.S. House,12,Bonnie Watson Coleman,DEM,9698,6,8902,0,120,0,0,670
+Middlesex,22 Township of Old Bridge Cong. 12,U.S. House,12,Mark Razzoli,REP,10256,16,9453,0,31,0,0,756
+Middlesex,22 Township of Old Bridge Cong. 12,U.S. House,12,Kenneth J. Cody,NPF,72,0,65,0,4,0,0,3
+Middlesex,22 Township of Old Bridge Cong. 12,U.S. House,12,"Edward ""NJ Weedman"" Forchion",NPG,261,0,237,0,1,0,0,23
+Middlesex,22 Township of Old Bridge Cong. 12,U.S. House,12,Write-In,,13,0,13,0,0,0,0,0
+Middlesex,22 Township of Old Bridge Cong. 12,U.S. House,12,Overvotes,,124,0,106,0,0,0,0,18
+Middlesex,22 Township of Old Bridge Cong. 12,U.S. House,12,Undervotes,,873,3,762,0,3,0,0,105
+Middlesex,24 Township of Old Bridge Ward 2 Cong. 12,Registered Voters,,,,1231,,,,,,,
+Middlesex,24 Township of Old Bridge Ward 2 Cong. 12,Ballots Cast Total,,,,1024,2,874,0,0,0,0,148
+Middlesex,24 Township of Old Bridge Ward 2 Cong. 12,Ballots Cast Blank,,,,0,0,0,0,0,0,0,0
+Middlesex,24 Township of Old Bridge Ward 2 Cong. 12,President,,Joseph R. Biden,DEM,521,1,451,0,0,0,0,69
+Middlesex,24 Township of Old Bridge Ward 2 Cong. 12,President,,Donald J. Trump,REP,490,1,411,0,0,0,0,78
+Middlesex,24 Township of Old Bridge Ward 2 Cong. 12,President,,Jo Jorgensen,NPC,1,0,1,0,0,0,0,0
+Middlesex,24 Township of Old Bridge Ward 2 Cong. 12,President,,Don Blankenship,NPD,0,0,0,0,0,0,0,0
+Middlesex,24 Township of Old Bridge Ward 2 Cong. 12,President,,Howie Hawkins,NPE,3,0,3,0,0,0,0,0
+Middlesex,24 Township of Old Bridge Ward 2 Cong. 12,President,,Gloria Estela La Riva,NPF,0,0,0,0,0,0,0,0
+Middlesex,24 Township of Old Bridge Ward 2 Cong. 12,President,,"Roque ""Rocky"" De La Fuente",NPG,0,0,0,0,0,0,0,0
+Middlesex,24 Township of Old Bridge Ward 2 Cong. 12,President,,Bill Hammons,NPH,0,0,0,0,0,0,0,0
+Middlesex,24 Township of Old Bridge Ward 2 Cong. 12,President,,Write-In,,1,0,1,0,0,0,0,0
+Middlesex,24 Township of Old Bridge Ward 2 Cong. 12,President,,Overvotes,,3,0,3,0,0,0,0,0
+Middlesex,24 Township of Old Bridge Ward 2 Cong. 12,President,,Undervotes,,5,0,4,0,0,0,0,1
+Middlesex,24 Township of Old Bridge Ward 2 Cong. 12,U.S. Senate,,Cory Booker,DEM,501,1,430,0,0,0,0,70
+Middlesex,24 Township of Old Bridge Ward 2 Cong. 12,U.S. Senate,,"Rikin ""Rik"" Mehta",REP,464,0,393,0,0,0,0,71
+Middlesex,24 Township of Old Bridge Ward 2 Cong. 12,U.S. Senate,,Daniel Burke,NPC,5,0,5,0,0,0,0,0
+Middlesex,24 Township of Old Bridge Ward 2 Cong. 12,U.S. Senate,,Veronica Fernandez,NPD,1,0,1,0,0,0,0,0
+Middlesex,24 Township of Old Bridge Ward 2 Cong. 12,U.S. Senate,,Madelyn R. Hoffman,,10,0,9,0,0,0,0,1
+Middlesex,24 Township of Old Bridge Ward 2 Cong. 12,U.S. Senate,,Write-In,,0,0,0,0,0,0,0,0
+Middlesex,24 Township of Old Bridge Ward 2 Cong. 12,U.S. Senate,,Overvotes,,11,0,11,0,0,0,0,0
+Middlesex,24 Township of Old Bridge Ward 2 Cong. 12,U.S. Senate,,Undervotes,,32,1,25,0,0,0,0,6
+Middlesex,24 Township of Old Bridge Ward 2 Cong. 12,U.S. House,12,Bonnie Watson Coleman,DEM,480,1,417,0,0,0,0,62
+Middlesex,24 Township of Old Bridge Ward 2 Cong. 12,U.S. House,12,Mark Razzoli,REP,489,0,413,0,0,0,0,76
+Middlesex,24 Township of Old Bridge Ward 2 Cong. 12,U.S. House,12,Kenneth J. Cody,NPF,1,0,1,0,0,0,0,0
+Middlesex,24 Township of Old Bridge Ward 2 Cong. 12,U.S. House,12,"Edward ""NJ Weedman"" Forchion",NPG,6,0,5,0,0,0,0,1
+Middlesex,24 Township of Old Bridge Ward 2 Cong. 12,U.S. House,12,Write-In,,0,0,0,0,0,0,0,0
+Middlesex,24 Township of Old Bridge Ward 2 Cong. 12,U.S. House,12,Overvotes,,1,0,0,0,0,0,0,1
+Middlesex,24 Township of Old Bridge Ward 2 Cong. 12,U.S. House,12,Undervotes,,47,1,38,0,0,0,0,8
+Middlesex,23 Township of Old Bridge Ward 2 Cong. 6,Registered Voters,,,,6707,,,,,,,
+Middlesex,23 Township of Old Bridge Ward 2 Cong. 6,Ballots Cast Total,,,,5314,0,4844,0,1,0,0,469
+Middlesex,23 Township of Old Bridge Ward 2 Cong. 6,Ballots Cast Blank,,,,1,0,1,0,0,0,0,0
+Middlesex,23 Township of Old Bridge Ward 2 Cong. 6,President,,Joseph R. Biden,DEM,2638,0,2454,0,0,0,0,184
+Middlesex,23 Township of Old Bridge Ward 2 Cong. 6,President,,Donald J. Trump,REP,2536,0,2263,0,1,0,0,272
+Middlesex,23 Township of Old Bridge Ward 2 Cong. 6,President,,Jo Jorgensen,NPC,35,0,32,0,0,0,0,3
+Middlesex,23 Township of Old Bridge Ward 2 Cong. 6,President,,Don Blankenship,NPD,3,0,3,0,0,0,0,0
+Middlesex,23 Township of Old Bridge Ward 2 Cong. 6,President,,Howie Hawkins,NPE,6,0,6,0,0,0,0,0
+Middlesex,23 Township of Old Bridge Ward 2 Cong. 6,President,,Gloria Estela La Riva,NPF,2,0,2,0,0,0,0,0
+Middlesex,23 Township of Old Bridge Ward 2 Cong. 6,President,,"Roque ""Rocky"" De La Fuente",NPG,3,0,3,0,0,0,0,0
+Middlesex,23 Township of Old Bridge Ward 2 Cong. 6,President,,Bill Hammons,NPH,4,0,4,0,0,0,0,0
+Middlesex,23 Township of Old Bridge Ward 2 Cong. 6,President,,Write-In,,16,0,16,0,0,0,0,0
+Middlesex,23 Township of Old Bridge Ward 2 Cong. 6,President,,Overvotes,,39,0,33,0,0,0,0,6
+Middlesex,23 Township of Old Bridge Ward 2 Cong. 6,President,,Undervotes,,32,0,28,0,0,0,0,4
+Middlesex,23 Township of Old Bridge Ward 2 Cong. 6,U.S. Senate,,Cory Booker,DEM,2557,0,2377,0,0,0,0,180
+Middlesex,23 Township of Old Bridge Ward 2 Cong. 6,U.S. Senate,,"Rikin ""Rik"" Mehta",REP,2464,0,2214,0,1,0,0,249
+Middlesex,23 Township of Old Bridge Ward 2 Cong. 6,U.S. Senate,,Daniel Burke,NPC,28,0,24,0,0,0,0,4
+Middlesex,23 Township of Old Bridge Ward 2 Cong. 6,U.S. Senate,,Veronica Fernandez,NPD,27,0,21,0,0,0,0,6
+Middlesex,23 Township of Old Bridge Ward 2 Cong. 6,U.S. Senate,,Madelyn R. Hoffman,,32,0,28,0,0,0,0,4
+Middlesex,23 Township of Old Bridge Ward 2 Cong. 6,U.S. Senate,,Write-In,,4,0,4,0,0,0,0,0
+Middlesex,23 Township of Old Bridge Ward 2 Cong. 6,U.S. Senate,,Overvotes,,48,0,43,0,0,0,0,5
+Middlesex,23 Township of Old Bridge Ward 2 Cong. 6,U.S. Senate,,Undervotes,,154,0,133,0,0,0,0,21
+Middlesex,23 Township of Old Bridge Ward 2 Cong. 6,U.S. House,6,Frank Pallone Jr.,DEM,2661,0,2475,0,0,0,0,186
+Middlesex,23 Township of Old Bridge Ward 2 Cong. 6,U.S. House,6,Christian Onuoha,REP,2421,0,2169,0,1,0,0,251
+Middlesex,23 Township of Old Bridge Ward 2 Cong. 6,U.S. House,6,Write-In,,2,0,2,0,0,0,0,0
+Middlesex,23 Township of Old Bridge Ward 2 Cong. 6,U.S. House,6,Overvotes,,8,0,8,0,0,0,0,0
+Middlesex,23 Township of Old Bridge Ward 2 Cong. 6,U.S. House,6,Undervotes,,222,0,190,0,0,0,0,32
+Middlesex,City of Perth Amboy 28,Registered Voters,,,,28587,,,,,,,
+Middlesex,City of Perth Amboy 28,Ballots Cast Total,,,,15810,65,13444,0,24,0,0,2277
+Middlesex,City of Perth Amboy 28,Ballots Cast Blank,,,,39,0,18,0,0,0,0,21
+Middlesex,City of Perth Amboy 28,President,,Joseph R. Biden,DEM,10929,34,9447,0,19,0,0,1429
+Middlesex,City of Perth Amboy 28,President,,Donald J. Trump,REP,4246,27,3513,0,3,0,0,703
+Middlesex,City of Perth Amboy 28,President,,Jo Jorgensen,NPC,46,0,36,0,0,0,0,10
+Middlesex,City of Perth Amboy 28,President,,Don Blankenship,NPD,7,0,7,0,0,0,0,0
+Middlesex,City of Perth Amboy 28,President,,Howie Hawkins,NPE,24,1,22,0,0,0,0,1
+Middlesex,City of Perth Amboy 28,President,,Gloria Estela La Riva,NPF,13,0,9,0,0,0,0,4
+Middlesex,City of Perth Amboy 28,President,,"Roque ""Rocky"" De La Fuente",NPG,8,0,8,0,0,0,0,0
+Middlesex,City of Perth Amboy 28,President,,Bill Hammons,NPH,6,0,4,0,0,0,0,2
+Middlesex,City of Perth Amboy 28,President,,Write-In,,43,0,41,0,0,0,0,2
+Middlesex,City of Perth Amboy 28,President,,Overvotes,,236,0,182,0,0,0,0,54
+Middlesex,City of Perth Amboy 28,President,,Undervotes,,252,3,175,0,2,0,0,72
+Middlesex,City of Perth Amboy 28,U.S. Senate,,Cory Booker,DEM,10989,32,9596,0,20,0,0,1341
+Middlesex,City of Perth Amboy 28,U.S. Senate,,"Rikin ""Rik"" Mehta",REP,3056,11,2592,0,3,0,0,450
+Middlesex,City of Perth Amboy 28,U.S. Senate,,Daniel Burke,NPC,79,0,59,0,0,0,0,20
+Middlesex,City of Perth Amboy 28,U.S. Senate,,Veronica Fernandez,NPD,358,1,278,0,1,0,0,78
+Middlesex,City of Perth Amboy 28,U.S. Senate,,Madelyn R. Hoffman,,105,1,86,0,0,0,0,18
+Middlesex,City of Perth Amboy 28,U.S. Senate,,Write-In,,11,0,9,0,0,0,0,2
+Middlesex,City of Perth Amboy 28,U.S. Senate,,Overvotes,,208,0,160,0,0,0,0,48
+Middlesex,City of Perth Amboy 28,U.S. Senate,,Undervotes,,1000,20,664,0,0,0,0,316
+Middlesex,City of Perth Amboy 28,U.S. House,6,Frank Pallone Jr.,DEM,11080,33,9669,0,19,0,0,1359
+Middlesex,City of Perth Amboy 28,U.S. House,6,Christian Onuoha,REP,3345,11,2806,0,5,0,0,523
+Middlesex,City of Perth Amboy 28,U.S. House,6,Write-In,,13,0,12,0,0,0,0,1
+Middlesex,City of Perth Amboy 28,U.S. House,6,Overvotes,,63,0,57,0,0,0,0,6
+Middlesex,City of Perth Amboy 28,U.S. House,6,Undervotes,,1305,21,900,0,0,0,0,384
+Middlesex,Township of Piscataway 34,Registered Voters,,,,37876,,,,,,,
+Middlesex,Township of Piscataway 34,Ballots Cast Total,,,,24911,12,22766,0,108,0,0,2025
+Middlesex,Township of Piscataway 34,Ballots Cast Blank,,,,22,0,14,0,0,0,0,8
+Middlesex,Township of Piscataway 34,President,,Joseph R. Biden,DEM,17390,7,15945,0,96,0,0,1342
+Middlesex,Township of Piscataway 34,President,,Donald J. Trump,REP,6690,5,6104,0,8,0,0,573
+Middlesex,Township of Piscataway 34,President,,Jo Jorgensen,NPC,159,0,145,0,1,0,0,13
+Middlesex,Township of Piscataway 34,President,,Don Blankenship,NPD,20,0,17,0,1,0,0,2
+Middlesex,Township of Piscataway 34,President,,Howie Hawkins,NPE,100,0,93,0,1,0,0,6
+Middlesex,Township of Piscataway 34,President,,Gloria Estela La Riva,NPF,17,0,15,0,1,0,0,1
+Middlesex,Township of Piscataway 34,President,,"Roque ""Rocky"" De La Fuente",NPG,9,0,9,0,0,0,0,0
+Middlesex,Township of Piscataway 34,President,,Bill Hammons,NPH,10,0,10,0,0,0,0,0
+Middlesex,Township of Piscataway 34,President,,Write-In,,113,0,105,0,0,0,0,8
+Middlesex,Township of Piscataway 34,President,,Overvotes,,203,0,164,0,0,0,0,39
+Middlesex,Township of Piscataway 34,President,,Undervotes,,200,0,159,0,0,0,0,41
+Middlesex,Township of Piscataway 34,U.S. Senate,,Cory Booker,DEM,17110,6,15685,0,94,0,0,1325
+Middlesex,Township of Piscataway 34,U.S. Senate,,"Rikin ""Rik"" Mehta",REP,6413,4,5895,0,10,0,0,504
+Middlesex,Township of Piscataway 34,U.S. Senate,,Daniel Burke,NPC,91,0,81,0,0,0,0,10
+Middlesex,Township of Piscataway 34,U.S. Senate,,Veronica Fernandez,NPD,195,0,164,0,0,0,0,31
+Middlesex,Township of Piscataway 34,U.S. Senate,,Madelyn R. Hoffman,,217,0,200,0,4,0,0,13
+Middlesex,Township of Piscataway 34,U.S. Senate,,Write-In,,37,0,31,0,0,0,0,6
+Middlesex,Township of Piscataway 34,U.S. Senate,,Overvotes,,162,0,133,0,0,0,0,29
+Middlesex,Township of Piscataway 34,U.S. Senate,,Undervotes,,686,2,577,0,0,0,0,107
+Middlesex,Township of Piscataway 34,U.S. House,6,Frank Pallone Jr.,DEM,17731,8,16294,0,96,0,0,1333
+Middlesex,Township of Piscataway 34,U.S. House,6,Christian Onuoha,REP,6036,3,5505,0,11,0,0,517
+Middlesex,Township of Piscataway 34,U.S. House,6,Write-In,,46,0,41,0,0,0,0,5
+Middlesex,Township of Piscataway 34,U.S. House,6,Overvotes,,64,0,57,0,0,0,0,7
+Middlesex,Township of Piscataway 34,U.S. House,6,Undervotes,,1034,1,869,0,1,0,0,163
+Middlesex,Township of Plainsboro 38,Registered Voters,,,,14588,,,,,,,
+Middlesex,Township of Plainsboro 38,Ballots Cast Total,,,,9570,8,8694,0,111,0,0,757
+Middlesex,Township of Plainsboro 38,Ballots Cast Blank,,,,6,0,4,0,0,0,0,2
+Middlesex,Township of Plainsboro 38,President,,Joseph R. Biden,DEM,7178,2,6588,0,103,0,0,485
+Middlesex,Township of Plainsboro 38,President,,Donald J. Trump,REP,2152,6,1896,0,6,0,0,244
+Middlesex,Township of Plainsboro 38,President,,Jo Jorgensen,NPC,54,0,47,0,1,0,0,6
+Middlesex,Township of Plainsboro 38,President,,Don Blankenship,NPD,3,0,2,0,0,0,0,1
+Middlesex,Township of Plainsboro 38,President,,Howie Hawkins,NPE,25,0,24,0,0,0,0,1
+Middlesex,Township of Plainsboro 38,President,,Gloria Estela La Riva,NPF,5,0,5,0,0,0,0,0
+Middlesex,Township of Plainsboro 38,President,,"Roque ""Rocky"" De La Fuente",NPG,2,0,1,0,0,0,0,1
+Middlesex,Township of Plainsboro 38,President,,Bill Hammons,NPH,8,0,7,0,0,0,0,1
+Middlesex,Township of Plainsboro 38,President,,Write-In,,44,0,41,0,0,0,0,3
+Middlesex,Township of Plainsboro 38,President,,Overvotes,,45,0,39,0,0,0,0,6
+Middlesex,Township of Plainsboro 38,President,,Undervotes,,54,0,44,0,1,0,0,9
+Middlesex,Township of Plainsboro 38,U.S. Senate,,Cory Booker,DEM,6866,2,6314,0,95,0,0,455
+Middlesex,Township of Plainsboro 38,U.S. Senate,,"Rikin ""Rik"" Mehta",REP,2266,5,2007,0,8,0,0,246
+Middlesex,Township of Plainsboro 38,U.S. Senate,,Daniel Burke,NPC,25,0,24,0,0,0,0,1
+Middlesex,Township of Plainsboro 38,U.S. Senate,,Veronica Fernandez,NPD,56,0,47,0,0,0,0,9
+Middlesex,Township of Plainsboro 38,U.S. Senate,,Madelyn R. Hoffman,,78,0,71,0,2,0,0,5
+Middlesex,Township of Plainsboro 38,U.S. Senate,,Write-In,,9,0,8,0,0,0,0,1
+Middlesex,Township of Plainsboro 38,U.S. Senate,,Overvotes,,53,0,48,0,0,0,0,5
+Middlesex,Township of Plainsboro 38,U.S. Senate,,Undervotes,,217,1,175,0,6,0,0,35
+Middlesex,Township of Plainsboro 38,U.S. House,12,Bonnie Watson Coleman,DEM,6895,2,6331,0,97,0,0,465
+Middlesex,Township of Plainsboro 38,U.S. House,12,Mark Razzoli,REP,2169,5,1930,0,8,0,0,226
+Middlesex,Township of Plainsboro 38,U.S. House,12,Kenneth J. Cody,NPF,26,0,24,0,0,0,0,2
+Middlesex,Township of Plainsboro 38,U.S. House,12,"Edward ""NJ Weedman"" Forchion",NPG,82,0,74,0,0,0,0,8
+Middlesex,Township of Plainsboro 38,U.S. House,12,Write-In,,7,0,6,0,0,0,0,1
+Middlesex,Township of Plainsboro 38,U.S. House,12,Overvotes,,40,0,36,0,0,0,0,4
+Middlesex,Township of Plainsboro 38,U.S. House,12,Undervotes,,351,1,293,0,6,0,0,51
+Middlesex,Borough of Sayreville 39,Registered Voters,,,,30140,,,,,,,
+Middlesex,Borough of Sayreville 39,Ballots Cast Total,,,,21237,23,19108,0,40,0,0,2066
+Middlesex,Borough of Sayreville 39,Ballots Cast Blank,,,,22,0,15,0,0,0,0,7
+Middlesex,Borough of Sayreville 39,President,,Joseph R. Biden,DEM,10965,7,9902,0,32,0,0,1024
+Middlesex,Borough of Sayreville 39,President,,Donald J. Trump,REP,9624,16,8655,0,8,0,0,945
+Middlesex,Borough of Sayreville 39,President,,Jo Jorgensen,NPC,158,0,150,0,0,0,0,8
+Middlesex,Borough of Sayreville 39,President,,Don Blankenship,NPD,17,0,15,0,0,0,0,2
+Middlesex,Borough of Sayreville 39,President,,Howie Hawkins,NPE,57,0,53,0,0,0,0,4
+Middlesex,Borough of Sayreville 39,President,,Gloria Estela La Riva,NPF,7,0,7,0,0,0,0,0
+Middlesex,Borough of Sayreville 39,President,,"Roque ""Rocky"" De La Fuente",NPG,9,0,8,0,0,0,0,1
+Middlesex,Borough of Sayreville 39,President,,Bill Hammons,NPH,11,0,11,0,0,0,0,0
+Middlesex,Borough of Sayreville 39,President,,Write-In,,52,0,44,0,0,0,0,8
+Middlesex,Borough of Sayreville 39,President,,Overvotes,,154,0,122,0,0,0,0,32
+Middlesex,Borough of Sayreville 39,President,,Undervotes,,183,0,141,0,0,0,0,42
+Middlesex,Borough of Sayreville 39,U.S. Senate,,Cory Booker,DEM,10845,8,9780,0,32,0,0,1025
+Middlesex,Borough of Sayreville 39,U.S. Senate,,"Rikin ""Rik"" Mehta",REP,9037,14,8198,0,7,0,0,818
+Middlesex,Borough of Sayreville 39,U.S. Senate,,Daniel Burke,NPC,122,0,112,0,0,0,0,10
+Middlesex,Borough of Sayreville 39,U.S. Senate,,Veronica Fernandez,NPD,156,0,129,0,0,0,0,27
+Middlesex,Borough of Sayreville 39,U.S. Senate,,Madelyn R. Hoffman,,173,0,153,0,0,0,0,20
+Middlesex,Borough of Sayreville 39,U.S. Senate,,Write-In,,18,0,16,0,0,0,0,2
+Middlesex,Borough of Sayreville 39,U.S. Senate,,Overvotes,,181,0,143,0,0,0,0,38
+Middlesex,Borough of Sayreville 39,U.S. Senate,,Undervotes,,705,1,577,0,1,0,0,126
+Middlesex,Borough of Sayreville 39,U.S. House,6,Frank Pallone Jr.,DEM,11638,7,10546,0,30,0,0,1055
+Middlesex,Borough of Sayreville 39,U.S. House,6,Christian Onuoha,REP,8714,15,7847,0,7,0,0,845
+Middlesex,Borough of Sayreville 39,U.S. House,6,Write-In,,18,0,17,0,0,0,0,1
+Middlesex,Borough of Sayreville 39,U.S. House,6,Overvotes,,40,0,37,0,0,0,0,3
+Middlesex,Borough of Sayreville 39,U.S. House,6,Undervotes,,827,1,661,0,3,0,0,162
+Middlesex,"40 City of South Amboy, Ward 1",Registered Voters,,,,2008,,,,,,,
+Middlesex,"40 City of South Amboy, Ward 1",Ballots Cast Total,,,,1377,0,1256,0,2,0,0,119
+Middlesex,"40 City of South Amboy, Ward 1",Ballots Cast Blank,,,,5,0,4,0,0,0,0,1
+Middlesex,"40 City of South Amboy, Ward 1",President,,Joseph R. Biden,DEM,601,0,556,0,2,0,0,43
+Middlesex,"40 City of South Amboy, Ward 1",President,,Donald J. Trump,REP,729,0,662,0,0,0,0,67
+Middlesex,"40 City of South Amboy, Ward 1",President,,Jo Jorgensen,NPC,9,0,7,0,0,0,0,2
+Middlesex,"40 City of South Amboy, Ward 1",President,,Don Blankenship,NPD,1,0,0,0,0,0,0,1
+Middlesex,"40 City of South Amboy, Ward 1",President,,Howie Hawkins,NPE,7,0,6,0,0,0,0,1
+Middlesex,"40 City of South Amboy, Ward 1",President,,Gloria Estela La Riva,NPF,3,0,2,0,0,0,0,1
+Middlesex,"40 City of South Amboy, Ward 1",President,,"Roque ""Rocky"" De La Fuente",NPG,1,0,1,0,0,0,0,0
+Middlesex,"40 City of South Amboy, Ward 1",President,,Bill Hammons,NPH,1,0,1,0,0,0,0,0
+Middlesex,"40 City of South Amboy, Ward 1",President,,Write-In,,4,0,3,0,0,0,0,1
+Middlesex,"40 City of South Amboy, Ward 1",President,,Overvotes,,9,0,8,0,0,0,0,1
+Middlesex,"40 City of South Amboy, Ward 1",President,,Undervotes,,12,0,10,0,0,0,0,2
+Middlesex,"40 City of South Amboy, Ward 1",U.S. Senate,,Cory Booker,DEM,602,0,557,0,2,0,0,43
+Middlesex,"40 City of South Amboy, Ward 1",U.S. Senate,,"Rikin ""Rik"" Mehta",REP,632,0,574,0,0,0,0,58
+Middlesex,"40 City of South Amboy, Ward 1",U.S. Senate,,Daniel Burke,NPC,8,0,8,0,0,0,0,0
+Middlesex,"40 City of South Amboy, Ward 1",U.S. Senate,,Veronica Fernandez,NPD,20,0,18,0,0,0,0,2
+Middlesex,"40 City of South Amboy, Ward 1",U.S. Senate,,Madelyn R. Hoffman,,21,0,17,0,0,0,0,4
+Middlesex,"40 City of South Amboy, Ward 1",U.S. Senate,,Write-In,,4,0,3,0,0,0,0,1
+Middlesex,"40 City of South Amboy, Ward 1",U.S. Senate,,Overvotes,,13,0,12,0,0,0,0,1
+Middlesex,"40 City of South Amboy, Ward 1",U.S. Senate,,Undervotes,,77,0,67,0,0,0,0,10
+Middlesex,"40 City of South Amboy, Ward 1",U.S. House,6,Frank Pallone Jr.,DEM,680,0,635,0,2,0,0,43
+Middlesex,"40 City of South Amboy, Ward 1",U.S. House,6,Christian Onuoha,REP,615,0,555,0,0,0,0,60
+Middlesex,"40 City of South Amboy, Ward 1",U.S. House,6,Write-In,,2,0,2,0,0,0,0,0
+Middlesex,"40 City of South Amboy, Ward 1",U.S. House,6,Overvotes,,2,0,1,0,0,0,0,1
+Middlesex,"40 City of South Amboy, Ward 1",U.S. House,6,Undervotes,,78,0,63,0,0,0,0,15
+Middlesex,"41 City of South Amboy, Ward 2",Registered Voters,,,,1937,,,,,,,
+Middlesex,"41 City of South Amboy, Ward 2",Ballots Cast Total,,,,1230,1,1043,0,3,0,0,183
+Middlesex,"41 City of South Amboy, Ward 2",Ballots Cast Blank,,,,0,0,0,0,0,0,0,0
+Middlesex,"41 City of South Amboy, Ward 2",President,,Joseph R. Biden,DEM,607,1,515,0,3,0,0,88
+Middlesex,"41 City of South Amboy, Ward 2",President,,Donald J. Trump,REP,571,0,487,0,0,0,0,84
+Middlesex,"41 City of South Amboy, Ward 2",President,,Jo Jorgensen,NPC,10,0,7,0,0,0,0,3
+Middlesex,"41 City of South Amboy, Ward 2",President,,Don Blankenship,NPD,0,0,0,0,0,0,0,0
+Middlesex,"41 City of South Amboy, Ward 2",President,,Howie Hawkins,NPE,6,0,6,0,0,0,0,0
+Middlesex,"41 City of South Amboy, Ward 2",President,,Gloria Estela La Riva,NPF,0,0,0,0,0,0,0,0
+Middlesex,"41 City of South Amboy, Ward 2",President,,"Roque ""Rocky"" De La Fuente",NPG,0,0,0,0,0,0,0,0
+Middlesex,"41 City of South Amboy, Ward 2",President,,Bill Hammons,NPH,1,0,1,0,0,0,0,0
+Middlesex,"41 City of South Amboy, Ward 2",President,,Write-In,,9,0,9,0,0,0,0,0
+Middlesex,"41 City of South Amboy, Ward 2",President,,Overvotes,,17,0,12,0,0,0,0,5
+Middlesex,"41 City of South Amboy, Ward 2",President,,Undervotes,,9,0,6,0,0,0,0,3
+Middlesex,"41 City of South Amboy, Ward 2",U.S. Senate,,Cory Booker,DEM,599,1,511,0,3,0,0,84
+Middlesex,"41 City of South Amboy, Ward 2",U.S. Senate,,"Rikin ""Rik"" Mehta",REP,507,0,435,0,0,0,0,72
+Middlesex,"41 City of South Amboy, Ward 2",U.S. Senate,,Daniel Burke,NPC,10,0,9,0,0,0,0,1
+Middlesex,"41 City of South Amboy, Ward 2",U.S. Senate,,Veronica Fernandez,NPD,15,0,13,0,0,0,0,2
+Middlesex,"41 City of South Amboy, Ward 2",U.S. Senate,,Madelyn R. Hoffman,,24,0,19,0,0,0,0,5
+Middlesex,"41 City of South Amboy, Ward 2",U.S. Senate,,Write-In,,3,0,3,0,0,0,0,0
+Middlesex,"41 City of South Amboy, Ward 2",U.S. Senate,,Overvotes,,20,0,13,0,0,0,0,7
+Middlesex,"41 City of South Amboy, Ward 2",U.S. Senate,,Undervotes,,52,0,40,0,0,0,0,12
+Middlesex,"41 City of South Amboy, Ward 2",U.S. House,6,Frank Pallone Jr.,DEM,660,1,567,0,3,0,0,89
+Middlesex,"41 City of South Amboy, Ward 2",U.S. House,6,Christian Onuoha,REP,501,0,422,0,0,0,0,79
+Middlesex,"41 City of South Amboy, Ward 2",U.S. House,6,Write-In,,1,0,1,0,0,0,0,0
+Middlesex,"41 City of South Amboy, Ward 2",U.S. House,6,Overvotes,,7,0,4,0,0,0,0,3
+Middlesex,"41 City of South Amboy, Ward 2",U.S. House,6,Undervotes,,61,0,49,0,0,0,0,12
+Middlesex,"42 City of South Amboy, Ward 3",Registered Voters,,,,2488,,,,,,,
+Middlesex,"42 City of South Amboy, Ward 3",Ballots Cast Total,,,,1723,2,1572,0,0,0,0,149
+Middlesex,"42 City of South Amboy, Ward 3",Ballots Cast Blank,,,,2,0,1,0,0,0,0,1
+Middlesex,"42 City of South Amboy, Ward 3",President,,Joseph R. Biden,DEM,806,0,747,0,0,0,0,59
+Middlesex,"42 City of South Amboy, Ward 3",President,,Donald J. Trump,REP,855,2,776,0,0,0,0,77
+Middlesex,"42 City of South Amboy, Ward 3",President,,Jo Jorgensen,NPC,14,0,10,0,0,0,0,4
+Middlesex,"42 City of South Amboy, Ward 3",President,,Don Blankenship,NPD,2,0,2,0,0,0,0,0
+Middlesex,"42 City of South Amboy, Ward 3",President,,Howie Hawkins,NPE,3,0,3,0,0,0,0,0
+Middlesex,"42 City of South Amboy, Ward 3",President,,Gloria Estela La Riva,NPF,1,0,1,0,0,0,0,0
+Middlesex,"42 City of South Amboy, Ward 3",President,,"Roque ""Rocky"" De La Fuente",NPG,0,0,0,0,0,0,0,0
+Middlesex,"42 City of South Amboy, Ward 3",President,,Bill Hammons,NPH,1,0,1,0,0,0,0,0
+Middlesex,"42 City of South Amboy, Ward 3",President,,Write-In,,8,0,7,0,0,0,0,1
+Middlesex,"42 City of South Amboy, Ward 3",President,,Overvotes,,17,0,13,0,0,0,0,4
+Middlesex,"42 City of South Amboy, Ward 3",President,,Undervotes,,16,0,12,0,0,0,0,4
+Middlesex,"42 City of South Amboy, Ward 3",U.S. Senate,,Cory Booker,DEM,814,0,748,0,0,0,0,66
+Middlesex,"42 City of South Amboy, Ward 3",U.S. Senate,,"Rikin ""Rik"" Mehta",REP,760,2,692,0,0,0,0,66
+Middlesex,"42 City of South Amboy, Ward 3",U.S. Senate,,Daniel Burke,NPC,17,0,17,0,0,0,0,0
+Middlesex,"42 City of South Amboy, Ward 3",U.S. Senate,,Veronica Fernandez,NPD,20,0,18,0,0,0,0,2
+Middlesex,"42 City of South Amboy, Ward 3",U.S. Senate,,Madelyn R. Hoffman,,13,0,13,0,0,0,0,0
+Middlesex,"42 City of South Amboy, Ward 3",U.S. Senate,,Write-In,,4,0,3,0,0,0,0,1
+Middlesex,"42 City of South Amboy, Ward 3",U.S. Senate,,Overvotes,,23,0,21,0,0,0,0,2
+Middlesex,"42 City of South Amboy, Ward 3",U.S. Senate,,Undervotes,,72,0,60,0,0,0,0,12
+Middlesex,"42 City of South Amboy, Ward 3",U.S. House,6,Frank Pallone Jr.,DEM,871,0,808,0,0,0,0,63
+Middlesex,"42 City of South Amboy, Ward 3",U.S. House,6,Christian Onuoha,REP,764,2,689,0,0,0,0,73
+Middlesex,"42 City of South Amboy, Ward 3",U.S. House,6,Write-In,,2,0,1,0,0,0,0,1
+Middlesex,"42 City of South Amboy, Ward 3",U.S. House,6,Overvotes,,0,0,0,0,0,0,0,0
+Middlesex,"42 City of South Amboy, Ward 3",U.S. House,6,Undervotes,,86,0,74,0,0,0,0,12
+Middlesex,Township of South Brunswick 43,Registered Voters,,,,32470,,,,,,,
+Middlesex,Township of South Brunswick 43,Ballots Cast Total,,,,24176,2,22443,0,141,0,0,1590
+Middlesex,Township of South Brunswick 43,Ballots Cast Blank,,,,28,0,20,0,0,0,0,8
+Middlesex,Township of South Brunswick 43,President,,Joseph R. Biden,DEM,16351,1,15271,0,128,0,0,951
+Middlesex,Township of South Brunswick 43,President,,Donald J. Trump,REP,7163,1,6591,0,12,0,0,559
+Middlesex,Township of South Brunswick 43,President,,Jo Jorgensen,NPC,139,0,124,0,0,0,0,15
+Middlesex,Township of South Brunswick 43,President,,Don Blankenship,NPD,10,0,9,0,0,0,0,1
+Middlesex,Township of South Brunswick 43,President,,Howie Hawkins,NPE,88,0,78,0,1,0,0,9
+Middlesex,Township of South Brunswick 43,President,,Gloria Estela La Riva,NPF,16,0,14,0,0,0,0,2
+Middlesex,Township of South Brunswick 43,President,,"Roque ""Rocky"" De La Fuente",NPG,15,0,14,0,0,0,0,1
+Middlesex,Township of South Brunswick 43,President,,Bill Hammons,NPH,13,0,13,0,0,0,0,0
+Middlesex,Township of South Brunswick 43,President,,Write-In,,87,0,85,0,0,0,0,2
+Middlesex,Township of South Brunswick 43,President,,Overvotes,,132,0,108,0,0,0,0,24
+Middlesex,Township of South Brunswick 43,President,,Undervotes,,162,0,136,0,0,0,0,26
+Middlesex,Township of South Brunswick 43,U.S. Senate,,Cory Booker,DEM,15714,1,14682,0,121,0,0,910
+Middlesex,Township of South Brunswick 43,U.S. Senate,,"Rikin ""Rik"" Mehta",REP,7159,1,6607,0,13,0,0,538
+Middlesex,Township of South Brunswick 43,U.S. Senate,,Daniel Burke,NPC,114,0,102,0,0,0,0,12
+Middlesex,Township of South Brunswick 43,U.S. Senate,,Veronica Fernandez,NPD,139,0,123,0,0,0,0,16
+Middlesex,Township of South Brunswick 43,U.S. Senate,,Madelyn R. Hoffman,,241,0,218,0,4,0,0,19
+Middlesex,Township of South Brunswick 43,U.S. Senate,,Write-In,,15,0,14,0,0,0,0,1
+Middlesex,Township of South Brunswick 43,U.S. Senate,,Overvotes,,213,0,195,0,0,0,0,18
+Middlesex,Township of South Brunswick 43,U.S. Senate,,Undervotes,,581,0,502,0,3,0,0,76
+Middlesex,Township of South Brunswick 43,U.S. House,12,Bonnie Watson Coleman,DEM,15791,1,14732,0,125,0,0,933
+Middlesex,Township of South Brunswick 43,U.S. House,12,Mark Razzoli,REP,7129,1,6608,0,10,0,0,510
+Middlesex,Township of South Brunswick 43,U.S. House,12,Kenneth J. Cody,NPF,78,0,73,0,1,0,0,4
+Middlesex,Township of South Brunswick 43,U.S. House,12,"Edward ""NJ Weedman"" Forchion",NPG,189,0,166,0,1,0,0,22
+Middlesex,Township of South Brunswick 43,U.S. House,12,Write-In,,11,0,11,0,0,0,0,0
+Middlesex,Township of South Brunswick 43,U.S. House,12,Overvotes,,98,0,82,0,0,0,0,16
+Middlesex,Township of South Brunswick 43,U.S. House,12,Undervotes,,880,0,771,0,4,0,0,105
+Middlesex,Borough of South Plainfield 44,Registered Voters,,,,17171,,,,,,,
+Middlesex,Borough of South Plainfield 44,Ballots Cast Total,,,,12523,17,11599,0,30,0,0,877
+Middlesex,Borough of South Plainfield 44,Ballots Cast Blank,,,,12,0,4,0,0,0,0,8
+Middlesex,Borough of South Plainfield 44,President,,Joseph R. Biden,DEM,6648,7,6155,0,26,0,0,460
+Middlesex,Borough of South Plainfield 44,President,,Donald J. Trump,REP,5446,9,5086,0,3,0,0,348
+Middlesex,Borough of South Plainfield 44,President,,Jo Jorgensen,NPC,106,1,94,0,0,0,0,11
+Middlesex,Borough of South Plainfield 44,President,,Don Blankenship,NPD,9,0,8,0,0,0,0,1
+Middlesex,Borough of South Plainfield 44,President,,Howie Hawkins,NPE,46,0,43,0,0,0,0,3
+Middlesex,Borough of South Plainfield 44,President,,Gloria Estela La Riva,NPF,12,0,10,0,0,0,0,2
+Middlesex,Borough of South Plainfield 44,President,,"Roque ""Rocky"" De La Fuente",NPG,5,0,5,0,0,0,0,0
+Middlesex,Borough of South Plainfield 44,President,,Bill Hammons,NPH,10,0,10,0,0,0,0,0
+Middlesex,Borough of South Plainfield 44,President,,Write-In,,42,0,41,0,0,0,0,1
+Middlesex,Borough of South Plainfield 44,President,,Overvotes,,88,0,66,0,0,0,0,22
+Middlesex,Borough of South Plainfield 44,President,,Undervotes,,111,0,81,0,1,0,0,29
+Middlesex,Borough of South Plainfield 44,U.S. Senate,,Cory Booker,DEM,6625,6,6132,0,23,0,0,464
+Middlesex,Borough of South Plainfield 44,U.S. Senate,,"Rikin ""Rik"" Mehta",REP,5139,7,4819,0,4,0,0,309
+Middlesex,Borough of South Plainfield 44,U.S. Senate,,Daniel Burke,NPC,71,0,66,0,0,0,0,5
+Middlesex,Borough of South Plainfield 44,U.S. Senate,,Veronica Fernandez,NPD,83,0,73,0,0,0,0,10
+Middlesex,Borough of South Plainfield 44,U.S. Senate,,Madelyn R. Hoffman,,105,0,98,0,2,0,0,5
+Middlesex,Borough of South Plainfield 44,U.S. Senate,,Write-In,,8,0,7,0,0,0,0,1
+Middlesex,Borough of South Plainfield 44,U.S. Senate,,Overvotes,,86,0,70,0,0,0,0,16
+Middlesex,Borough of South Plainfield 44,U.S. Senate,,Undervotes,,406,4,334,0,1,0,0,67
+Middlesex,Borough of South Plainfield 44,U.S. House,6,Frank Pallone Jr.,DEM,6840,6,6344,0,24,0,0,466
+Middlesex,Borough of South Plainfield 44,U.S. House,6,Christian Onuoha,REP,5084,6,4756,0,5,0,0,317
+Middlesex,Borough of South Plainfield 44,U.S. House,6,Write-In,,12,0,11,0,0,0,0,1
+Middlesex,Borough of South Plainfield 44,U.S. House,6,Overvotes,,22,0,17,0,0,0,0,5
+Middlesex,Borough of South Plainfield 44,U.S. House,6,Undervotes,,565,5,471,0,1,0,0,88
+Middlesex,Borough of South River 45,Registered Voters,,,,9315,,,,,,,
+Middlesex,Borough of South River 45,Ballots Cast Total,,,,6323,15,5683,0,9,0,0,616
+Middlesex,Borough of South River 45,Ballots Cast Blank,,,,11,0,8,0,0,0,0,3
+Middlesex,Borough of South River 45,President,,Joseph R. Biden,DEM,3094,4,2795,0,7,0,0,288
+Middlesex,Borough of South River 45,President,,Donald J. Trump,REP,3019,10,2712,0,2,0,0,295
+Middlesex,Borough of South River 45,President,,Jo Jorgensen,NPC,31,0,27,0,0,0,0,4
+Middlesex,Borough of South River 45,President,,Don Blankenship,NPD,8,0,8,0,0,0,0,0
+Middlesex,Borough of South River 45,President,,Howie Hawkins,NPE,33,1,28,0,0,0,0,4
+Middlesex,Borough of South River 45,President,,Gloria Estela La Riva,NPF,6,0,6,0,0,0,0,0
+Middlesex,Borough of South River 45,President,,"Roque ""Rocky"" De La Fuente",NPG,2,0,2,0,0,0,0,0
+Middlesex,Borough of South River 45,President,,Bill Hammons,NPH,0,0,0,0,0,0,0,0
+Middlesex,Borough of South River 45,President,,Write-In,,21,0,21,0,0,0,0,0
+Middlesex,Borough of South River 45,President,,Overvotes,,46,0,36,0,0,0,0,10
+Middlesex,Borough of South River 45,President,,Undervotes,,63,0,48,0,0,0,0,15
+Middlesex,Borough of South River 45,U.S. Senate,,Cory Booker,DEM,3080,4,2782,0,7,0,0,287
+Middlesex,Borough of South River 45,U.S. Senate,,"Rikin ""Rik"" Mehta",REP,2803,9,2536,0,2,0,0,256
+Middlesex,Borough of South River 45,U.S. Senate,,Daniel Burke,NPC,29,0,27,0,0,0,0,2
+Middlesex,Borough of South River 45,U.S. Senate,,Veronica Fernandez,NPD,79,1,69,0,0,0,0,9
+Middlesex,Borough of South River 45,U.S. Senate,,Madelyn R. Hoffman,,76,0,64,0,0,0,0,12
+Middlesex,Borough of South River 45,U.S. Senate,,Write-In,,4,0,4,0,0,0,0,0
+Middlesex,Borough of South River 45,U.S. Senate,,Overvotes,,39,0,29,0,0,0,0,10
+Middlesex,Borough of South River 45,U.S. Senate,,Undervotes,,213,1,172,0,0,0,0,40
+Middlesex,Borough of South River 45,U.S. House,12,Bonnie Watson Coleman,DEM,3009,3,2719,0,7,0,0,280
+Middlesex,Borough of South River 45,U.S. House,12,Mark Razzoli,REP,2893,11,2603,0,2,0,0,277
+Middlesex,Borough of South River 45,U.S. House,12,Kenneth J. Cody,NPF,22,0,21,0,0,0,0,1
+Middlesex,Borough of South River 45,U.S. House,12,"Edward ""NJ Weedman"" Forchion",NPG,59,0,55,0,0,0,0,4
+Middlesex,Borough of South River 45,U.S. House,12,Write-In,,3,0,3,0,0,0,0,0
+Middlesex,Borough of South River 45,U.S. House,12,Overvotes,,41,0,34,0,0,0,0,7
+Middlesex,Borough of South River 45,U.S. House,12,Undervotes,,296,1,248,0,0,0,0,47
+Middlesex,Borough of Spotswood 46,Registered Voters,,,,6102,,,,,,,
+Middlesex,Borough of Spotswood 46,Ballots Cast Total,,,,4530,0,4245,0,8,0,0,277
+Middlesex,Borough of Spotswood 46,Ballots Cast Blank,,,,1,0,0,0,0,0,0,1
+Middlesex,Borough of Spotswood 46,President,,Joseph R. Biden,DEM,1821,0,1711,0,8,0,0,102
+Middlesex,Borough of Spotswood 46,President,,Donald J. Trump,REP,2545,0,2384,0,0,0,0,161
+Middlesex,Borough of Spotswood 46,President,,Jo Jorgensen,NPC,58,0,54,0,0,0,0,4
+Middlesex,Borough of Spotswood 46,President,,Don Blankenship,NPD,7,0,7,0,0,0,0,0
+Middlesex,Borough of Spotswood 46,President,,Howie Hawkins,NPE,16,0,14,0,0,0,0,2
+Middlesex,Borough of Spotswood 46,President,,Gloria Estela La Riva,NPF,2,0,2,0,0,0,0,0
+Middlesex,Borough of Spotswood 46,President,,"Roque ""Rocky"" De La Fuente",NPG,5,0,5,0,0,0,0,0
+Middlesex,Borough of Spotswood 46,President,,Bill Hammons,NPH,4,0,4,0,0,0,0,0
+Middlesex,Borough of Spotswood 46,President,,Write-In,,11,0,11,0,0,0,0,0
+Middlesex,Borough of Spotswood 46,President,,Overvotes,,33,0,28,0,0,0,0,5
+Middlesex,Borough of Spotswood 46,President,,Undervotes,,28,0,25,0,0,0,0,3
+Middlesex,Borough of Spotswood 46,U.S. Senate,,Cory Booker,DEM,1797,0,1677,0,7,0,0,113
+Middlesex,Borough of Spotswood 46,U.S. Senate,,"Rikin ""Rik"" Mehta",REP,2378,0,2244,0,0,0,0,134
+Middlesex,Borough of Spotswood 46,U.S. Senate,,Daniel Burke,NPC,61,0,55,0,0,0,0,6
+Middlesex,Borough of Spotswood 46,U.S. Senate,,Veronica Fernandez,NPD,43,0,40,0,0,0,0,3
+Middlesex,Borough of Spotswood 46,U.S. Senate,,Madelyn R. Hoffman,,55,0,51,0,1,0,0,3
+Middlesex,Borough of Spotswood 46,U.S. Senate,,Write-In,,5,0,5,0,0,0,0,0
+Middlesex,Borough of Spotswood 46,U.S. Senate,,Overvotes,,22,0,17,0,0,0,0,5
+Middlesex,Borough of Spotswood 46,U.S. Senate,,Undervotes,,169,0,156,0,0,0,0,13
+Middlesex,Borough of Spotswood 46,U.S. House,12,Bonnie Watson Coleman,DEM,1739,0,1627,0,8,0,0,104
+Middlesex,Borough of Spotswood 46,U.S. House,12,Mark Razzoli,REP,2451,0,2304,0,0,0,0,147
+Middlesex,Borough of Spotswood 46,U.S. House,12,Kenneth J. Cody,NPF,20,0,19,0,0,0,0,1
+Middlesex,Borough of Spotswood 46,U.S. House,12,"Edward ""NJ Weedman"" Forchion",NPG,66,0,64,0,0,0,0,2
+Middlesex,Borough of Spotswood 46,U.S. House,12,Write-In,,3,0,3,0,0,0,0,0
+Middlesex,Borough of Spotswood 46,U.S. House,12,Overvotes,,31,0,26,0,0,0,0,5
+Middlesex,Borough of Spotswood 46,U.S. House,12,Undervotes,,220,0,202,0,0,0,0,18
+Middlesex,Township of Woodbridge 47,Registered Voters,,,,65727,,,,,,,
+Middlesex,Township of Woodbridge 47,Ballots Cast Total,,,,46040,33,41062,0,122,0,0,4823
+Middlesex,Township of Woodbridge 47,Ballots Cast Blank,,,,61,0,40,0,0,0,0,21
+Middlesex,Township of Woodbridge 47,President,,Joseph R. Biden,DEM,25778,15,23008,0,97,0,0,2658
+Middlesex,Township of Woodbridge 47,President,,Donald J. Trump,REP,18760,18,16824,0,24,0,0,1894
+Middlesex,Township of Woodbridge 47,President,,Jo Jorgensen,NPC,292,0,256,0,1,0,0,35
+Middlesex,Township of Woodbridge 47,President,,Don Blankenship,NPD,23,0,21,0,0,0,0,2
+Middlesex,Township of Woodbridge 47,President,,Howie Hawkins,NPE,141,0,122,0,0,0,0,19
+Middlesex,Township of Woodbridge 47,President,,Gloria Estela La Riva,NPF,31,0,29,0,0,0,0,2
+Middlesex,Township of Woodbridge 47,President,,"Roque ""Rocky"" De La Fuente",NPG,19,0,17,0,0,0,0,2
+Middlesex,Township of Woodbridge 47,President,,Bill Hammons,NPH,26,0,25,0,0,0,0,1
+Middlesex,Township of Woodbridge 47,President,,Write-In,,123,0,118,0,0,0,0,5
+Middlesex,Township of Woodbridge 47,President,,Overvotes,,447,0,345,0,0,0,0,102
+Middlesex,Township of Woodbridge 47,President,,Undervotes,,400,0,297,0,0,0,0,103
+Middlesex,Township of Woodbridge 47,U.S. Senate,,Cory Booker,DEM,25778,16,23014,0,93,0,0,2655
+Middlesex,Township of Woodbridge 47,U.S. Senate,,"Rikin ""Rik"" Mehta",REP,17051,14,15411,0,23,0,0,1603
+Middlesex,Township of Woodbridge 47,U.S. Senate,,Daniel Burke,NPC,275,0,253,0,0,0,0,22
+Middlesex,Township of Woodbridge 47,U.S. Senate,,Veronica Fernandez,NPD,409,0,336,0,0,0,0,73
+Middlesex,Township of Woodbridge 47,U.S. Senate,,Madelyn R. Hoffman,,437,0,388,0,0,0,0,49
+Middlesex,Township of Woodbridge 47,U.S. Senate,,Write-In,,48,0,45,0,0,0,0,3
+Middlesex,Township of Woodbridge 47,U.S. Senate,,Overvotes,,356,0,283,0,0,0,0,73
+Middlesex,Township of Woodbridge 47,U.S. Senate,,Undervotes,,1686,3,1332,0,6,0,0,345
+Middlesex,Township of Woodbridge 47,U.S. House,6,Frank Pallone Jr.,DEM,27119,17,24334,0,94,0,0,2674
+Middlesex,Township of Woodbridge 47,U.S. House,6,Christian Onuoha,REP,16588,14,14878,0,21,0,0,1675
+Middlesex,Township of Woodbridge 47,U.S. House,6,Write-In,,51,0,47,0,0,0,0,4
+Middlesex,Township of Woodbridge 47,U.S. House,6,Overvotes,,110,0,96,0,0,0,0,14
+Middlesex,Township of Woodbridge 47,U.S. House,6,Undervotes,,2172,2,1707,0,7,0,0,456
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
