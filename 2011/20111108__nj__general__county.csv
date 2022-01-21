@@ -51,9 +51,9 @@ Ocean,State Senate,12,Republican,Samuel D. Thompson,9499
 Ocean,State Senate,12,Democratic,"Robert ""Bob"" Brown",6036
 Monmouth,State Senate,13,Republican,"Joe Kyrillos, Jr.",24121
 Monmouth,State Senate,13,Democratic,Christopher G. Cullen,14785
-Monmouth,State Senate,13,Indpendent,Stephen J. Boracchia,556
-Monmouth,State Senate,13,Indpendent,Mac Dara F. Lyden,260
-Monmouth,State Senate,13,Indpendent,Karen Anne Zaletel,519
+Monmouth,State Senate,13,Independent,Stephen J. Boracchia,556
+Monmouth,State Senate,13,Independent,Mac Dara F. Lyden,260
+Monmouth,State Senate,13,Independent,Karen Anne Zaletel,519
 Mercer,State Senate,14,Democratic,Linda R. Greenstein,15750
 Mercer,State Senate,14,Republican,Richard J. Kanka,13754
 Middlesex,State Senate,14,Democratic,Linda R. Greenstein,10456
@@ -107,9 +107,9 @@ Sussex,State Senate,24,Republican,Steven V. Oroho,15176
 Sussex,State Senate,24,Democratic,Edwin Selby,8001
 Warren,State Senate,24,Republican,Steven V. Oroho,3587
 Warren,State Senate,24,Democratic,Edwin Selby,1698
-Somerset,State Senate,25,"Republicang""","Anthony ""Tony"" Bucco",1201
+Somerset,State Senate,25,Republican,"Anthony ""Tony"" Bucco",1201
 Somerset,State Senate,25,Democratic,Rick Thoeni,537
-Morris,State Senate,25,"Republicang""","Anthony ""Tony"" Bucco",18027
+Morris,State Senate,25,Republican,"Anthony ""Tony"" Bucco",18027
 Morris,State Senate,25,Democratic,Rick Thoeni,11761
 Essex,State Senate,26,Republican,Joe Pennacchio,3491
 Essex,State Senate,26,Democratic,Wasim Khan,2006
@@ -128,7 +128,7 @@ Essex,State Senate,28,Democratic,Ronald L. Rice,14781
 Essex,State Senate,28,Republican,Russell Mollica,4519
 Essex,State Senate,29,Democratic,M. Teresa Ruiz,9076
 Essex,State Senate,29,Republican,Aracelis Sanabria Tejada,1598
-Essex,State Senate,29,Indpendent,Laurie J. Taylor,363
+Essex,State Senate,29,Independent,Laurie J. Taylor,363
 Monmouth,State Senate,30,Republican,Robert W. Singer,13042
 Monmouth,State Senate,30,Democratic,Steve Morlino,7443
 Ocean,State Senate,30,Republican,Robert W. Singer,8948
@@ -288,8 +288,8 @@ Monmouth,General Assembly,13,Republican,Amy H. Handlin,24073
 Monmouth,General Assembly,13,Republican,Declan O'Scanlon,22754
 Monmouth,General Assembly,13,Democratic,Kevin M. Lavan,15165
 Monmouth,General Assembly,13,Democratic,Patrick Short,15333
-Monmouth,General Assembly,13,Indpendent,Frank C. Cottone,834
-Monmouth,General Assembly,13,Indpendent,William H. Lawton,757
+Monmouth,General Assembly,13,Independent,Frank C. Cottone,834
+Monmouth,General Assembly,13,Independent,William H. Lawton,757
 Mercer,General Assembly,14,Democratic,Wayne P. DeAngelo,16679
 Mercer,General Assembly,14,Democratic,Daniel R. Benson,15958
 Mercer,General Assembly,14,Republican,Wayne Wittman,11735
@@ -443,12 +443,12 @@ Monmouth,General Assembly,30,Republican,Sean T. Kean,14116
 Monmouth,General Assembly,30,Republican,David P. Rible,12756
 Monmouth,General Assembly,30,Democratic,Howard Kleinhendler,6468
 Monmouth,General Assembly,30,Democratic,Shaun O'Rourke,7132
-Monmouth,General Assembly,30,Indpendent,David Schneck,733
+Monmouth,General Assembly,30,Independent,David Schneck,733
 Ocean,General Assembly,30,Republican,Sean T. Kean,8773
 Ocean,General Assembly,30,Republican,David P. Rible,7972
 Ocean,General Assembly,30,Democratic,Howard Kleinhendler,4171
 Ocean,General Assembly,30,Democratic,Shaun O'Rourke,4124
-Ocean,General Assembly,30,Indpendent,David Schneck,253
+Ocean,General Assembly,30,Independent,David Schneck,253
 Hudson,General Assembly,31,Democratic,Charles Mainor,11690
 Hudson,General Assembly,31,Democratic,Jason O'Donnell,11877
 Hudson,General Assembly,31,Republican,Michael J. Alonso,3157
@@ -471,14 +471,14 @@ Essex,General Assembly,34,Democratic,Sheila Y. Oliver,11399
 Essex,General Assembly,34,Democratic,Thomas P. Giblin,11778
 Essex,General Assembly,34,Republican,Joan Salensky,1146
 Essex,General Assembly,34,Republican,Steve Farrell,1223
-Essex,General Assembly,34,Indpendent,Clenard Childress,615
-Essex,General Assembly,34,Indpendent,David Taylor,409
+Essex,General Assembly,34,Independent,Clenard Childress,615
+Essex,General Assembly,34,Independent,David Taylor,409
 Passaic,General Assembly,34,Democratic,Sheila Y. Oliver,4063
 Passaic,General Assembly,34,Democratic,Thomas P. Giblin,4507
 Passaic,General Assembly,34,Republican,Joan Salensky,3105
 Passaic,General Assembly,34,Republican,Steve Farrell,3047
-Passaic,General Assembly,34,Indpendent,Clenard Childress,198
-Passaic,General Assembly,34,Indpendent,David Taylor,177
+Passaic,General Assembly,34,Independent,Clenard Childress,198
+Passaic,General Assembly,34,Independent,David Taylor,177
 Bergen,General Assembly,35,Democratic,Shavonda E. Sumter,2408
 Bergen,General Assembly,35,Democratic,Benjie E. Wimberly,2469
 Bergen,General Assembly,35,Republican,William A. Connolly,2418
@@ -514,12 +514,12 @@ Bergen,General Assembly,39,Republican,Robert Schroeder,23750
 Bergen,General Assembly,39,Republican,Holly Schepisi,23316
 Bergen,General Assembly,39,Democratic,"Anthony N. Iannarelli, Jr.",13928
 Bergen,General Assembly,39,Democratic,Michael J. McCarthy,14297
-Bergen,General Assembly,39,Indpendent,Clinton Bosca,1277
+Bergen,General Assembly,39,Independent,Clinton Bosca,1277
 Passaic,General Assembly,39,Republican,Robert Schroeder,2822
 Passaic,General Assembly,39,Republican,Holly Schepisi,2795
 Passaic,General Assembly,39,Democratic,"Anthony N. Iannarelli, Jr.",1856
 Passaic,General Assembly,39,Democratic,Michael J. McCarthy,1903
-Passaic,General Assembly,39,Indpendent,Clinton Bosca,148
+Passaic,General Assembly,39,Independent,Clinton Bosca,148
 Bergen,General Assembly,40,Republican,David C. Russo,8933
 Bergen,General Assembly,40,Republican,Scott T. Rumana,8574
 Bergen,General Assembly,40,Democratic,William J. Brennan,5023
