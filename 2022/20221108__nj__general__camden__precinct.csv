@@ -237,10 +237,10 @@ Camden,Magnolia Dist 4,Registered Voters,,,,914
 Camden,Merchantville Dist 1,Registered Voters,,,,1263
 Camden,Merchantville Dist 2,Registered Voters,,,,856
 Camden,Merchantville Dist 3,Registered Voters,,,,871
-Camden,Mt  Ephraim Dist 1,Registered Voters,,,,870
-Camden,Mt  Ephraim Dist 2,Registered Voters,,,,967
-Camden,Mt  Ephraim Dist 3,Registered Voters,,,,963
-Camden,Mt  Ephraim Dist 4,Registered Voters,,,,911
+Camden,Mt Ephraim Dist 1,Registered Voters,,,,870
+Camden,Mt Ephraim Dist 2,Registered Voters,,,,967
+Camden,Mt Ephraim Dist 3,Registered Voters,,,,963
+Camden,Mt Ephraim Dist 4,Registered Voters,,,,911
 Camden,Oaklyn Dist 1,Registered Voters,,,,746
 Camden,Oaklyn Dist 2,Registered Voters,,,,913
 Camden,Oaklyn Dist 3,Registered Voters,,,,824
@@ -334,7 +334,7 @@ Camden,Winslow W3 D1,Registered Voters,,,,1627
 Camden,Winslow W3 D2,Registered Voters,,,,1539
 Camden,Winslow W3 D3,Registered Voters,,,,1484
 Camden,Winslow W3 D4,Registered Voters,,,,1324
-Camden,Winslow  W3 D5,Registered Voters,,,,1506
+Camden,Winslow W3 D5,Registered Voters,,,,1506
 Camden,Winslow W4 D1,Registered Voters,,,,884
 Camden,Winslow W4 D2,Registered Voters,,,,1914
 Camden,Winslow W4 D3,Registered Voters,,,,2078
@@ -758,10 +758,10 @@ Camden,Merchantville Borough TC-Emergency,Ballots Cast,,,,0
 Camden,Merchantville Borough TC-Machine,Ballots Cast,,,,602
 Camden,Merchantville Borough TC-Mail-In Ballot,Ballots Cast,,,,539
 Camden,Merchantville Borough TC-Provisional,Ballots Cast,,,,39
-Camden,Mt  Ephraim Dist 1,Ballots Cast,,,,355
-Camden,Mt  Ephraim Dist 2,Ballots Cast,,,,390
-Camden,Mt  Ephraim Dist 3,Ballots Cast,,,,361
-Camden,Mt  Ephraim Dist 4,Ballots Cast,,,,349
+Camden,Mt Ephraim Dist 1,Ballots Cast,,,,355
+Camden,Mt Ephraim Dist 2,Ballots Cast,,,,390
+Camden,Mt Ephraim Dist 3,Ballots Cast,,,,361
+Camden,Mt Ephraim Dist 4,Ballots Cast,,,,349
 Camden,Mt. Ephraim Provisional,Ballots Cast,,,,32
 Camden,Mt. Ephraim Emergency Ballots,Ballots Cast,,,,0
 Camden,Mount Ephraim Borough TC-Early Voting,Ballots Cast,,,,18
@@ -929,7 +929,7 @@ Camden,Winslow W3 D1,Ballots Cast,,,,582
 Camden,Winslow W3 D2,Ballots Cast,,,,431
 Camden,Winslow W3 D3,Ballots Cast,,,,367
 Camden,Winslow W3 D4,Ballots Cast,,,,436
-Camden,Winslow  W3 D5,Ballots Cast,,,,574
+Camden,Winslow W3 D5,Ballots Cast,,,,574
 Camden,Winslow Ward 3 Provisional,Ballots Cast,,,,66
 Camden,Winslow W3 Emergency Ballots,Ballots Cast,,,,0
 Camden,Winslow W4 D1,Ballots Cast,,,,439
@@ -953,7 +953,7 @@ Camden,Woodlynne Borough TC-Emergency,Ballots Cast,,,,0
 Camden,Woodlynne Borough TC-Machine,Ballots Cast,,,,221
 Camden,Woodlynne Borough TC-Mail-In Ballot,Ballots Cast,,,,134
 Camden,Woodlynne Borough TC-Provisional,Ballots Cast,,,,13
-Camden,Fed  Overseas 1st Cong Dist,Ballots Cast,,,,76
+Camden,Fed Overseas 1st Cong Dist,Ballots Cast,,,,76
 Camden,Federal Overseas TC-Early Voting,Ballots Cast,,,,0
 Camden,Federal Overseas TC-Emergency,Ballots Cast,,,,0
 Camden,Federal Overseas TC-Machine,Ballots Cast,,,,0
