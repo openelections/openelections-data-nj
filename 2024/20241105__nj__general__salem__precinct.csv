@@ -96,7 +96,7 @@ Salem,Alloway District 1,President,,RACHELE FRUIT,SWP,0,0,0,0,0,0,0
 Salem,Alloway District 1,President,,RANDALL A. TERRY,UCP,0,0,2,0,0,0,2
 Salem,Alloway District 1,President,,Write-ins,,1,1,4,0,0,0,6
 Salem,Alloway District 2,President,,DONALD J. TRUMP,REP,51,147,381,0,0,0,579
-Salem,Alloway District 2,President,,KAMALA D. HARRIS,DEM,74,41,108,0,0,0,226
+Salem,Alloway District 2,President,,KAMALA D. HARRIS,DEM,74,41,108,0,3,0,226
 Salem,Alloway District 2,President,,CLAUDIA DE LA CRUZ,SOC,0,0,0,0,0,0,0
 Salem,Alloway District 2,President,,ROBERT F. KENNEDY JR.,IND,1,2,3,0,0,0,6
 Salem,Alloway District 2,President,,CHASE OLIVER,LIB,0,1,3,0,0,0,4
@@ -106,7 +106,7 @@ Salem,Alloway District 2,President,,RACHELE FRUIT,SWP,0,0,0,0,0,0,0
 Salem,Alloway District 2,President,,RANDALL A. TERRY,UCP,0,0,0,0,0,0,0
 Salem,Alloway District 2,President,,Write-ins,,0,0,3,0,0,0,3
 Salem,Carneys Point District 1,President,,DONALD J. TRUMP,REP,21,37,168,0,22,0,248
-Salem,Carneys Point District 1,President,,KAMALA D. HARRIS,DEM,38,33,151,0,34,0,257
+Salem,Carneys Point District 1,President,,KAMALA D. HARRIS,DEM,38,33,151,1,34,0,257
 Salem,Carneys Point District 1,President,,CLAUDIA DE LA CRUZ,SOC,0,0,1,0,0,0,1
 Salem,Carneys Point District 1,President,,ROBERT F. KENNEDY JR.,IND,0,0,4,0,0,0,4
 Salem,Carneys Point District 1,President,,CHASE OLIVER,LIB,0,0,1,0,0,0,1
@@ -116,7 +116,7 @@ Salem,Carneys Point District 1,President,,RACHELE FRUIT,SWP,0,0,0,0,0,0,0
 Salem,Carneys Point District 1,President,,RANDALL A. TERRY,UCP,0,0,0,0,0,0,0
 Salem,Carneys Point District 1,President,,Write-ins,,0,0,0,0,0,0,0
 Salem,Carneys Point District 2,President,,DONALD J. TRUMP,REP,60,109,317,0,0,0,486
-Salem,Carneys Point District 2,President,,KAMALA D. HARRIS,DEM,116,79,227,0,0,0,423
+Salem,Carneys Point District 2,President,,KAMALA D. HARRIS,DEM,116,79,227,1,0,0,423
 Salem,Carneys Point District 2,President,,CLAUDIA DE LA CRUZ,SOC,0,0,1,0,0,0,1
 Salem,Carneys Point District 2,President,,ROBERT F. KENNEDY JR.,IND,1,1,3,0,0,0,5
 Salem,Carneys Point District 2,President,,CHASE OLIVER,LIB,0,1,5,0,0,0,6
@@ -126,7 +126,7 @@ Salem,Carneys Point District 2,President,,RACHELE FRUIT,SWP,0,0,0,0,0,0,0
 Salem,Carneys Point District 2,President,,RANDALL A. TERRY,UCP,1,0,0,0,0,0,1
 Salem,Carneys Point District 2,President,,Write-ins,,1,0,1,0,0,0,2
 Salem,Carneys Point District 3,President,,DONALD J. TRUMP,REP,38,55,185,0,0,0,278
-Salem,Carneys Point District 3,President,,KAMALA D. HARRIS,DEM,76,34,162,0,0,0,273
+Salem,Carneys Point District 3,President,,KAMALA D. HARRIS,DEM,76,34,162,1,0,0,273
 Salem,Carneys Point District 3,President,,CLAUDIA DE LA CRUZ,SOC,0,0,0,0,0,0,0
 Salem,Carneys Point District 3,President,,ROBERT F. KENNEDY JR.,IND,1,0,4,0,0,0,5
 Salem,Carneys Point District 3,President,,CHASE OLIVER,LIB,0,1,0,0,0,0,1
@@ -135,8 +135,8 @@ Salem,Carneys Point District 3,President,,JOSEPH KISHORE,SEQ,0,0,0,0,0,0,0
 Salem,Carneys Point District 3,President,,RACHELE FRUIT,SWP,0,0,0,0,0,0,0
 Salem,Carneys Point District 3,President,,RANDALL A. TERRY,UCP,0,0,1,0,0,0,1
 Salem,Carneys Point District 3,President,,Write-ins,,0,0,1,0,0,0,1
-Salem,Mannington District 1,President,,DONALD J. TRUMP,REP,40,75,357,0,0,0,476
-Salem,Mannington District 1,President,,KAMALA D. HARRIS,DEM,77,36,131,0,0,0,248
+Salem,Mannington District 1,President,,DONALD J. TRUMP,REP,40,75,357,4,0,0,476
+Salem,Mannington District 1,President,,KAMALA D. HARRIS,DEM,77,36,131,4,0,0,248
 Salem,Mannington District 1,President,,CLAUDIA DE LA CRUZ,SOC,0,0,0,0,0,0,0
 Salem,Mannington District 1,President,,ROBERT F. KENNEDY JR.,IND,2,1,2,0,0,0,5
 Salem,Mannington District 1,President,,CHASE OLIVER,LIB,0,0,3,0,0,0,3
@@ -145,8 +145,8 @@ Salem,Mannington District 1,President,,JOSEPH KISHORE,SEQ,0,0,0,0,0,0,0
 Salem,Mannington District 1,President,,RACHELE FRUIT,SWP,0,0,0,0,0,0,0
 Salem,Mannington District 1,President,,RANDALL A. TERRY,UCP,0,0,0,0,0,0,0
 Salem,Mannington District 1,President,,Write-ins,,1,0,3,0,0,0,4
-Salem,Oldmans District 1,President,,DONALD J. TRUMP,REP,15,45,271,0,0,0,337
-Salem,Oldmans District 1,President,,KAMALA D. HARRIS,DEM,50,17,179,0,0,0,253
+Salem,Oldmans District 1,President,,DONALD J. TRUMP,REP,15,45,271,6,0,0,337
+Salem,Oldmans District 1,President,,KAMALA D. HARRIS,DEM,50,17,179,7,0,0,253
 Salem,Oldmans District 1,President,,CLAUDIA DE LA CRUZ,SOC,0,0,1,0,0,0,1
 Salem,Oldmans District 1,President,,ROBERT F. KENNEDY JR.,IND,1,0,9,0,0,0,10
 Salem,Oldmans District 1,President,,CHASE OLIVER,LIB,0,0,2,0,0,0,2
@@ -156,7 +156,7 @@ Salem,Oldmans District 1,President,,RACHELE FRUIT,SWP,0,0,0,0,0,0,0
 Salem,Oldmans District 1,President,,RANDALL A. TERRY,UCP,0,0,0,0,0,0,0
 Salem,Oldmans District 1,President,,Write-ins,,0,0,1,0,0,0,1
 Salem,Oldmans District 2,President,,DONALD J. TRUMP,REP,24,54,261,0,0,0,339
-Salem,Oldmans District 2,President,,KAMALA D. HARRIS,DEM,29,22,125,0,0,0,177
+Salem,Oldmans District 2,President,,KAMALA D. HARRIS,DEM,29,22,125,1,0,0,177
 Salem,Oldmans District 2,President,,CLAUDIA DE LA CRUZ,SOC,0,0,0,0,0,0,0
 Salem,Oldmans District 2,President,,ROBERT F. KENNEDY JR.,IND,0,0,3,0,0,0,3
 Salem,Oldmans District 2,President,,CHASE OLIVER,LIB,0,1,1,0,0,0,2
@@ -166,7 +166,7 @@ Salem,Oldmans District 2,President,,RACHELE FRUIT,SWP,0,0,0,0,0,0,0
 Salem,Oldmans District 2,President,,RANDALL A. TERRY,UCP,0,0,0,0,0,0,0
 Salem,Oldmans District 2,President,,Write-ins,,0,0,1,0,0,0,1
 Salem,Penns Grove District 1,President,,DONALD J. TRUMP,REP,16,16,107,0,11,0,150
-Salem,Penns Grove District 1,President,,KAMALA D. HARRIS,DEM,59,34,210,0,34,0,338
+Salem,Penns Grove District 1,President,,KAMALA D. HARRIS,DEM,59,34,210,1,34,0,338
 Salem,Penns Grove District 1,President,,CLAUDIA DE LA CRUZ,SOC,0,0,0,0,0,0,0
 Salem,Penns Grove District 1,President,,ROBERT F. KENNEDY JR.,IND,0,1,1,0,0,0,2
 Salem,Penns Grove District 1,President,,CHASE OLIVER,LIB,0,0,0,0,0,0,0
@@ -186,7 +186,7 @@ Salem,Penns Grove District 2,President,,RACHELE FRUIT,SWP,0,0,0,0,0,0,0
 Salem,Penns Grove District 2,President,,RANDALL A. TERRY,UCP,0,0,0,0,0,0,0
 Salem,Penns Grove District 2,President,,Write-ins,,0,0,2,0,0,0,2
 Salem,Penns Grove District 3,President,,DONALD J. TRUMP,REP,7,11,70,0,0,0,88
-Salem,Penns Grove District 3,President,,KAMALA D. HARRIS,DEM,75,22,171,0,0,0,269
+Salem,Penns Grove District 3,President,,KAMALA D. HARRIS,DEM,75,22,171,1,0,0,269
 Salem,Penns Grove District 3,President,,CLAUDIA DE LA CRUZ,SOC,0,0,0,0,0,0,0
 Salem,Penns Grove District 3,President,,ROBERT F. KENNEDY JR.,IND,1,0,0,0,0,0,1
 Salem,Penns Grove District 3,President,,CHASE OLIVER,LIB,0,0,1,0,0,0,1
@@ -206,7 +206,7 @@ Salem,Pennsville District 1,President,,RACHELE FRUIT,SWP,0,0,0,0,0,0,0
 Salem,Pennsville District 1,President,,RANDALL A. TERRY,UCP,0,0,0,0,0,0,0
 Salem,Pennsville District 1,President,,Write-ins,,0,0,2,0,0,0,2
 Salem,Pennsville District 2,President,,DONALD J. TRUMP,REP,27,130,244,0,0,0,401
-Salem,Pennsville District 2,President,,KAMALA D. HARRIS,DEM,44,40,157,0,0,0,243
+Salem,Pennsville District 2,President,,KAMALA D. HARRIS,DEM,44,40,157,2,0,0,243
 Salem,Pennsville District 2,President,,CLAUDIA DE LA CRUZ,SOC,0,0,0,0,0,0,0
 Salem,Pennsville District 2,President,,ROBERT F. KENNEDY JR.,IND,0,0,0,0,0,0,0
 Salem,Pennsville District 2,President,,CHASE OLIVER,LIB,1,1,1,0,0,0,3
@@ -216,7 +216,7 @@ Salem,Pennsville District 2,President,,RACHELE FRUIT,SWP,0,0,0,0,0,0,0
 Salem,Pennsville District 2,President,,RANDALL A. TERRY,UCP,0,0,0,0,0,0,0
 Salem,Pennsville District 2,President,,Write-ins,,0,1,2,0,0,0,3
 Salem,Pennsville District 3,President,,DONALD J. TRUMP,REP,27,112,204,0,0,0,343
-Salem,Pennsville District 3,President,,KAMALA D. HARRIS,DEM,41,39,95,0,0,0,177
+Salem,Pennsville District 3,President,,KAMALA D. HARRIS,DEM,41,39,95,2,0,0,177
 Salem,Pennsville District 3,President,,CLAUDIA DE LA CRUZ,SOC,0,0,0,0,0,0,0
 Salem,Pennsville District 3,President,,ROBERT F. KENNEDY JR.,IND,0,0,6,0,0,0,6
 Salem,Pennsville District 3,President,,CHASE OLIVER,LIB,0,2,0,0,0,0,2
@@ -245,7 +245,7 @@ Salem,Pennsville District 5,President,,JOSEPH KISHORE,SEQ,0,0,0,0,0,0,0
 Salem,Pennsville District 5,President,,RACHELE FRUIT,SWP,0,0,0,0,0,0,0
 Salem,Pennsville District 5,President,,RANDALL A. TERRY,UCP,0,0,0,0,0,0,0
 Salem,Pennsville District 5,President,,Write-ins,,0,0,0,0,0,0,0
-Salem,Pennsville District 6,President,,DONALD J. TRUMP,REP,19,159,235,0,0,0,414
+Salem,Pennsville District 6,President,,DONALD J. TRUMP,REP,19,159,235,1,0,0,414
 Salem,Pennsville District 6,President,,KAMALA D. HARRIS,DEM,49,76,110,0,0,0,235
 Salem,Pennsville District 6,President,,CLAUDIA DE LA CRUZ,SOC,0,0,0,0,0,0,0
 Salem,Pennsville District 6,President,,ROBERT F. KENNEDY JR.,IND,1,0,2,0,0,0,3
@@ -286,7 +286,7 @@ Salem,Pennsville District 9,President,,RACHELE FRUIT,SWP,0,0,1,0,0,0,1
 Salem,Pennsville District 9,President,,RANDALL A. TERRY,UCP,0,0,0,0,0,0,0
 Salem,Pennsville District 9,President,,Write-ins,,0,2,1,0,0,0,3
 Salem,Pilesgrove District 1,President,,DONALD J. TRUMP,REP,39,100,343,0,16,0,498
-Salem,Pilesgrove District 1,President,,KAMALA D. HARRIS,DEM,101,56,176,0,15,0,350
+Salem,Pilesgrove District 1,President,,KAMALA D. HARRIS,DEM,101,56,176,2,15,0,350
 Salem,Pilesgrove District 1,President,,CLAUDIA DE LA CRUZ,SOC,0,1,1,0,0,0,2
 Salem,Pilesgrove District 1,President,,ROBERT F. KENNEDY JR.,IND,0,2,9,0,1,0,12
 Salem,Pilesgrove District 1,President,,CHASE OLIVER,LIB,0,1,4,0,0,0,5
@@ -296,7 +296,7 @@ Salem,Pilesgrove District 1,President,,RACHELE FRUIT,SWP,0,0,0,0,0,0,0
 Salem,Pilesgrove District 1,President,,RANDALL A. TERRY,UCP,0,1,0,0,0,0,1
 Salem,Pilesgrove District 1,President,,Write-ins,,1,0,1,0,0,0,2
 Salem,Pilesgrove District 2,President,,DONALD J. TRUMP,REP,41,198,314,0,0,0,553
-Salem,Pilesgrove District 2,President,,KAMALA D. HARRIS,DEM,121,57,147,0,0,0,328
+Salem,Pilesgrove District 2,President,,KAMALA D. HARRIS,DEM,121,57,147,3,0,0,328
 Salem,Pilesgrove District 2,President,,CLAUDIA DE LA CRUZ,SOC,0,0,1,0,0,0,1
 Salem,Pilesgrove District 2,President,,ROBERT F. KENNEDY JR.,IND,0,1,5,0,0,0,6
 Salem,Pilesgrove District 2,President,,CHASE OLIVER,LIB,0,1,1,0,0,0,2
@@ -305,7 +305,7 @@ Salem,Pilesgrove District 2,President,,JOSEPH KISHORE,SEQ,0,0,0,0,0,0,0
 Salem,Pilesgrove District 2,President,,RACHELE FRUIT,SWP,0,0,0,0,0,0,0
 Salem,Pilesgrove District 2,President,,RANDALL A. TERRY,UCP,0,0,0,0,0,0,0
 Salem,Pilesgrove District 2,President,,Write-ins,,0,1,1,0,0,0,2
-Salem,Pilesgrove District 3,President,,DONALD J. TRUMP,REP,32,89,227,0,0,0,349
+Salem,Pilesgrove District 3,President,,DONALD J. TRUMP,REP,32,89,227,1,0,0,349
 Salem,Pilesgrove District 3,President,,KAMALA D. HARRIS,DEM,70,47,117,0,0,0,234
 Salem,Pilesgrove District 3,President,,CLAUDIA DE LA CRUZ,SOC,0,0,2,0,0,0,2
 Salem,Pilesgrove District 3,President,,ROBERT F. KENNEDY JR.,IND,0,1,2,0,0,0,3
@@ -326,7 +326,7 @@ Salem,Pittsgrove District 1,President,,RACHELE FRUIT,SWP,0,0,0,0,0,0,0
 Salem,Pittsgrove District 1,President,,RANDALL A. TERRY,UCP,0,0,0,0,0,0,0
 Salem,Pittsgrove District 1,President,,Write-ins,,0,1,0,0,0,0,1
 Salem,Pittsgrove District 2,President,,DONALD J. TRUMP,REP,56,197,308,0,0,0,561
-Salem,Pittsgrove District 2,President,,KAMALA D. HARRIS,DEM,75,61,131,0,0,0,269
+Salem,Pittsgrove District 2,President,,KAMALA D. HARRIS,DEM,75,61,131,2,0,0,269
 Salem,Pittsgrove District 2,President,,CLAUDIA DE LA CRUZ,SOC,0,0,0,0,0,0,0
 Salem,Pittsgrove District 2,President,,ROBERT F. KENNEDY JR.,IND,1,1,1,0,0,0,3
 Salem,Pittsgrove District 2,President,,CHASE OLIVER,LIB,0,0,1,0,0,0,1
@@ -336,7 +336,7 @@ Salem,Pittsgrove District 2,President,,RACHELE FRUIT,SWP,0,0,0,0,0,0,0
 Salem,Pittsgrove District 2,President,,RANDALL A. TERRY,UCP,0,0,0,0,0,0,0
 Salem,Pittsgrove District 2,President,,Write-ins,,1,0,0,0,0,0,1
 Salem,Pittsgrove District 3,President,,DONALD J. TRUMP,REP,48,163,325,0,0,0,536
-Salem,Pittsgrove District 3,President,,KAMALA D. HARRIS,DEM,58,49,148,0,0,0,257
+Salem,Pittsgrove District 3,President,,KAMALA D. HARRIS,DEM,58,49,148,2,0,0,257
 Salem,Pittsgrove District 3,President,,CLAUDIA DE LA CRUZ,SOC,0,0,0,0,0,0,0
 Salem,Pittsgrove District 3,President,,ROBERT F. KENNEDY JR.,IND,0,1,9,0,0,0,10
 Salem,Pittsgrove District 3,President,,CHASE OLIVER,LIB,0,0,0,0,0,0,0
@@ -366,7 +366,7 @@ Salem,Pittsgrove District 5,President,,RACHELE FRUIT,SWP,0,0,0,0,0,0,0
 Salem,Pittsgrove District 5,President,,RANDALL A. TERRY,UCP,0,0,0,0,0,0,0
 Salem,Pittsgrove District 5,President,,Write-ins,,0,0,0,0,0,0,0
 Salem,Pittsgrove District 6,President,,DONALD J. TRUMP,REP,68,221,455,0,0,0,744
-Salem,Pittsgrove District 6,President,,KAMALA D. HARRIS,DEM,96,85,195,0,0,0,379
+Salem,Pittsgrove District 6,President,,KAMALA D. HARRIS,DEM,96,85,195,3,0,0,379
 Salem,Pittsgrove District 6,President,,CLAUDIA DE LA CRUZ,SOC,0,1,0,0,0,0,1
 Salem,Pittsgrove District 6,President,,ROBERT F. KENNEDY JR.,IND,1,1,8,0,0,0,10
 Salem,Pittsgrove District 6,President,,CHASE OLIVER,LIB,0,1,4,0,0,0,5
@@ -375,8 +375,8 @@ Salem,Pittsgrove District 6,President,,JOSEPH KISHORE,SEQ,0,0,0,0,0,0,0
 Salem,Pittsgrove District 6,President,,RACHELE FRUIT,SWP,0,0,0,0,0,0,0
 Salem,Pittsgrove District 6,President,,RANDALL A. TERRY,UCP,0,0,0,0,0,0,0
 Salem,Pittsgrove District 6,President,,Write-ins,,1,0,3,0,0,0,4
-Salem,Quinton District 1,President,,DONALD J. TRUMP,REP,59,82,352,0,0,0,501
-Salem,Quinton District 1,President,,KAMALA D. HARRIS,DEM,67,34,108,0,0,0,214
+Salem,Quinton District 1,President,,DONALD J. TRUMP,REP,59,82,352,8,0,0,501
+Salem,Quinton District 1,President,,KAMALA D. HARRIS,DEM,67,34,108,5,0,0,214
 Salem,Quinton District 1,President,,CLAUDIA DE LA CRUZ,SOC,0,0,0,0,0,0,0
 Salem,Quinton District 1,President,,ROBERT F. KENNEDY JR.,IND,5,0,2,0,0,0,7
 Salem,Quinton District 1,President,,CHASE OLIVER,LIB,1,0,0,0,0,0,1
@@ -406,7 +406,7 @@ Salem,Salem East District 1,President,,RACHELE FRUIT,SWP,0,0,0,0,0,0,0
 Salem,Salem East District 1,President,,RANDALL A. TERRY,UCP,0,0,0,0,0,0,0
 Salem,Salem East District 1,President,,Write-ins,,0,0,2,0,0,0,2
 Salem,Salem West District 1,President,,DONALD J. TRUMP,REP,31,64,86,0,3,0,184
-Salem,Salem West District 1,President,,KAMALA D. HARRIS,DEM,129,119,294,0,21,0,566
+Salem,Salem West District 1,President,,KAMALA D. HARRIS,DEM,129,119,294,3,21,0,566
 Salem,Salem West District 1,President,,CLAUDIA DE LA CRUZ,SOC,0,0,0,0,0,0,0
 Salem,Salem West District 1,President,,ROBERT F. KENNEDY JR.,IND,5,0,3,0,0,0,8
 Salem,Salem West District 1,President,,CHASE OLIVER,LIB,0,1,0,0,0,0,1
@@ -416,7 +416,7 @@ Salem,Salem West District 1,President,,RACHELE FRUIT,SWP,0,1,0,0,0,0,1
 Salem,Salem West District 1,President,,RANDALL A. TERRY,UCP,0,0,0,0,0,0,0
 Salem,Salem West District 1,President,,Write-ins,,0,0,1,0,0,0,1
 Salem,Upper Pittsgrove District 1,President,,DONALD J. TRUMP,REP,39,211,347,0,7,0,604
-Salem,Upper Pittsgrove District 1,President,,KAMALA D. HARRIS,DEM,53,53,82,0,11,0,203
+Salem,Upper Pittsgrove District 1,President,,KAMALA D. HARRIS,DEM,53,53,82,4,11,0,203
 Salem,Upper Pittsgrove District 1,President,,CLAUDIA DE LA CRUZ,SOC,0,0,0,0,0,0,0
 Salem,Upper Pittsgrove District 1,President,,ROBERT F. KENNEDY JR.,IND,0,1,7,0,1,0,9
 Salem,Upper Pittsgrove District 1,President,,CHASE OLIVER,LIB,1,0,3,0,0,0,4
@@ -426,7 +426,7 @@ Salem,Upper Pittsgrove District 1,President,,RACHELE FRUIT,SWP,0,0,0,0,0,0,0
 Salem,Upper Pittsgrove District 1,President,,RANDALL A. TERRY,UCP,0,0,0,0,0,0,0
 Salem,Upper Pittsgrove District 1,President,,Write-ins,,0,0,3,0,0,0,3
 Salem,Upper Pittsgrove District 2,President,,DONALD J. TRUMP,REP,62,286,459,0,0,0,807
-Salem,Upper Pittsgrove District 2,President,,KAMALA D. HARRIS,DEM,80,81,109,0,0,0,272
+Salem,Upper Pittsgrove District 2,President,,KAMALA D. HARRIS,DEM,80,81,109,2,0,0,272
 Salem,Upper Pittsgrove District 2,President,,CLAUDIA DE LA CRUZ,SOC,0,0,0,0,0,0,0
 Salem,Upper Pittsgrove District 2,President,,ROBERT F. KENNEDY JR.,IND,2,4,3,0,0,0,9
 Salem,Upper Pittsgrove District 2,President,,CHASE OLIVER,LIB,0,0,4,0,0,0,4
@@ -463,28 +463,28 @@ Salem,Alloway District 1,United States Senate,,PATRICIA G. MOONEYHAM,VB,1,1,3,0,
 Salem,Alloway District 1,United States Senate,,KENNETH R. KAPLAN,LIB,1,0,6,0,2,0,9
 Salem,Alloway District 1,United States Senate,,Write-ins,,0,0,8,0,0,0,8
 Salem,Alloway District 2,United States Senate,,CURTIS BASHAW,REP,50,141,370,0,0,0,561
-Salem,Alloway District 2,United States Senate,,ANDY KIM,DEM,72,43,116,0,0,0,234
+Salem,Alloway District 2,United States Senate,,ANDY KIM,DEM,72,43,116,3,0,0,234
 Salem,Alloway District 2,United States Senate,,JOANNE KUNIANSKY,SWP,1,0,0,0,0,0,1
 Salem,Alloway District 2,United States Senate,,CHRISTINA KHALIL,GRN,0,1,1,0,0,0,2
 Salem,Alloway District 2,United States Senate,,PATRICIA G. MOONEYHAM,VB,0,2,1,0,0,0,3
 Salem,Alloway District 2,United States Senate,,KENNETH R. KAPLAN,LIB,1,3,5,0,0,0,9
 Salem,Alloway District 2,United States Senate,,Write-ins,,0,0,1,0,0,0,1
 Salem,Carneys Point District 1,United States Senate,,CURTIS BASHAW,REP,20,39,147,0,21,0,227
-Salem,Carneys Point District 1,United States Senate,,ANDY KIM,DEM,38,29,159,0,32,0,259
+Salem,Carneys Point District 1,United States Senate,,ANDY KIM,DEM,38,29,159,1,32,0,259
 Salem,Carneys Point District 1,United States Senate,,JOANNE KUNIANSKY,SWP,0,0,5,0,0,0,5
 Salem,Carneys Point District 1,United States Senate,,CHRISTINA KHALIL,GRN,0,2,5,0,1,0,8
 Salem,Carneys Point District 1,United States Senate,,PATRICIA G. MOONEYHAM,VB,0,0,3,0,2,0,5
 Salem,Carneys Point District 1,United States Senate,,KENNETH R. KAPLAN,LIB,0,0,2,0,1,0,3
 Salem,Carneys Point District 1,United States Senate,,Write-ins,,0,0,0,0,0,0,0
 Salem,Carneys Point District 2,United States Senate,,CURTIS BASHAW,REP,51,106,296,0,0,0,453
-Salem,Carneys Point District 2,United States Senate,,ANDY KIM,DEM,120,84,235,0,0,0,440
+Salem,Carneys Point District 2,United States Senate,,ANDY KIM,DEM,120,84,235,1,0,0,440
 Salem,Carneys Point District 2,United States Senate,,JOANNE KUNIANSKY,SWP,0,0,2,0,0,0,2
 Salem,Carneys Point District 2,United States Senate,,CHRISTINA KHALIL,GRN,3,3,7,0,0,0,13
 Salem,Carneys Point District 2,United States Senate,,PATRICIA G. MOONEYHAM,VB,0,0,2,0,0,0,2
 Salem,Carneys Point District 2,United States Senate,,KENNETH R. KAPLAN,LIB,1,0,9,0,0,0,10
 Salem,Carneys Point District 2,United States Senate,,Write-ins,,0,0,1,0,0,0,1
 Salem,Carneys Point District 3,United States Senate,,CURTIS BASHAW,REP,34,49,176,0,0,0,259
-Salem,Carneys Point District 3,United States Senate,,ANDY KIM,DEM,78,34,165,0,0,0,278
+Salem,Carneys Point District 3,United States Senate,,ANDY KIM,DEM,78,34,165,1,0,0,278
 Salem,Carneys Point District 3,United States Senate,,JOANNE KUNIANSKY,SWP,1,1,2,0,0,0,4
 Salem,Carneys Point District 3,United States Senate,,CHRISTINA KHALIL,GRN,2,3,4,0,0,0,9
 Salem,Carneys Point District 3,United States Senate,,PATRICIA G. MOONEYHAM,VB,0,0,1,0,0,0,1
@@ -504,12 +504,12 @@ Salem,Carneys Point District 5,United States Senate,,CHRISTINA KHALIL,GRN,2,0,5,
 Salem,Carneys Point District 5,United States Senate,,PATRICIA G. MOONEYHAM,VB,0,0,2,0,0,0,2
 Salem,Carneys Point District 5,United States Senate,,KENNETH R. KAPLAN,LIB,0,0,2,0,0,0,2
 Salem,Carneys Point District 5,United States Senate,,Write-ins,,0,0,0,0,0,0,0
-Salem,Elmer District 1,United States Senate,,CURTIS BASHAW,REP,18,188,213,0,0,0,421
-Salem,Elmer District 1,United States Senate,,ANDY KIM,DEM,38,101,105,0,0,0,247
+Salem,Elmer District 1,United States Senate,,CURTIS BASHAW,REP,18,188,213,2,0,0,421
+Salem,Elmer District 1,United States Senate,,ANDY KIM,DEM,38,101,105,3,0,0,247
 Salem,Elmer District 1,United States Senate,,JOANNE KUNIANSKY,SWP,1,2,1,0,0,0,4
 Salem,Elmer District 1,United States Senate,,CHRISTINA KHALIL,GRN,0,5,1,0,0,0,6
 Salem,Elmer District 1,United States Senate,,PATRICIA G. MOONEYHAM,VB,1,1,1,0,0,0,3
-Salem,Elmer District 1,United States Senate,,KENNETH R. KAPLAN,LIB,2,3,5,0,0,0,11
+Salem,Elmer District 1,United States Senate,,KENNETH R. KAPLAN,LIB,2,3,5,1,0,0,11
 Salem,Elmer District 1,United States Senate,,Write-ins,,0,0,2,0,0,0,2
 Salem,Elsinboro District 1,United States Senate,,CURTIS BASHAW,REP,37,73,297,0,10,0,417
 Salem,Elsinboro District 1,United States Senate,,ANDY KIM,DEM,63,29,117,0,4,0,213
@@ -518,8 +518,8 @@ Salem,Elsinboro District 1,United States Senate,,CHRISTINA KHALIL,GRN,0,0,4,0,0,
 Salem,Elsinboro District 1,United States Senate,,PATRICIA G. MOONEYHAM,VB,0,1,3,0,0,0,4
 Salem,Elsinboro District 1,United States Senate,,KENNETH R. KAPLAN,LIB,0,0,3,0,0,0,3
 Salem,Elsinboro District 1,United States Senate,,Write-ins,,0,0,0,0,0,0,0
-Salem,Lower Alloways Cr District 1,United States Senate,,CURTIS BASHAW,REP,42,53,274,0,0,0,375
-Salem,Lower Alloways Cr District 1,United States Senate,,ANDY KIM,DEM,33,13,72,0,0,0,123
+Salem,Lower Alloways Cr District 1,United States Senate,,CURTIS BASHAW,REP,42,53,274,6,0,0,375
+Salem,Lower Alloways Cr District 1,United States Senate,,ANDY KIM,DEM,33,13,72,5,0,0,123
 Salem,Lower Alloways Cr District 1,United States Senate,,JOANNE KUNIANSKY,SWP,0,0,1,0,0,0,1
 Salem,Lower Alloways Cr District 1,United States Senate,,CHRISTINA KHALIL,GRN,0,0,0,0,0,0,0
 Salem,Lower Alloways Cr District 1,United States Senate,,PATRICIA G. MOONEYHAM,VB,0,2,2,0,0,0,4
@@ -532,15 +532,15 @@ Salem,Lower Alloways Cr District 2,United States Senate,,CHRISTINA KHALIL,GRN,0,
 Salem,Lower Alloways Cr District 2,United States Senate,,PATRICIA G. MOONEYHAM,VB,2,0,5,0,0,0,7
 Salem,Lower Alloways Cr District 2,United States Senate,,KENNETH R. KAPLAN,LIB,1,0,4,0,0,0,5
 Salem,Lower Alloways Cr District 2,United States Senate,,Write-ins,,0,0,0,0,0,0,0
-Salem,Mannington District 1,United States Senate,,CURTIS BASHAW,REP,39,73,323,0,0,0,440
-Salem,Mannington District 1,United States Senate,,ANDY KIM,DEM,78,37,149,0,0,0,268
+Salem,Mannington District 1,United States Senate,,CURTIS BASHAW,REP,39,73,323,5,0,0,440
+Salem,Mannington District 1,United States Senate,,ANDY KIM,DEM,78,37,149,4,0,0,268
 Salem,Mannington District 1,United States Senate,,JOANNE KUNIANSKY,SWP,0,0,0,0,0,0,0
 Salem,Mannington District 1,United States Senate,,CHRISTINA KHALIL,GRN,0,0,2,0,0,0,2
 Salem,Mannington District 1,United States Senate,,PATRICIA G. MOONEYHAM,VB,0,1,4,0,0,0,5
 Salem,Mannington District 1,United States Senate,,KENNETH R. KAPLAN,LIB,0,1,11,0,0,0,12
 Salem,Mannington District 1,United States Senate,,Write-ins,,0,0,1,0,0,0,1
-Salem,Oldmans District 1,United States Senate,,CURTIS BASHAW,REP,20,44,260,0,0,0,331
-Salem,Oldmans District 1,United States Senate,,ANDY KIM,DEM,45,17,180,0,0,0,247
+Salem,Oldmans District 1,United States Senate,,CURTIS BASHAW,REP,20,44,260,7,0,0,331
+Salem,Oldmans District 1,United States Senate,,ANDY KIM,DEM,45,17,180,5,0,0,247
 Salem,Oldmans District 1,United States Senate,,JOANNE KUNIANSKY,SWP,0,0,1,0,0,0,1
 Salem,Oldmans District 1,United States Senate,,CHRISTINA KHALIL,GRN,0,1,4,0,0,0,5
 Salem,Oldmans District 1,United States Senate,,PATRICIA G. MOONEYHAM,VB,1,0,3,0,0,0,4
@@ -549,12 +549,12 @@ Salem,Oldmans District 1,United States Senate,,Write-ins,,0,0,0,0,0,0,0
 Salem,Oldmans District 2,United States Senate,,CURTIS BASHAW,REP,24,52,263,0,0,0,339
 Salem,Oldmans District 2,United States Senate,,ANDY KIM,DEM,26,22,123,0,0,0,171
 Salem,Oldmans District 2,United States Senate,,JOANNE KUNIANSKY,SWP,0,0,0,0,0,0,0
-Salem,Oldmans District 2,United States Senate,,CHRISTINA KHALIL,GRN,2,0,3,0,0,0,6
+Salem,Oldmans District 2,United States Senate,,CHRISTINA KHALIL,GRN,2,0,3,1,0,0,6
 Salem,Oldmans District 2,United States Senate,,PATRICIA G. MOONEYHAM,VB,0,0,2,0,0,0,2
 Salem,Oldmans District 2,United States Senate,,KENNETH R. KAPLAN,LIB,0,3,3,0,0,0,6
 Salem,Oldmans District 2,United States Senate,,Write-ins,,0,0,0,0,0,0,0
 Salem,Penns Grove District 1,United States Senate,,CURTIS BASHAW,REP,16,14,92,0,8,0,130
-Salem,Penns Grove District 1,United States Senate,,ANDY KIM,DEM,56,34,205,0,28,0,324
+Salem,Penns Grove District 1,United States Senate,,ANDY KIM,DEM,56,34,205,1,28,0,324
 Salem,Penns Grove District 1,United States Senate,,JOANNE KUNIANSKY,SWP,0,1,7,0,0,0,8
 Salem,Penns Grove District 1,United States Senate,,CHRISTINA KHALIL,GRN,0,0,2,0,3,0,5
 Salem,Penns Grove District 1,United States Senate,,PATRICIA G. MOONEYHAM,VB,0,0,3,0,0,0,3
@@ -568,7 +568,7 @@ Salem,Penns Grove District 2,United States Senate,,PATRICIA G. MOONEYHAM,VB,0,0,
 Salem,Penns Grove District 2,United States Senate,,KENNETH R. KAPLAN,LIB,1,0,4,0,0,0,5
 Salem,Penns Grove District 2,United States Senate,,Write-ins,,0,0,0,0,0,0,0
 Salem,Penns Grove District 3,United States Senate,,CURTIS BASHAW,REP,7,9,59,0,0,0,75
-Salem,Penns Grove District 3,United States Senate,,ANDY KIM,DEM,73,23,168,0,0,0,265
+Salem,Penns Grove District 3,United States Senate,,ANDY KIM,DEM,73,23,168,1,0,0,265
 Salem,Penns Grove District 3,United States Senate,,JOANNE KUNIANSKY,SWP,0,1,4,0,0,0,5
 Salem,Penns Grove District 3,United States Senate,,CHRISTINA KHALIL,GRN,1,0,2,0,0,0,3
 Salem,Penns Grove District 3,United States Senate,,PATRICIA G. MOONEYHAM,VB,0,0,1,0,0,0,1
@@ -582,14 +582,14 @@ Salem,Pennsville District 1,United States Senate,,PATRICIA G. MOONEYHAM,VB,0,0,4
 Salem,Pennsville District 1,United States Senate,,KENNETH R. KAPLAN,LIB,0,0,5,0,1,0,6
 Salem,Pennsville District 1,United States Senate,,Write-ins,,0,0,1,0,0,0,1
 Salem,Pennsville District 2,United States Senate,,CURTIS BASHAW,REP,25,119,234,0,0,0,378
-Salem,Pennsville District 2,United States Senate,,ANDY KIM,DEM,45,46,154,0,0,0,247
+Salem,Pennsville District 2,United States Senate,,ANDY KIM,DEM,45,46,154,2,0,0,247
 Salem,Pennsville District 2,United States Senate,,JOANNE KUNIANSKY,SWP,0,1,1,0,0,0,2
 Salem,Pennsville District 2,United States Senate,,CHRISTINA KHALIL,GRN,1,0,8,0,0,0,9
 Salem,Pennsville District 2,United States Senate,,PATRICIA G. MOONEYHAM,VB,0,0,2,0,0,0,2
 Salem,Pennsville District 2,United States Senate,,KENNETH R. KAPLAN,LIB,2,3,8,0,0,0,13
 Salem,Pennsville District 2,United States Senate,,Write-ins,,0,1,2,0,0,0,3
 Salem,Pennsville District 3,United States Senate,,CURTIS BASHAW,REP,23,111,188,0,0,0,322
-Salem,Pennsville District 3,United States Senate,,ANDY KIM,DEM,44,38,106,0,0,0,190
+Salem,Pennsville District 3,United States Senate,,ANDY KIM,DEM,44,38,106,2,0,0,190
 Salem,Pennsville District 3,United States Senate,,JOANNE KUNIANSKY,SWP,0,1,2,0,0,0,3
 Salem,Pennsville District 3,United States Senate,,CHRISTINA KHALIL,GRN,0,2,3,0,0,0,5
 Salem,Pennsville District 3,United States Senate,,PATRICIA G. MOONEYHAM,VB,0,0,0,0,0,0,0
@@ -609,7 +609,7 @@ Salem,Pennsville District 5,United States Senate,,CHRISTINA KHALIL,GRN,2,2,2,0,0
 Salem,Pennsville District 5,United States Senate,,PATRICIA G. MOONEYHAM,VB,0,1,1,0,0,0,2
 Salem,Pennsville District 5,United States Senate,,KENNETH R. KAPLAN,LIB,2,2,4,0,0,0,8
 Salem,Pennsville District 5,United States Senate,,Write-ins,,0,0,0,0,0,0,0
-Salem,Pennsville District 6,United States Senate,,CURTIS BASHAW,REP,17,149,211,0,0,0,378
+Salem,Pennsville District 6,United States Senate,,CURTIS BASHAW,REP,17,149,211,1,0,0,378
 Salem,Pennsville District 6,United States Senate,,ANDY KIM,DEM,50,82,126,0,0,0,258
 Salem,Pennsville District 6,United States Senate,,JOANNE KUNIANSKY,SWP,1,1,0,0,0,0,2
 Salem,Pennsville District 6,United States Senate,,CHRISTINA KHALIL,GRN,0,0,1,0,0,0,1
@@ -638,14 +638,14 @@ Salem,Pennsville District 9,United States Senate,,PATRICIA G. MOONEYHAM,VB,0,1,0
 Salem,Pennsville District 9,United States Senate,,KENNETH R. KAPLAN,LIB,0,0,3,0,0,0,3
 Salem,Pennsville District 9,United States Senate,,Write-ins,,0,1,0,0,0,0,1
 Salem,Pilesgrove District 1,United States Senate,,CURTIS BASHAW,REP,37,99,339,0,13,0,488
-Salem,Pilesgrove District 1,United States Senate,,ANDY KIM,DEM,101,58,176,0,14,0,351
+Salem,Pilesgrove District 1,United States Senate,,ANDY KIM,DEM,101,58,176,2,14,0,351
 Salem,Pilesgrove District 1,United States Senate,,JOANNE KUNIANSKY,SWP,0,1,2,0,0,0,3
 Salem,Pilesgrove District 1,United States Senate,,CHRISTINA KHALIL,GRN,0,1,4,0,0,0,5
 Salem,Pilesgrove District 1,United States Senate,,PATRICIA G. MOONEYHAM,VB,0,1,0,0,1,0,2
 Salem,Pilesgrove District 1,United States Senate,,KENNETH R. KAPLAN,LIB,0,2,10,0,1,0,13
 Salem,Pilesgrove District 1,United States Senate,,Write-ins,,0,0,2,0,0,0,2
 Salem,Pilesgrove District 2,United States Senate,,CURTIS BASHAW,REP,46,189,311,0,0,0,546
-Salem,Pilesgrove District 2,United States Senate,,ANDY KIM,DEM,112,65,148,0,0,0,328
+Salem,Pilesgrove District 2,United States Senate,,ANDY KIM,DEM,112,65,148,3,0,0,328
 Salem,Pilesgrove District 2,United States Senate,,JOANNE KUNIANSKY,SWP,0,0,1,0,0,0,1
 Salem,Pilesgrove District 2,United States Senate,,CHRISTINA KHALIL,GRN,1,1,0,0,0,0,2
 Salem,Pilesgrove District 2,United States Senate,,PATRICIA G. MOONEYHAM,VB,0,0,3,0,0,0,3
@@ -666,14 +666,14 @@ Salem,Pittsgrove District 1,United States Senate,,PATRICIA G. MOONEYHAM,VB,1,0,2
 Salem,Pittsgrove District 1,United States Senate,,KENNETH R. KAPLAN,LIB,0,2,3,0,0,0,5
 Salem,Pittsgrove District 1,United States Senate,,Write-ins,,0,1,0,0,0,0,1
 Salem,Pittsgrove District 2,United States Senate,,CURTIS BASHAW,REP,54,189,290,0,0,0,533
-Salem,Pittsgrove District 2,United States Senate,,ANDY KIM,DEM,76,68,141,0,0,0,287
+Salem,Pittsgrove District 2,United States Senate,,ANDY KIM,DEM,76,68,141,2,0,0,287
 Salem,Pittsgrove District 2,United States Senate,,JOANNE KUNIANSKY,SWP,0,1,1,0,0,0,2
 Salem,Pittsgrove District 2,United States Senate,,CHRISTINA KHALIL,GRN,0,1,3,0,0,0,4
 Salem,Pittsgrove District 2,United States Senate,,PATRICIA G. MOONEYHAM,VB,0,1,4,0,0,0,5
 Salem,Pittsgrove District 2,United States Senate,,KENNETH R. KAPLAN,LIB,3,0,1,0,0,0,4
 Salem,Pittsgrove District 2,United States Senate,,Write-ins,,0,2,0,0,0,0,2
 Salem,Pittsgrove District 3,United States Senate,,CURTIS BASHAW,REP,41,155,315,0,0,0,511
-Salem,Pittsgrove District 3,United States Senate,,ANDY KIM,DEM,60,51,153,0,0,0,266
+Salem,Pittsgrove District 3,United States Senate,,ANDY KIM,DEM,60,51,153,2,0,0,266
 Salem,Pittsgrove District 3,United States Senate,,JOANNE KUNIANSKY,SWP,0,0,1,0,0,0,1
 Salem,Pittsgrove District 3,United States Senate,,CHRISTINA KHALIL,GRN,1,1,6,0,0,0,8
 Salem,Pittsgrove District 3,United States Senate,,PATRICIA G. MOONEYHAM,VB,0,1,3,0,0,0,4
@@ -687,21 +687,21 @@ Salem,Pittsgrove District 4,United States Senate,,PATRICIA G. MOONEYHAM,VB,0,1,3
 Salem,Pittsgrove District 4,United States Senate,,KENNETH R. KAPLAN,LIB,0,0,0,0,0,0,0
 Salem,Pittsgrove District 4,United States Senate,,Write-ins,,0,0,0,0,0,0,0
 Salem,Pittsgrove District 5,United States Senate,,CURTIS BASHAW,REP,34,130,294,0,0,0,458
-Salem,Pittsgrove District 5,United States Senate,,ANDY KIM,DEM,71,61,191,0,0,0,325
+Salem,Pittsgrove District 5,United States Senate,,ANDY KIM,DEM,71,61,191,2,0,0,325
 Salem,Pittsgrove District 5,United States Senate,,JOANNE KUNIANSKY,SWP,0,0,3,0,0,0,3
 Salem,Pittsgrove District 5,United States Senate,,CHRISTINA KHALIL,GRN,1,1,2,0,0,0,4
 Salem,Pittsgrove District 5,United States Senate,,PATRICIA G. MOONEYHAM,VB,1,1,9,0,0,0,11
 Salem,Pittsgrove District 5,United States Senate,,KENNETH R. KAPLAN,LIB,2,0,4,0,0,0,6
 Salem,Pittsgrove District 5,United States Senate,,Write-ins,,0,0,0,0,0,0,0
 Salem,Pittsgrove District 6,United States Senate,,CURTIS BASHAW,REP,68,211,432,0,0,0,711
-Salem,Pittsgrove District 6,United States Senate,,ANDY KIM,DEM,95,89,195,0,0,0,382
+Salem,Pittsgrove District 6,United States Senate,,ANDY KIM,DEM,95,89,195,3,0,0,382
 Salem,Pittsgrove District 6,United States Senate,,JOANNE KUNIANSKY,SWP,0,0,2,0,0,0,2
 Salem,Pittsgrove District 6,United States Senate,,CHRISTINA KHALIL,GRN,1,0,4,0,0,0,5
 Salem,Pittsgrove District 6,United States Senate,,PATRICIA G. MOONEYHAM,VB,0,3,7,0,0,0,10
 Salem,Pittsgrove District 6,United States Senate,,KENNETH R. KAPLAN,LIB,1,3,6,0,0,0,10
 Salem,Pittsgrove District 6,United States Senate,,Write-ins,,0,0,0,0,0,0,0
-Salem,Quinton District 1,United States Senate,,CURTIS BASHAW,REP,60,78,331,0,0,0,477
-Salem,Quinton District 1,United States Senate,,ANDY KIM,DEM,72,36,121,0,0,0,234
+Salem,Quinton District 1,United States Senate,,CURTIS BASHAW,REP,60,78,331,8,0,0,477
+Salem,Quinton District 1,United States Senate,,ANDY KIM,DEM,72,36,121,5,0,0,234
 Salem,Quinton District 1,United States Senate,,JOANNE KUNIANSKY,SWP,0,0,0,0,0,0,0
 Salem,Quinton District 1,United States Senate,,CHRISTINA KHALIL,GRN,0,0,4,0,0,0,4
 Salem,Quinton District 1,United States Senate,,PATRICIA G. MOONEYHAM,VB,0,0,2,0,0,0,2
@@ -722,21 +722,21 @@ Salem,Salem East District 1,United States Senate,,PATRICIA G. MOONEYHAM,VB,1,1,4
 Salem,Salem East District 1,United States Senate,,KENNETH R. KAPLAN,LIB,0,0,3,0,0,0,3
 Salem,Salem East District 1,United States Senate,,Write-ins,,0,0,2,0,0,0,2
 Salem,Salem West District 1,United States Senate,,CURTIS BASHAW,REP,26,59,65,0,4,0,154
-Salem,Salem West District 1,United States Senate,,ANDY KIM,DEM,135,119,286,0,15,0,558
+Salem,Salem West District 1,United States Senate,,ANDY KIM,DEM,135,119,286,3,15,0,558
 Salem,Salem West District 1,United States Senate,,JOANNE KUNIANSKY,SWP,0,3,4,0,2,0,9
 Salem,Salem West District 1,United States Senate,,CHRISTINA KHALIL,GRN,1,2,14,0,0,0,17
 Salem,Salem West District 1,United States Senate,,PATRICIA G. MOONEYHAM,VB,1,0,2,0,2,0,5
 Salem,Salem West District 1,United States Senate,,KENNETH R. KAPLAN,LIB,1,2,6,0,0,0,9
 Salem,Salem West District 1,United States Senate,,Write-ins,,0,0,1,0,0,0,1
 Salem,Upper Pittsgrove District 1,United States Senate,,CURTIS BASHAW,REP,39,208,337,0,8,0,592
-Salem,Upper Pittsgrove District 1,United States Senate,,ANDY KIM,DEM,54,54,95,0,7,0,214
+Salem,Upper Pittsgrove District 1,United States Senate,,ANDY KIM,DEM,54,54,95,4,7,0,214
 Salem,Upper Pittsgrove District 1,United States Senate,,JOANNE KUNIANSKY,SWP,0,1,0,0,1,0,2
-Salem,Upper Pittsgrove District 1,United States Senate,,CHRISTINA KHALIL,GRN,0,1,1,0,1,0,4
+Salem,Upper Pittsgrove District 1,United States Senate,,CHRISTINA KHALIL,GRN,0,1,1,1,1,0,4
 Salem,Upper Pittsgrove District 1,United States Senate,,PATRICIA G. MOONEYHAM,VB,0,0,1,0,0,0,1
 Salem,Upper Pittsgrove District 1,United States Senate,,KENNETH R. KAPLAN,LIB,1,1,6,0,0,0,8
 Salem,Upper Pittsgrove District 1,United States Senate,,Write-ins,,0,0,0,0,0,0,0
 Salem,Upper Pittsgrove District 2,United States Senate,,CURTIS BASHAW,REP,64,282,424,0,0,0,770
-Salem,Upper Pittsgrove District 2,United States Senate,,ANDY KIM,DEM,75,85,131,0,0,0,293
+Salem,Upper Pittsgrove District 2,United States Senate,,ANDY KIM,DEM,75,85,131,2,0,0,293
 Salem,Upper Pittsgrove District 2,United States Senate,,JOANNE KUNIANSKY,SWP,0,0,0,0,0,0,0
 Salem,Upper Pittsgrove District 2,United States Senate,,CHRISTINA KHALIL,GRN,1,2,3,0,0,0,6
 Salem,Upper Pittsgrove District 2,United States Senate,,PATRICIA G. MOONEYHAM,VB,1,0,7,0,0,0,8
@@ -761,19 +761,19 @@ Salem,Alloway District 1,U.S. House,2,JOSEPH F. SALERNO,DEM,82,85,174,0,8,0,349
 Salem,Alloway District 1,U.S. House,2,THOMAS GIORDANO,GRN,3,1,7,0,2,0,13
 Salem,Alloway District 1,U.S. House,2,Write-ins,,0,0,0,0,0,0,0
 Salem,Alloway District 2,U.S. House,2,JEFF VAN DREW,REP,53,152,382,0,0,0,587
-Salem,Alloway District 2,U.S. House,2,JOSEPH F. SALERNO,DEM,71,40,111,0,0,0,225
+Salem,Alloway District 2,U.S. House,2,JOSEPH F. SALERNO,DEM,71,40,111,3,0,0,225
 Salem,Alloway District 2,U.S. House,2,THOMAS GIORDANO,GRN,1,0,3,0,0,0,4
 Salem,Alloway District 2,U.S. House,2,Write-ins,,0,0,0,0,0,0,0
 Salem,Carneys Point District 1,U.S. House,2,JEFF VAN DREW,REP,21,42,159,0,24,0,246
-Salem,Carneys Point District 1,U.S. House,2,JOSEPH F. SALERNO,DEM,37,26,155,0,29,0,248
+Salem,Carneys Point District 1,U.S. House,2,JOSEPH F. SALERNO,DEM,37,26,155,1,29,0,248
 Salem,Carneys Point District 1,U.S. House,2,THOMAS GIORDANO,GRN,0,2,10,0,3,0,15
 Salem,Carneys Point District 1,U.S. House,2,Write-ins,,0,0,0,0,0,0,0
 Salem,Carneys Point District 2,U.S. House,2,JEFF VAN DREW,REP,62,111,315,0,0,0,488
-Salem,Carneys Point District 2,U.S. House,2,JOSEPH F. SALERNO,DEM,115,78,221,0,0,0,415
+Salem,Carneys Point District 2,U.S. House,2,JOSEPH F. SALERNO,DEM,115,78,221,1,0,0,415
 Salem,Carneys Point District 2,U.S. House,2,THOMAS GIORDANO,GRN,2,2,12,0,0,0,16
 Salem,Carneys Point District 2,U.S. House,2,Write-ins,,0,0,3,0,0,0,3
 Salem,Carneys Point District 3,U.S. House,2,JEFF VAN DREW,REP,36,56,194,0,0,0,286
-Salem,Carneys Point District 3,U.S. House,2,JOSEPH F. SALERNO,DEM,75,32,152,0,0,0,260
+Salem,Carneys Point District 3,U.S. House,2,JOSEPH F. SALERNO,DEM,75,32,152,1,0,0,260
 Salem,Carneys Point District 3,U.S. House,2,THOMAS GIORDANO,GRN,2,0,6,0,0,0,8
 Salem,Carneys Point District 3,U.S. House,2,Write-ins,,0,1,0,0,0,0,1
 Salem,Carneys Point District 4,U.S. House,2,JEFF VAN DREW,REP,45,95,257,0,0,0,397
@@ -784,36 +784,36 @@ Salem,Carneys Point District 5,U.S. House,2,JEFF VAN DREW,REP,33,46,154,0,0,0,23
 Salem,Carneys Point District 5,U.S. House,2,JOSEPH F. SALERNO,DEM,80,50,232,0,0,0,362
 Salem,Carneys Point District 5,U.S. House,2,THOMAS GIORDANO,GRN,3,0,2,0,0,0,5
 Salem,Carneys Point District 5,U.S. House,2,Write-ins,,0,1,0,0,0,0,1
-Salem,Elmer District 1,U.S. House,2,JEFF VAN DREW,REP,27,211,235,0,0,0,476
-Salem,Elmer District 1,U.S. House,2,JOSEPH F. SALERNO,DEM,35,88,90,0,0,0,216
+Salem,Elmer District 1,U.S. House,2,JEFF VAN DREW,REP,27,211,235,3,0,0,476
+Salem,Elmer District 1,U.S. House,2,JOSEPH F. SALERNO,DEM,35,88,90,3,0,0,216
 Salem,Elmer District 1,U.S. House,2,THOMAS GIORDANO,GRN,0,6,7,0,0,0,13
 Salem,Elmer District 1,U.S. House,2,Write-ins,,0,0,0,0,0,0,0
 Salem,Elsinboro District 1,U.S. House,2,JEFF VAN DREW,REP,42,79,316,0,10,0,447
 Salem,Elsinboro District 1,U.S. House,2,JOSEPH F. SALERNO,DEM,57,24,103,0,4,0,188
 Salem,Elsinboro District 1,U.S. House,2,THOMAS GIORDANO,GRN,0,0,6,0,0,0,6
 Salem,Elsinboro District 1,U.S. House,2,Write-ins,,0,0,0,0,0,0,0
-Salem,Lower Alloways Cr District 1,U.S. House,2,JEFF VAN DREW,REP,48,55,285,0,0,0,397
-Salem,Lower Alloways Cr District 1,U.S. House,2,JOSEPH F. SALERNO,DEM,27,12,57,0,0,0,99
+Salem,Lower Alloways Cr District 1,U.S. House,2,JEFF VAN DREW,REP,48,55,285,9,0,0,397
+Salem,Lower Alloways Cr District 1,U.S. House,2,JOSEPH F. SALERNO,DEM,27,12,57,3,0,0,99
 Salem,Lower Alloways Cr District 1,U.S. House,2,THOMAS GIORDANO,GRN,0,0,7,0,0,0,7
 Salem,Lower Alloways Cr District 1,U.S. House,2,Write-ins,,0,0,0,0,0,0,0
 Salem,Lower Alloways Cr District 2,U.S. House,2,JEFF VAN DREW,REP,71,65,263,0,0,0,399
 Salem,Lower Alloways Cr District 2,U.S. House,2,JOSEPH F. SALERNO,DEM,37,12,38,0,0,0,87
 Salem,Lower Alloways Cr District 2,U.S. House,2,THOMAS GIORDANO,GRN,0,0,3,0,0,0,3
 Salem,Lower Alloways Cr District 2,U.S. House,2,Write-ins,,0,0,0,0,0,0,0
-Salem,Mannington District 1,U.S. House,2,JEFF VAN DREW,REP,42,77,367,0,0,0,491
-Salem,Mannington District 1,U.S. House,2,JOSEPH F. SALERNO,DEM,76,35,121,0,0,0,236
+Salem,Mannington District 1,U.S. House,2,JEFF VAN DREW,REP,42,77,367,5,0,0,491
+Salem,Mannington District 1,U.S. House,2,JOSEPH F. SALERNO,DEM,76,35,121,4,0,0,236
 Salem,Mannington District 1,U.S. House,2,THOMAS GIORDANO,GRN,0,0,4,0,0,0,4
 Salem,Mannington District 1,U.S. House,2,Write-ins,,1,0,1,0,0,0,2
-Salem,Oldmans District 1,U.S. House,2,JEFF VAN DREW,REP,19,47,277,0,0,0,350
-Salem,Oldmans District 1,U.S. House,2,JOSEPH F. SALERNO,DEM,48,16,175,0,0,0,244
+Salem,Oldmans District 1,U.S. House,2,JEFF VAN DREW,REP,19,47,277,7,0,0,350
+Salem,Oldmans District 1,U.S. House,2,JOSEPH F. SALERNO,DEM,48,16,175,5,0,0,244
 Salem,Oldmans District 1,U.S. House,2,THOMAS GIORDANO,GRN,0,0,9,0,0,0,9
 Salem,Oldmans District 1,U.S. House,2,Write-ins,,0,0,0,0,0,0,0
 Salem,Oldmans District 2,U.S. House,2,JEFF VAN DREW,REP,24,57,279,0,0,0,360
-Salem,Oldmans District 2,U.S. House,2,JOSEPH F. SALERNO,DEM,28,21,108,0,0,0,158
+Salem,Oldmans District 2,U.S. House,2,JOSEPH F. SALERNO,DEM,28,21,108,1,0,0,158
 Salem,Oldmans District 2,U.S. House,2,THOMAS GIORDANO,GRN,0,0,3,0,0,0,3
 Salem,Oldmans District 2,U.S. House,2,Write-ins,,0,0,0,0,0,0,0
 Salem,Penns Grove District 1,U.S. House,2,JEFF VAN DREW,REP,20,16,101,0,10,0,147
-Salem,Penns Grove District 1,U.S. House,2,JOSEPH F. SALERNO,DEM,55,35,206,0,29,0,326
+Salem,Penns Grove District 1,U.S. House,2,JOSEPH F. SALERNO,DEM,55,35,206,1,29,0,326
 Salem,Penns Grove District 1,U.S. House,2,THOMAS GIORDANO,GRN,0,0,5,0,2,0,7
 Salem,Penns Grove District 1,U.S. House,2,Write-ins,,0,0,2,0,0,0,2
 Salem,Penns Grove District 2,U.S. House,2,JEFF VAN DREW,REP,16,16,78,0,0,0,110
@@ -821,7 +821,7 @@ Salem,Penns Grove District 2,U.S. House,2,JOSEPH F. SALERNO,DEM,33,19,110,0,0,0,
 Salem,Penns Grove District 2,U.S. House,2,THOMAS GIORDANO,GRN,2,1,3,0,0,0,6
 Salem,Penns Grove District 2,U.S. House,2,Write-ins,,0,0,0,0,0,0,0
 Salem,Penns Grove District 3,U.S. House,2,JEFF VAN DREW,REP,11,10,61,0,0,0,82
-Salem,Penns Grove District 3,U.S. House,2,JOSEPH F. SALERNO,DEM,67,23,162,0,0,0,253
+Salem,Penns Grove District 3,U.S. House,2,JOSEPH F. SALERNO,DEM,67,23,162,1,0,0,253
 Salem,Penns Grove District 3,U.S. House,2,THOMAS GIORDANO,GRN,0,0,12,0,0,0,12
 Salem,Penns Grove District 3,U.S. House,2,Write-ins,,1,0,0,0,0,0,1
 Salem,Pennsville District 1,U.S. House,2,JEFF VAN DREW,REP,28,103,296,0,53,0,480
@@ -829,11 +829,11 @@ Salem,Pennsville District 1,U.S. House,2,JOSEPH F. SALERNO,DEM,47,34,113,0,32,0,
 Salem,Pennsville District 1,U.S. House,2,THOMAS GIORDANO,GRN,2,2,8,0,1,0,13
 Salem,Pennsville District 1,U.S. House,2,Write-ins,,0,0,1,0,0,0,1
 Salem,Pennsville District 2,U.S. House,2,JEFF VAN DREW,REP,30,130,250,0,0,0,410
-Salem,Pennsville District 2,U.S. House,2,JOSEPH F. SALERNO,DEM,39,39,144,0,0,0,224
+Salem,Pennsville District 2,U.S. House,2,JOSEPH F. SALERNO,DEM,39,39,144,2,0,0,224
 Salem,Pennsville District 2,U.S. House,2,THOMAS GIORDANO,GRN,3,2,12,0,0,0,17
 Salem,Pennsville District 2,U.S. House,2,Write-ins,,0,0,1,0,0,0,1
 Salem,Pennsville District 3,U.S. House,2,JEFF VAN DREW,REP,25,118,199,0,0,0,342
-Salem,Pennsville District 3,U.S. House,2,JOSEPH F. SALERNO,DEM,40,34,98,0,0,0,174
+Salem,Pennsville District 3,U.S. House,2,JOSEPH F. SALERNO,DEM,40,34,98,2,0,0,174
 Salem,Pennsville District 3,U.S. House,2,THOMAS GIORDANO,GRN,3,1,6,0,0,0,10
 Salem,Pennsville District 3,U.S. House,2,Write-ins,,0,0,0,0,0,0,0
 Salem,Pennsville District 4,U.S. House,2,JEFF VAN DREW,REP,52,218,286,0,0,0,556
@@ -844,7 +844,7 @@ Salem,Pennsville District 5,U.S. House,2,JEFF VAN DREW,REP,36,145,302,0,0,0,483
 Salem,Pennsville District 5,U.S. House,2,JOSEPH F. SALERNO,DEM,60,73,145,0,0,0,278
 Salem,Pennsville District 5,U.S. House,2,THOMAS GIORDANO,GRN,2,6,5,0,0,0,13
 Salem,Pennsville District 5,U.S. House,2,Write-ins,,0,0,1,0,0,0,1
-Salem,Pennsville District 6,U.S. House,2,JEFF VAN DREW,REP,23,164,226,0,0,0,414
+Salem,Pennsville District 6,U.S. House,2,JEFF VAN DREW,REP,23,164,226,1,0,0,414
 Salem,Pennsville District 6,U.S. House,2,JOSEPH F. SALERNO,DEM,43,71,111,0,0,0,225
 Salem,Pennsville District 6,U.S. House,2,THOMAS GIORDANO,GRN,3,1,8,0,0,0,12
 Salem,Pennsville District 6,U.S. House,2,Write-ins,,0,0,0,0,0,0,0
@@ -861,27 +861,27 @@ Salem,Pennsville District 9,U.S. House,2,JOSEPH F. SALERNO,DEM,77,87,109,0,0,0,2
 Salem,Pennsville District 9,U.S. House,2,THOMAS GIORDANO,GRN,2,6,15,0,0,0,23
 Salem,Pennsville District 9,U.S. House,2,Write-ins,,0,0,0,0,0,0,0
 Salem,Pilesgrove District 1,U.S. House,2,JEFF VAN DREW,REP,43,102,364,0,18,0,527
-Salem,Pilesgrove District 1,U.S. House,2,JOSEPH F. SALERNO,DEM,97,58,159,0,12,0,328
+Salem,Pilesgrove District 1,U.S. House,2,JOSEPH F. SALERNO,DEM,97,58,159,2,12,0,328
 Salem,Pilesgrove District 1,U.S. House,2,THOMAS GIORDANO,GRN,1,2,8,0,1,0,12
 Salem,Pilesgrove District 1,U.S. House,2,Write-ins,,0,0,0,0,0,0,0
 Salem,Pilesgrove District 2,U.S. House,2,JEFF VAN DREW,REP,43,200,331,0,0,0,574
-Salem,Pilesgrove District 2,U.S. House,2,JOSEPH F. SALERNO,DEM,117,56,129,0,0,0,305
+Salem,Pilesgrove District 2,U.S. House,2,JOSEPH F. SALERNO,DEM,117,56,129,3,0,0,305
 Salem,Pilesgrove District 2,U.S. House,2,THOMAS GIORDANO,GRN,0,2,5,0,0,0,7
 Salem,Pilesgrove District 2,U.S. House,2,Write-ins,,0,0,1,0,0,0,1
 Salem,Pilesgrove District 3,U.S. House,2,JEFF VAN DREW,REP,33,98,236,0,0,0,367
 Salem,Pilesgrove District 3,U.S. House,2,JOSEPH F. SALERNO,DEM,65,39,113,0,0,0,217
-Salem,Pilesgrove District 3,U.S. House,2,THOMAS GIORDANO,GRN,1,0,2,0,0,0,4
+Salem,Pilesgrove District 3,U.S. House,2,THOMAS GIORDANO,GRN,1,0,2,1,0,0,4
 Salem,Pilesgrove District 3,U.S. House,2,Write-ins,,0,0,0,0,0,0,0
 Salem,Pittsgrove District 1,U.S. House,2,JEFF VAN DREW,REP,34,124,240,0,27,0,425
 Salem,Pittsgrove District 1,U.S. House,2,JOSEPH F. SALERNO,DEM,55,49,81,0,18,0,203
 Salem,Pittsgrove District 1,U.S. House,2,THOMAS GIORDANO,GRN,1,0,6,0,2,0,9
 Salem,Pittsgrove District 1,U.S. House,2,Write-ins,,0,0,0,0,0,0,0
 Salem,Pittsgrove District 2,U.S. House,2,JEFF VAN DREW,REP,59,199,298,0,0,0,556
-Salem,Pittsgrove District 2,U.S. House,2,JOSEPH F. SALERNO,DEM,72,61,134,0,0,0,269
+Salem,Pittsgrove District 2,U.S. House,2,JOSEPH F. SALERNO,DEM,72,61,134,2,0,0,269
 Salem,Pittsgrove District 2,U.S. House,2,THOMAS GIORDANO,GRN,3,2,9,0,0,0,14
 Salem,Pittsgrove District 2,U.S. House,2,Write-ins,,0,0,0,0,0,0,0
 Salem,Pittsgrove District 3,U.S. House,2,JEFF VAN DREW,REP,50,163,330,0,0,0,543
-Salem,Pittsgrove District 3,U.S. House,2,JOSEPH F. SALERNO,DEM,54,43,142,0,0,0,241
+Salem,Pittsgrove District 3,U.S. House,2,JOSEPH F. SALERNO,DEM,54,43,142,2,0,0,241
 Salem,Pittsgrove District 3,U.S. House,2,THOMAS GIORDANO,GRN,1,3,10,0,0,0,14
 Salem,Pittsgrove District 3,U.S. House,2,Write-ins,,0,1,0,0,0,0,1
 Salem,Pittsgrove District 4,U.S. House,2,JEFF VAN DREW,REP,18,80,232,0,0,0,330
@@ -889,15 +889,15 @@ Salem,Pittsgrove District 4,U.S. House,2,JOSEPH F. SALERNO,DEM,72,25,179,0,0,0,2
 Salem,Pittsgrove District 4,U.S. House,2,THOMAS GIORDANO,GRN,0,0,3,0,0,0,3
 Salem,Pittsgrove District 4,U.S. House,2,Write-ins,,0,1,0,0,0,0,1
 Salem,Pittsgrove District 5,U.S. House,2,JEFF VAN DREW,REP,39,136,314,0,0,0,489
-Salem,Pittsgrove District 5,U.S. House,2,JOSEPH F. SALERNO,DEM,70,58,182,0,0,0,312
+Salem,Pittsgrove District 5,U.S. House,2,JOSEPH F. SALERNO,DEM,70,58,182,2,0,0,312
 Salem,Pittsgrove District 5,U.S. House,2,THOMAS GIORDANO,GRN,2,1,7,0,0,0,10
 Salem,Pittsgrove District 5,U.S. House,2,Write-ins,,0,0,0,0,0,0,0
 Salem,Pittsgrove District 6,U.S. House,2,JEFF VAN DREW,REP,73,222,456,0,0,0,751
-Salem,Pittsgrove District 6,U.S. House,2,JOSEPH F. SALERNO,DEM,90,82,186,0,0,0,361
+Salem,Pittsgrove District 6,U.S. House,2,JOSEPH F. SALERNO,DEM,90,82,186,3,0,0,361
 Salem,Pittsgrove District 6,U.S. House,2,THOMAS GIORDANO,GRN,2,1,7,0,0,0,10
 Salem,Pittsgrove District 6,U.S. House,2,Write-ins,,0,0,1,0,0,0,1
-Salem,Quinton District 1,U.S. House,2,JEFF VAN DREW,REP,66,83,359,0,0,0,516
-Salem,Quinton District 1,U.S. House,2,JOSEPH F. SALERNO,DEM,66,33,99,0,0,0,203
+Salem,Quinton District 1,U.S. House,2,JEFF VAN DREW,REP,66,83,359,8,0,0,516
+Salem,Quinton District 1,U.S. House,2,JOSEPH F. SALERNO,DEM,66,33,99,5,0,0,203
 Salem,Quinton District 1,U.S. House,2,THOMAS GIORDANO,GRN,1,0,4,0,0,0,5
 Salem,Quinton District 1,U.S. House,2,Write-ins,,0,0,0,0,0,0,0
 Salem,Quinton District 2,U.S. House,2,JEFF VAN DREW,REP,22,67,268,0,0,0,357
@@ -909,15 +909,15 @@ Salem,Salem East District 1,U.S. House,2,JOSEPH F. SALERNO,DEM,104,55,300,0,12,0
 Salem,Salem East District 1,U.S. House,2,THOMAS GIORDANO,GRN,1,4,8,0,0,0,13
 Salem,Salem East District 1,U.S. House,2,Write-ins,,1,0,0,0,0,0,1
 Salem,Salem West District 1,U.S. House,2,JEFF VAN DREW,REP,33,67,85,0,4,0,189
-Salem,Salem West District 1,U.S. House,2,JOSEPH F. SALERNO,DEM,130,117,276,0,18,0,544
+Salem,Salem West District 1,U.S. House,2,JOSEPH F. SALERNO,DEM,130,117,276,3,18,0,544
 Salem,Salem West District 1,U.S. House,2,THOMAS GIORDANO,GRN,0,2,11,0,1,0,14
 Salem,Salem West District 1,U.S. House,2,Write-ins,,0,0,2,0,0,0,2
 Salem,Upper Pittsgrove District 1,U.S. House,2,JEFF VAN DREW,REP,43,215,353,0,7,0,618
-Salem,Upper Pittsgrove District 1,U.S. House,2,JOSEPH F. SALERNO,DEM,49,48,83,0,10,0,194
-Salem,Upper Pittsgrove District 1,U.S. House,2,THOMAS GIORDANO,GRN,0,3,5,0,1,0,10
+Salem,Upper Pittsgrove District 1,U.S. House,2,JOSEPH F. SALERNO,DEM,49,48,83,4,10,0,194
+Salem,Upper Pittsgrove District 1,U.S. House,2,THOMAS GIORDANO,GRN,0,3,5,1,1,0,10
 Salem,Upper Pittsgrove District 1,U.S. House,2,Write-ins,,0,0,0,0,0,0,0
 Salem,Upper Pittsgrove District 2,U.S. House,2,JEFF VAN DREW,REP,71,287,464,0,0,0,822
-Salem,Upper Pittsgrove District 2,U.S. House,2,JOSEPH F. SALERNO,DEM,70,82,111,0,0,0,265
+Salem,Upper Pittsgrove District 2,U.S. House,2,JOSEPH F. SALERNO,DEM,70,82,111,2,0,0,265
 Salem,Upper Pittsgrove District 2,U.S. House,2,THOMAS GIORDANO,GRN,1,2,5,0,0,0,8
 Salem,Upper Pittsgrove District 2,U.S. House,2,Write-ins,,0,0,0,0,0,0,0
 Salem,Woodstown District 1,U.S. House,2,JEFF VAN DREW,REP,84,131,389,0,15,0,619
@@ -1190,7 +1190,7 @@ Salem,Alloway District 1,Commissioners,,Ben H. Laury,REP,77,145,439,0,6,0,667
 Salem,Alloway District 1,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,68,139,403,0,6,0,616
 Salem,Alloway District 1,Commissioners,,Nelson Carney Jr.,DEM,92,104,214,0,10,0,420
 Salem,Alloway District 1,Commissioners,,Germer Y. Ledford,DEM,74,86,190,0,7,0,357
-Salem,Alloway District 1,Commissioners,,Write-ins,,,1,0,3,0,0,0
+Salem,Alloway District 1,Commissioners,,Write-ins,,,1,0,3,0,0,4
 Salem,Alloway District 2,Commissioners,,Ben H. Laury,REP,56,133,337,0,0,0,526
 Salem,Alloway District 2,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,55,134,311,0,0,0,500
 Salem,Alloway District 2,Commissioners,,Nelson Carney Jr.,DEM,68,49,132,0,0,0,249
@@ -1200,22 +1200,22 @@ Salem,Carneys Point District 1,Commissioners,,Ben H. Laury,REP,20,36,154,0,23,0,
 Salem,Carneys Point District 1,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,20,40,143,0,13,0,216
 Salem,Carneys Point District 1,Commissioners,,Nelson Carney Jr.,DEM,36,28,145,0,30,0,239
 Salem,Carneys Point District 1,Commissioners,,Germer Y. Ledford,DEM,36,24,134,0,16,0,210
-Salem,Carneys Point District 1,Commissioners,,Write-ins,,,0,0,1,0,0,0
+Salem,Carneys Point District 1,Commissioners,,Write-ins,,,0,0,1,0,0,1
 Salem,Carneys Point District 2,Commissioners,,Ben H. Laury,REP,58,110,292,0,0,0,460
 Salem,Carneys Point District 2,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,58,107,269,0,0,0,434
 Salem,Carneys Point District 2,Commissioners,,Nelson Carney Jr.,DEM,114,68,218,0,0,0,400
 Salem,Carneys Point District 2,Commissioners,,Germer Y. Ledford,DEM,104,67,199,0,0,0,370
-Salem,Carneys Point District 2,Commissioners,,Write-ins,,,0,1,3,0,0,0
+Salem,Carneys Point District 2,Commissioners,,Write-ins,,,0,1,3,0,0,4
 Salem,Carneys Point District 3,Commissioners,,Ben H. Laury,REP,40,52,178,0,0,0,270
 Salem,Carneys Point District 3,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,38,43,150,0,0,0,231
 Salem,Carneys Point District 3,Commissioners,,Nelson Carney Jr.,DEM,69,30,163,0,0,0,262
 Salem,Carneys Point District 3,Commissioners,,Germer Y. Ledford,DEM,64,26,147,0,0,0,237
-Salem,Carneys Point District 3,Commissioners,,Write-ins,,,0,0,1,0,0,0
+Salem,Carneys Point District 3,Commissioners,,Write-ins,,,0,0,1,0,0,1
 Salem,Carneys Point District 4,Commissioners,,Ben H. Laury,REP,45,90,234,0,0,0,369
 Salem,Carneys Point District 4,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,41,73,220,0,0,0,334
 Salem,Carneys Point District 4,Commissioners,,Nelson Carney Jr.,DEM,121,54,291,0,0,0,466
 Salem,Carneys Point District 4,Commissioners,,Germer Y. Ledford,DEM,110,46,265,0,0,0,421
-Salem,Carneys Point District 4,Commissioners,,Write-ins,,,0,1,0,0,0,0
+Salem,Carneys Point District 4,Commissioners,,Write-ins,,,0,1,0,0,0,1
 Salem,Carneys Point District 5,Commissioners,,Ben H. Laury,REP,29,44,147,0,0,0,220
 Salem,Carneys Point District 5,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,24,43,129,0,0,0,196
 Salem,Carneys Point District 5,Commissioners,,Nelson Carney Jr.,DEM,78,46,223,0,0,0,347
@@ -1225,12 +1225,12 @@ Salem,Elmer District 1,Commissioners,,Ben H. Laury,REP,31,197,242,0,0,0,470
 Salem,Elmer District 1,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,20,180,216,0,0,0,416
 Salem,Elmer District 1,Commissioners,,Nelson Carney Jr.,DEM,36,97,93,0,0,0,226
 Salem,Elmer District 1,Commissioners,,Germer Y. Ledford,DEM,28,84,72,0,0,0,184
-Salem,Elmer District 1,Commissioners,,Write-ins,,,0,6,1,0,0,0
+Salem,Elmer District 1,Commissioners,,Write-ins,,,0,6,1,0,0,7
 Salem,Elsinboro District 1,Commissioners,,Ben H. Laury,REP,44,71,299,0,7,0,421
 Salem,Elsinboro District 1,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,46,71,293,0,5,0,415
 Salem,Elsinboro District 1,Commissioners,,Nelson Carney Jr.,DEM,54,28,99,0,6,0,187
 Salem,Elsinboro District 1,Commissioners,,Germer Y. Ledford,DEM,48,20,90,0,4,0,162
-Salem,Elsinboro District 1,Commissioners,,Write-ins,,,0,2,0,0,0,0
+Salem,Elsinboro District 1,Commissioners,,Write-ins,,,0,2,0,0,0,2
 Salem,Lower Alloways Cr District 1,Commissioners,,Ben H. Laury,REP,43,49,265,0,0,0,357
 Salem,Lower Alloways Cr District 1,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,49,49,245,0,0,0,343
 Salem,Lower Alloways Cr District 1,Commissioners,,Nelson Carney Jr.,DEM,31,16,72,0,0,0,119
@@ -1240,12 +1240,12 @@ Salem,Lower Alloways Cr District 2,Commissioners,,Ben H. Laury,REP,75,58,243,0,0
 Salem,Lower Alloways Cr District 2,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,71,60,241,0,0,0,372
 Salem,Lower Alloways Cr District 2,Commissioners,,Nelson Carney Jr.,DEM,33,12,48,0,0,0,93
 Salem,Lower Alloways Cr District 2,Commissioners,,Germer Y. Ledford,DEM,24,8,35,0,0,0,67
-Salem,Lower Alloways Cr District 2,Commissioners,,Write-ins,,,3,0,2,0,0,0
+Salem,Lower Alloways Cr District 2,Commissioners,,Write-ins,,,3,0,2,0,0,5
 Salem,Mannington District 1,Commissioners,,Ben H. Laury,REP,47,73,345,0,0,0,465
 Salem,Mannington District 1,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,46,70,343,0,0,0,459
 Salem,Mannington District 1,Commissioners,,Nelson Carney Jr.,DEM,51,34,114,0,0,0,199
 Salem,Mannington District 1,Commissioners,,Germer Y. Ledford,DEM,61,30,94,0,0,0,185
-Salem,Mannington District 1,Commissioners,,Write-ins,,,2,1,2,0,0,0
+Salem,Mannington District 1,Commissioners,,Write-ins,,,2,1,2,0,0,5
 Salem,Oldmans District 1,Commissioners,,Ben H. Laury,REP,18,46,265,0,0,0,329
 Salem,Oldmans District 1,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,20,44,266,0,0,0,330
 Salem,Oldmans District 1,Commissioners,,Nelson Carney Jr.,DEM,47,14,171,0,0,0,232
@@ -1255,17 +1255,17 @@ Salem,Oldmans District 2,Commissioners,,Ben H. Laury,REP,23,52,267,0,0,0,342
 Salem,Oldmans District 2,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,25,52,241,0,0,0,318
 Salem,Oldmans District 2,Commissioners,,Nelson Carney Jr.,DEM,25,19,112,0,0,0,156
 Salem,Oldmans District 2,Commissioners,,Germer Y. Ledford,DEM,21,19,104,0,0,0,144
-Salem,Oldmans District 2,Commissioners,,Write-ins,,,0,1,1,0,0,0
+Salem,Oldmans District 2,Commissioners,,Write-ins,,,0,1,1,0,0,2
 Salem,Penns Grove District 1,Commissioners,,Ben H. Laury,REP,24,18,90,0,9,0,141
 Salem,Penns Grove District 1,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,16,12,94,0,7,0,129
 Salem,Penns Grove District 1,Commissioners,,Nelson Carney Jr.,DEM,54,28,184,0,23,0,289
 Salem,Penns Grove District 1,Commissioners,,Germer Y. Ledford,DEM,49,30,160,0,17,0,256
-Salem,Penns Grove District 1,Commissioners,,Write-ins,,,0,0,4,0,0,0
+Salem,Penns Grove District 1,Commissioners,,Write-ins,,,0,0,4,0,0,4
 Salem,Penns Grove District 2,Commissioners,,Ben H. Laury,REP,16,17,67,0,0,0,100
 Salem,Penns Grove District 2,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,20,15,62,0,0,0,97
 Salem,Penns Grove District 2,Commissioners,,Nelson Carney Jr.,DEM,31,20,99,0,0,0,150
 Salem,Penns Grove District 2,Commissioners,,Germer Y. Ledford,DEM,27,15,96,0,0,0,138
-Salem,Penns Grove District 2,Commissioners,,Write-ins,,,0,0,3,0,0,0
+Salem,Penns Grove District 2,Commissioners,,Write-ins,,,0,0,3,0,0,3
 Salem,Penns Grove District 3,Commissioners,,Ben H. Laury,REP,12,10,54,0,0,0,76
 Salem,Penns Grove District 3,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,10,8,45,0,0,0,63
 Salem,Penns Grove District 3,Commissioners,,Nelson Carney Jr.,DEM,62,20,159,0,0,0,241
@@ -1275,32 +1275,32 @@ Salem,Pennsville District 1,Commissioners,,Ben H. Laury,REP,27,90,275,0,50,0,442
 Salem,Pennsville District 1,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,27,84,251,0,37,0,399
 Salem,Pennsville District 1,Commissioners,,Nelson Carney Jr.,DEM,45,37,119,0,29,0,230
 Salem,Pennsville District 1,Commissioners,,Germer Y. Ledford,DEM,43,24,101,0,16,0,184
-Salem,Pennsville District 1,Commissioners,,Write-ins,,,0,0,4,0,0,0
+Salem,Pennsville District 1,Commissioners,,Write-ins,,,0,0,4,0,0,4
 Salem,Pennsville District 2,Commissioners,,Ben H. Laury,REP,30,124,240,0,0,0,394
 Salem,Pennsville District 2,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,33,117,224,0,0,0,374
 Salem,Pennsville District 2,Commissioners,,Nelson Carney Jr.,DEM,37,41,146,0,0,0,224
 Salem,Pennsville District 2,Commissioners,,Germer Y. Ledford,DEM,32,34,112,0,0,0,178
-Salem,Pennsville District 2,Commissioners,,Write-ins,,,0,1,1,0,0,0
+Salem,Pennsville District 2,Commissioners,,Write-ins,,,0,1,1,0,0,2
 Salem,Pennsville District 3,Commissioners,,Ben H. Laury,REP,32,104,186,0,0,0,322
 Salem,Pennsville District 3,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,25,101,172,0,0,0,298
 Salem,Pennsville District 3,Commissioners,,Nelson Carney Jr.,DEM,37,43,93,0,0,0,173
 Salem,Pennsville District 3,Commissioners,,Germer Y. Ledford,DEM,31,29,77,0,0,0,137
-Salem,Pennsville District 3,Commissioners,,Write-ins,,,0,0,1,0,0,0
+Salem,Pennsville District 3,Commissioners,,Write-ins,,,0,0,1,0,0,1
 Salem,Pennsville District 4,Commissioners,,Ben H. Laury,REP,55,208,279,0,0,0,542
 Salem,Pennsville District 4,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,56,186,252,0,0,0,494
 Salem,Pennsville District 4,Commissioners,,Nelson Carney Jr.,DEM,63,89,131,0,0,0,283
 Salem,Pennsville District 4,Commissioners,,Germer Y. Ledford,DEM,52,66,121,0,0,0,239
-Salem,Pennsville District 4,Commissioners,,Write-ins,,,1,0,1,0,0,0
+Salem,Pennsville District 4,Commissioners,,Write-ins,,,1,0,1,0,0,2
 Salem,Pennsville District 5,Commissioners,,Ben H. Laury,REP,38,140,291,0,0,0,469
 Salem,Pennsville District 5,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,40,137,273,0,0,0,450
 Salem,Pennsville District 5,Commissioners,,Nelson Carney Jr.,DEM,56,77,148,0,0,0,281
 Salem,Pennsville District 5,Commissioners,,Germer Y. Ledford,DEM,48,65,106,0,0,0,219
-Salem,Pennsville District 5,Commissioners,,Write-ins,,,0,0,1,0,0,0
+Salem,Pennsville District 5,Commissioners,,Write-ins,,,0,0,1,0,0,1
 Salem,Pennsville District 6,Commissioners,,Ben H. Laury,REP,24,152,204,0,0,0,380
 Salem,Pennsville District 6,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,25,140,195,0,0,0,360
 Salem,Pennsville District 6,Commissioners,,Nelson Carney Jr.,DEM,42,69,129,0,0,0,240
 Salem,Pennsville District 6,Commissioners,,Germer Y. Ledford,DEM,40,56,99,0,0,0,195
-Salem,Pennsville District 6,Commissioners,,Write-ins,,,0,0,1,0,0,0
+Salem,Pennsville District 6,Commissioners,,Write-ins,,,0,0,1,0,0,1
 Salem,Pennsville District 7,Commissioners,,Ben H. Laury,REP,39,101,238,0,0,0,378
 Salem,Pennsville District 7,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,39,101,218,0,0,0,358
 Salem,Pennsville District 7,Commissioners,,Nelson Carney Jr.,DEM,60,58,114,0,0,0,232
@@ -1310,27 +1310,27 @@ Salem,Pennsville District 8,Commissioners,,Ben H. Laury,REP,27,166,200,0,0,0,393
 Salem,Pennsville District 8,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,30,157,194,0,0,0,381
 Salem,Pennsville District 8,Commissioners,,Nelson Carney Jr.,DEM,37,57,83,0,0,0,177
 Salem,Pennsville District 8,Commissioners,,Germer Y. Ledford,DEM,34,54,67,0,0,0,155
-Salem,Pennsville District 8,Commissioners,,Write-ins,,,0,2,2,0,0,0
+Salem,Pennsville District 8,Commissioners,,Write-ins,,,0,2,2,0,0,4
 Salem,Pennsville District 9,Commissioners,,Ben H. Laury,REP,60,265,282,0,0,0,607
 Salem,Pennsville District 9,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,63,267,259,0,0,0,589
 Salem,Pennsville District 9,Commissioners,,Nelson Carney Jr.,DEM,73,96,117,0,0,0,286
 Salem,Pennsville District 9,Commissioners,,Germer Y. Ledford,DEM,66,73,98,0,0,0,237
-Salem,Pennsville District 9,Commissioners,,Write-ins,,,2,4,2,0,0,0
+Salem,Pennsville District 9,Commissioners,,Write-ins,,,2,4,2,0,0,8
 Salem,Pilesgrove District 1,Commissioners,,Ben H. Laury,REP,48,105,360,0,17,0,530
 Salem,Pilesgrove District 1,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,54,107,336,0,10,0,507
 Salem,Pilesgrove District 1,Commissioners,,Nelson Carney Jr.,DEM,92,51,158,0,15,0,316
 Salem,Pilesgrove District 1,Commissioners,,Germer Y. Ledford,DEM,65,45,127,0,8,0,245
-Salem,Pilesgrove District 1,Commissioners,,Write-ins,,,0,1,0,0,1,0
+Salem,Pilesgrove District 1,Commissioners,,Write-ins,,,0,1,0,0,1,2
 Salem,Pilesgrove District 2,Commissioners,,Ben H. Laury,REP,53,191,319,0,0,0,563
 Salem,Pilesgrove District 2,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,53,183,304,0,0,0,540
 Salem,Pilesgrove District 2,Commissioners,,Nelson Carney Jr.,DEM,108,45,121,0,0,0,274
 Salem,Pilesgrove District 2,Commissioners,,Germer Y. Ledford,DEM,94,42,105,0,0,0,241
-Salem,Pilesgrove District 2,Commissioners,,Write-ins,,,2,0,4,0,0,0
+Salem,Pilesgrove District 2,Commissioners,,Write-ins,,,2,0,4,0,0,6
 Salem,Pilesgrove District 3,Commissioners,,Ben H. Laury,REP,32,99,221,0,0,0,352
 Salem,Pilesgrove District 3,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,36,94,214,0,0,0,344
 Salem,Pilesgrove District 3,Commissioners,,Nelson Carney Jr.,DEM,63,38,110,0,0,0,211
 Salem,Pilesgrove District 3,Commissioners,,Germer Y. Ledford,DEM,48,30,90,0,0,0,168
-Salem,Pilesgrove District 3,Commissioners,,Write-ins,,,0,0,1,0,0,0
+Salem,Pilesgrove District 3,Commissioners,,Write-ins,,,0,0,1,0,0,1
 Salem,Pittsgrove District 1,Commissioners,,Ben H. Laury,REP,34,117,229,0,24,0,404
 Salem,Pittsgrove District 1,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,34,102,205,0,17,0,358
 Salem,Pittsgrove District 1,Commissioners,,Nelson Carney Jr.,DEM,55,46,81,0,18,0,200
@@ -1340,12 +1340,12 @@ Salem,Pittsgrove District 2,Commissioners,,Ben H. Laury,REP,61,186,291,0,0,0,538
 Salem,Pittsgrove District 2,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,56,169,255,0,0,0,480
 Salem,Pittsgrove District 2,Commissioners,,Nelson Carney Jr.,DEM,73,59,141,0,0,0,273
 Salem,Pittsgrove District 2,Commissioners,,Germer Y. Ledford,DEM,67,47,103,0,0,0,217
-Salem,Pittsgrove District 2,Commissioners,,Write-ins,,,0,2,2,0,0,0
+Salem,Pittsgrove District 2,Commissioners,,Write-ins,,,0,2,2,0,0,4
 Salem,Pittsgrove District 3,Commissioners,,Ben H. Laury,REP,45,152,310,0,0,0,507
 Salem,Pittsgrove District 3,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,39,137,282,0,0,0,458
 Salem,Pittsgrove District 3,Commissioners,,Nelson Carney Jr.,DEM,61,44,154,0,0,0,259
 Salem,Pittsgrove District 3,Commissioners,,Germer Y. Ledford,DEM,52,41,122,0,0,0,215
-Salem,Pittsgrove District 3,Commissioners,,Write-ins,,,0,1,0,0,0,0
+Salem,Pittsgrove District 3,Commissioners,,Write-ins,,,0,1,0,0,0,1
 Salem,Pittsgrove District 4,Commissioners,,Ben H. Laury,REP,19,76,216,0,0,0,311
 Salem,Pittsgrove District 4,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,13,71,178,0,0,0,262
 Salem,Pittsgrove District 4,Commissioners,,Nelson Carney Jr.,DEM,72,26,179,0,0,0,277
@@ -1360,44 +1360,44 @@ Salem,Pittsgrove District 6,Commissioners,,Ben H. Laury,REP,78,215,436,0,0,0,729
 Salem,Pittsgrove District 6,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,67,204,389,0,0,0,660
 Salem,Pittsgrove District 6,Commissioners,,Nelson Carney Jr.,DEM,88,77,191,0,0,0,356
 Salem,Pittsgrove District 6,Commissioners,,Germer Y. Ledford,DEM,83,70,147,0,0,0,300
-Salem,Pittsgrove District 6,Commissioners,,Write-ins,,,0,2,0,0,0,0
+Salem,Pittsgrove District 6,Commissioners,,Write-ins,,,0,2,0,0,0,2
 Salem,Quinton District 1,Commissioners,,Ben H. Laury,REP,64,77,334,0,0,0,475
 Salem,Quinton District 1,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,59,69,325,0,0,0,453
 Salem,Quinton District 1,Commissioners,,Nelson Carney Jr.,DEM,65,34,113,0,0,0,212
 Salem,Quinton District 1,Commissioners,,Germer Y. Ledford,DEM,56,29,82,0,0,0,167
-Salem,Quinton District 1,Commissioners,,Write-ins,,,0,3,0,0,0,0
+Salem,Quinton District 1,Commissioners,,Write-ins,,,0,3,0,0,0,3
 Salem,Quinton District 2,Commissioners,,Ben H. Laury,REP,22,56,245,0,0,0,323
 Salem,Quinton District 2,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,22,58,236,0,0,0,316
 Salem,Quinton District 2,Commissioners,,Nelson Carney Jr.,DEM,37,30,130,0,0,0,197
 Salem,Quinton District 2,Commissioners,,Germer Y. Ledford,DEM,32,26,109,0,0,0,167
-Salem,Quinton District 2,Commissioners,,Write-ins,,,2,2,1,0,0,0
+Salem,Quinton District 2,Commissioners,,Write-ins,,,2,2,1,0,0,5
 Salem,Salem East District 1,Commissioners,,Ben H. Laury,REP,17,33,96,0,3,0,149
 Salem,Salem East District 1,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,14,25,86,0,1,0,126
 Salem,Salem East District 1,Commissioners,,Nelson Carney Jr.,DEM,93,58,289,0,13,0,453
 Salem,Salem East District 1,Commissioners,,Germer Y. Ledford,DEM,85,54,227,0,7,0,373
-Salem,Salem East District 1,Commissioners,,Write-ins,,,0,1,1,0,1,0
+Salem,Salem East District 1,Commissioners,,Write-ins,,,0,1,1,0,1,3
 Salem,Salem West District 1,Commissioners,,Ben H. Laury,REP,34,65,76,0,0,0,175
 Salem,Salem West District 1,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,36,53,75,0,4,0,168
 Salem,Salem West District 1,Commissioners,,Nelson Carney Jr.,DEM,122,111,265,0,15,0,513
 Salem,Salem West District 1,Commissioners,,Germer Y. Ledford,DEM,105,98,216,0,9,0,428
-Salem,Salem West District 1,Commissioners,,Write-ins,,,0,0,3,0,0,0
+Salem,Salem West District 1,Commissioners,,Write-ins,,,0,0,3,0,0,3
 Salem,Upper Pittsgrove District 1,Commissioners,,Ben H. Laury,REP,45,209,334,0,8,0,596
 Salem,Upper Pittsgrove District 1,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,44,193,322,0,7,0,566
 Salem,Upper Pittsgrove District 1,Commissioners,,Nelson Carney Jr.,DEM,45,46,87,0,8,0,186
 Salem,Upper Pittsgrove District 1,Commissioners,,Germer Y. Ledford,DEM,43,45,63,0,8,0,159
-Salem,Upper Pittsgrove District 1,Commissioners,,Write-ins,,,0,6,4,0,0,0
+Salem,Upper Pittsgrove District 1,Commissioners,,Write-ins,,,0,6,4,0,0,10
 Salem,Upper Pittsgrove District 2,Commissioners,,Ben H. Laury,REP,80,274,455,0,0,0,809
 Salem,Upper Pittsgrove District 2,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,69,258,430,0,0,0,757
 Salem,Upper Pittsgrove District 2,Commissioners,,Nelson Carney Jr.,DEM,63,82,109,0,0,0,254
 Salem,Upper Pittsgrove District 2,Commissioners,,Germer Y. Ledford,DEM,57,68,73,0,0,0,198
-Salem,Upper Pittsgrove District 2,Commissioners,,Write-ins,,,2,2,6,0,0,0
+Salem,Upper Pittsgrove District 2,Commissioners,,Write-ins,,,2,2,6,0,0,10
 Salem,Woodstown District 1,Commissioners,,Ben H. Laury,REP,101,135,386,0,15,0,637
 Salem,Woodstown District 1,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,101,128,371,0,11,0,611
 Salem,Woodstown District 1,Commissioners,,Nelson Carney Jr.,DEM,146,121,224,0,20,0,511
 Salem,Woodstown District 1,Commissioners,,Germer Y. Ledford,DEM,119,111,191,0,12,0,433
-Salem,Woodstown District 1,Commissioners,,Write-ins,,,1,1,1,0,1,0
+Salem,Woodstown District 1,Commissioners,,Write-ins,,,1,1,1,0,1,4
 Salem,Woodstown District 2,Commissioners,,Ben H. Laury,REP,43,72,234,0,0,0,349
 Salem,Woodstown District 2,Commissioners,,"Gordon ""Mickey"" Ostrum",REP,45,73,222,0,0,0,340
 Salem,Woodstown District 2,Commissioners,,Nelson Carney Jr.,DEM,102,66,264,0,0,0,432
 Salem,Woodstown District 2,Commissioners,,Germer Y. Ledford,DEM,85,56,224,0,0,0,365
-Salem,Woodstown District 2,Commissioners,,Write-ins,,,0,0,2,0,0,0
+Salem,Woodstown District 2,Commissioners,,Write-ins,,,0,0,2,0,0,2
