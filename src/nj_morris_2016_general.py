@@ -82,7 +82,7 @@ def openOutputFile(outputPath):
     try:
         f = open( outputPath, 'w') 
         writer = csv.writer(f, quoting=csv.QUOTE_MINIMAL)
-    except:
+    except OSError:
         sys.exit('ERROR: Could not open output file: ' + outputPath)
     return writer
 

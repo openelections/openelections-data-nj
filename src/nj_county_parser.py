@@ -50,7 +50,7 @@ def openOutputFile( p_config ):
     try:
         f = open( full_output_file, 'w') 
         writer = csv.writer(f, quoting=csv.QUOTE_MINIMAL)
-    except:
+    except OSError:
         sys.exit('ERROR: Could not open output file: ' + full_output_file)
     return writer
 
