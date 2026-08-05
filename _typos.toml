@@ -1,0 +1,59 @@
+[default]
+extend-ignore-identifiers-re = [
+    "AttributeID.*Supress.*",
+]
+
+[default.extend-identifiers]
+AttributeIDSupressMenu = "AttributeIDSupressMenu"
+
+[default.extend-words]
+# words that should not be corrected
+Ba = "Ba"
+SHERIF = "SHERIF"
+MIS = "MIS"
+Cann = "Cann"
+BLONG = "BLONG"
+MARKEY = "MARKEY"
+INES = "INES"
+PILAR = "PILAR"
+DOMIAN = "DOMIAN"
+Boddy = "Boddy"
+Merly = "Merly"
+Lew = "Lew"
+Holliday = "Holliday"
+Bui = "Bui"
+Loder = "Loder"
+Leary = "Leary"
+Cornel = "Cornel"
+Damon = "Damon"
+nd = "nd"
+Shepard = "Shepard"
+PEASE = "PEASE"
+Pary = "Pary"
+Thos = "Thos"
+TOAL = "TOAL"
+Ned = "Ned"
+Lazer = "Lazer"
+Dael = "Dael"
+Sade = "Sade"
+Smoot = "Smoot"
+Gere = "Gere"
+Schol = "Schol"
+Peroid = "Peroid"
+Brower = "Brower"
+Abd = "Abd"
+Wirth = "Wirth"
+MATA = "MATA"
+Unx = "Unx"
+Sarter = "Sarter"
+Consol = "Consol"
+BENN = "BENN"
+EGE = "EGE"
+Ove = "Ove"
+Botto = "Botto"
+
+[files]
+extend-exclude = [
+    ".gitignore",
+    ".pre-commit-config.yaml"
+]
